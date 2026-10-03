@@ -1,0 +1,159 @@
+{
+  "package": "CHEATSGAMING-T2-57-20260908-DEADLOCK",
+  "generated": "2026-09-08",
+  "language": "en",
+  "game": "Deadlock",
+  "article_count": 15,
+  "articles": [
+    {
+      "id": "CG-028",
+      "title": "Deadlock Cheat Research: Four Feature Families",
+      "description": "Deadlock cheat research gets clearer when aim, ESP, movement, and hero automation are treated as separate jobs with separate evidence.",
+      "slug": "deadlock-cheat-research-map",
+      "markdown": "md/CG-028-deadlock-cheat-research-map.md",
+      "html": "html/CG-028-deadlock-cheat-research-map.html",
+      "words": 1203,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-029",
+      "title": "Deadlock Hero Assistants vs Global Utilities",
+      "description": "Deadlock hero assistants offer matchup-specific depth; global utilities work across the roster. Compare coverage, maintenance, and learning cost.",
+      "slug": "deadlock-hero-assistants-vs-global-utilities",
+      "markdown": "md/CG-029-deadlock-hero-assistants-vs-global-utilities.md",
+      "html": "html/CG-029-deadlock-hero-assistants-vs-global-utilities.html",
+      "words": 1184,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-030",
+      "title": "Deadlock Cheat Changelog: Read Patch Support Correctly",
+      "description": "A Deadlock cheat changelog should identify the game build, affected features, known limits, and verification time after a fast update.",
+      "slug": "deadlock-cheat-changelog-patch-support",
+      "markdown": "md/CG-030-deadlock-cheat-changelog-patch-support.md",
+      "html": "html/CG-030-deadlock-cheat-changelog-patch-support.html",
+      "words": 1086,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-031",
+      "title": "Deadlock Parry Window: Timing and Feints Explained",
+      "description": "The Deadlock parry window depends on readable commitment, distance, and timing. Feints and spacing explain why a parry decision can still fail.",
+      "slug": "deadlock-parry-window-timing-feints",
+      "markdown": "md/CG-031-deadlock-parry-window-timing-feints.md",
+      "html": "html/CG-031-deadlock-parry-window-timing-feints.html",
+      "words": 1024,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-032",
+      "title": "Deadlock Auto-Parry Limits and Bad States",
+      "description": "Deadlock Auto-Parry limits appear around feints, unavailable actions, multiple threats, and bad spacing. Automation cannot create a valid response.",
+      "slug": "deadlock-auto-parry-limits",
+      "markdown": "md/CG-032-deadlock-auto-parry-limits.md",
+      "html": "html/CG-032-deadlock-auto-parry-limits.html",
+      "words": 941,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-033",
+      "title": "Deadlock Auto-Parry Review: Better Evidence",
+      "description": "A Deadlock Auto-Parry review should show spacing, feints, unavailable states, failures, and the tested build—not only a successful montage.",
+      "slug": "deadlock-auto-parry-review-evidence",
+      "markdown": "md/CG-033-deadlock-auto-parry-review-evidence.md",
+      "html": "html/CG-033-deadlock-auto-parry-review-evidence.html",
+      "words": 982,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-034",
+      "title": "Deadlock Cheat Download Verification Checklist",
+      "description": "Deadlock cheat download verification starts with the official domain, current product route, dated requirements, and a support identity you can confirm.",
+      "slug": "deadlock-cheat-download-verification",
+      "markdown": "md/CG-034-deadlock-cheat-download-verification.md",
+      "html": "html/CG-034-deadlock-cheat-download-verification.html",
+      "words": 886,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-035",
+      "title": "Deadlock Cheat Support Ticket: What to Include",
+      "description": "A Deadlock cheat support ticket needs the game build, exact symptom, timestamp, one repeatable sequence, and privacy-safe evidence.",
+      "slug": "deadlock-cheat-support-ticket",
+      "markdown": "md/CG-035-deadlock-cheat-support-ticket.md",
+      "html": "html/CG-035-deadlock-cheat-support-ticket.html",
+      "words": 880,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-036",
+      "title": "Outdated Deadlock Cheat Guide: Five Warning Signs",
+      "description": "An outdated Deadlock cheat guide shows broken routes, old UI, missing build dates, renamed controls, or advice that conflicts with current support.",
+      "slug": "outdated-deadlock-cheat-guide-signals",
+      "markdown": "md/CG-036-outdated-deadlock-cheat-guide-signals.md",
+      "html": "html/CG-036-outdated-deadlock-cheat-guide-signals.html",
+      "words": 858,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-037",
+      "title": "Undetected Deadlock Cheat Claims Need Dates",
+      "description": "An undetected Deadlock cheat claim is time-bound, scoped, and incomplete. Check the tested build, date, evidence source, and stated limits.",
+      "slug": "undetected-deadlock-cheat-claim-date-scope",
+      "markdown": "md/CG-037-undetected-deadlock-cheat-claim-date-scope.md",
+      "html": "html/CG-037-undetected-deadlock-cheat-claim-date-scope.html",
+      "words": 796,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-038",
+      "title": "Deadlock Risk Layers: VAC, Reports, and Updates",
+      "description": "Deadlock risk layers include anti-cheat claims, player reports, behavior review, and update compatibility. They should not be treated as one signal.",
+      "slug": "deadlock-vac-reports-updates-risk-layers",
+      "markdown": "md/CG-038-deadlock-vac-reports-updates-risk-layers.md",
+      "html": "html/CG-038-deadlock-vac-reports-updates-risk-layers.html",
+      "words": 877,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-039",
+      "title": "Deadlock Ban Stories: Weigh the Evidence",
+      "description": "Deadlock ban stories can reveal questions but rarely show a denominator, full timeline, other software, or verified cause. Read them as anecdotes.",
+      "slug": "deadlock-ban-stories-evidence",
+      "markdown": "md/CG-039-deadlock-ban-stories-evidence.md",
+      "html": "html/CG-039-deadlock-ban-stories-evidence.html",
+      "words": 866,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-040",
+      "title": "Deadlock Cheat Comparison Beyond Aimbot",
+      "description": "A Deadlock cheat comparison should measure hero coverage, global utilities, maintenance, and support—not treat aimbot as the whole product.",
+      "slug": "deadlock-cheat-comparison-beyond-aimbot",
+      "markdown": "md/CG-040-deadlock-cheat-comparison-beyond-aimbot.md",
+      "html": "html/CG-040-deadlock-cheat-comparison-beyond-aimbot.html",
+      "words": 781,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-041",
+      "title": "Deadlock Hero Coverage: Depth vs Menu Length",
+      "description": "Deadlock hero coverage is more than a list of names. Check scenario depth, clear feedback, patch maintenance, and honest unsupported cases.",
+      "slug": "deadlock-hero-coverage-depth",
+      "markdown": "md/CG-041-deadlock-hero-coverage-depth.md",
+      "html": "html/CG-041-deadlock-hero-coverage-depth.html",
+      "words": 812,
+      "image_slots": 2
+    },
+    {
+      "id": "CG-042",
+      "title": "Deadlock Cheat Trial: A Practical Checklist",
+      "description": "A Deadlock cheat trial can test interface clarity, hero fit, profile recovery, stability, and support. It cannot prove long-term safety.",
+      "slug": "deadlock-cheat-trial-checklist",
+      "markdown": "md/CG-042-deadlock-cheat-trial-checklist.md",
+      "html": "html/CG-042-deadlock-cheat-trial-checklist.html",
+      "words": 896,
+      "image_slots": 2
+    }
+  ]
+}

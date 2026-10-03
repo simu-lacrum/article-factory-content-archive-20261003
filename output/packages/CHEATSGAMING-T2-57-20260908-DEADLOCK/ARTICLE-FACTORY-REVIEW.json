@@ -1,0 +1,130 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\CHEATSGAMING-T2-57-20260908-DEADLOCK.json",
+  "total": 15,
+  "pass": 15,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-028-deadlock-cheat-research-map.md",
+      "status": "pass",
+      "word_count": 1785,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-029-deadlock-hero-assistants-vs-global-utilities.md",
+      "status": "pass",
+      "word_count": 1828,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-030-deadlock-cheat-changelog-patch-support.md",
+      "status": "pass",
+      "word_count": 1648,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-031-deadlock-parry-window-timing-feints.md",
+      "status": "pass",
+      "word_count": 1587,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-032-deadlock-auto-parry-limits.md",
+      "status": "pass",
+      "word_count": 1403,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-033-deadlock-auto-parry-review-evidence.md",
+      "status": "pass",
+      "word_count": 1477,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-034-deadlock-cheat-download-verification.md",
+      "status": "pass",
+      "word_count": 1337,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-035-deadlock-cheat-support-ticket.md",
+      "status": "pass",
+      "word_count": 1384,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-036-outdated-deadlock-cheat-guide-signals.md",
+      "status": "pass",
+      "word_count": 1308,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-037-undetected-deadlock-cheat-claim-date-scope.md",
+      "status": "pass",
+      "word_count": 1265,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-038-deadlock-vac-reports-updates-risk-layers.md",
+      "status": "pass",
+      "word_count": 1333,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-039-deadlock-ban-stories-evidence.md",
+      "status": "pass",
+      "word_count": 1344,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-040-deadlock-cheat-comparison-beyond-aimbot.md",
+      "status": "pass",
+      "word_count": 1218,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-041-deadlock-hero-coverage-depth.md",
+      "status": "pass",
+      "word_count": 1293,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-042-deadlock-cheat-trial-checklist.md",
+      "status": "pass",
+      "word_count": 1347,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    }
+  ]
+}
