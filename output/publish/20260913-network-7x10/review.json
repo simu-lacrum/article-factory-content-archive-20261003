@@ -1,0 +1,570 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260913-085721.json",
+  "total": 70,
+  "pass": 70,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\01-what-game-cheat-searches-are-really-comparing.md",
+      "status": "pass",
+      "word_count": 1208,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\02-cs2-cheat-buyers-feature-lists-vs-everyday-use.md",
+      "status": "pass",
+      "word_count": 1198,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\03-deadlock-cheat-research-questions-before-comparing.md",
+      "status": "pass",
+      "word_count": 1192,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\04-cheat-guide-credibility-five-signals-to-check.md",
+      "status": "pass",
+      "word_count": 1189,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\05-free-cs2-cheat-pages-read-the-fine-print-first.md",
+      "status": "pass",
+      "word_count": 1230,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\06-deadlock-auto-parry-timing-scope-trade-offs.md",
+      "status": "pass",
+      "word_count": 1199,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\07-top-cs2-cheat-lists-criteria-that-deserve-weight.md",
+      "status": "pass",
+      "word_count": 1191,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\08-what-legit-cs2-hack-means-in-search-results.md",
+      "status": "pass",
+      "word_count": 1193,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\09-deadlock-cheat-categories-learn-the-feature-language.md",
+      "status": "pass",
+      "word_count": 1190,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\10-cs2-cheat-install-content-a-preflight-checklist.md",
+      "status": "pass",
+      "word_count": 1195,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\11-how-to-verify-a-multi-game-cheat-catalog.md",
+      "status": "pass",
+      "word_count": 1105,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\12-cs2-cheat-claims-an-evidence-ladder.md",
+      "status": "pass",
+      "word_count": 1095,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\13-what-a-deadlock-cheat-changelog-can-prove.md",
+      "status": "pass",
+      "word_count": 1099,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\14-how-to-audit-an-editorial-cheat-guide.md",
+      "status": "pass",
+      "word_count": 1093,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\15-free-cs2-hacks-evidence-beyond-the-price-tag.md",
+      "status": "pass",
+      "word_count": 1124,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\16-how-to-evaluate-deadlock-auto-parry-claims.md",
+      "status": "pass",
+      "word_count": 1100,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\17-best-cs2-hack-articles-need-an-evidence-ladder.md",
+      "status": "pass",
+      "word_count": 1090,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\18-legit-cs2-cheat-reviews-read-language-not-labels.md",
+      "status": "pass",
+      "word_count": 1096,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\19-deadlock-hack-comparisons-need-hero-and-mode-scope.md",
+      "status": "pass",
+      "word_count": 1095,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\20-separate-cs2-cheat-setup-claims-from-evidence.md",
+      "status": "pass",
+      "word_count": 1099,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\21-build-a-cheat-shortlist-without-the-hype.md",
+      "status": "pass",
+      "word_count": 1088,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\22-cs2-cheat-feature-density-vs-usability.md",
+      "status": "pass",
+      "word_count": 1076,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\23-deadlock-cheat-menus-and-information-hierarchy.md",
+      "status": "pass",
+      "word_count": 1081,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\24-from-cheat-glossary-to-buyer-guide-a-better-path.md",
+      "status": "pass",
+      "word_count": 1078,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\25-free-cs2-cheat-research-a-stoplight-risk-screen.md",
+      "status": "pass",
+      "word_count": 1112,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\26-deadlock-auto-parry-and-the-limits-of-automation.md",
+      "status": "pass",
+      "word_count": 1086,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\27-rank-cs2-cheats-by-player-priority-not-feature-count.md",
+      "status": "pass",
+      "word_count": 1074,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\28-define-legit-cs2-cheat-behavior-before-comparing.md",
+      "status": "pass",
+      "word_count": 1073,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\29-deadlock-cheat-tools-broad-suite-or-focused-utility.md",
+      "status": "pass",
+      "word_count": 1075,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\30-what-clear-cs2-cheat-onboarding-should-explain.md",
+      "status": "pass",
+      "word_count": 1074,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\31-why-cheat-product-pages-need-freshness-labels.md",
+      "status": "pass",
+      "word_count": 1077,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\32-how-to-read-cs2-cheat-compatibility-windows.md",
+      "status": "pass",
+      "word_count": 1066,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\33-deadlock-cheat-update-notes-need-patch-context.md",
+      "status": "pass",
+      "word_count": 1071,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\34-what-cheat-reviews-must-recheck-after-updates.md",
+      "status": "pass",
+      "word_count": 1064,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\35-free-cs2-hacks-and-abandoned-builds-warning-signs.md",
+      "status": "pass",
+      "word_count": 1097,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\36-why-deadlock-auto-parry-needs-maintenance-context.md",
+      "status": "pass",
+      "word_count": 1072,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\37-a-revalidation-schedule-for-cs2-cheat-rankings.md",
+      "status": "pass",
+      "word_count": 1061,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\38-when-legit-cs2-cheat-recommendations-expire.md",
+      "status": "pass",
+      "word_count": 1065,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\39-date-every-claim-in-a-deadlock-cheat-roundup.md",
+      "status": "pass",
+      "word_count": 1063,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\40-versioning-makes-cs2-cheat-guides-more-useful.md",
+      "status": "pass",
+      "word_count": 1067,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\41-compare-cheat-platforms-without-fake-winners.md",
+      "status": "pass",
+      "word_count": 1087,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\42-compare-cs2-cheats-by-workflow-and-support.md",
+      "status": "pass",
+      "word_count": 1077,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\43-compare-deadlock-cheats-by-coverage-and-controls.md",
+      "status": "pass",
+      "word_count": 1078,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\44-cheat-sites-vs-single-game-tools-how-to-research.md",
+      "status": "pass",
+      "word_count": 1076,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\45-free-vs-paid-cs2-cheats-questions-price-cannot-answer.md",
+      "status": "pass",
+      "word_count": 1117,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\46-auto-parry-vs-manual-defense-a-high-level-lens.md",
+      "status": "pass",
+      "word_count": 1084,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\47-top-cs2-hacks-weighted-criteria-for-real-players.md",
+      "status": "pass",
+      "word_count": 1074,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\48-legit-style-cs2-cheats-compare-control-and-limits.md",
+      "status": "pass",
+      "word_count": 1070,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\49-deadlock-cheat-suites-vs-one-feature-tools.md",
+      "status": "pass",
+      "word_count": 1073,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\50-cs2-cheat-install-guides-vs-support-documentation.md",
+      "status": "pass",
+      "word_count": 1080,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\51-how-to-read-cheat-screenshots-without-the-hype.md",
+      "status": "pass",
+      "word_count": 1062,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\52-cs2-cheat-hud-screens-what-clutter-reveals.md",
+      "status": "pass",
+      "word_count": 1055,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\53-deadlock-cheat-previews-readability-over-spectacle.md",
+      "status": "pass",
+      "word_count": 1050,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\54-cheat-review-images-proof-context-missing-detail.md",
+      "status": "pass",
+      "word_count": 1047,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\55-free-cs2-cheat-videos-what-a-demo-cannot-establish.md",
+      "status": "pass",
+      "word_count": 1081,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\56-deadlock-auto-parry-clips-watch-the-conditions.md",
+      "status": "pass",
+      "word_count": 1059,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\57-cs2-hack-galleries-read-labels-and-status-signals.md",
+      "status": "pass",
+      "word_count": 1049,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\58-legit-cs2-cheat-visuals-can-still-mislead.md",
+      "status": "pass",
+      "word_count": 1050,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\59-deadlock-cheat-demos-need-hero-context.md",
+      "status": "pass",
+      "word_count": 1047,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\60-what-cs2-cheat-setup-screenshots-should-explain.md",
+      "status": "pass",
+      "word_count": 1051,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\61-first-time-cheat-research-seven-questions.md",
+      "status": "pass",
+      "word_count": 1061,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\62-a-cs2-cheat-search-checklist-for-returning-players.md",
+      "status": "pass",
+      "word_count": 1058,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\63-deadlock-cheat-faq-scope-updates-expectations.md",
+      "status": "pass",
+      "word_count": 1052,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\64-cheat-directory-navigation-without-the-rabbit-hole.md",
+      "status": "pass",
+      "word_count": 1049,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\65-free-cs2-hack-search-decide-what-free-means.md",
+      "status": "pass",
+      "word_count": 1090,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\66-deadlock-auto-parry-faq-before-you-evaluate.md",
+      "status": "pass",
+      "word_count": 1060,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\67-cs2-cheat-buyer-questions-rankings-cannot-answer.md",
+      "status": "pass",
+      "word_count": 1051,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\68-legit-cs2-hack-terminology-a-plain-english-faq.md",
+      "status": "pass",
+      "word_count": 1052,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\69-best-deadlock-cheat-research-starts-with-the-problem.md",
+      "status": "pass",
+      "word_count": 1051,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-085721\\70-cs2-cheat-installation-faq-before-any-download.md",
+      "status": "pass",
+      "word_count": 1055,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    }
+  ]
+}
