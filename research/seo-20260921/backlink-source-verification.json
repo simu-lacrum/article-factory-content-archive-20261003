@@ -1,0 +1,155 @@
+{
+  "https://boosting-service.cloud/": {
+    "http_status": 200,
+    "final_url": "https://boosting-service.cloud/",
+    "checked_at": "2026-09-21T04:58:43.433007+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/",
+        "text": "CS2 Cheats",
+        "rel": [],
+        "placement": "navigation"
+      }
+    ]
+  },
+  "https://cs2-cheats.com/": {
+    "http_status": 200,
+    "final_url": "https://cs2-cheats.com/",
+    "checked_at": "2026-09-21T04:58:43.499426+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/",
+        "text": "Anyx CS2 Cheats",
+        "rel": [],
+        "placement": "editorial"
+      }
+    ]
+  },
+  "https://cs2-webradar.com/": {
+    "http_status": 200,
+    "final_url": "https://cs2-webradar.com/",
+    "checked_at": "2026-09-21T04:58:43.462815+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/",
+        "text": "Premium CS2 Hacks",
+        "rel": [],
+        "placement": "navigation"
+      }
+    ]
+  },
+  "https://eazycheats.net/": {
+    "http_status": 200,
+    "final_url": "https://eazycheats.net/",
+    "checked_at": "2026-09-21T04:58:44.003727+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/",
+        "text": "Anyx CS2 Cheats",
+        "rel": [],
+        "placement": "editorial"
+      }
+    ]
+  },
+  "https://kevins-organization-64.gitbook.io/tgmodz-1/counter-strike-2/anyx-cs2/anyx-information": {
+    "http_status": 200,
+    "final_url": "https://kevins-organization-64.gitbook.io/tgmodz-1/counter-strike-2/anyx-cs2/anyx-information",
+    "checked_at": "2026-09-21T04:58:44.389884+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/products/cs2-cheats",
+        "text": "CS2 Hacks - Premium CS2 Cheats Anyx.gg - Undetected CS2 Cheats & Free CS2 Hacks",
+        "rel": [],
+        "placement": "editorial"
+      }
+    ]
+  },
+  "https://kevins-organization-64.gitbook.io/tgmodz-1/counter-strike-2/anyx-cs2/anyx-links-support": {
+    "http_status": 200,
+    "final_url": "https://kevins-organization-64.gitbook.io/tgmodz-1/counter-strike-2/anyx-cs2/anyx-links-support",
+    "checked_at": "2026-09-21T04:58:44.229777+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/",
+        "text": "AnyX Website",
+        "rel": [],
+        "placement": "editorial"
+      },
+      {
+        "url": "https://anyx.gg/support/faq",
+        "text": "AnyX FAQ/Troubleshooting",
+        "rel": [],
+        "placement": "editorial"
+      }
+    ]
+  },
+  "https://kevins-organization-64.gitbook.io/tgmodz-1/counter-strike-2/anyx-cs2/installation-guide": {
+    "http_status": 200,
+    "final_url": "https://kevins-organization-64.gitbook.io/tgmodz-1/counter-strike-2/anyx-cs2/installation-guide",
+    "checked_at": "2026-09-21T04:58:44.934173+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/",
+        "text": "Website",
+        "rel": [],
+        "placement": "editorial"
+      },
+      {
+        "url": "https://anyx.gg/redeem-key",
+        "text": "here",
+        "rel": [],
+        "placement": "editorial"
+      },
+      {
+        "url": "https://anyx.gg/threads/anyx-external-cheat-tutorial.59",
+        "text": "Instructions",
+        "rel": [],
+        "placement": "editorial"
+      }
+    ]
+  },
+  "https://project-infinity.cloud/": {
+    "http_status": 200,
+    "final_url": "https://project-infinity.cloud/",
+    "checked_at": "2026-09-21T04:58:45.104846+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/",
+        "text": "CS2 Cheats",
+        "rel": [],
+        "placement": "editorial"
+      }
+    ]
+  },
+  "https://reportbot.cloud/": {
+    "http_status": null,
+    "error": "HTTP Error 522: <none>",
+    "links": null
+  },
+  "https://shopwebsites.cloud/": {
+    "http_status": 200,
+    "final_url": "https://shopwebsites.cloud/",
+    "checked_at": "2026-09-21T04:58:45.473590+00:00",
+    "links": [
+      {
+        "url": "https://anyx.gg/",
+        "text": "Anyx.gg",
+        "rel": [
+          "nofollow"
+        ],
+        "placement": "editorial"
+      }
+    ]
+  },
+  "https://slame.gitbook.io/help-metacs/proverka-na-chity/dopolnenie/spisok-chitov": {
+    "http_status": null,
+    "error": "HTTP Error 404: Not Found",
+    "links": null
+  },
+  "https://zerkoasuk.blogspot.com/": {
+    "http_status": 200,
+    "final_url": "https://zerkoasuk.blogspot.com/",
+    "checked_at": "2026-09-21T04:58:48.850341+00:00",
+    "links": []
+  }
+}

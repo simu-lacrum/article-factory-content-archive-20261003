@@ -1,0 +1,130 @@
+[
+  {
+    "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/25629",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "user_complaint_on_public_issue_tracker",
+    "target_hosts": [
+      "uc.zone",
+      "octarine.cc"
+    ],
+    "discovery": "Web search for uc.zone Dota; publicly submitted issue, not a Valve statement"
+  },
+  {
+    "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/6892",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "user_complaint_on_public_issue_tracker",
+    "target_hosts": [
+      "uc.zone",
+      "octarine.cc"
+    ],
+    "discovery": "Web search for uc.zone Dota; publicly submitted issue, not a Valve statement"
+  },
+  {
+    "source_url": "https://github.com/Nerve11/uczone-docs-UmbrellaDota2",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "third_party_documentation_repository_readme",
+    "target_hosts": [
+      "uc.zone"
+    ],
+    "discovery": "Web search for uc.zone Dota; inspect links only, do not run repository code"
+  },
+  {
+    "source_url": "https://www.scamadviser.com/check-website/avalan.cc",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "target_hosts": [
+      "avalan.cc"
+    ],
+    "discovery": "Web search for Avalanche domain; report scores are outside this backlink analysis"
+  },
+  {
+    "source_url": "https://www.elitepvpers.com/forum/deadlock-trading/5357986-tsuki-deadlock-external-humanized-aimbot-auto-parry-lua-scripts-vis-check.html",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "seller_forum_post",
+    "target_hosts": [
+      "tsuki.gg"
+    ],
+    "discovery": "Public Deadlock trading index; cached article shows hidden-link placeholders, not target URLs"
+  },
+  {
+    "source_url": "https://www.elitepvpers.com/forum/dota-trading/5262310-umbrella-dota2-best-cheat.html",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "seller_forum_post",
+    "target_hosts": [
+      "uc.zone",
+      "umbrella-dota.com"
+    ],
+    "discovery": "Web search for Umbrella Dota"
+  },
+  {
+    "source_url": "https://www.elitepvpers.com/forum/deadlock-trading/5254499-original-umbrella-heroscripts-psilent-autoparry-10-days-free-spoofer.html",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "seller_forum_post",
+    "target_hosts": [
+      "uc.zone",
+      "umbrella-dota.com"
+    ],
+    "discovery": "Public Deadlock trading index"
+  },
+  {
+    "source_url": "https://live.paloaltonetworks.com/t5/virustotal/false-positive-generic-ml/m-p/1257924/highlight/true",
+    "games": [
+      "dota2",
+      "deadlock"
+    ],
+    "source_context": "user_submitted_vendor_detection_appeal",
+    "target_hosts": [
+      "uc.zone"
+    ],
+    "discovery": "Web search for uc.zone Dota; unverified user claims are not product-safety evidence"
+  },
+  {
+    "source_url": "https://gridinsoft.com/online-virus-scanner/url/uc-zone",
+    "games": [
+      "dota2",
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "target_hosts": [
+      "uc.zone"
+    ],
+    "discovery": "Web search for uc.zone Dota; report scores are outside this backlink analysis"
+  },
+  {
+    "source_url": "https://gridinsoft.com/online-virus-scanner/url/avalan-cc",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "target_hosts": [
+      "avalan.cc"
+    ],
+    "discovery": "Web search for Avalanche domain; report scores are outside this backlink analysis"
+  },
+  {
+    "source_url": "https://www.scam-detector.com/validator/uc-zone-review/",
+    "games": [
+      "dota2",
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "target_hosts": [
+      "uc.zone"
+    ],
+    "discovery": "Web search for uc.zone Dota; report scores are outside this backlink analysis"
+  }
+]

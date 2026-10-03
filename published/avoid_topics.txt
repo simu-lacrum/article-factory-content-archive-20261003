@@ -1,0 +1,35 @@
+# One pattern per line. Format: pattern | note
+
+why cheaters in dota 2 are not banned | already published on Medium by @mrkhertz
+cheaters in dota 2 are not banned | already published on Medium by @mrkhertz
+why cheats are safe | already published on Medium by @mrkhertz
+dota 2 cheats scripts explained | already published on Medium by @mrkhertz
+cheats scripts explained | already published on Medium by @mrkhertz
+all about dota hacks | already published on Medium by @mrkhertz
+top 5 hacks and cheats | already published on Medium by @mrkhertz
+top hacks and cheats for dota 2 | already published on Medium by @mrkhertz
+best hack for dota 2 | already published on Medium by @mrkhertz
+maphack for dota 2 | already published on Medium by @mrkhertz
+maphack | direct MapHack topic already published; only adjacent angles are allowed
+complete guide to cheat commands | already published on Medium by @mrkhertz
+cheat commands in the dota 2 lobby | already published on Medium by @mrkhertz
+dota 2 lobby cheat commands | already published on Medium by @mrkhertz
+dota 2 cheat commands | already published on Medium by @mrkhertz
+how to avoid a smurf ban | already published on Medium by @mrkhertz
+smurf ban | direct smurf-ban/account-choice topic already published; only adjacent angles are allowed
+choosing an account for dota | already published on Medium by @mrkhertz
+install custom skins and sets | already published on Medium by @mrkhertz
+custom skins and sets in dota 2 | already published on Medium by @mrkhertz
+how to install custom skins | already published on Medium by @mrkhertz
+top cheats for deadlock | already published on Medium by @mrkhertz
+best deadlock hack | already published on Medium by @mrkhertz
+deadlock hack ranking | direct ranking/listicle topic already published; only adjacent angles are allowed
+top cheats for cs2 | already published on Medium by @mrkhertz
+best cs2 hack | already published on Medium by @mrkhertz
+cs2 hack ranking | direct ranking/listicle topic already published; only adjacent angles are allowed
+cluster cs2 external review | imported Medium source already covers this exact review angle; only adjacent feature explainers are allowed
+обзор функционала чита cluster для cs2 | imported Medium source already covers this exact review angle; only adjacent feature explainers are allowed
+top 5 legit cheats for cs2 | published Tier-2 target page; only adjacent legit terminology and feature-explainer angles are allowed
+best legit cs2 hack | published Tier-2 target page; do not create another ranking or "best" comparison
+top 5 external cheats for cs2 | published Tier-2 target page; only adjacent external architecture and feature-explainer angles are allowed
+best external hack | published Tier-2 target page; do not create another ranking or "best" comparison

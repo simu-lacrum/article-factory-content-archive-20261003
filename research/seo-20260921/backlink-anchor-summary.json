@@ -1,0 +1,37 @@
+{
+  "scope": "Selected provider sample; not a full profile or an acquisition target",
+  "checked_at": "2026-09-21",
+  "links": 15,
+  "target_hosts": [
+    "anyx.gg"
+  ],
+  "source_hosts": 10,
+  "provider_anchor_counts": {
+    "exact_match": 3,
+    "branded": 6,
+    "descriptive": 2,
+    "naked_url": 2,
+    "generic": 2
+  },
+  "verification_counts": {
+    "target_and_anchor_found": 11,
+    "not_found_in_fetched_html": 1,
+    "unavailable": 2,
+    "target_found_anchor_differs": 1
+  },
+  "verified_exact_text_counts": {
+    "exact_match": 2,
+    "branded": 4,
+    "descriptive": 2,
+    "naked_url": 1,
+    "generic": 2
+  },
+  "limitations": [
+    "Top rows are selection-biased; repeated domains do not imply independent recommendations.",
+    "Page Authority Scores and vendor safety claims are not independently validated.",
+    "A missing link in parsed HTML is not proof that the provider invented it or that it never existed.",
+    "Link ownership, payment and editorial independence are unknown.",
+    "A branded anchor can also contain a target phrase; the exclusive classifier gives the brand priority.",
+    "Naked URL refers to visible URL-shaped anchor text, which may differ from the target URL."
+  ]
+}

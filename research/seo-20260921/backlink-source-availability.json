@@ -1,0 +1,23 @@
+{
+  "checked_on": "2026-09-21",
+  "scope": "Source availability checked during the original study, not re-probed by this exporter",
+  "moz": "not_configured",
+  "bing_webmaster": "not_configured",
+  "dataforseo": "no_callable_tool_in_session",
+  "semrush_public": "retained_anyx_sample_quota_exhausted",
+  "common_crawl": {
+    "official_source": "https://commoncrawl.github.io/cc-webgraph-statistics/",
+    "latest_release_observed": "cc-main-2026-jun-jul-aug",
+    "domain_metrics_retrieved": false,
+    "reason": "No per-target numeric data retrieved. The local helper's hardcoded release is stale and a capped partial scan cannot establish absence.",
+    "scope": "Graph links can include resources; domain metrics cannot supply anchor text."
+  },
+  "public_html": {
+    "candidate_pages": 11,
+    "confirmed_source_pages": 5,
+    "status_counts": {
+      "links_confirmed": 5,
+      "unavailable": 6
+    }
+  }
+}
