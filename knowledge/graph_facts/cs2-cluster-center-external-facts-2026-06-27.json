@@ -1,0 +1,492 @@
+{
+  "entities": [
+    {
+      "id": "entity:cluster-center",
+      "label": "cluster.center",
+      "kind": "product",
+      "notes": "Product to integrate for CS2 and Deadlock SEO articles."
+    },
+    {
+      "id": "game:cs2",
+      "label": "CS2",
+      "kind": "game"
+    },
+    {
+      "id": "source:medium-aurelivoines-cluster-cs2-external",
+      "label": "Aurelivoines Medium Cluster CS2 External overview",
+      "kind": "source",
+      "path": "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md"
+    },
+    {
+      "id": "source:medium-mrkhertz-top-cheats-cs2",
+      "label": "mrkhertz Medium Top Cheats for CS2",
+      "kind": "source",
+      "path": "knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md"
+    },
+    {
+      "id": "source:yougame-forum-1414",
+      "label": "YouGame CS2 forum 1414",
+      "kind": "blocked_source",
+      "status": "anti-bot/429 response"
+    },
+    {
+      "id": "topic:published-cs2-top-cheats",
+      "label": "Top Cheats for CS2 / Best CS2 Hack",
+      "kind": "published_topic",
+      "do_not_repeat_directly": true
+    },
+    {
+      "id": "topic:source-cluster-cs2-external-review",
+      "label": "Cluster CS2 External feature review",
+      "kind": "source_topic",
+      "do_not_repeat_directly": true
+    },
+    {
+      "id": "feature:cs2-aimbot",
+      "label": "CS2 Aimbot",
+      "kind": "feature_category"
+    },
+    {
+      "id": "feature:cs2-triggerbot",
+      "label": "CS2 TriggerBot",
+      "kind": "feature_category"
+    },
+    {
+      "id": "feature:cs2-esp",
+      "label": "CS2 ESP",
+      "kind": "feature_category"
+    },
+    {
+      "id": "feature:cs2-hub",
+      "label": "CS2 Hub",
+      "kind": "feature_category"
+    },
+    {
+      "id": "feature:cs2-fov",
+      "label": "Fov",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-smooth",
+      "label": "Smooth",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-auto-pistol",
+      "label": "Auto Pistol",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-fov-color",
+      "label": "Fov Color",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-target-priority",
+      "label": "Target priority",
+      "kind": "feature_group"
+    },
+    {
+      "id": "feature:cs2-target-priority-crosshair",
+      "label": "Crosshair priority",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-target-priority-hit-chance",
+      "label": "Hit chance priority",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-hitboxes",
+      "label": "CS2 hitboxes",
+      "kind": "feature_group"
+    },
+    {
+      "id": "feature:cs2-checks",
+      "label": "CS2 checks",
+      "kind": "feature_group"
+    },
+    {
+      "id": "feature:cs2-weapons",
+      "label": "Weapon profiles",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-multipoint-scale",
+      "label": "Multipoint scale",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-reaction-time",
+      "label": "Reaction time",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-between-shots-delay",
+      "label": "Between-shots delay",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-minimum-damage",
+      "label": "Minimum damage",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-hit-chance",
+      "label": "Hit chance",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-visualize-multipoint-hit",
+      "label": "Visualize multipoint hit",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-box",
+      "label": "ESP Box",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-name",
+      "label": "ESP Name",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-health",
+      "label": "ESP Health",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-healthbar",
+      "label": "ESP HealthBar",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-ammobar",
+      "label": "ESP AmmoBar",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-weapon",
+      "label": "ESP Weapon",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-weapon-icon",
+      "label": "ESP Weapon icon",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-blind",
+      "label": "ESP Blind",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-zoom",
+      "label": "ESP Zoom",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-reload",
+      "label": "ESP Reload",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-bomb",
+      "label": "ESP Bomb",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-defuse",
+      "label": "ESP Defuse",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-ping",
+      "label": "ESP Ping",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-chams",
+      "label": "ESP Chams",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-skeleton",
+      "label": "ESP Skeleton",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-esp-only-visible",
+      "label": "ESP Only visible",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-bomb-timer",
+      "label": "Bomb timer",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-spectator-list",
+      "label": "Spectator List",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:cs2-keybinds",
+      "label": "Keybinds",
+      "kind": "feature"
+    }
+  ],
+  "relations": [
+    {
+      "source": "entity:cluster-center",
+      "target": "game:cs2",
+      "relation": "product_for_game"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:cs2-aimbot",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:cs2-triggerbot",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:cs2-esp",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:cs2-hub",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "source:medium-aurelivoines-cluster-cs2-external",
+      "target": "feature:cs2-aimbot",
+      "relation": "describes"
+    },
+    {
+      "source": "source:medium-aurelivoines-cluster-cs2-external",
+      "target": "feature:cs2-triggerbot",
+      "relation": "describes"
+    },
+    {
+      "source": "source:medium-aurelivoines-cluster-cs2-external",
+      "target": "feature:cs2-esp",
+      "relation": "describes"
+    },
+    {
+      "source": "source:medium-aurelivoines-cluster-cs2-external",
+      "target": "feature:cs2-hub",
+      "relation": "describes"
+    },
+    {
+      "source": "source:medium-mrkhertz-top-cheats-cs2",
+      "target": "entity:cluster-center",
+      "relation": "positions_product"
+    },
+    {
+      "source": "source:yougame-forum-1414",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit"
+    },
+    {
+      "source": "topic:published-cs2-top-cheats",
+      "target": "entity:cluster-center",
+      "relation": "mentions_product"
+    },
+    {
+      "source": "topic:source-cluster-cs2-external-review",
+      "target": "entity:cluster-center",
+      "relation": "mentions_product"
+    },
+    {
+      "source": "feature:cs2-aimbot",
+      "target": "feature:cs2-fov",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-aimbot",
+      "target": "feature:cs2-smooth",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-aimbot",
+      "target": "feature:cs2-auto-pistol",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-aimbot",
+      "target": "feature:cs2-fov-color",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-aimbot",
+      "target": "feature:cs2-target-priority",
+      "relation": "has_setting_group"
+    },
+    {
+      "source": "feature:cs2-target-priority",
+      "target": "feature:cs2-target-priority-crosshair",
+      "relation": "has_option"
+    },
+    {
+      "source": "feature:cs2-target-priority",
+      "target": "feature:cs2-target-priority-hit-chance",
+      "relation": "has_option"
+    },
+    {
+      "source": "feature:cs2-aimbot",
+      "target": "feature:cs2-hitboxes",
+      "relation": "has_hitbox_group"
+    },
+    {
+      "source": "feature:cs2-aimbot",
+      "target": "feature:cs2-checks",
+      "relation": "has_check_group"
+    },
+    {
+      "source": "feature:cs2-aimbot",
+      "target": "feature:cs2-weapons",
+      "relation": "has_profile_setting"
+    },
+    {
+      "source": "feature:cs2-triggerbot",
+      "target": "feature:cs2-hitboxes",
+      "relation": "has_hitbox_group"
+    },
+    {
+      "source": "feature:cs2-triggerbot",
+      "target": "feature:cs2-checks",
+      "relation": "has_check_group"
+    },
+    {
+      "source": "feature:cs2-triggerbot",
+      "target": "feature:cs2-multipoint-scale",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-triggerbot",
+      "target": "feature:cs2-reaction-time",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-triggerbot",
+      "target": "feature:cs2-between-shots-delay",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-triggerbot",
+      "target": "feature:cs2-minimum-damage",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-triggerbot",
+      "target": "feature:cs2-hit-chance",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:cs2-triggerbot",
+      "target": "feature:cs2-visualize-multipoint-hit",
+      "relation": "has_visualization"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-box",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-name",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-health",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-healthbar",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-ammobar",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-weapon",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-weapon-icon",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-blind",
+      "relation": "has_status_indicator"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-zoom",
+      "relation": "has_status_indicator"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-reload",
+      "relation": "has_status_indicator"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-bomb",
+      "relation": "has_world_indicator"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-defuse",
+      "relation": "has_world_indicator"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-ping",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-chams",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-skeleton",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:cs2-esp",
+      "target": "feature:cs2-esp-only-visible",
+      "relation": "has_filter"
+    },
+    {
+      "source": "feature:cs2-hub",
+      "target": "feature:cs2-bomb-timer",
+      "relation": "has_utility"
+    },
+    {
+      "source": "feature:cs2-hub",
+      "target": "feature:cs2-spectator-list",
+      "relation": "has_utility"
+    },
+    {
+      "source": "feature:cs2-hub",
+      "target": "feature:cs2-keybinds",
+      "relation": "has_utility"
+    }
+  ]
+}

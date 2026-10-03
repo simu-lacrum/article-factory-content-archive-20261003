@@ -1,0 +1,13 @@
+# Tier-2 targets for the DioWebHost publication batch.
+# Format: URL | role and required anchor guidance
+
+https://cluster.center/en | Cluster English hub; required anchor: cheats
+https://cluster.center/en/cs2 | Cluster CS2 landing page; required anchor: cs2 cheats
+https://cluster.center/en/deadlock | Cluster Deadlock landing page; required anchor: deadlock cheats
+https://cheatsgaming.com/ | CheatsGaming editorial hub; anchor must contain cheat or hack
+https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52 | Existing free-CS2 guide; use an adjacent research angle; anchor must contain cheat or hack
+https://cheatsgaming.com/games/deadlock/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924 | Existing Deadlock auto-parry guide; use an adjacent timing/decision angle; anchor must contain cheat or hack
+https://cheatsgaming.com/games/cs2/top-cheats-for-cs2-the-best-hack-cfab8351f70b | Existing CS2 ranking; do not repeat the listicle; anchor must contain cheat or hack
+https://cheatsgaming.com/games/cs2/top-5-legit-cheats-for-cs2-best-legit-cs2-hack-5ac352f79364 | Existing legit-CS2 ranking; use an adjacent terminology/decision angle; anchor must contain cheat or hack
+https://cheatsgaming.com/games/deadlock/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e | Existing Deadlock ranking; do not repeat the listicle; anchor must contain cheat or hack
+https://cheatsgaming.com/games/cs2/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710 | Existing installation guide; use an adjacent preflight/rollback angle without operational bypass guidance; anchor must contain cheat or hack

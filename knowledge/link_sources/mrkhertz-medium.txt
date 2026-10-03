@@ -1,0 +1,17 @@
+# Persistent external sources owned by mrkhertz.
+# Format: URL | optional note/title
+
+https://medium.com/@mrkhertz | Author account / source hub
+https://medium.com/@mrkhertz/why-cheaters-in-dota-2-are-not-banned-a-detailed-explanation-of-why-cheats-are-safe-3f28752a7f98 | Published SEO article; do not select this exact topic again
+https://medium.com/@mrkhertz/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d | Published SEO article; do not select this exact topic again
+https://medium.com/@mrkhertz/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6 | Published SEO article; do not select this exact topic again
+https://medium.com/@mrkhertz/maphack-for-dota-2-everything-you-need-to-know-how-to-download-it-a5126f8bc05f | Published SEO article; do not select this exact topic again
+https://medium.com/@mrkhertz/a-complete-guide-to-cheat-commands-in-the-dota-2-lobby-2026-1a32b1c1b58c | Published SEO article; do not select this exact topic again
+https://medium.com/@mrkhertz/how-to-avoid-a-smurf-ban-in-dota-2-guide-to-choosing-an-account-for-dota-f2e7434083ca | Published SEO article; do not select this exact topic again
+https://medium.com/@mrkhertz/how-to-install-custom-skins-and-sets-in-dota-2-b3f627941c6e | Published SEO article; do not select this exact topic again
+https://medium.com/@mrkhertz/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e | Published SEO article; use as Deadlock/cluster.center memory, do not select this exact topic again
+https://medium.com/@mrkhertz/top-cheats-for-cs2-the-best-hack-cfab8351f70b | Published SEO article; use as CS2/cluster.center memory, do not select this exact topic again
+https://medium.com/@mrkhertz/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710 | Published SEO article; use as CS2/cluster.center setup memory, do not select this exact topic again
+https://medium.com/@mrkhertz/how-to-install-cs2-aimbot-wallhack-for-free-d88e11b39100 | Tier-2 target; CS2 installation overview covering aimbot, wallhack/ESP, TriggerBot and Cluster; do not select the same installation angle again
+https://medium.com/@mrkhertz/top-5-legit-cheats-for-cs2-best-legit-cs2-hack-5ac352f79364 | Tier-2 target; legit CS2 cheat comparison; do not duplicate the ranking/listicle angle
+https://medium.com/@mrkhertz/top-5-external-cheats-for-cs2-the-best-external-hack-2cfd5e5de7a4 | Tier-2 target; external CS2 cheat comparison; do not duplicate the ranking/listicle angle

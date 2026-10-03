@@ -1,0 +1,441 @@
+{
+  "schema_version": 1,
+  "fact_set": "article-visual-prompt-guide-v1",
+  "description": "Mandatory B-first two-branch visual prompt system derived from twenty user references, with strict reference fidelity, branch-dependent mapped brand color roles, failure memory, and Nano Banana Pro optimization.",
+  "entities": [
+    {
+      "id": "instruction:article-visual-prompt-guide",
+      "kind": "mandatory_instruction",
+      "label": "Article visual prompt guide v1",
+      "props": {
+        "mandatory_on_session_start": true,
+        "priority": "critical",
+        "version": "1.3.0",
+        "style_system": "article-editorial-poster-v1",
+        "primary_model": "gemini-3-pro-image",
+        "canonical_file": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+        "required_files": [
+          "AGENTS.md",
+          "SEO_ARTICLE_RULES.md",
+          "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+          "memory/graph/knowledge-graph.json"
+        ],
+        "required_markers": {
+          "knowledge/agent_memory/rules/article-visual-prompt-guide.md": [
+            "MANDATORY_SESSION_GUIDE: article-editorial-poster-v1",
+            "### 4.11. Обязательное чередование A/B",
+            "### 4.12. Разобранный промах: industrial deck вместо ветки B",
+            "## 6. Специфика Nano Banana Pro",
+            "## 18. Минимальный контракт промпта",
+            "## 19. 100-балльная проверка качества",
+            "Cluster / `cluster.center` для CS2 и Deadlock: `#635FD5`;",
+            "Melonity для Dota 2: `#FF1469`."
+          ]
+        },
+        "scope": "Every new Codex session; all article ideation, briefs, drafts, image prompts, covers, inline illustrations, diagrams, and social crops.",
+        "session_directive": "Run graph bootstrap, require 100% node and edge coverage, read every required file fully, compile every final visual prompt through article-editorial-poster-v1, alternate generated assets B/A starting with warm narrative B, attach two persistent references and pass 4/5 fidelity for B, and use mapped colors Cluster #635FD5 or Melonity #FF1469 as a small accent in A or the dominant yellow-field replacement in B."
+      }
+    },
+    {
+      "id": "model:gemini-3-pro-image",
+      "kind": "image_model",
+      "label": "Nano Banana Pro / Gemini 3 Pro Image",
+      "props": {
+        "model_code": "gemini-3-pro-image",
+        "role": "primary image generator",
+        "supported_sizes": ["1K", "2K", "4K"],
+        "supported_aspect_ratios": ["1:1", "2:3", "3:2", "3:4", "4:3", "4:5", "5:4", "9:16", "16:9", "21:9"],
+        "prompt_mode": "natural-language creative brief with explicit priorities",
+        "reference_policy": "Assign one explicit role to every uploaded image; use only the smallest relevant subset of references.",
+        "typography_policy": "Use art-first by default; text-in-image is allowed for exact short copy followed by character-level QA.",
+        "official_docs": "https://ai.google.dev/gemini-api/docs/image-generation"
+      }
+    },
+    {
+      "id": "style:article-editorial-poster-v1",
+      "kind": "visual_style_system",
+      "label": "Editorial tech product poster",
+      "props": {
+        "summary": "Two alternating branches: A uses one tactile industrial hero object and product-photography lighting; B uses a warm narrative 3D/2.5D scene or symbolic object. Both keep bold grotesk typography or an empty safe zone, two to three color roles, controlled surrealism, and strong hierarchy.",
+        "anti_style": "Generic gaming key art, cyberpunk neon, HUD clutter, logo copying, character copying, or aesthetic tags without physical direction."
+      }
+    },
+    {
+      "id": "style:article-editorial-poster-v1-a",
+      "kind": "visual_style_branch",
+      "label": "Branch A — tactile industrial product poster",
+      "props": {
+        "sequence_parity": "even generated_sequence_index",
+        "best_for": ["systems", "technical mechanisms", "feature comparison", "anti-cheat analysis", "process visualization"],
+        "signals": ["one physical device", "tactile plastic/glass/metal", "studio or industrial set", "product-photography light", "controlled physical surrealism"]
+      }
+    },
+    {
+      "id": "style:article-editorial-poster-v1-b",
+      "kind": "visual_style_branch",
+      "label": "Branch B — warm narrative editorial ad",
+      "props": {
+        "sequence_parity": "odd generated_sequence_index",
+        "submodes": ["B1 story scene", "B2 modular message card", "B3 symbolic object"],
+        "best_for": ["player pain point", "mistakes", "human consequence", "simple benefit", "FAQ", "onboarding", "light humor"],
+        "signals": ["sunlit saturated field", "mapped brand color replaces yellow or amber when a product is present", "rounded 3D or 2.5D forms", "one domestic story", "large typography zone", "one dry absurdist turn", "one semantic gesture"]
+      }
+    },
+    {
+      "id": "concept:generated-visual-alternation",
+      "kind": "mandatory_visual_rule",
+      "label": "Global A/B generated-asset alternation",
+      "props": {
+        "rule": "Number conceptual generated images across the current run; odd indices use warm narrative B and even indices use tactile industrial A.",
+        "screenshots": "Real screenshots, verified product UI, and gameplay screenshots do not consume an index.",
+        "no_blend": "One branch must dominate each asset; adjacent generated images may not repeat a branch.",
+        "required_fields": ["generated_sequence_index", "style_branch"],
+        "start_branch": "B so a one-cover run includes the new reference family"
+      }
+    },
+    {
+      "id": "concept:warm-story-reference-fidelity",
+      "kind": "mandatory_visual_rule",
+      "label": "Branch B requires two references and 4/5 fidelity",
+      "props": {
+        "required_reference_count": 2,
+        "composition_reference": "One uploaded file from knowledge/agent_memory/references/article-editorial-warm-story-v1/",
+        "render_reference": "A second uploaded file for render, palette, or typography mass",
+        "fidelity_axes": ["layout silhouette", "light and mapped-field palette", "rounded shape language", "depth treatment", "typography mass"],
+        "passing_axes": 4,
+        "reject": ["Reference roles: none", "industrial machine in B1/B2", "dark chassis as B hero", "art-first B judged before headline compositing"]
+      }
+    },
+    {
+      "id": "brand:cluster-visual-accent",
+      "kind": "brand_visual_rule",
+      "label": "Cluster mapped color #635FD5",
+      "props": {
+        "product": "cluster.center",
+        "games": ["cs2", "deadlock"],
+        "hex": "#635FD5",
+        "branch_a_role": "Small semantic accent on one element, normally 3-8% and never above 12%.",
+        "branch_b_role": "Dominant field replacing the warm-story reference's yellow or amber background, normally 35-70% of the frame.",
+        "rule": "Use the exact mapped hue with branch-dependent coverage; in B do not leave yellow dominant or reduce Cluster violet to one small prop."
+      }
+    },
+    {
+      "id": "brand:melonity-visual-accent",
+      "kind": "brand_visual_rule",
+      "label": "Melonity mapped color #FF1469",
+      "props": {
+        "product": "Melonity",
+        "games": ["dota2"],
+        "hex": "#FF1469",
+        "branch_a_role": "Small semantic accent on one element, normally 3-8% and never above 12%.",
+        "branch_b_role": "Dominant field replacing the warm-story reference's yellow or amber background, normally 35-70% of the frame.",
+        "rule": "Use the exact mapped hue with branch-dependent coverage; in B do not leave yellow dominant or reduce Melonity pink to one small prop."
+      }
+    },
+    {
+      "id": "concept:branch-b-brand-field-replacement",
+      "kind": "mandatory_visual_rule",
+      "label": "Branch B replaces the yellow field with the mapped brand color",
+      "props": {
+        "rule": "Preserve the warm-story composition, rounded scene, lighting, depth, and typography mass, but replace the large yellow or amber background field with the mapped product color.",
+        "cluster": "#635FD5",
+        "melonity": "#FF1469",
+        "target_area": "35-70% visible frame area; automated hue-family gate accepts approximately 25-75% after lighting and occlusion",
+        "reject": ["yellow remains the dominant background", "mapped color appears only on a small tile or badge", "branch B is recolored into dark industrial branch A"]
+      }
+    },
+    {
+      "id": "concept:visual-prompt-grammar",
+      "kind": "prompt_component_system",
+      "label": "Sixteen-block master prompt grammar",
+      "props": {
+        "blocks": [
+          "asset role",
+          "editorial thesis",
+          "visual metaphor",
+          "format",
+          "composition",
+          "hero",
+          "environment",
+          "camera",
+          "materials",
+          "palette",
+          "lighting",
+          "typography",
+          "reference roles",
+          "physical plausibility",
+          "constraints",
+          "priority order"
+        ]
+      }
+    },
+    {
+      "id": "concept:single-hero-hierarchy",
+      "kind": "visual_rule",
+      "label": "Single hero and three hierarchy levels",
+      "props": {
+        "hero_area": "35-65%; up to 80% for an intentional extreme crop",
+        "hierarchy_levels_max": 3,
+        "thumbnail_test": "The hero must remain recognizable at 240 px width."
+      }
+    },
+    {
+      "id": "concept:limited-palette",
+      "kind": "visual_rule",
+      "label": "Two or three color roles",
+      "props": {
+        "roles": ["field/background", "hero or typography", "secondary signal accent"],
+        "canonical_families": ["acid yellow", "editorial lavender", "signal vermilion", "translucent blue", "warm device yellow", "industrial gray", "off-white", "charcoal"]
+      }
+    },
+    {
+      "id": "concept:tactile-materials",
+      "kind": "visual_rule",
+      "label": "Tactile industrial materials",
+      "props": {
+        "preferred": ["translucent cast plastic", "soft-touch plastic", "frosted acrylic", "stainless steel", "powder-coated metal", "shag textile", "dense paper"],
+        "material_families_per_frame_max": 2
+      }
+    },
+    {
+      "id": "concept:controlled-surrealism",
+      "kind": "visual_rule",
+      "label": "Controlled physically believable surrealism",
+      "props": {
+        "rule": "Translate an abstract article thesis into one surprising but manufacturable physical object or scene.",
+        "reject": "Random portals, magic smoke, floating clutter, implausible anatomy, or unrelated spectacle."
+      }
+    },
+    {
+      "id": "concept:typography-safe-zone",
+      "kind": "visual_rule",
+      "label": "Art-first and exact-text typography modes",
+      "props": {
+        "default": "art-first",
+        "art_first": "Reserve a clean zone and prohibit all letters, pseudo-text, labels, and logos.",
+        "text_in_image": "Provide exact quoted copy, language, case, line count, placement, type character, and prohibit all other text."
+      }
+    },
+    {
+      "id": "concept:reference-role-contract",
+      "kind": "model_rule",
+      "label": "One explicit role per image reference",
+      "props": {
+        "allowed_roles": ["composition", "material", "palette", "subject identity", "lighting", "camera"],
+        "rule": "Never attach references without stating what to inherit and what must not be copied."
+      }
+    },
+    {
+      "id": "concept:visual-quality-gate",
+      "kind": "quality_rule",
+      "label": "100-point visual prompt quality gate",
+      "props": {
+        "passing_score": 80,
+        "ready_score": 90,
+        "categories": ["editorial clarity", "metaphor", "composition", "palette", "materials and light", "typography", "prompt specificity", "article fit", "authenticity and safety"],
+        "automatic_rejection": "Missing thesis, hero, ratio, generated sequence index, B/A branch, mapped brand color role, reference roles, branch-B two-file reference fidelity, typography mode, incorrect branch-B yellow-field replacement, or inclusion of operational evasion content."
+      }
+    },
+    {
+      "id": "reference-set:warm-story-2026-08",
+      "kind": "visual_reference_set",
+      "label": "Warm narrative editorial reference wave",
+      "props": {
+        "added": "2026-08-05",
+        "count": 8,
+        "unique_sha256_count": 8,
+        "dimensions": "1200x1200 each",
+        "persistent_directory": "knowledge/agent_memory/references/article-editorial-warm-story-v1/",
+        "mean_saturation": 0.67,
+        "mean_luminance": 0.72,
+        "synthesis": "Warm sunlit narrative advertising with rounded 3D/2.5D forms, large grotesk typography, one simple visual joke or gesture, and three submodes: story scene, modular message card, symbolic object."
+      }
+    },
+    {
+      "id": "failure:warm-story-industrial-deck-01",
+      "kind": "visual_failure_reference",
+      "label": "Industrial sorting deck incorrectly accepted as warm-story fidelity",
+      "props": {
+        "file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/failures/failure-01-industrial-deck.png",
+        "width": 1280,
+        "height": 716,
+        "sha256_prefix": "b59d79ff84c695b3",
+        "mean_saturation": 0.17,
+        "mean_luminance": 0.55,
+        "cause": ["prompt selected branch A", "References: none", "industrial sorting deck", "dark chassis and fasteners", "art-first 16:9 removed typography mass"],
+        "lesson": "A high general QA score does not prove branch-B reference fidelity; require two uploaded references and pass at least 4/5 fidelity axes."
+      }
+    },
+    {
+      "id": "reference:warm-story-01",
+      "kind": "visual_reference",
+      "label": "Person and giant zucchini",
+      "props": {"file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-01.png", "width": 1200, "height": 1200, "sha256_prefix": "33d2fcaf998f4f31", "submode": "B1 story scene", "primary_signal": "one absurdly oversized object plus a calm human scale anchor under a large headline"}
+    },
+    {
+      "id": "reference:warm-story-02",
+      "kind": "visual_reference",
+      "label": "Cat reclining in a tub",
+      "props": {"file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-02.png", "width": 1200, "height": 1200, "sha256_prefix": "cae65e3f48600bc0", "submode": "B1 story scene", "primary_signal": "anthropomorphic domestic action, diagonal roof guide, and soft foreground framing"}
+    },
+    {
+      "id": "reference:warm-story-03",
+      "kind": "visual_reference",
+      "label": "Flock of geese",
+      "props": {"file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-03.png", "width": 1200, "height": 1200, "sha256_prefix": "964a40e1b6319c18", "submode": "B1 story scene", "primary_signal": "a repeated group reads as one collective hero with one leader and one extreme foreground crop"}
+    },
+    {
+      "id": "reference:warm-story-04",
+      "kind": "visual_reference",
+      "label": "Single goose with butterfly",
+      "props": {"file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-04.png", "width": 1200, "height": 1200, "sha256_prefix": "b407151a44e7763e", "submode": "B1 story scene", "primary_signal": "one calm centered hero changed by one tiny semantic accent"}
+    },
+    {
+      "id": "reference:warm-story-05",
+      "kind": "visual_reference",
+      "label": "House as lower hero crop",
+      "props": {"file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-05.png", "width": 1200, "height": 1200, "sha256_prefix": "fbf4d9856f4905db", "submode": "B2 modular message card", "primary_signal": "typography-dominant upper field grounded by one symmetric architectural crop"}
+    },
+    {
+      "id": "reference:warm-story-06",
+      "kind": "visual_reference",
+      "label": "Narrative and message split card",
+      "props": {"file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-06.png", "width": 1200, "height": 1200, "sha256_prefix": "9d4163303d75a832", "submode": "B2 modular message card", "primary_signal": "rounded scene panel above a separate bold message panel with one action badge"}
+    },
+    {
+      "id": "reference:warm-story-07",
+      "kind": "visual_reference",
+      "label": "Macro smartphone with terms",
+      "props": {"file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-07.png", "width": 1200, "height": 1200, "sha256_prefix": "70c7d83c8ff988d9", "submode": "B2 modular message card", "primary_signal": "extreme device crop frames small conditions while a large external conclusion dominates"}
+    },
+    {
+      "id": "reference:warm-story-08",
+      "kind": "visual_reference",
+      "label": "Chess pawn with pattern dissolve",
+      "props": {"file": "knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-08.png", "width": 1200, "height": 1200, "sha256_prefix": "e3ddae6cc26a0aaa", "submode": "B3 symbolic object", "primary_signal": "one familiar geometric symbol, asymmetric type balance, and one directional material-to-pattern transition"}
+    },
+    {
+      "id": "reference:visual-01",
+      "kind": "visual_reference",
+      "label": "Yellow courier hub",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-1.png", "width": 720, "height": 1280, "sha256_prefix": "6c022c056d88e65e", "primary_signal": "isometric process miniatures on an acid-yellow field"}
+    },
+    {
+      "id": "reference:visual-02",
+      "kind": "visual_reference",
+      "label": "Frosted industrial panel",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-2.png", "width": 720, "height": 1280, "sha256_prefix": "f6c6262d81bbdb48", "primary_signal": "concealed machine behind frosted acrylic with small red signals"}
+    },
+    {
+      "id": "reference:visual-03",
+      "kind": "visual_reference",
+      "label": "Translucent blue console",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-3.png", "width": 720, "height": 1280, "sha256_prefix": "2d58177c4e273744", "primary_signal": "abstract information embedded in a plausible translucent physical console"}
+    },
+    {
+      "id": "reference:visual-04",
+      "kind": "visual_reference",
+      "label": "Cat and loading laptop",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-4.png", "width": 720, "height": 1280, "sha256_prefix": "d3fca3d686e61a8a", "primary_signal": "humanized troubleshooting metaphor in a top-down domestic still life"}
+    },
+    {
+      "id": "reference:visual-05",
+      "kind": "visual_reference",
+      "label": "Lavender loading explainer",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-5.png", "width": 1024, "height": 1280, "sha256_prefix": "731972dd9612b5ff", "primary_signal": "minimal flat field, oversized type, and one physical UI symbol"}
+    },
+    {
+      "id": "reference:visual-06",
+      "kind": "visual_reference",
+      "label": "Yellow audio device",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-6.png", "width": 720, "height": 1280, "sha256_prefix": "40133bc7e660b4a7", "primary_signal": "playful manufacturable product surrealism in warm plastic"}
+    },
+    {
+      "id": "reference:visual-07",
+      "kind": "visual_reference",
+      "label": "Phone mounted on handlebars",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-7.png", "width": 720, "height": 1280, "sha256_prefix": "2e6111aa70fd3baa", "primary_signal": "front-facing hardware hero and high-contrast acid-yellow UI", "priority_signal": "repeated as reference 11"}
+    },
+    {
+      "id": "reference:visual-08",
+      "kind": "visual_reference",
+      "label": "Incoming call on steel table",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-8.png", "width": 1024, "height": 1280, "sha256_prefix": "d0013db6d9acd367", "primary_signal": "cinematic top-down product storytelling through traces of action"}
+    },
+    {
+      "id": "reference:visual-09",
+      "kind": "visual_reference",
+      "label": "Transparent amber projector",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-9.png", "width": 1024, "height": 1280, "sha256_prefix": "b1c89e2913a1415b", "primary_signal": "warm translucent retro device with a directed multicolor beam"}
+    },
+    {
+      "id": "reference:visual-10",
+      "kind": "visual_reference",
+      "label": "Black delivery robot on vermilion",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-10.png", "width": 1024, "height": 1280, "sha256_prefix": "fd5960e8433162c1", "primary_signal": "extreme hero scale and crop on a flat signal-red field", "priority_signal": "repeated as reference 12"}
+    },
+    {
+      "id": "reference:visual-11",
+      "kind": "visual_reference_duplicate",
+      "label": "Duplicate of phone mounted on handlebars",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-11.png", "width": 720, "height": 1280, "sha256_prefix": "2e6111aa70fd3baa", "duplicate_of": "reference:visual-07"}
+    },
+    {
+      "id": "reference:visual-12",
+      "kind": "visual_reference_duplicate",
+      "label": "Duplicate of black delivery robot",
+      "props": {"file": "C:/Users/User/.codex/attachments/4283d877-38cf-4646-a3ca-7c251b711329/image-12.png", "width": 1024, "height": 1280, "sha256_prefix": "fd5960e8433162c1", "duplicate_of": "reference:visual-10"}
+    }
+  ],
+  "relations": [
+    {"source": "instruction:article-visual-prompt-guide", "target": "style:article-editorial-poster-v1", "relation": "defines"},
+    {"source": "instruction:article-visual-prompt-guide", "target": "model:gemini-3-pro-image", "relation": "targets_primary_model"},
+    {"source": "instruction:article-visual-prompt-guide", "target": "concept:visual-prompt-grammar", "relation": "requires"},
+    {"source": "instruction:article-visual-prompt-guide", "target": "concept:visual-quality-gate", "relation": "requires"},
+    {"source": "instruction:article-visual-prompt-guide", "target": "concept:generated-visual-alternation", "relation": "requires"},
+    {"source": "instruction:article-visual-prompt-guide", "target": "concept:warm-story-reference-fidelity", "relation": "requires"},
+    {"source": "instruction:article-visual-prompt-guide", "target": "brand:cluster-visual-accent", "relation": "requires"},
+    {"source": "instruction:article-visual-prompt-guide", "target": "brand:melonity-visual-accent", "relation": "requires"},
+    {"source": "instruction:article-visual-prompt-guide", "target": "concept:branch-b-brand-field-replacement", "relation": "requires"},
+    {"source": "style:article-editorial-poster-v1", "target": "style:article-editorial-poster-v1-a", "relation": "has_branch"},
+    {"source": "style:article-editorial-poster-v1", "target": "style:article-editorial-poster-v1-b", "relation": "has_branch"},
+    {"source": "concept:generated-visual-alternation", "target": "style:article-editorial-poster-v1-b", "relation": "routes_odd_indices_to"},
+    {"source": "concept:generated-visual-alternation", "target": "style:article-editorial-poster-v1-a", "relation": "routes_even_indices_to"},
+    {"source": "style:article-editorial-poster-v1", "target": "concept:single-hero-hierarchy", "relation": "uses"},
+    {"source": "style:article-editorial-poster-v1", "target": "concept:limited-palette", "relation": "uses"},
+    {"source": "style:article-editorial-poster-v1", "target": "concept:tactile-materials", "relation": "uses"},
+    {"source": "style:article-editorial-poster-v1", "target": "concept:controlled-surrealism", "relation": "uses"},
+    {"source": "style:article-editorial-poster-v1", "target": "concept:typography-safe-zone", "relation": "uses"},
+    {"source": "model:gemini-3-pro-image", "target": "concept:reference-role-contract", "relation": "requires"},
+    {"source": "model:gemini-3-pro-image", "target": "concept:typography-safe-zone", "relation": "supports"},
+    {"source": "concept:visual-prompt-grammar", "target": "concept:visual-quality-gate", "relation": "validated_by"},
+    {"source": "concept:warm-story-reference-fidelity", "target": "concept:visual-quality-gate", "relation": "validated_by"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-01", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-02", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-03", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-04", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-05", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-06", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-07", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-08", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-09", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-a", "target": "reference:visual-10", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-b", "target": "reference-set:warm-story-2026-08", "relation": "derived_from"},
+    {"source": "style:article-editorial-poster-v1-b", "target": "concept:warm-story-reference-fidelity", "relation": "requires"},
+    {"source": "style:article-editorial-poster-v1-b", "target": "concept:branch-b-brand-field-replacement", "relation": "requires"},
+    {"source": "concept:branch-b-brand-field-replacement", "target": "brand:cluster-visual-accent", "relation": "uses_mapped_color"},
+    {"source": "concept:branch-b-brand-field-replacement", "target": "brand:melonity-visual-accent", "relation": "uses_mapped_color"},
+    {"source": "failure:warm-story-industrial-deck-01", "target": "concept:warm-story-reference-fidelity", "relation": "motivates"},
+    {"source": "failure:warm-story-industrial-deck-01", "target": "style:article-editorial-poster-v1-a", "relation": "actually_matches"},
+    {"source": "reference-set:warm-story-2026-08", "target": "reference:warm-story-01", "relation": "contains"},
+    {"source": "reference-set:warm-story-2026-08", "target": "reference:warm-story-02", "relation": "contains"},
+    {"source": "reference-set:warm-story-2026-08", "target": "reference:warm-story-03", "relation": "contains"},
+    {"source": "reference-set:warm-story-2026-08", "target": "reference:warm-story-04", "relation": "contains"},
+    {"source": "reference-set:warm-story-2026-08", "target": "reference:warm-story-05", "relation": "contains"},
+    {"source": "reference-set:warm-story-2026-08", "target": "reference:warm-story-06", "relation": "contains"},
+    {"source": "reference-set:warm-story-2026-08", "target": "reference:warm-story-07", "relation": "contains"},
+    {"source": "reference-set:warm-story-2026-08", "target": "reference:warm-story-08", "relation": "contains"},
+    {"source": "reference:visual-11", "target": "reference:visual-07", "relation": "duplicates"},
+    {"source": "reference:visual-12", "target": "reference:visual-10", "relation": "duplicates"}
+  ]
+}

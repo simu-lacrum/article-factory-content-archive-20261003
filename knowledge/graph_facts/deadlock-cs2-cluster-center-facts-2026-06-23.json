@@ -1,0 +1,400 @@
+{
+  "entities": [
+    {
+      "id": "entity:cluster-center",
+      "label": "cluster.center",
+      "kind": "product",
+      "notes": "Product to integrate for Deadlock and CS2 SEO articles."
+    },
+    {
+      "id": "game:deadlock",
+      "label": "Deadlock",
+      "kind": "game"
+    },
+    {
+      "id": "game:cs2",
+      "label": "CS2",
+      "kind": "game"
+    },
+    {
+      "id": "feature:deadlock-aimbot",
+      "label": "Deadlock Aimbot",
+      "kind": "feature_category"
+    },
+    {
+      "id": "feature:deadlock-aimbot-default",
+      "label": "Default aim mode",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-aimbot-silent",
+      "label": "Silent aim mode",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-aimbot-default-silent",
+      "label": "Default + silent aim mode",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-fov",
+      "label": "Deadlock FOV settings",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-smooth",
+      "label": "Deadlock aim smooth",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-target-lock",
+      "label": "Deadlock target lock",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-target-players",
+      "label": "Deadlock target players",
+      "kind": "target_type"
+    },
+    {
+      "id": "feature:deadlock-target-xp-orbs",
+      "label": "Deadlock target XP orbs",
+      "kind": "target_type"
+    },
+    {
+      "id": "feature:deadlock-target-creeps",
+      "label": "Deadlock target creeps",
+      "kind": "target_type"
+    },
+    {
+      "id": "feature:deadlock-hitboxes",
+      "label": "Deadlock hitboxes",
+      "kind": "feature_group"
+    },
+    {
+      "id": "feature:deadlock-easing",
+      "label": "Deadlock aim easing",
+      "kind": "feature_group"
+    },
+    {
+      "id": "feature:deadlock-anti-frog",
+      "label": "Anti frog",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-esp",
+      "label": "Deadlock ESP",
+      "kind": "feature_category"
+    },
+    {
+      "id": "feature:deadlock-esp-box",
+      "label": "ESP box",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-esp-player-name",
+      "label": "ESP player name",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-esp-hero-info",
+      "label": "ESP hero name / icon",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-esp-health",
+      "label": "ESP health / healthBar",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-esp-glow",
+      "label": "ESP glow",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-esp-orbs-gear",
+      "label": "ESP orbs gear",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-fov-changer",
+      "label": "Deadlock FOV changer",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-world-color",
+      "label": "Deadlock world color",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-skybox",
+      "label": "Deadlock skybox controls",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-auto-dash-jump",
+      "label": "Auto dash jump",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:deadlock-auto-parry",
+      "label": "Auto parry",
+      "kind": "feature"
+    },
+    {
+      "id": "entity:umbrella-deadlock",
+      "label": "Umbrella Deadlock",
+      "kind": "competitor"
+    },
+    {
+      "id": "entity:octarine-deadlock",
+      "label": "Octarine Deadlock",
+      "kind": "competitor"
+    },
+    {
+      "id": "entity:predator-deadlock",
+      "label": "Predator Deadlock",
+      "kind": "competitor"
+    },
+    {
+      "id": "topic:published-deadlock-top-cheats",
+      "label": "Top Cheats for Deadlock / Best Deadlock Hack",
+      "kind": "published_topic",
+      "do_not_repeat_directly": true
+    },
+    {
+      "id": "source:yougame-338660",
+      "label": "YouGame thread 338660",
+      "kind": "blocked_source",
+      "status": "anti-bot/429 response"
+    },
+    {
+      "id": "source:yougame-337938",
+      "label": "YouGame thread 337938",
+      "kind": "blocked_source",
+      "status": "anti-bot/429 response"
+    },
+    {
+      "id": "source:yougame-335446",
+      "label": "YouGame thread 335446",
+      "kind": "blocked_source",
+      "status": "anti-bot/429 response"
+    },
+    {
+      "id": "source:yougame-335445",
+      "label": "YouGame thread 335445",
+      "kind": "blocked_source",
+      "status": "anti-bot/429 response"
+    },
+    {
+      "id": "source:yougame-335467",
+      "label": "YouGame thread 335467",
+      "kind": "blocked_source",
+      "status": "anti-bot/429 response"
+    },
+    {
+      "id": "source:yougame-337451",
+      "label": "YouGame thread 337451",
+      "kind": "blocked_source",
+      "status": "anti-bot/429 response"
+    },
+    {
+      "id": "source:yougame-337711",
+      "label": "YouGame thread 337711",
+      "kind": "blocked_source",
+      "status": "anti-bot/429 response"
+    }
+  ],
+  "relations": [
+    {
+      "source": "entity:cluster-center",
+      "target": "game:deadlock",
+      "relation": "product_for_game"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "game:cs2",
+      "relation": "product_for_game"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:deadlock-aimbot",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:deadlock-esp",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:deadlock-fov-changer",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:deadlock-world-color",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:deadlock-skybox",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:deadlock-auto-dash-jump",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:cluster-center",
+      "target": "feature:deadlock-auto-parry",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-aimbot-default",
+      "relation": "has_mode"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-aimbot-silent",
+      "relation": "has_mode"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-aimbot-default-silent",
+      "relation": "has_mode"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-fov",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-smooth",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-target-lock",
+      "relation": "has_setting"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-target-players",
+      "relation": "can_target"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-target-xp-orbs",
+      "relation": "can_target"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-target-creeps",
+      "relation": "can_target"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-hitboxes",
+      "relation": "has_hitbox_group"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-easing",
+      "relation": "has_easing_group"
+    },
+    {
+      "source": "feature:deadlock-aimbot",
+      "target": "feature:deadlock-anti-frog",
+      "relation": "has_special_option"
+    },
+    {
+      "source": "feature:deadlock-esp",
+      "target": "feature:deadlock-esp-box",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:deadlock-esp",
+      "target": "feature:deadlock-esp-player-name",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:deadlock-esp",
+      "target": "feature:deadlock-esp-hero-info",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:deadlock-esp",
+      "target": "feature:deadlock-esp-health",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:deadlock-esp",
+      "target": "feature:deadlock-esp-glow",
+      "relation": "has_layer"
+    },
+    {
+      "source": "feature:deadlock-esp",
+      "target": "feature:deadlock-esp-orbs-gear",
+      "relation": "has_layer"
+    },
+    {
+      "source": "topic:published-deadlock-top-cheats",
+      "target": "entity:cluster-center",
+      "relation": "mentions_product"
+    },
+    {
+      "source": "topic:published-deadlock-top-cheats",
+      "target": "entity:umbrella-deadlock",
+      "relation": "compares_with"
+    },
+    {
+      "source": "topic:published-deadlock-top-cheats",
+      "target": "entity:octarine-deadlock",
+      "relation": "compares_with"
+    },
+    {
+      "source": "topic:published-deadlock-top-cheats",
+      "target": "entity:predator-deadlock",
+      "relation": "compares_with"
+    },
+    {
+      "source": "source:yougame-338660",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit"
+    },
+    {
+      "source": "source:yougame-337938",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit"
+    },
+    {
+      "source": "source:yougame-335446",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit"
+    },
+    {
+      "source": "source:yougame-335445",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit"
+    },
+    {
+      "source": "source:yougame-335467",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit"
+    },
+    {
+      "source": "source:yougame-337451",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit"
+    },
+    {
+      "source": "source:yougame-337711",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit"
+    }
+  ]
+}

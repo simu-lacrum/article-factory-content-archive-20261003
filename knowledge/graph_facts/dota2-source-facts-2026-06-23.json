@@ -1,0 +1,365 @@
+{
+  "entities": [
+    {
+      "id": "entity:melonity",
+      "label": "Melonity",
+      "kind": "product",
+      "notes": "Premium Dota 2 cheat/gaming-assistance product in the imported source set. Use only locally supported claims."
+    },
+    {
+      "id": "entity:metaskins",
+      "label": "MetaSkins",
+      "kind": "product",
+      "notes": "Skinchanger product mentioned in the imported custom skins article."
+    },
+    {
+      "id": "entity:umbrella",
+      "label": "Umbrella",
+      "kind": "competitor"
+    },
+    {
+      "id": "entity:divine",
+      "label": "Divine",
+      "kind": "competitor"
+    },
+    {
+      "id": "entity:octarine",
+      "label": "Octarine",
+      "kind": "competitor"
+    },
+    {
+      "id": "entity:hake",
+      "label": "Hake",
+      "kind": "competitor"
+    },
+    {
+      "id": "concept:dota2-cheat",
+      "label": "Dota 2 cheat",
+      "kind": "concept"
+    },
+    {
+      "id": "concept:dota2-script",
+      "label": "Dota 2 script",
+      "kind": "concept",
+      "notes": "Imported source defines scripts as individual functions inside a cheat."
+    },
+    {
+      "id": "feature:hero-scripts",
+      "label": "Hero scripts",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:visual-functions",
+      "label": "Visual functions",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:supporting-scripts",
+      "label": "Supporting scripts",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:last-hit",
+      "label": "Last Hit",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:camera-hack",
+      "label": "Camera Hack",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:auto-dodge",
+      "label": "Auto Dodge",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:auto-pick-ban",
+      "label": "Auto Pick / Auto Ban",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:vbe",
+      "label": "VBE / Visible By Enemy",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:maphack",
+      "label": "MapHack",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:full-maphack",
+      "label": "Full MapHack",
+      "kind": "historical_feature"
+    },
+    {
+      "id": "feature:partial-maphack",
+      "label": "Partial MapHack",
+      "kind": "current_feature_claim"
+    },
+    {
+      "id": "feature:courier-maphack",
+      "label": "Courier MapHack",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:skinchanger",
+      "label": "Skinchanger",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:low-poly-map",
+      "label": "Low Poly Map",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:custom-skins",
+      "label": "Custom skins",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:metapicker",
+      "label": "MetaPicker",
+      "kind": "feature"
+    },
+    {
+      "id": "feature:build-assistant",
+      "label": "Build assistant",
+      "kind": "feature"
+    },
+    {
+      "id": "concept:dota2-lobby-commands",
+      "label": "Dota 2 lobby commands",
+      "kind": "concept",
+      "notes": "Developer-provided custom lobby commands, distinct from matchmaking cheat software."
+    },
+    {
+      "id": "concept:custom-lobby",
+      "label": "Custom lobby",
+      "kind": "concept"
+    },
+    {
+      "id": "concept:real-matchmaking-cheats",
+      "label": "Real matchmaking cheats",
+      "kind": "concept"
+    },
+    {
+      "id": "concept:smurf-system",
+      "label": "Dota 2 smurf system",
+      "kind": "concept"
+    },
+    {
+      "id": "concept:vac",
+      "label": "VAC",
+      "kind": "anti_cheat_concept"
+    },
+    {
+      "id": "concept:vac-live-server-checks",
+      "label": "VAC-Live / server checks",
+      "kind": "anti_cheat_concept"
+    },
+    {
+      "id": "feature:humanizer",
+      "label": "Humanizer",
+      "kind": "feature",
+      "safety_note": "Do not generate operational evasion instructions from this concept."
+    },
+    {
+      "id": "source:yougame-281970",
+      "label": "YouGame thread 281970",
+      "kind": "blocked_source",
+      "status": "materialized page contains anti-bot/429 response, not useful thread content"
+    },
+    {
+      "id": "topic:published-dota2-lobby-commands",
+      "label": "Dota 2 lobby cheat commands article",
+      "kind": "published_topic",
+      "do_not_repeat_directly": true
+    },
+    {
+      "id": "topic:published-custom-skins-install",
+      "label": "How to install custom skins and sets in Dota 2",
+      "kind": "published_topic",
+      "do_not_repeat_directly": true
+    }
+  ],
+  "relations": [
+    {
+      "source": "concept:dota2-script",
+      "target": "concept:dota2-cheat",
+      "relation": "is_component_of",
+      "evidence": "knowledge/agent_memory/sources/mrkhertz-medium/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d.md"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:hero-scripts",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:visual-functions",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:supporting-scripts",
+      "relation": "has_feature_category"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:last-hit",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:camera-hack",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:auto-dodge",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:auto-pick-ban",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:vbe",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:maphack",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:skinchanger",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:low-poly-map",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "feature:full-maphack",
+      "target": "feature:partial-maphack",
+      "relation": "superseded_by",
+      "evidence": "knowledge/agent_memory/sources/mrkhertz-medium/maphack-for-dota-2-everything-you-need-to-know-how-to-download-it-a5126f8bc05f.md"
+    },
+    {
+      "source": "feature:partial-maphack",
+      "target": "feature:maphack",
+      "relation": "is_current_claimed_form_of"
+    },
+    {
+      "source": "feature:courier-maphack",
+      "target": "feature:maphack",
+      "relation": "is_variant_of"
+    },
+    {
+      "source": "concept:dota2-lobby-commands",
+      "target": "concept:custom-lobby",
+      "relation": "limited_to"
+    },
+    {
+      "source": "concept:dota2-lobby-commands",
+      "target": "concept:real-matchmaking-cheats",
+      "relation": "distinct_from"
+    },
+    {
+      "source": "topic:published-dota2-lobby-commands",
+      "target": "concept:dota2-lobby-commands",
+      "relation": "covers_topic"
+    },
+    {
+      "source": "entity:metaskins",
+      "target": "feature:custom-skins",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:metaskins",
+      "target": "feature:skinchanger",
+      "relation": "is_type_of"
+    },
+    {
+      "source": "entity:metaskins",
+      "target": "feature:low-poly-map",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:metaskins",
+      "target": "feature:metapicker",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "entity:metaskins",
+      "target": "feature:build-assistant",
+      "relation": "has_feature_claim"
+    },
+    {
+      "source": "topic:published-custom-skins-install",
+      "target": "entity:metaskins",
+      "relation": "mentions_product"
+    },
+    {
+      "source": "topic:published-custom-skins-install",
+      "target": "feature:custom-skins",
+      "relation": "covers_topic"
+    },
+    {
+      "source": "concept:smurf-system",
+      "target": "topic:published-smurf-ban-account-choice",
+      "relation": "covered_by_existing_published_topic",
+      "evidence": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-avoid-a-smurf-ban-in-dota-2-guide-to-choosing-an-account-for-dota-f2e7434083ca.md"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "feature:humanizer",
+      "relation": "has_feature_claim",
+      "safety_note": "High-level mention only; do not write operational evasion guidance."
+    },
+    {
+      "source": "feature:humanizer",
+      "target": "concept:vac-live-server-checks",
+      "relation": "related_to",
+      "safety_note": "High-level relationship only."
+    },
+    {
+      "source": "concept:vac",
+      "target": "concept:vac-live-server-checks",
+      "relation": "related_to"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "entity:umbrella",
+      "relation": "compared_with"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "entity:divine",
+      "relation": "compared_with"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "entity:octarine",
+      "relation": "compared_with"
+    },
+    {
+      "source": "entity:melonity",
+      "target": "entity:hake",
+      "relation": "compared_with"
+    },
+    {
+      "source": "source:yougame-281970",
+      "target": "concept:source-quality",
+      "relation": "blocked_by_anti_bot_or_rate_limit",
+      "evidence": "knowledge/agent_memory/sources/external-forums/281970.md"
+    }
+  ]
+}

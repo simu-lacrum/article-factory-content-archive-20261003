@@ -1,0 +1,13 @@
+{
+  "default_language": "en",
+  "default_game": "dota2",
+  "default_llm_provider": "none",
+  "ollama_model": "llama3.1:8b",
+  "openai_model": "gpt-4.1-mini",
+  "article_rules": {
+    "must_use_evidence_pack": true,
+    "no_unsupported_current_facts": true,
+    "no_operational_anti_cheat_evasion_or_cheat_implementation": true,
+    "native_ad_integration": true
+  }
+}

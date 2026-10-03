@@ -1,0 +1,11 @@
+---
+source: melonity-knowledge-base.md
+heading: "16. CHANGELOG ДОКУМЕНТА"
+---
+
+## 16. CHANGELOG ДОКУМЕНТА
+
+- **v1.0 — 19.05.2026:** Первая версия. Цены, JTBD, SWOT, конкуренты, SEO-карта.
+- **v1.1 — 19.05.2026:** Расширен продуктовый раздел (новый раздел 3A — глубокий технический гайд по работе читов в Dota 2). Добавлено: терминология cheat/script/hack, как читы взаимодействуют с движком Source 2, 4 категории функций (Hero Scripts / Visual / Supporting / MapHack), история MapHack (Full → Partial), Particle ESP, защита от VAC (client + Humanizer), 3 механизма банов Valve, сравнение анти-читов (VAC vs Vanguard vs EAC vs FACEIT vs Ricochet), правила что писать/не писать о функциях. Добавлен Кластер 5 SEO-тем (explainer-статьи на базе Medium-инсайтов). Расширены НЧ-ключи в RU и EN SEO-карте.
+- **v1.2 — 19.05.2026:** **SEO-приоритет cheat/hack/чит/хак.** Снят запрет на использование «cheat» в маркетинге — это приоритетные ключевые слова бренда. Обновлены: блок INSTRUCTIONS FOR LLM (новый параграф «КРИТИЧНО: терминология»), раздел 1 (юридический фрейм), раздел 3A.1 (правила использования), раздел 3A.9 (формула SEO-плотности), раздел 4.4 (TOV-словарь — cheat/hack/чит/хак как обязательные SEO-ключи), раздел 13 (все шаблоны SEO-статей RU/EN, TG-постов, YouTube-описаний переписаны с активным использованием cheat/hack/чит/хак), раздел 14 (что нельзя — снят запрет на «cheat»). Добавлен новый шаблон 13.6 — пост в форум (yougame/mipped/elitepvpers) с плотным SEO. Запреты теперь только на: aimbot (Dota 2), exploit, trojan, virus, crack, «100% защита от бана».
+- **v1.3 — 22.06.2026:** Добавлен source digest по пяти Medium-статьям @mrkhertz: VAC/why cheaters are not banned, cheats/scripts explained, top hacks comparison, MapHack Full→Partial, smurf/game ban/account-risk. Добавлена сводка семантического ядра Dota 2 (74 679 запросов, 187 кластеров), tiers (`core`, `native`, `native-hero`, `general`, `comp`, `nav`), executive table по главным кластерам и web2.0 article operating model. Добавлен актуальный игровой контекст на 22.06.2026: ветка 7.41d, Largo как герой из 7.40, meta snapshot по Dota2ProTracker, правила перепроверки patch/meta. Добавлен раздел 10.5 с актуальными игровыми терминами 2026. Шаблоны патч-анонсов переведены на безопасный формат с обязательной проверкой Dota2.com перед публикацией.

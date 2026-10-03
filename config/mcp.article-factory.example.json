@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "article-factory": {
+      "command": "python",
+      "args": [
+        "-m",
+        "article_factory.mcp_server",
+        "--root",
+        "C:\\Users\\User\\Desktop\\articles"
+      ]
+    }
+  }
+}

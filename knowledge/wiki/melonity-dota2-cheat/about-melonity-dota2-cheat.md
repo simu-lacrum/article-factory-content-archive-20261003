@@ -1,0 +1,8 @@
+---
+source: knowledge/agent_memory/sources/melonity-product-t2-20260910/melonity-dota2-cheat.md
+heading: "About Melonity Dota2 Cheat"
+---
+
+## About Melonity Dota2 Cheat
+
+Melonity Dota 2 Cheat is a private Windows tool for Dota 2 that combines hero automation, map information, visual scripts and configurable assistance. The official Melonity website advertises more than 500 functions, including scripts for individual heroes, Jungle Maphack, Roshan ESP, Teleport Preview and Ward Tracker. Hero scripts automate supported abilities, items and combinations. The official product page specifically demonstrates scripts for Shadow Fiend, Invoker, Meepo, Arc Warden, Sky Mage and Pudge. Exact hero coverage and available settings may change as Melonity updates its script library. Melonity’s map features provide additional information about events outside the normal field of view. Jungle Maphack displays supported enemy activity in the fog of war, Roshan ESP reports supported Roshan information, Teleport Preview displays enemy teleport movement, and Ward Tracker shows supported enemy ward information. The product also includes modules named AntiVAC, Spoofer and Humanizer. These are descriptions supplied by the developer and must not be treated as a guarantee against detection. CheatsGaming has not independently verified Melonity’s anti-cheat claims, detection status or compatibility with every current Dota 2 update. Melonity officially supports Windows 10 and Windows 11, excluding Windows Insider Preview builds. macOS is not supported. After confirmed payment, CheatsGaming automatically delivers one license key for the selected access period together with an activation link and setup instructions.

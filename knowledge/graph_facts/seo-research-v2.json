@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "fact_set": "seo-research-v2",
+  "entities": [
+    {
+      "id": "instruction:seo-research-v2",
+      "kind": "mandatory_instruction",
+      "label": "Evidence-led SEO research and human editorial quality",
+      "props": {
+        "mandatory_on_session_start": true,
+        "version": "2.0.0",
+        "canonical_file": "docs/SEO_RESEARCH_WORKFLOW.md",
+        "required_files": ["SEO_ARTICLE_RULES.md", "docs/SEO_RESEARCH_WORKFLOW.md"],
+        "session_directive": "Use the active research study for article intent, site routing, competitors and keyword guidance. Separate US/GB and observed/editorial data. Unknown volume is not low frequency. Do not prescribe keyword density, anchor ratios or AI passage lengths. Codex writes; automated checks never replace factual and editorial review. Never invent testing or experience."
+      }
+    }
+  ],
+  "relations": []
+}

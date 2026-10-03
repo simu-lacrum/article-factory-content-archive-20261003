@@ -1,0 +1,17 @@
+# Target pages for the 2026-08-13 Tier-2 brief package.
+# Format: URL | role
+
+https://melonity.gg/en | Tier-2 target; Melonity Dota 2 homepage
+https://clustercheats.com/en | Tier-2 target; Cluster product hub requested by user
+https://melonity.gg/en/foxhole | Tier-2 target; Melonity Foxhole landing page
+https://medium.com/@mrkhertz/top-cheats-for-cs2-the-best-hack-cfab8351f70b | Tier-2 target; existing general CS2 ranking, do not duplicate the listicle
+https://medium.com/@mrkhertz/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6 | Tier-2 target; existing Dota 2 ranking, do not duplicate the listicle
+https://medium.com/@mrkhertz/top-5-legit-cheats-for-cs2-best-legit-cs2-hack-5ac352f79364 | Tier-2 target; existing legit CS2 ranking, do not duplicate the listicle
+https://medium.com/@mrkhertz/top-5-external-cheats-for-cs2-the-best-external-hack-2cfd5e5de7a4 | Tier-2 target; existing external CS2 ranking, do not duplicate the listicle
+https://medium.com/@mrkhertz/how-to-install-cs2-aimbot-wallhack-for-free-d88e11b39100 | Tier-2 target; existing CS2 setup guide, do not duplicate the installation angle
+https://medium.com/@mrkhertz/how-to-install-dota-2-cheats-hacks-for-free-de9e42a6b202 | Tier-2 target; existing Dota 2 setup guide, do not duplicate the installation angle
+https://medium.com/@aurelivoines/top-4-cheats-for-deadlock-comparison-of-features-prices-and-the-best-software-choice-0f737d360121 | Tier-2 target; existing Deadlock ranking, do not duplicate the listicle
+https://clustercheats.com/en/deadlock | Tier-2 target; Cluster Deadlock landing page requested by user
+https://clustercheats.com/ru | Tier-2 target; Russian Cluster product hub requested by user
+https://clustercheats.com/ru/cs2 | Tier-2 target; Russian Cluster CS2 landing page requested by user
+https://clustercheats.com/ru/deadlock | Tier-2 target; Russian Cluster Deadlock landing page requested by user

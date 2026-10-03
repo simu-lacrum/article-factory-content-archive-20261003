@@ -1,0 +1,290 @@
+{
+  "topics": [
+    {
+      "game": "deadlock",
+      "language": "en",
+      "title": "Deadlock Aimbot Settings Explained",
+      "main_query": "deadlock aimbot settings",
+      "cluster": "Deadlock cluster.center: aimbot modes and settings",
+      "score": 96,
+      "volume_words": "1,600-2,300 words",
+      "risk_level": "restricted",
+      "ad_integration": "Native cluster.center integration after high-level explanation",
+      "outline": [
+        "What players mean by Deadlock aimbot settings",
+        "Default, silent, and mixed aim modes at a high level",
+        "FOV, smooth, target lock, targets, and hitboxes",
+        "Why easing and ignore filters matter for readability",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+        "Aimbot modes: default, silent, default + silent",
+        "Targets: players, XP orbs, creeps",
+        "Hitboxes: head, neck, spine, hips"
+      ]
+    },
+    {
+      "game": "deadlock",
+      "language": "en",
+      "title": "Deadlock ESP Explained: Boxes, Glow and Hero Info",
+      "main_query": "deadlock esp",
+      "cluster": "Deadlock cluster.center: ESP and visual awareness",
+      "score": 94,
+      "volume_words": "1,600-2,300 words",
+      "risk_level": "elevated",
+      "ad_integration": "Native cluster.center integration after visual-awareness explainer",
+      "outline": [
+        "What Deadlock ESP means",
+        "Box, name, hero icon, health, healthBar, and glow layers",
+        "Thickness and readability settings",
+        "Orbs gear and match awareness",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+        "ESP elements: box, player name, hero name, hero icon, health, healthBar, glow, thickness, orbs gear"
+      ]
+    },
+    {
+      "game": "deadlock",
+      "language": "en",
+      "title": "Deadlock FOV Changer and Visibility Features",
+      "main_query": "deadlock fov changer",
+      "cluster": "Deadlock cluster.center: visibility and world customization",
+      "score": 88,
+      "volume_words": "1,400-2,000 words",
+      "risk_level": "elevated",
+      "ad_integration": "Native cluster.center integration after visibility explainer",
+      "outline": [
+        "Why players search for a Deadlock FOV changer",
+        "FOV, world color, skybox, and skybox color",
+        "Visual comfort versus competitive awareness",
+        "Image placement ideas for visibility comparisons",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+        "Misc: FOV changer, world color, disable skybox, skybox color"
+      ]
+    },
+    {
+      "game": "deadlock",
+      "language": "en",
+      "title": "Deadlock Auto Parry and Movement Assistance",
+      "main_query": "deadlock auto parry",
+      "cluster": "Deadlock cluster.center: misc automation and movement assistance",
+      "score": 84,
+      "volume_words": "1,400-2,000 words",
+      "risk_level": "elevated",
+      "ad_integration": "Native cluster.center integration after mechanic context",
+      "outline": [
+        "What auto parry means in Deadlock",
+        "Auto dash jump and movement assistance",
+        "When automation is searched as comfort versus advantage",
+        "How to describe these features without hype",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+        "Misc: auto dash jump, auto parry"
+      ]
+    },
+    {
+      "game": "deadlock",
+      "language": "en",
+      "title": "Deadlock Cheat Feature Glossary",
+      "main_query": "deadlock cheat features",
+      "cluster": "Deadlock cluster.center: feature glossary",
+      "score": 90,
+      "volume_words": "1,800-2,600 words",
+      "risk_level": "restricted",
+      "ad_integration": "Native cluster.center glossary CTA",
+      "outline": [
+        "Deadlock cheat terminology",
+        "Aimbot feature categories",
+        "ESP feature categories",
+        "Misc features and customization",
+        "How cluster.center organizes these features",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+        "knowledge/agent_memory/products/product-map.md"
+      ]
+    },
+    {
+      "game": "cs2",
+      "language": "en",
+      "title": "CS2 Aimbot Settings Explained: FOV, Smooth and Hitboxes",
+      "main_query": "cs2 aimbot settings",
+      "cluster": "CS2 cluster.center: aimbot settings and hitboxes",
+      "score": 96,
+      "volume_words": "1,700-2,400 words",
+      "risk_level": "restricted",
+      "ad_integration": "Native cluster.center integration after high-level settings explainer",
+      "outline": [
+        "What players mean by CS2 aimbot settings",
+        "FOV, Smooth, Fov Color, and Auto Pistol at a high level",
+        "Target priority: Crosshair versus Hit chance",
+        "Hitboxes: Head, Neck, Spine, Hips, Arms, Legs",
+        "Checks: Visible, Team, Flash, and weapon profiles",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+        "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+        "Aimbot features: Fov, Smooth, Auto Pistol, Fov Color, target priority, hitboxes, checks, weapons"
+      ]
+    },
+    {
+      "game": "cs2",
+      "language": "en",
+      "title": "CS2 TriggerBot Settings Explained",
+      "main_query": "cs2 triggerbot settings",
+      "cluster": "CS2 cluster.center: triggerbot timing and hit chance",
+      "score": 94,
+      "volume_words": "1,700-2,400 words",
+      "risk_level": "restricted",
+      "ad_integration": "Native cluster.center integration after high-level TriggerBot explainer",
+      "outline": [
+        "What TriggerBot means in CS2",
+        "Reaction time and between-shots delay",
+        "Minimum damage, hit chance, and multipoint scale",
+        "Hitboxes and checks",
+        "Visualize multipoint hit",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+        "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+        "TriggerBot features: hitboxes, checks, multipoint scale, reaction time, between-shots delay, minimum damage, hit chance, visualize multipoint hit"
+      ]
+    },
+    {
+      "game": "cs2",
+      "language": "en",
+      "title": "CS2 ESP Explained: Boxes, Chams, Skeleton and Status Icons",
+      "main_query": "cs2 esp",
+      "cluster": "CS2 cluster.center: ESP and visual awareness",
+      "score": 95,
+      "volume_words": "1,700-2,400 words",
+      "risk_level": "restricted",
+      "ad_integration": "Native cluster.center integration after visual-awareness explainer",
+      "outline": [
+        "What ESP means in CS2",
+        "Player layers: Box, Name, Health, HealthBar, Skeleton, Chams",
+        "Weapon and resource layers: AmmoBar, Weapon, Weapon icon",
+        "Status indicators: Blind, Zoom, Reload, Ping",
+        "World indicators: Bomb, Defuse, Only visible",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+        "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+        "ESP elements: Box, Name, Health, HealthBar, AmmoBar, Weapon, Weapon icon, Blind, Zoom, Reload, Bomb, Defuse, Ping, Chams, Skeleton, Only visible"
+      ]
+    },
+    {
+      "game": "cs2",
+      "language": "en",
+      "title": "CS2 Bomb Timer, Spectator List and Keybinds Explained",
+      "main_query": "cs2 bomb timer spectator list keybinds",
+      "cluster": "CS2 cluster.center: Hub utilities",
+      "score": 88,
+      "volume_words": "1,400-2,000 words",
+      "risk_level": "elevated",
+      "ad_integration": "Native cluster.center integration after utility explainer",
+      "outline": [
+        "What Hub utilities mean in CS2",
+        "Bomb timer and round decisions",
+        "Spectator List as observer awareness",
+        "Keybinds and feature control",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+        "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+        "Hub elements: Bomb timer, Spectator List, Keybinds"
+      ]
+    },
+    {
+      "game": "cs2",
+      "language": "en",
+      "title": "CS2 External Cheat Feature Glossary",
+      "main_query": "cs2 external cheat features",
+      "cluster": "CS2 cluster.center: external feature glossary",
+      "score": 92,
+      "volume_words": "1,900-2,700 words",
+      "risk_level": "restricted",
+      "ad_integration": "Native cluster.center glossary CTA",
+      "outline": [
+        "What CS2 External means in source language",
+        "Aimbot feature categories",
+        "TriggerBot feature categories",
+        "ESP feature categories",
+        "Hub utilities",
+        "How cluster.center organizes these features",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+        "knowledge/agent_memory/products/product-map.md",
+        "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md"
+      ]
+    },
+    {
+      "game": "cs2",
+      "language": "en",
+      "title": "CS2 Cheat Features Explained",
+      "main_query": "cs2 cheat features",
+      "cluster": "CS2 cluster.center: feature explainer",
+      "score": 82,
+      "volume_words": "1,600-2,300 words",
+      "risk_level": "restricted",
+      "ad_integration": "Native cluster.center integration",
+      "outline": [
+        "What users mean by CS2 cheat features",
+        "Common feature categories at a high level",
+        "Visuals, aim assistance, and comfort settings",
+        "Risk-aware expectations",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/product-map.md",
+        "semantic_core_cs2.csv"
+      ]
+    },
+    {
+      "game": "cs2",
+      "language": "en",
+      "title": "CS2 Hack vs Assistive Tools: What Players Search For",
+      "main_query": "cs2 hack",
+      "cluster": "CS2 cluster.center: intent and terminology",
+      "score": 78,
+      "volume_words": "1,500-2,200 words",
+      "risk_level": "restricted",
+      "ad_integration": "Native cluster.center integration after intent explainer",
+      "outline": [
+        "What players mean by CS2 hack",
+        "Why search intent splits between visuals, aim, skins, and configs",
+        "How to keep expectations realistic",
+        "Where cluster.center fits",
+        "FAQ"
+      ],
+      "evidence": [
+        "knowledge/agent_memory/products/product-map.md",
+        "semantic_core_cs2.csv"
+      ]
+    }
+  ]
+}

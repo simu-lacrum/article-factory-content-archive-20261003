@@ -1,0 +1,11 @@
+# Persistent external forum sources.
+# Format: URL | optional note/title
+
+https://yougame.biz/threads/281970/ | YouGame forum thread; extract useful product/community context, do not treat as a Medium published article
+https://yougame.biz/threads/338660/ | YouGame Deadlock/cluster.center source candidate
+https://yougame.biz/threads/337938/ | YouGame Deadlock/cluster.center source candidate
+https://yougame.biz/threads/335446/ | YouGame Deadlock/cluster.center source candidate
+https://yougame.biz/threads/335445/ | YouGame Deadlock/cluster.center source candidate
+https://yougame.biz/threads/335467/ | YouGame Deadlock/cluster.center source candidate
+https://yougame.biz/threads/337451/ | YouGame Deadlock/cluster.center source candidate
+https://yougame.biz/threads/337711/ | YouGame Deadlock/cluster.center source candidate
