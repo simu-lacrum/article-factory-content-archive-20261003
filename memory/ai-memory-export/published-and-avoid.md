@@ -1,0 +1,242 @@
+# Published Articles And Topic Exclusions
+
+## Published Articles
+
+- Why Cheaters in Dota 2 Are Not Banned: A Detailed Explanation of Why Cheats Are Safe (dota2/en): https://medium.com/@mrkhertz/why-cheaters-in-dota-2-are-not-banned-a-detailed-explanation-of-why-cheats-are-safe-3f28752a7f98 - published on Medium; do not select this exact topic again
+- Dota 2 Cheats & Scripts Explained 2025: All About Dota Hacks (dota2/en): https://medium.com/@mrkhertz/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d - published on Medium; do not select this exact topic again
+- Top 5 Hacks and Cheats for Dota 2: Best Hack for Dota 2 (dota2/en): https://medium.com/@mrkhertz/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6 - published on Medium; do not select this exact topic again
+- MapHack for Dota 2: Everything You Need to Know and How to Download It (dota2/en): https://medium.com/@mrkhertz/maphack-for-dota-2-everything-you-need-to-know-how-to-download-it-a5126f8bc05f - published on Medium; do not select this exact topic again
+- How to Avoid a Smurf Ban in Dota 2: Guide to Choosing an Account for Dota (dota2/en): https://medium.com/@mrkhertz/how-to-avoid-a-smurf-ban-in-dota-2-guide-to-choosing-an-account-for-dota-f2e7434083ca - published on Medium; do not select this exact topic again
+- Complete Guide to Cheat Commands in the Dota 2 Lobby 2026 (dota2/en): https://medium.com/@mrkhertz/a-complete-guide-to-cheat-commands-in-the-dota-2-lobby-2026-1a32b1c1b58c - published on Medium; do not select this exact topic again
+- How to Install Custom Skins and Sets in Dota 2 (dota2/en): https://medium.com/@mrkhertz/how-to-install-custom-skins-and-sets-in-dota-2-b3f627941c6e - published on Medium; do not select this exact topic again
+- Top Cheats for Deadlock: The Best Deadlock Hack (deadlock/en): https://medium.com/@mrkhertz/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e - published on Medium; do not select this exact topic again
+- Top Cheats for CS2: The Best Hack (cs2/en): https://medium.com/@mrkhertz/top-cheats-for-cs2-the-best-hack-cfab8351f70b - published on Medium; do not select this exact topic again
+- How to install CS2 cheats & hacks for free? (cs2/en): https://medium.com/@mrkhertz/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710 - 
+- Top 5 Legit Cheats For CS2: Best legit cs2 hack (cs2/en): https://medium.com/@mrkhertz/top-5-legit-cheats-for-cs2-best-legit-cs2-hack-5ac352f79364 - 
+- Top 5 External Cheats for CS2: The Best External Hack (cs2/en): https://medium.com/@mrkhertz/top-5-external-cheats-for-cs2-the-best-external-hack-2cfd5e5de7a4 - 
+- Приватные читы: 7 проверок до покупки (multi/ru): https://clustercheats.substack.com/p/7 - Substack web-only; anchor to https://cluster.center/ru
+- How to Audit a Private Cheat Store Before You Pay (multi/en): https://clustercheats.substack.com/p/how-to-audit-a-private-cheat-store - Substack web-only; anchor to https://cluster.center/en
+- Приватный чит для CS2: как читать страницу продукта (cs2/ru): https://clustercheats.substack.com/p/cs2 - Substack web-only; anchor to https://cluster.center/ru/cs2
+- Чит для Deadlock после патча: что проверять (deadlock/ru): https://clustercheats.substack.com/p/deadlock - Substack web-only; anchor to https://cluster.center/ru/deadlock
+- Private CS2 Cheats: Read Features Without the Hype (cs2/en): https://clustercheats.substack.com/p/private-cs2-cheats-read-features - Substack web-only; anchor to https://cluster.center/en/cs2
+- CS2 Cheat Research: A Safer Order of Checks (cs2/en): https://clustercheats.substack.com/p/cs2-cheat-research-a-safer-order - T2 publication: substack
+- Deadlock Cheat Research: Four Feature Families (deadlock/en): https://clustercheats.substack.com/p/deadlock-cheat-research-four-feature - T2 publication: substack
+- Статус продукта — не гарантия: как читать каталог игровых инструментов (multiplayer/ru): https://clustercheats.substack.com/p/dca - T2 publication: substack
+- HUD в CS2: как оценить полезность информации на экране (cs2/ru): https://clustercheats.substack.com/p/hud-cs2 - T2 publication: substack
+- Deadlock и глубина поддержки героев: что на самом деле значит Combo (deadlock/ru): https://clustercheats.substack.com/p/deadlock-combo - T2 publication: substack
+- Dota 2 Cheat Categories: Scripts, Visuals, and Utility (dota2/en): https://faint-liquid-acd.notion.site/Dota-2-Cheat-Categories-Scripts-Visuals-and-Utility-3d7ab4c3c094800ca9dbf9cd2d86bf3f - T2 publication: notion
+- Melonity or Umbrella After a Patch? Audit the Proof (dota2/en): https://faint-liquid-acd.notion.site/Melonity-or-Umbrella-After-a-Patch-Audit-the-Proof-3d7ab4c3c0948043bb8afa2fa0cc8f91 - T2 publication: notion
+- Единый аккаунт, тест и поддержка: как проверить путь пользователя (multiplayer/ru): https://faint-liquid-acd.notion.site/3d7ab4c3c094801b8493f3c28b85a0e6 - T2 publication: notion
+- CS2 External и совместимость: экранный режим, Windows и разрешение (cs2/ru): https://faint-liquid-acd.notion.site/CS2-External-Windows-3d7ab4c3c09480cfa016c85729ab8e25 - T2 publication: notion
+- Auto Parry и задержка: почему один ролик не доказывает стабильность (deadlock/ru): https://faint-liquid-acd.notion.site/Auto-Parry-3d7ab4c3c09480ee9d99f62eef94b4ad - T2 publication: notion
+- Dota 2 Cheat Trials Compared: What Seven Days Prove (dota2/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/dota-2-cheat-trials-seven-day-evaluation - T2 publication: gitbook
+- Deadlock Risk Layers: VAC, Reports, and Updates (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/06-deadlock-risk-layers - T2 publication: gitbook
+- Документация игрового сервиса: минимальный стандарт доверия (multiplayer/ru): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/ru/dokumentaciya-igrovogo-servisa - T2 publication: gitbook
+- Aimbot, TriggerBot, ESP и HUD: словарь функций CS2 (cs2/ru): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/ru/cs2/slovar-funkciy-cs2 - T2 publication: gitbook
+- Combo, Auto Parry и Souls Aimbot: словарь функций Deadlock (deadlock/ru): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/ru/deadlock/slovar-funkciy-deadlock - T2 publication: gitbook
+- CS2 Skin Changer Screenshot: Read It Correctly (cs2/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/07-cs2-skin-changer-screenshot-proof/ - T2 publication: github
+- CS2 Skin Changer Preview Mismatch Explained (cs2/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/08-cs2-skin-changer-preview-mismatch/ - T2 publication: github
+- Публичный changelog и статусная страница: как документировать обновления (multiplayer/ru): https://simu-lacrum.github.io/cluster-melonity-articles/guides/publichnyy-changelog-i-status-page/ - T2 publication: github
+- После обновления CS2: как проверять версию, видео и known issues (cs2/ru): https://simu-lacrum.github.io/cluster-melonity-articles/guides/posle-obnovleniya-cs2-chto-proveryat/ - T2 publication: github
+- Матрица поддержки героев Deadlock: как показывать реальное покрытие (deadlock/ru): https://simu-lacrum.github.io/cluster-melonity-articles/guides/matrica-podderzhki-geroev-deadlock/ - T2 publication: github
+- The Cost of Free CS2 Cheats Beyond Price (cs2/en): https://justpaste.me/09-cost-of-free-cs2-cheats-2026 - T2 publication: justpasteme
+- Legit vs Semi-Rage vs Rage in CS2 (cs2/en): https://justpaste.me/10-legit-vs-semi-rage-vs-rage-cs2-2026 - T2 publication: justpasteme
+- Бесплатный тест игрового инструмента: 12 вопросов до регистрации (multiplayer/ru): https://justpaste.me/besplatnyy-test-12-voprosov-2026 - T2 publication: justpasteme
+- Как разбирать демо CS2-инструмента: что видео доказывает, а что нет (cs2/ru): https://justpaste.me/kak-razbirat-demo-cs2-2026 - T2 publication: justpasteme
+- Демо Deadlock без хайпа: как проверять заявленные функции (deadlock/ru): https://justpaste.me/demo-deadlock-bez-haypa-2026 - T2 publication: justpasteme
+- Deadlock Parry Window: Timing and Feints Explained (deadlock/en): https://rentry.co/11-deadlock-parry-window-timing-feints - T2 publication: rentry
+- Deadlock Cheat Comparison Beyond Aimbot (deadlock/en): https://rentry.co/12-deadlock-cheat-comparison-beyond-aimbot - T2 publication: rentry
+- How to Read a Melonity Dota 2 Product Page (dota2/en): https://clustercheats.substack.com/p/how-to-read-a-melonity-dota-2-product - 
+- Melonity Hero Scripts: Audit Your Dota 2 Pool (dota2/en): https://faint-liquid-acd.notion.site/Melonity-Hero-Scripts-Audit-Your-Dota-2-Pool-3d7ab4c3c09480bba8dcf9d4fb2e36af - 
+- Melonity Map Tools: Four Claims to Check (dota2/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/melonity-map-tools-four-claims-to-check - 
+- Melonity Dota 2: Compatibility and Key Delivery (dota2/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/melonity-dota-2-compatibility-key-delivery/ - 
+- Melonity Safety Claims: What the Labels Prove (dota2/en): https://rentry.co/melonity-safety-claims - 
+- Plan a CS2 Cosmetic Loadout Before You Switch Skins (cs2/en): https://clustercheats.substack.com/p/plan-a-cs2-cosmetic-loadout-before - 
+- Скинченджер КС2: как проверить каталог и совместимость (cs2/ru): https://faint-liquid-acd.notion.site/2-3d8ab4c3c0948066a72cea447ba97b57 - 
+- Как выбрать скинченджер: каталог, фильтры, откат (cs2/ru): https://simu-lacrum.github.io/cluster-melonity-articles/guides/kak-vybrat-skinchanger-katalog-filtry-otkat/ - 
+- TouchSkins Search Guide: Pick the Right Game Mode (cs2/en): https://rentry.co/touchskins-search-guide-cs2-dota2 - 
+- Dota 2 Skin Changer: Preview vs Owned Inventory (dota2/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/dota-2-skin-changer-preview-vs-owned-inventory - 
+- Cheat Menu UX: Defaults, Undo, and Clarity (multi/en): https://k111ra.diowebhost.com/98296018/cheat-menu-ux-defaults-undo-and-clarity - 
+- CS2 Cheat Toggles and Cognitive Load (cs2/en): https://k111ra.diowebhost.com/98296037/cs2-cheat-toggles-and-cognitive-load - 
+- Deadlock Cheat Hero Coverage: Breadth vs Depth (deadlock/en): https://k111ra.diowebhost.com/98296045/deadlock-cheat-hero-coverage-breadth-vs-depth - 
+- How to Judge a Game Cheat Guide (multi/en): https://k111ra.diowebhost.com/98296057/how-to-judge-a-game-cheat-guide - 
+- What Free CS2 Cheat Searchers Really Want (cs2/en): https://k111ra.diowebhost.com/98296063/what-free-cs2-cheat-searchers-really-want - 
+- Deadlock Auto-Parry Demos: What They Miss (deadlock/en): https://k111ra.diowebhost.com/98296073/deadlock-auto-parry-demos-what-they-miss - 
+- Why CS2 Cheat Rankings Age So Fast (cs2/en): https://k111ra.diowebhost.com/98296087/why-cs2-cheat-rankings-age-so-fast - 
+- Legit CS2 Cheat Is Not a Safety Standard (cs2/en): https://k111ra.diowebhost.com/98296097/legit-cs2-cheat-is-not-a-safety-standard - 
+- Deadlock Cheat Shortlists by Player Problem (deadlock/en): https://k111ra.diowebhost.com/98296109/deadlock-cheat-shortlists-by-player-problem - 
+- Why CS2 Cheat Install Guides Go Stale (cs2/en): https://k111ra.diowebhost.com/98296117/why-cs2-cheat-install-guides-go-stale - 
+- What Game Cheat Searches Are Really Comparing (cs2/en): https://k111ra.activosblog.com/41525240/what-game-cheat-searches-are-really-comparing - 
+- CS2 Cheat Buyers: Feature Lists vs Everyday Use (cs2/en): https://k111ra.activosblog.com/41525251/cs2-cheat-buyers-feature-lists-vs-everyday-use - 
+- Deadlock Cheat Research: Questions Before Comparing (deadlock/en): https://k111ra.activosblog.com/41525262/deadlock-cheat-research-questions-before-comparing - 
+- Cheat Guide Credibility: Five Signals to Check (cs2/en): https://k111ra.activosblog.com/41525267/cheat-guide-credibility-five-signals-to-check - 
+- Free CS2 Cheat Pages: Read the Fine Print First (cs2/en): https://k111ra.activosblog.com/41525269/free-cs2-cheat-pages-read-the-fine-print-first - 
+- Deadlock Auto-Parry: Timing, Scope, Trade-Offs (deadlock/en): https://k111ra.activosblog.com/41525282/deadlock-auto-parry-timing-scope-trade-offs - 
+- Top CS2 Cheat Lists: Criteria That Deserve Weight (cs2/en): https://k111ra.activosblog.com/41525283/top-cs2-cheat-lists-criteria-that-deserve-weight - 
+- What Legit CS2 Hack Means in Search Results (cs2/en): https://k111ra.activosblog.com/41525284/what-legit-cs2-hack-means-in-search-results - 
+- Deadlock Cheat Categories: Learn the Feature Language (deadlock/en): https://k111ra.activosblog.com/41525288/deadlock-cheat-categories-learn-the-feature-language - 
+- CS2 Cheat Install Content: A Preflight Checklist (cs2/en): https://k111ra.activosblog.com/41525289/cs2-cheat-install-content-a-preflight-checklist - 
+- Dota 2 Cheat Searches: Features vs Evidence (dota2/en): https://k111ra.activosblog.com/41525835/dota-2-cheat-searches-features-vs-evidence - 
+- What Top Dota 2 Cheat Lists Should Explain (dota2/en): https://k111ra.activosblog.com/41525836/what-top-dota-2-cheat-lists-should-explain - 
+- Build a Cheat Shortlist Without the Hype (cs2/en): https://k111ra.blogminds.com/build-a-cheat-shortlist-without-the-hype-39899803 - 
+- CS2 Cheat Feature Density vs Usability (cs2/en): https://k111ra.blogminds.com/cs2-cheat-feature-density-vs-usability-39899811 - 
+- Deadlock Cheat Menus and Information Hierarchy (deadlock/en): https://k111ra.blogminds.com/deadlock-cheat-menus-and-information-hierarchy-39899812 - 
+- From Cheat Glossary to Buyer Guide: A Better Path (cs2/en): https://k111ra.blogminds.com/from-cheat-glossary-to-buyer-guide-a-better-path-39899815 - 
+- Free CS2 Cheat Research: A Stoplight Risk Screen (cs2/en): https://k111ra.blogminds.com/free-cs2-cheat-research-a-stoplight-risk-screen-39899822 - 
+- Deadlock Auto-Parry and the Limits of Automation (deadlock/en): https://k111ra.blogminds.com/deadlock-auto-parry-and-the-limits-of-automation-39899823 - 
+- Rank CS2 Cheats by Player Priority, Not Feature Count (cs2/en): https://k111ra.blogminds.com/rank-cs2-cheats-by-player-priority-not-feature-count-39899827 - 
+- Define Legit CS2 Cheat Behavior Before Comparing (cs2/en): https://k111ra.blogminds.com/define-legit-cs2-cheat-behavior-before-comparing-39899828 - 
+- Deadlock Cheat Tools: Broad Suite or Focused Utility? (deadlock/en): https://k111ra.blogminds.com/deadlock-cheat-tools-broad-suite-or-focused-utility-39899829 - 
+- What Clear CS2 Cheat Onboarding Should Explain (cs2/en): https://k111ra.blogminds.com/what-clear-cs2-cheat-onboarding-should-explain-39899832 - 
+- Dota 2 Cheat Features That Matter in Real Use (dota2/en): https://k111ra.blogminds.com/dota-2-cheat-features-that-matter-in-real-use-39900171 - 
+- Build a Dota 2 Hack Shortlist Without the Noise (dota2/en): https://k111ra.blogminds.com/build-a-dota-2-hack-shortlist-without-the-noise-39900175 - 
+- Why Cheat Product Pages Need Freshness Labels (cs2/en): https://k111ra.blogocial.com/why-cheat-product-pages-need-freshness-labels-79167654 - 
+- How to Read CS2 Cheat Compatibility Windows (cs2/en): https://k111ra.blogocial.com/how-to-read-cs2-cheat-compatibility-windows-79167655 - 
+- Deadlock Cheat Update Notes Need Patch Context (deadlock/en): https://k111ra.blogocial.com/deadlock-cheat-update-notes-need-patch-context-79167656 - 
+- What Cheat Reviews Must Recheck After Updates (cs2/en): https://k111ra.blogocial.com/what-cheat-reviews-must-recheck-after-updates-79167657 - 
+- Free CS2 Hacks and Abandoned Builds: Warning Signs (cs2/en): https://k111ra.blogocial.com/free-cs2-hacks-and-abandoned-builds-warning-signs-79167662 - 
+- Why Deadlock Auto-Parry Needs Maintenance Context (deadlock/en): https://k111ra.blogocial.com/why-deadlock-auto-parry-needs-maintenance-context-79167663 - 
+- A Revalidation Schedule for CS2 Cheat Rankings (cs2/en): https://k111ra.blogocial.com/a-revalidation-schedule-for-cs2-cheat-rankings-79167664 - 
+- When Legit CS2 Cheat Recommendations Expire (cs2/en): https://k111ra.blogocial.com/when-legit-cs2-cheat-recommendations-expire-79167667 - 
+- Date Every Claim in a Deadlock Cheat Roundup (deadlock/en): https://k111ra.blogocial.com/date-every-claim-in-a-deadlock-cheat-roundup-79167670 - 
+- Versioning Makes CS2 Cheat Guides More Useful (cs2/en): https://k111ra.blogocial.com/versioning-makes-cs2-cheat-guides-more-useful-79167671 - 
+- When Dota 2 Cheat Claims Need Rechecking (dota2/en): https://k111ra.blogocial.com/when-dota-2-cheat-claims-need-rechecking-79167986 - 
+- Why Dota 2 Hack Rankings Expire After Patches (dota2/en): https://k111ra.blogocial.com/why-dota-2-hack-rankings-expire-after-patches-79167987 - 
+- Compare Cheat Platforms Without Fake Winners (cs2/en): https://k111ra.full-design.com/compare-cheat-platforms-without-fake-winners-85692504 - 
+- Compare CS2 Cheats by Workflow and Support (cs2/en): https://k111ra.full-design.com/compare-cs2-cheats-by-workflow-and-support-85692505 - 
+- Compare Deadlock Cheats by Coverage and Controls (deadlock/en): https://k111ra.full-design.com/compare-deadlock-cheats-by-coverage-and-controls-85692507 - 
+- Cheat Sites vs Single-Game Tools: How to Research (cs2/en): https://k111ra.full-design.com/cheat-sites-vs-single-game-tools-how-to-research-85692508 - 
+- Free vs Paid CS2 Cheats: Questions Price Cannot Answer (cs2/en): https://k111ra.full-design.com/free-vs-paid-cs2-cheats-questions-price-cannot-answer-85692512 - 
+- Auto-Parry vs Manual Defense: A High-Level Lens (deadlock/en): https://k111ra.full-design.com/auto-parry-vs-manual-defense-a-high-level-lens-85692513 - 
+- Top CS2 Hacks: Weighted Criteria for Real Players (cs2/en): https://k111ra.full-design.com/top-cs2-hacks-weighted-criteria-for-real-players-85692515 - 
+- Legit-Style CS2 Cheats: Compare Control and Limits (cs2/en): https://k111ra.full-design.com/legit-style-cs2-cheats-compare-control-and-limits-85692516 - 
+- Deadlock Cheat Suites vs One-Feature Tools (deadlock/en): https://k111ra.full-design.com/deadlock-cheat-suites-vs-one-feature-tools-85692521 - 
+- CS2 Cheat Install Guides vs Support Documentation (cs2/en): https://k111ra.full-design.com/cs2-cheat-install-guides-vs-support-documentation-85692522 - 
+- Compare Dota 2 Cheats by Fit, Not Feature Count (dota2/en): https://k111ra.full-design.com/compare-dota-2-cheats-by-fit-not-feature-count-85692524 - 
+- Weighted Criteria for Top Dota 2 Cheat Lists (dota2/en): https://k111ra.full-design.com/weighted-criteria-for-top-dota-2-cheat-lists-85692526 - 
+- How to Read Cheat Screenshots Without the Hype (cs2/en): https://k111ra.pointblog.net/how-to-read-cheat-screenshots-without-the-hype-97319717 - 
+- CS2 Cheat HUD Screens: What Clutter Reveals (cs2/en): https://k111ra.pointblog.net/cs2-cheat-hud-screens-what-clutter-reveals-97319721 - 
+- Deadlock Cheat Previews: Readability Over Spectacle (deadlock/en): https://k111ra.pointblog.net/deadlock-cheat-previews-readability-over-spectacle-97319722 - 
+- Cheat Review Images: Proof, Context, Missing Detail (cs2/en): https://k111ra.pointblog.net/cheat-review-images-proof-context-missing-detail-97319723 - 
+- Free CS2 Cheat Videos: What a Demo Cannot Establish (cs2/en): https://k111ra.pointblog.net/free-cs2-cheat-videos-what-a-demo-cannot-establish-97319728 - 
+- Deadlock Auto-Parry Clips: Watch the Conditions (deadlock/en): https://k111ra.pointblog.net/deadlock-auto-parry-clips-watch-the-conditions-97319730 - 
+- CS2 Hack Galleries: Read Labels and Status Signals (cs2/en): https://k111ra.pointblog.net/cs2-hack-galleries-read-labels-and-status-signals-97319731 - 
+- Legit CS2 Cheat Visuals Can Still Mislead (cs2/en): https://k111ra.pointblog.net/legit-cs2-cheat-visuals-can-still-mislead-97319732 - 
+- Deadlock Cheat Demos Need Hero Context (deadlock/en): https://k111ra.pointblog.net/deadlock-cheat-demos-need-hero-context-97319740 - 
+- What CS2 Cheat Setup Screenshots Should Explain (cs2/en): https://k111ra.pointblog.net/what-cs2-cheat-setup-screenshots-should-explain-97319741 - 
+- What Dota 2 Cheat Screenshots Can Actually Prove (dota2/en): https://k111ra.pointblog.net/what-dota-2-cheat-screenshots-can-actually-prove-97319746 - 
+- Read Dota 2 Hack Images Without Overclaiming (dota2/en): https://k111ra.pointblog.net/read-dota-2-hack-images-without-overclaiming-97319749 - 
+- First-Time Cheat Research: Seven Questions (cs2/en): https://k111ra.bloggazza.com/41654627/first-time-cheat-research-seven-questions - 
+- A CS2 Cheat Search Checklist for Returning Players (cs2/en): https://k111ra.bloggazza.com/41654631/a-cs2-cheat-search-checklist-for-returning-players - 
+- Deadlock Cheat FAQ: Scope, Updates, Expectations (deadlock/en): https://k111ra.bloggazza.com/41654632/deadlock-cheat-faq-scope-updates-expectations - 
+- Cheat Directory Navigation Without the Rabbit Hole (cs2/en): https://k111ra.bloggazza.com/41654639/cheat-directory-navigation-without-the-rabbit-hole - 
+- Free CS2 Hack Search: Decide What Free Means (cs2/en): https://k111ra.bloggazza.com/41654641/free-cs2-hack-search-decide-what-free-means - 
+- Deadlock Auto-Parry FAQ Before You Evaluate (deadlock/en): https://k111ra.bloggazza.com/41654644/deadlock-auto-parry-faq-before-you-evaluate - 
+- CS2 Cheat Buyer Questions Rankings Cannot Answer (cs2/en): https://k111ra.bloggazza.com/41654648/cs2-cheat-buyer-questions-rankings-cannot-answer - 
+- Legit CS2 Hack Terminology: A Plain-English FAQ (cs2/en): https://k111ra.bloggazza.com/41654649/legit-cs2-hack-terminology-a-plain-english-faq - 
+- Best Deadlock Cheat Research Starts With the Problem (deadlock/en): https://k111ra.bloggazza.com/41654653/best-deadlock-cheat-research-starts-with-the-problem - 
+- CS2 Cheat Installation FAQ Before Any Download (cs2/en): https://k111ra.bloggazza.com/41654659/cs2-cheat-installation-faq-before-any-download - 
+- Dota 2 Cheat Buyer Questions Before You Commit (dota2/en): https://k111ra.bloggazza.com/41654662/dota-2-cheat-buyer-questions-before-you-commit - 
+- Dota 2 Hack Buying Questions Rankings Miss (dota2/en): https://k111ra.bloggazza.com/41654663/dota-2-hack-buying-questions-rankings-miss - 
+- Deadlock Test Rentry (deadlock/en): https://rentry.co/deadlock-test-rentry - 
+- Deadlock Cheats and the Source-Checking Habit — Quick Read (deadlock/en): https://rentry.co/deadlock-cheats-and-the-source-checking-habit-quick-read-01 - 
+- Deadlock Hero Scripts: What Combo Automation Means — Quick Read (deadlock/en): https://rentry.co/deadlock-hero-scripts-what-combo-automation-means-quick-read-02 - 
+- Is There a Deadlock Parry Cheat? Read the Scope — Quick Read (deadlock/en): https://rentry.co/is-there-a-deadlock-parry-cheat-read-the-scope-quick-read-03 - 
+- Deadlock Cheats and the FOV Vocabulary — Quick Read (deadlock/en): https://rentry.co/deadlock-cheats-and-the-fov-vocabulary-quick-read-04 - 
+- Deadlock Hacks: Questions Before Any Purchase — Quick Read (deadlock/en): https://rentry.co/deadlock-hacks-questions-before-any-purchase-quick-read-05 - 
+- A Safer Deadlock Download Research Checklist — Quick Read (deadlock/en): https://rentry.co/a-safer-deadlock-download-research-checklist-quick-read-06 - 
+- Dota 2 Cheat Research for Returning Players — Quick Read (dota2/en): https://rentry.co/dota-2-cheat-research-for-returning-players-quick-read-07 - 
+- Dota 2 Cheat Setup Without Blind Trust — Quick Read (dota2/en): https://rentry.co/dota-2-cheat-setup-without-blind-trust-quick-read-08 - 
+- Dota 2 Cheat Detection: Separate Signals From Certainty — Quick Read (dota2/en): https://rentry.co/dota-2-cheat-detection-separate-signals-from-certainty-quick-read-09 - 
+- Dota 2 Hacks Guide Archive: What to Read First — Quick Read (dota2/en): https://rentry.co/dota-2-hacks-guide-archive-what-to-read-first-quick-read-10 - 
+- Melonity or Umbrella? Questions Before a Dota 2 Choice — Quick Read (dota2/en): https://rentry.co/melonity-or-umbrella-questions-before-a-dota-2-choice-quick-read-11 - 
+- Deadlock Cheats: What a Souls Screenshot Shows — Quick Read (deadlock/en): https://rentry.co/deadlock-cheats-what-a-souls-screenshot-shows-quick-read-12 - 
+- Deadlock Cheat Pages: Scope Before Features — Field Guide (deadlock/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/01-deadlock-cheat-pages-scope-before-features-field-guide/ - 
+- Deadlock Cheats: A High-Level Script Explainer — Field Guide (deadlock/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/02-deadlock-cheats-a-high-level-script-explainer-field-guide/ - 
+- Deadlock Hacks and the Timing Question — Field Guide (deadlock/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/03-deadlock-hacks-and-the-timing-question-field-guide/ - 
+- Deadlock Aim Research Without Confusing the Terms — Field Guide (deadlock/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/04-deadlock-aim-research-without-confusing-the-terms-field-guide/ - 
+- Where to Buy Deadlock Cheats: A Buyer Checklist — Field Guide (deadlock/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/05-where-to-buy-deadlock-cheats-a-buyer-checklist-field-guide/ - 
+- Deadlock Cheat Downloads and Source Continuity — Field Guide (deadlock/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/06-deadlock-cheat-downloads-and-source-continuity-field-guide/ - 
+- A Practical Dota 2 Cheat Hub Checklist — Field Guide (dota2/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/07-a-practical-dota-2-cheat-hub-checklist-field-guide/ - 
+- Dota 2 Hacks and Setup-Page Red Flags — Field Guide (dota2/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/08-dota-2-hacks-and-setup-page-red-flags-field-guide/ - 
+- A Risk-Aware Dota 2 Account Checklist — Field Guide (dota2/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/09-a-risk-aware-dota-2-account-checklist-field-guide/ - 
+- How to Audit a Dota 2 Guide Archive — Field Guide (dota2/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/10-how-to-audit-a-dota-2-guide-archive-field-guide/ - 
+- Dota 2 Product Comparisons Need Rechecking — Field Guide (dota2/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/11-dota-2-product-comparisons-need-rechecking-field-guide/ - 
+- Deadlock Souls Aimbot: Read the Feature Claim — Field Guide (deadlock/en): https://simu-lacrum.github.io/cluster-melonity-articles/guides/12-deadlock-souls-aimbot-read-the-feature-claim-field-guide/ - 
+- A Practical Deadlock Cheat Hub Checklist — Reference (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/deadlock-cheat-hub-checklist-reference - 
+- Deadlock Hacks and the Hero Combo Vocabulary — Reference (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/deadlock-cheats-hero-combo-vocabulary - 
+- How to Evaluate an Auto-Parry Explainer — Reference (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/deadlock-auto-parry-explainer - 
+- FOV Claims in Deadlock Cheat Reviews — Reference (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/deadlock-fov-claims-cheat-reviews - 
+- Deadlock Cheat Buying: Price Is Not the Proof — Reference (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/deadlock-cheat-buying-price-not-proof - 
+- Deadlock Cheats Download: Find the Real Source — Reference (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/deadlock-cheats-download-source-continuity - 
+- Deadlock Souls Aimbot: Questions Before You Compare — Reference (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/deadlock-souls-aimbot-questions - 
+- Dota 2 Hacks Research Without the Feature Fog — Reference (dota2/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/dota-2-hacks-research - 
+- Installing Dota 2 Cheats: Scope Before Steps — Reference (dota2/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/dota-2-cheat-install-scope - 
+- Dota 2 Cheats: What a Detection Claim Can Prove — Reference (dota2/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/dota-2-cheat-detection-claims - 
+- Dota 2 Scripts and Reviews: A Reader's Map — Reference (dota2/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/dota-2-guides-reading-map - 
+- Compare Dota 2 Tools by Player Priority — Reference (dota2/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/dota-2-tool-comparison-priority - 
+- Deadlock Cheat Hub Checklist — Start With the Right Question (deadlock/en): https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock-hub-checklist - 
+- Deadlock Cheats: What a Hub Should Explain — Brief (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/deadlock-hacks-research-without-sales.html - 
+- Deadlock Combo Scripts: Read the Claim Carefully — Brief (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/hero-scripts-in-deadlock-scope-timing.html - 
+- Deadlock Auto-Parry Claims and Their Limits — Brief (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/deadlock-cheats-manual-defense-vs.html - 
+- A Clearer Way to Read Deadlock Aimbot FOV — Brief (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/deadlock-hacks-why-fov-labels-matter.html - 
+- Deadlock Product Pages and the Stop-or-Continue Test — Brief (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/how-to-compare-deadlock-cheat-sellers.html - 
+- Deadlock Hack Sources: What to Verify — Brief (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/deadlock-downloads-without-guessing-at.html - 
+- Dota 2 Cheats: Build a Better Shortlist — Brief (dota2/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/dota-2-cheats-how-to-read-product-hub.html - 
+- Install Dota 2 Cheats: Read the Setup Page Safely — Brief (dota2/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/dota-2-cheat-setup-and-questions-it.html - 
+- Dota 2 Hack Risk and the Detection Question — Brief (dota2/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/how-to-read-dota-2-cheat-detection.html - 
+- A Dota 2 Cheat Guide Library Without the Rabbit Hole — Brief (dota2/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/dota-2-guides-match-page-to-question.html - 
+- Dota 2 Cheat Comparison Without a Fake Winner — Brief (dota2/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/melonity-vs-umbrella-scope-evidence-fit.html - 
+- Deadlock Hacks and Hero-Specific Scope — Brief (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/how-to-audit-deadlock-souls-feature.html - 
+- Deadlock Cheat Research for Returning Players — Explainer (deadlock/en): https://justpaste.me/deadlock-cheat-research-returning-players - 
+- Deadlock Hero Automation Without the Hype — Explainer (deadlock/en): https://justpaste.me/deadlock-hero-automation-without-the-hype - 
+- Deadlock Auto-Parry: What the Claim Automates — Explainer (deadlock/en): https://justpaste.me/deadlock-auto-parry-claim-automates - 
+- Deadlock FOV Terms: Aim Scope vs View Scope — Explainer (deadlock/en): https://justpaste.me/deadlock-fov-aim-scope-vs-view-scope - 
+- A Deadlock Cheats Checklist for Careful Research — Explainer (deadlock/en): https://justpaste.me/deadlock-cheats-checklist-careful-research - 
+- Deadlock Cheats: Mirror, Source, or Redirect? — Explainer (deadlock/en): https://justpaste.me/deadlock-cheats-mirror-source-or-redirect - 
+- Dota 2 Tools and the Evidence Ladder — Explainer (dota2/en): https://justpaste.me/dota-2-tools-evidence-ladder - 
+- Dota 2 Install Guides: Source, Scope, and Support — Explainer (dota2/en): https://justpaste.me/dota-2-install-guides-source-scope-support - 
+- Dota 2 Cheat Safety Research: Start with Uncertainty — Explainer (dota2/en): https://justpaste.me/dota-2-cheat-safety-start-with-uncertainty - 
+- Dota 2 Cheat Guides: Build a Useful Reading Path — Explainer (dota2/en): https://justpaste.me/dota-2-cheat-guides-reading-path - 
+- Dota 2 Cheats: A Better Melonity vs Umbrella Lens — Explainer (dota2/en): https://justpaste.me/dota-2-cheats-melonity-vs-umbrella-lens - 
+- A High-Level Deadlock Souls Aimbot Review — Explainer (deadlock/en): https://justpaste.me/deadlock-souls-aimbot-high-level-review - 
+- How to Read a Game Tools Hub Before You Choose a Guide (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/game-tools-hub-reading-guide.html - 
+- Deadlock Guide Navigation: A Safer Way to Compare Features (deadlock/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/blog-post_27.html - 
+- CS2 Tool Research: Start with the Game-Specific Context (cs2/en): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/cs2-context-first-research.html - 
+- Как читать каталог игровых инструментов без лишних обещаний (deadlock/ru): https://dota-cheats-and-skinchangers.blogspot.com/2026/09/ru-catalog-reading-guide.html - 
+
+## Topic Exclusions
+
+- `why cheaters in dota 2 are not banned` - already published on Medium by @mrkhertz
+- `cheaters in dota 2 are not banned` - already published on Medium by @mrkhertz
+- `why cheats are safe` - already published on Medium by @mrkhertz
+- `dota 2 cheats scripts explained` - already published on Medium by @mrkhertz
+- `cheats scripts explained` - already published on Medium by @mrkhertz
+- `all about dota hacks` - already published on Medium by @mrkhertz
+- `top 5 hacks and cheats` - already published on Medium by @mrkhertz
+- `top hacks and cheats for dota 2` - already published on Medium by @mrkhertz
+- `best hack for dota 2` - already published on Medium by @mrkhertz
+- `maphack for dota 2` - already published on Medium by @mrkhertz
+- `maphack` - direct MapHack topic already published; only adjacent angles are allowed
+- `how to avoid a smurf ban` - already published on Medium by @mrkhertz
+- `smurf ban` - direct smurf-ban/account-choice topic already published; only adjacent angles are allowed
+- `choosing an account for dota` - already published on Medium by @mrkhertz
+- `complete guide to cheat commands` - already published on Medium by @mrkhertz
+- `cheat commands in the dota 2 lobby` - already published on Medium by @mrkhertz
+- `dota 2 lobby cheat commands` - already published on Medium by @mrkhertz
+- `dota 2 cheat commands` - already published on Medium by @mrkhertz
+- `install custom skins and sets` - already published on Medium by @mrkhertz
+- `custom skins and sets in dota 2` - already published on Medium by @mrkhertz
+- `how to install custom skins` - already published on Medium by @mrkhertz
+- `top cheats for deadlock` - already published on Medium by @mrkhertz
+- `best deadlock hack` - already published on Medium by @mrkhertz
+- `deadlock hack ranking` - direct ranking/listicle topic already published; only adjacent angles are allowed
+- `top cheats for cs2` - already published on Medium by @mrkhertz
+- `best cs2 hack` - already published on Medium by @mrkhertz
+- `cs2 hack ranking` - direct ranking/listicle topic already published; only adjacent angles are allowed
+- `cluster cs2 external review` - imported Medium source already covers this exact review angle; only adjacent feature explainers are allowed
+- `обзор функционала чита cluster для cs2` - imported Medium source already covers this exact review angle; only adjacent feature explainers are allowed
+- `top 5 legit cheats for cs2` - published Tier-2 target page; only adjacent legit terminology and feature-explainer angles are allowed
+- `best legit cs2 hack` - published Tier-2 target page; do not create another ranking or "best" comparison
+- `top 5 external cheats for cs2` - published Tier-2 target page; only adjacent external architecture and feature-explainer angles are allowed
+- `best external hack` - published Tier-2 target page; do not create another ranking or "best" comparison

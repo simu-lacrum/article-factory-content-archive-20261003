@@ -1,0 +1,124 @@
+# Legacy Semantic Clusters
+
+Frequency and KD below have no verified provider/market/date. Do not use them as current US/UK metrics; use the active research core.
+
+- dota2 | GENERAL: dota - длинный хвост | дота 2 интернешнл 2025 | freq=64359646.0 | exact=2159215.0 | kd=3.0 | promo=None
+- dota2 | NAV: brand dota | дота 2 | freq=12422988.0 | exact=100018.0 | kd=10.0 | promo=None
+- dota2 | CORE: читы dota 2 | читы дота 2 | freq=2521929.0 | exact=67399.0 | kd=8.0 | promo=None
+- dota2 | GENERAL: герои (общее) | герои дота 2 | freq=2469271.0 | exact=34167.0 | kd=9.0 | promo=None
+- dota2 | GENERAL: ММR / рейтинг (инфо) | таблица ммр дота 2 | freq=2445078.0 | exact=110645.0 | kd=8.0 | promo=None
+- dota2 | GENERAL: матчи/прогнозы/расписание | прогнозы дота 2 | freq=2383188.0 | exact=78443.0 | kd=9.0 | promo=None
+- cs2 | Консоль / Команды / Бинды | команда кс 2 | freq=2223970.0 | exact=32025.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Скины / Маркет / Трейд | скины кс 2 | freq=2035852.0 | exact=120357.0 | kd=10.0 | promo=Контекстное упоминание
+- cs2 | Карты / Раскидки / Смоки | карта кс 2 | freq=1889326.0 | exact=26984.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Сервера / Паблики | сервера кс 2 | freq=1886211.0 | exact=315992.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: скины/сеты/аркана | арканы дота 2 | freq=1838210.0 | exact=64137.0 | kd=9.0 | promo=None
+- dota2 | GENERAL: турниры / TI / Major | турниры дота 2 | freq=1583247.0 | exact=125512.0 | kd=10.0 | promo=None
+- dota2 | NATIVE: гайды/обучение | дота 1 гайд | freq=1491629.0 | exact=38645.0 | kd=7.0 | promo=None
+- dota2 | GENERAL: ранги / медали / звания | ранги дота 2 | freq=1402142.0 | exact=70577.0 | kd=8.0 | promo=None
+- cs2 | FPS / Оптимизация | фпс кс 2 | freq=994597.0 | exact=42550.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Читы CS2 (общие) | кс 2 читы | freq=839060.0 | exact=49553.0 | kd=8.0 | promo=Прямая реклама melonity
+- dota2 | GENERAL: workshop / параметры запуска | параметры запуска дота 2 | freq=801810.0 | exact=24424.0 | kd=8.0 | promo=None
+- dota2 | GENERAL: что такое / wiki / FAQ | игра дота | freq=798170.0 | exact=10247.0 | kd=8.0 | promo=None
+- cs2 | WH / Wallhack | вх кс 2 | freq=747639.0 | exact=46425.0 | kd=8.0 | promo=Прямая реклама melonity
+- cs2 | Настройки / Конфиг | настройка кс 2 | freq=741744.0 | exact=40982.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Карты / Раскидки / Смоки | карты для тренировок кс 2 | freq=707852.0 | exact=25238.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: скачать/установить | скачать дота 2 | freq=668664.0 | exact=24133.0 | kd=8.0 | promo=None
+- dota2 | GENERAL: роли/позиции | дота 2 керри мета | freq=637938.0 | exact=23626.0 | kd=7.0 | promo=None
+- dota2 | GENERAL: маркет/трейд | дота маркет | freq=625281.0 | exact=109176.0 | kd=10.0 | promo=None
+- cs2 | Кейсы / Рулетки / Дроп | кейсы кс 2 | freq=623957.0 | exact=73964.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | GENERAL: киберспорт команды | team spirit dota 2 | freq=609366.0 | exact=131923.0 | kd=10.0 | promo=None
+- cs2 | Скачать / Установить CS2 | кс 2 скачать | freq=551436.0 | exact=53193.0 | kd=10.0 | promo=Контекстное упоминание
+- cs2 | Сервера / Паблики | сервер кс2 | freq=528254.0 | exact=40793.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Прицел / Crosshair | прицелы кс 2 | freq=515027.0 | exact=45072.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Скины / Маркет / Трейд | скин кс2 | freq=506835.0 | exact=47131.0 | kd=10.0 | promo=Контекстное упоминание
+- cs2 | Консоль / Команды / Бинды | команды кс2 | freq=471611.0 | exact=6757.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Читы CS2 (общие) | как включить консоль кс 2 | freq=416097.0 | exact=76389.0 | kd=8.0 | promo=Прямая реклама melonity
+- dota2 | GENERAL: dota 1 / classic / 1x6 | дота 1 | freq=391201.0 | exact=35386.0 | kd=7.0 | promo=None
+- dota2 | GENERAL: атрибуты (сила/ловкость/инт) | дота интернешнл 2025 | freq=359804.0 | exact=23843.0 | kd=7.0 | promo=None
+- cs2 | Карты / Раскидки / Смоки | карты кс2 | freq=347897.0 | exact=11523.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: онлайн/сервера/пинг | онлайн доты | freq=341784.0 | exact=11043.0 | kd=7.0 | promo=None
+- cs2 | Турниры / Мажоры | турнир кс 2 | freq=334747.0 | exact=61432.0 | kd=10.0 | promo=Контекстное упоминание
+- cs2 | Тренировка Aim | тренировка аима кс 2 | freq=324364.0 | exact=17522.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: ставки/букмекеры | ставки дота 2 | freq=288392.0 | exact=10199.0 | kd=8.0 | promo=None
+- dota2 | GENERAL: стримы/стримеры | твич дота 2 | freq=284597.0 | exact=29842.0 | kd=10.0 | promo=None
+- cs2 | Ранг / ММР / Буст / Faceit | фейсит кс 2 | freq=277022.0 | exact=36886.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: предметы/артефакты | дота предметы | freq=254605.0 | exact=4731.0 | kd=9.0 | promo=None
+- cs2 | Консоль / Команды / Бинды | команды в консоли кс 2 | freq=252337.0 | exact=27104.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | CORE: покупка/продажа аккаунтов | купить аккаунт дота 2 | freq=248557.0 | exact=16992.0 | kd=8.0 | promo=None
+- cs2 | Консоль / Команды / Бинды | бинд на колесико кс2 | freq=214352.0 | exact=25550.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: кейсы/сундуки | кейсы дота 2 | freq=197015.0 | exact=21973.0 | kd=8.0 | promo=None
+- dota2 | NATIVE: трекеры/dotabuff/opendota/stratz | дота 2 протрекер | freq=193498.0 | exact=70158.0 | kd=10.0 | promo=None
+- dota2 | NATIVE-HERO: invoker | инвокер дота 2 | freq=190191.0 | exact=12474.0 | kd=7.0 | promo=None
+- cs2 | Настройки / Конфиг | настройки кс2 | freq=183483.0 | exact=13242.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: трансляции/смотреть | dltv dota 2 | freq=183044.0 | exact=9343.0 | kd=10.0 | promo=None
+- cs2 | Прицел / Crosshair | прицел кс2 | freq=182202.0 | exact=23091.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Скины / Маркет / Трейд | дешевый нож в кс 2 | freq=179722.0 | exact=26360.0 | kd=10.0 | promo=Контекстное упоминание
+- cs2 | Скины / Маркет / Трейд | где продавать скины кс2 | freq=179019.0 | exact=32551.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | NATIVE: контрпик/пикер | контрпики дота 2 | freq=175015.0 | exact=7698.0 | kd=7.0 | promo=None
+- cs2 | Читы CS2 (общие) | как включить кс2 | freq=172195.0 | exact=17308.0 | kd=8.0 | promo=Прямая реклама melonity
+- dota2 | NATIVE: мета dota 2 | мета дота 2 | freq=168455.0 | exact=21003.0 | kd=7.0 | promo=None
+- cs2 | Настройки / Конфиг | настройки рук в кс 2 | freq=167298.0 | exact=39106.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Читы CS2 (общие) | чит кс2 | freq=165296.0 | exact=3200.0 | kd=8.0 | promo=Прямая реклама melonity
+- dota2 | NATIVE-HERO: pudge | пудж дота 2 | freq=163003.0 | exact=11708.0 | kd=7.0 | promo=None
+- dota2 | CORE: калибровка MMR | калибровка дота 2 | freq=162421.0 | exact=5276.0 | kd=7.0 | promo=None
+- dota2 | GENERAL: настройки/конфиг/производительность | дота лагает | freq=155695.0 | exact=2605.0 | kd=5.0 | promo=None
+- cs2 | Скины / Маркет / Трейд | продать скину кс2 | freq=147474.0 | exact=20182.0 | kd=10.0 | promo=Контекстное упоминание
+- cs2 | Скины / Маркет / Трейд | сервера кс 2 со скинами | freq=144108.0 | exact=30267.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | NATIVE-HERO: puck | дота 2 пак | freq=143332.0 | exact=7960.0 | kd=7.0 | promo=None
+- dota2 | GENERAL: ники/имена | ники дота 2 | freq=138925.0 | exact=2781.0 | kd=5.0 | promo=None
+- cs2 | FPS / Оптимизация | сколько фпс в кс2 | freq=136528.0 | exact=16479.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: режимы игры | параметры для запуска дота 2 | freq=135985.0 | exact=1518.0 | kd=7.0 | promo=None
+- cs2 | Кейсы / Рулетки / Дроп | кейс кс2 | freq=134559.0 | exact=9873.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | GENERAL: dota plus / подписка | дота плюс купить | freq=129510.0 | exact=16331.0 | kd=8.0 | promo=None
+- cs2 | Тренировка Aim | карты для тренировки аим кс 2 | freq=129333.0 | exact=28580.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | WH / Wallhack | вх кс2 консоль | freq=128446.0 | exact=9430.0 | kd=8.0 | promo=Прямая реклама melonity
+- cs2 | Отдача / Spray Control | раскидки кс 2 | freq=119171.0 | exact=4855.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- dota2 | GENERAL: fantasy challenge | фэнтези дота 2 | freq=118164.0 | exact=10221.0 | kd=7.0 | promo=None
+- dota2 | NATIVE-HERO: spectre | спектра дота 2 | freq=116841.0 | exact=5298.0 | kd=7.0 | promo=None
+- dota2 | GENERAL: leaderboard / топ игроков | dota 2 leaderboard | freq=114341.0 | exact=11773.0 | kd=10.0 | promo=None
+- dota2 | NATIVE-HERO: sniper | дота 2 снайпер | freq=112372.0 | exact=7644.0 | kd=7.0 | promo=None
+- cs2 | Карты / Раскидки / Смоки | карта для тренировки кс2 | freq=106680.0 | exact=9406.0 | kd=9.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Обновления / Патчи | обновления кс 2 | freq=105702.0 | exact=9374.0 | kd=10.0 | promo=Контекстное упоминание
+- cs2 | Скины / Маркет / Трейд | нож в кс2 | freq=102551.0 | exact=16506.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | CORE: скрипты dota 2 | скачать скрипт хук 5 дот нет | freq=102146.0 | exact=6320.0 | kd=7.0 | promo=None
+- dota2 | GENERAL: парти / лобби | команды для лобби дота 2 | freq=100745.0 | exact=2672.0 | kd=5.0 | promo=None
+- dota2 | NATIVE-HERO: rubick | лавка рубика дота 2 | freq=96339.0 | exact=6269.0 | kd=7.0 | promo=None
+- cs2 | Турниры / Мажоры | кс2 турниры | freq=95711.0 | exact=24921.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | GENERAL: roshan/руны/крипы | рошан дота 2 | freq=95332.0 | exact=2875.0 | kd=7.0 | promo=None
+- dota2 | NATIVE: аналитика/статистика | статистика дота 2 | freq=93910.0 | exact=3619.0 | kd=8.0 | promo=None
+- dota2 | NATIVE: билды/сборки | рандом билд дота 2 | freq=92873.0 | exact=3440.0 | kd=7.0 | promo=None
+- cs2 | Настройки / Конфиг | параметры запуска кс2 | freq=90045.0 | exact=17754.0 | kd=8.0 | promo=Нативная реклама / SEO-контент
+- dota2 | CORE: боты/автопилот dota 2 | где топ где бот в доте 2 | freq=89619.0 | exact=760.0 | kd=6.0 | promo=None
+- cs2 | Скины / Маркет / Трейд | lisskins cs2 | freq=88929.0 | exact=52191.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | NATIVE-HERO: zeus | зевс дота 2 | freq=86113.0 | exact=5493.0 | kd=7.0 | promo=None
+- cs2 | Консоль / Команды / Бинды | консоль в кс2 | freq=84938.0 | exact=3219.0 | kd=8.0 | promo=Нативная реклама / SEO-контент
+- dota2 | NATIVE: патчи dota 2 | патч дота 2 | freq=83810.0 | exact=4934.0 | kd=8.0 | promo=None
+- dota2 | GENERAL: киберспорт игроки | яторо дота 2 | freq=81842.0 | exact=15128.0 | kd=10.0 | promo=None
+- cs2 | Читы CS2 (общие) | скачать читы кс2 | freq=81634.0 | exact=13025.0 | kd=7.0 | promo=Прямая реклама melonity
+- cs2 | Отдача / Spray Control | карта для раскидок кс 2 | freq=81113.0 | exact=7697.0 | kd=8.0 | promo=Нативная реклама / SEO-контент
+- dota2 | COMP: Umbrella (главный конкурент) | umbrella dota 2 | freq=79991.0 | exact=16642.0 | kd=5.0 | promo=None
+- cs2 | Сервера / Паблики | cybershoke cs2 | freq=78276.0 | exact=21708.0 | kd=8.0 | promo=Нативная реклама / SEO-контент
+- dota2 | NATIVE-HERO: juggernaut | джаггернаут дота | freq=77773.0 | exact=9065.0 | kd=7.0 | promo=None
+- cs2 | Скинченджер | скинченджер кс2 | freq=77158.0 | exact=20265.0 | kd=7.0 | promo=Прямая реклама melonity
+- cs2 | Настройки / Конфиг | cfg cs2 | freq=75297.0 | exact=19313.0 | kd=8.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Про-игроки / Команды | симпл кс 2 | freq=73970.0 | exact=4146.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | GENERAL: эгида/aegis | эгида дота 2 | freq=64347.0 | exact=9045.0 | kd=8.0 | promo=None
+- dota2 | NATIVE-HERO: lina | лина дота 2 | freq=62957.0 | exact=5476.0 | kd=7.0 | promo=None
+- cs2 | Консоль / Команды / Бинды | бинд на прыжок кс 2 | freq=62712.0 | exact=9105.0 | kd=8.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Bhop / Movement | бхоп кс 2 | freq=62578.0 | exact=6727.0 | kd=7.0 | promo=Прямая реклама melonity
+- dota2 | NATIVE-HERO: nyx | твич никс дота 2 | freq=61119.0 | exact=10432.0 | kd=7.0 | promo=None
+- dota2 | NATIVE-HERO: shaker | дота 2 шейкер | freq=58811.0 | exact=5779.0 | kd=7.0 | promo=None
+- dota2 | GENERAL: коммьюнити/форумы | дота форум 2 | freq=57710.0 | exact=5795.0 | kd=7.0 | promo=None
+- dota2 | CORE: MMR буст / накрутка | буст ммр дота 2 | freq=54444.0 | exact=5055.0 | kd=8.0 | promo=None
+- dota2 | GENERAL: фразы/звуки | звук доты | freq=52325.0 | exact=204.0 | kd=6.0 | promo=None
+- cs2 | Читы CS2 (общие) | скачать чит на кс 2 | freq=51229.0 | exact=3838.0 | kd=7.0 | promo=Прямая реклама melonity
+- cs2 | HvH / Rage / Legit | хвх кс2 | freq=50916.0 | exact=12697.0 | kd=7.0 | promo=Прямая реклама melonity
+- cs2 | FPS / Оптимизация | параметры запуска кс 2 для повышения фпс | freq=50550.0 | exact=16926.0 | kd=8.0 | promo=Нативная реклама / SEO-контент
+- cs2 | Кейсы / Рулетки / Дроп | сайт кейсов кс2 | freq=50376.0 | exact=4373.0 | kd=10.0 | promo=Контекстное упоминание
+- dota2 | GENERAL: liquipedia / cybersport | ликвипедия дота 2 | freq=50196.0 | exact=20385.0 | kd=10.0 | promo=None
+- cs2 | Скины / Маркет / Трейд | обмен скинов кс2 | freq=50088.0 | exact=15063.0 | kd=10.0 | promo=Контекстное упоминание
+- cs2 | Кейсы / Рулетки / Дроп | сайты кс2 кейсы | freq=49762.0 | exact=7371.0 | kd=9.0 | promo=Контекстное упоминание
+- dota2 | NATIVE-HERO: antimage | дота 2 антимаг | freq=49711.0 | exact=4277.0 | kd=7.0 | promo=None
+- dota2 | NATIVE-HERO: marci | марси дота 2 | freq=49363.0 | exact=6323.0 | kd=7.0 | promo=None
+- dota2 | NATIVE-HERO: luna | луна дота 2 | freq=48947.0 | exact=4404.0 | kd=7.0 | promo=None
