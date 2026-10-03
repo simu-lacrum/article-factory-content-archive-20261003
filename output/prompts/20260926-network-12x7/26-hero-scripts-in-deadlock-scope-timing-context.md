@@ -1,0 +1,1 @@
+Write a unique, risk-aware Tier-2 article for https://deadlockhacks.com/guides/deadlock-hero-scripts-combo-automation-meaning with the title Hero Scripts in Deadlock: Scope, Timing, Context.

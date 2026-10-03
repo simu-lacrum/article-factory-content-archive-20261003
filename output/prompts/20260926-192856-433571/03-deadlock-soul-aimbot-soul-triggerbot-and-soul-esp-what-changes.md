@@ -1,0 +1,2234 @@
+You are an expert SEO editor and game-content researcher.
+
+Write a useful, non-generic SEO article in English.
+
+USER SPEC:
+Write 12 unique English Tier-2 editorial articles, one for each supplied source page in knowledge/link_sources/network-t2-deadlock-dota-20260926.txt. Cover six Deadlock targets and six Dota 2 targets, matching the target page intent exactly. Keep all articles high-level, evidence-led, risk-aware, non-operational: do not explain bypasses, evasion, exploit implementation, or cheat deployment. Use real images or GIFs from each source page, with SEO front matter, <=160 character primary-keyword descriptions, image placement notes, FAQ, and native product mapping: Deadlock -> cluster.center, Dota 2 -> Melonity. Build distinct Tier-2 angles suitable for syndication on hosted editorial blogs.
+
+ARTICLE TARGET:
+- Title: Deadlock soul aimbot, soul triggerbot and soul ESP: what changes?
+- Game: deadlock
+- Main query: deadlock souls aimbot
+- Cluster: deadlock-souls
+- Risk level: elevated
+- Target volume: Cover the reader job completely; no SEO word-count target
+- Style: Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler
+- Advertising mode: native
+- Product to integrate: cluster.center
+
+SEO / TOPIC EVIDENCE:
+- Separate target choice, aiming, firing and displayed soul information.
+- Use the same soul-orb situation to compare advertised actions across named descriptions.
+
+SUGGESTED OUTLINE:
+- The target is a soul orb
+- Aiming and firing are separate actions
+- Information overlays do something else
+- Why vendor labels need checking
+- Aiming FOV is not camera FOV
+- FAQ
+
+BACKGROUND NOTES FOR THE WRITER (do not name these in the article):
+### Source: https://cluster.center/en/deadlock / Deadlock Cheats: Aimbot, Auto Parry & Hero Combos | Cluster
+and camera controls. Available features include Aimbot, Dodger, ESP (Wallhack), Hero Combos, Auto Parry, Anti Parry, Souls Aimbot, Humanizer and FOV Changer. The interface is designed for a straightforward setup, while individual functions can be adjusted to suit different playstyles. We've put a lot of effort into optimization, security, and affordability, and we've made the setup process as simple as possible so that buying and using our private Deadlock cheats […] the timing of supported attacks and combinations to make them less predictable for an opponent’s parry. Souls Aimbot Provides aim assistance when targeting Souls, helping users interact with them more consistently. FOV Changer Allows the supported field-of-view value to be adjusted for a wider or narrower view of the battlefield. Dodger Automatically dodge enemy abilities. Frequently asked questions How safe is your cheat? Your account is protected by anti-cheat bypass
+
+### Source: https://tsuki.gg/products/deadlock/features / Deadlock Hacks - Aimbot, ESP, Wallhack, Auto Parry - TSUKI
+bones with configurable priorities Recoil Control System (RCS) Target Priority (Crosshair, Distance, Health) Max Lock Distance Soul Aimbot Trooper Aimbot Lock-on Tuning Lock-on smoothing, slowdown and duration Deadzone Scale FOV with zoom Priority bias and bone stickiness Low HP Priority Prefer the target closest to dying, with a threshold Vischeck Options Does not lock onto Haze Stealth, Metal Skin, Viscous Cube, or other invulnerable targets Walker Check Does not lock […] Perfect for Vindicta execution snipes, Venator ultimate, and more Shot Delay Visibility Check Max Trigger Distance Soul Triggerbot Flicks onto souls and one-taps them with configurable delays, smoothing, and vischeck Deny and Secure Souls Separate behaviours for shooting enemy souls and securing your own Timing Pre-fire delay and pre-fire distance Minimum and maximum soul age Tap interval Post-lock delay and shot cooldown Target switch cooldown Tracking Lock-on stiffness, smoothing, slowdown […] alert before spawn Sound ESP Sound events drawn in the world when enemy footsteps are heard Soul Orb ESP With a timer that shows when the soul is hittable or about to disappear Guided Owl ESP Timers & Notifications Every timer can draw on the world ESP, on the in-game minimap, or both. Alerts fire before a spawn so you can rotate in time rather than react to it. Timers
+
+### Source: https://avalan.cc/ / Deadlock Cheats | Avalanche
+premium, undetected Deadlock cheat: a single mod menu that brings aimbot, silent aim, ESP, chams, a soul triggerbot and full hero scripts to Valve's hero shooter. Buy a plan and the menu unlocks instantly, with no waiting and no queues. Every build is the same complete feature set; you only choose how long your access window stays open. Whether you call them Deadlock cheats, Deadlock hacks or a Deadlock mod […] visibly moving your crosshair. Tune FOV, smoothing and recoil control, pick your hitbox, and let the soul triggerbot fire the instant a target crosses your reticle. Deadlock ESP & Wallhack The Deadlock ESP draws enemies through walls with configurable boxes, names, health and distance, plus snaplines and viewlines so you always know where a fight is coming from. Chams render enemy models as solid, high-contrast shapes: a true Deadlock wallhack […] the Deadlock hacks include? Aimbot with PSilent silent aim, FOV and recoil control, hitbox selection, a soul triggerbot, enemy ESP with boxes, health and distance, chams, snaplines, hero scripts and a config manager. See the features page for the full module list. Does the Deadlock cheat have an aimbot and silent aim? Yes. A full Deadlock aimbot plus PSilent projectile silent aim that resolves shots without visibly snapping your crosshair,
+
+### Source: https://avalan.cc/features / Deadlock Hack Features | Avalanche
+Lock : Holds your aim on a single chosen target instead of switching. Combat & Abilities Soul Triggerbot : Automatically fires the instant a soul orb is on your crosshair, with range and delay tuning. Ability Aim Assist : Auto-aims skill-shot abilities at the best target within their own cast range and cone. Item Aim Assist : Auto-targets aimed items with dedicated cone, range, priority, and ignore rules. Counter Spell
+
+### Source: https://tsuki.gg/scripts/deadlock/aimed-fov / Aimed FOV - Deadlock External Lua Script - TSUKI
+Script Library › Deadlock External › Aimed FOV Aimed FOV Allows you to set a custom FOV for aimbot when aiming. External #utility #aimbot #helper tomo Uploaded May 30, 2026 Updated Jun 28, 2026 8 downloads 4 subscribers 1.1 KiB 5.0 (1) Subscribe to Deadlock External
+
+STRICT RULES:
+- Use the background notes and verified facts internally; do not mention "local sources", "local evidence", "evidence pack", or "knowledge base" in the final article body.
+- Write in a direct editorial voice. Never invent personal testing or experience; use "we tested" only with a real test record.
+- Use only supported facts or mark uncertainty explicitly.
+- Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.
+- Do not provide operational instructions for bypassing anti-cheat, evading detection, exploiting vulnerabilities, or implementing cheats.
+- If risk level is `restricted`, write only a high-level educational/risk-aware article and refuse operational steps.
+- You may mention cluster.center as a product/brand in a native ad block, but do not make unsupported safety guarantees.
+- Respect product mapping: Dota 2 uses Melonity; Deadlock and CS2 use cluster.center.
+- Deliver the reader's answer first. Include only examples, explanations and checklists that help this specific intent.
+- Match the imported Medium source style: direct, practical, conversational, lightly slangy, gamer-aware, and free from water, corporate wording, bureaucratic phrasing, or academic over-explaining.
+- Keep the target volume useful but tight: cover the intent completely, without padding.
+- Do not use markdown tables. Use bullet lists, numbered lists, and comparison lists instead.
+- Return Markdown with front matter: title, description, game, language, primary_keyword, secondary_keywords.
+- End with a useful FAQ block and include image placement notes. Follow the project's visual prompt guide.
+- Use related entities and natural variants where relevant. There is no mandatory keyword density or ideal anchor ratio.
+- Do not add empty introductions, repeated takeaways, fake quotes, or a fixed paragraph template to reach a word count.
+
+RESEARCH AND READER CONTRACT (editorial input, not article text):
+{
+  "study_id": "seo-20260921",
+  "captured_at": "2026-09-21",
+  "market": {
+    "country": "US",
+    "engine": "google",
+    "language": "en",
+    "secondary_market": "GB"
+  },
+  "source_policies": {
+    "https://cswatch.gg/blog/cs2-cheat-types-explained": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reason": "Contains unsupported anti-cheat effectiveness/safety claims and overconfident behavioral detection statements. Analyze layout and wording, not product truth.",
+      "reviewed_at": "2026-09-21"
+    },
+    "https://steamreport.net/blog/cs2-cheating-types-explained": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reason": "Commercial reporting-service article makes unsupported report-priority and ban-effectiveness claims. Analyze layout and wording, not product truth.",
+      "reviewed_at": "2026-09-21"
+    },
+    "https://umbrella-dota.com/en/features/maphack/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Page mixes feature labels with unverified hidden-information, safety and evasion claims plus setup instructions. Retain for on-page analysis; do not automatically feed these passages to the writer."
+    },
+    "https://dota2tool.vercel.app/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Useful example of the manual-timer reader job, not an authoritative source for current game timings or third-party ESP functionality."
+    },
+    "https://dotasense.com/guides/roshan-timer": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Gameplay/timer page observed in broad timer SERP. It does not substantiate ESP or other third-party information features."
+    },
+    "https://xplay.gg/blog/cs2-skinchanger-how-it-works-and-how-to-access-it-on-our-servers/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://sellyourskins.com/blog/is-skin-changer-bannable/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://cheatstore.net/deadlock/triggerbot": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://umbrella-dota.com/en/scripts/invoker/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+    },
+    "https://umbrella-dota.com/en/scripts/meepo/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+    },
+    "https://umbrella-dota.com/en/features/dodger/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+    },
+    "https://www.ciroscript.com/dota": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+    },
+    "https://cheater.fun/deadlock_cheats/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://en.exloader.net/tree/games/deadlock/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://octarine.fun/en/deadlock/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://cheater.fun/cs2-hacks/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://cheater.fun/cheats_for_dota2_download_hacks_free/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://en.exloader.net/tree/modifications/sdk2changer/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://en.exloader.net/tree/modifications/d2jsr/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://scope.gg/grenade-predictor/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. The page includes legacy-looking tickrate/map wording; do not assume every detail describes the current CS2 version."
+    },
+    "https://csnades.gg/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified."
+    },
+    "https://ivsofte.biz/en/blog/best-deadlock-cheats/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. Reseller recommendations and anti-cheat/evasion assertions are not independent factual evidence."
+    },
+    "https://madchad.net/best-deadlock-cheats-2026/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified."
+    },
+    "https://deadlockcheats.net/blog": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. The comparison uses an own-product column and unnamed generic rivals, with no inspected test protocol."
+    },
+    "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence. Own-product comparison contains unsupported rival capability, price, ban-rate, support and patch-speed assertions. The inspected copy does not establish a verifiable test protocol."
+    },
+    "https://dota2cheat.net/blog/dota2-cheats-vs-ghostware-features-pricing/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+    },
+    "https://ivsofte.biz/en/compare/dota-2-hacks/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observed redirect to /en/games/dota-2-hacks/ returns an access-restricted login screen. Preserve the HTTP capture but exclude its words, links and metadata from the competitor-comparison corpus; no access attempt was made.",
+      "exclude_from_onpage_analysis": true
+    },
+    "https://overplus.gg/en": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+    },
+    "https://metaskins.gg/en": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence. Multi-game landing includes product cards; a risk-free slogan is an unverified marketing claim, not evidence of safety."
+    },
+    "https://distort.wtf/features/cs2-grenade-helper": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+    }
+  },
+  "id": "deadlock-souls",
+  "game": "deadlock",
+  "language": "en",
+  "primary_query": "deadlock souls aimbot",
+  "title": "Deadlock soul aimbot, soul triggerbot and soul ESP: what changes?",
+  "reader_job": "Separate target choice, aiming, firing and displayed soul information.",
+  "intent": "informational",
+  "scope": "third_party_software",
+  "page_type": "explanatory_guide",
+  "publication_action": "write_article",
+  "primary_site": "deadlockhacks.com",
+  "grouping_basis": "editorial_hypothesis_pending_serp_overlap_validation",
+  "original_value": "Use the same soul-orb situation to compare advertised actions across named descriptions.",
+  "semantic_terms": [
+    "soul orb",
+    "secure",
+    "deny",
+    "target type",
+    "aim assistance",
+    "resource"
+  ],
+  "competitor_urls": [
+    "https://avalan.cc/",
+    "https://avalan.cc/features",
+    "https://cheatstore.net/deadlock/triggerbot",
+    "https://deadlock.io/en/articles/mechanics/parry",
+    "https://deadlock.wiki/Console_commands",
+    "https://forgecheats.com/en/game/deadlock",
+    "https://tsuki.gg/products/deadlock/features",
+    "https://uc.zone/en/deadlock"
+  ],
+  "outline": [
+    "The target is a soul orb",
+    "Aiming and firing are separate actions",
+    "Information overlays do something else",
+    "Why vendor labels need checking",
+    "Aiming FOV is not camera FOV",
+    "FAQ"
+  ],
+  "anchor_guidance": [
+    "Use a descriptive contextual link to the deadlock feature hub when it helps the next reader question",
+    "Use the brand name for a vendor reference; do not disguise promotional links as independent recommendations",
+    "Use the raw URL only when identifying a destination is useful; avoid filler anchors such as click here",
+    "No required exact/partial/branded/naked percentages; inbound backlink ratios remain unmeasured"
+  ],
+  "evidence_needed": [
+    "Verify each current feature claim on a dated vendor page",
+    "Check existing owned-site coverage before making a new URL",
+    "Collect a dedicated US SERP and real search-volume data before scheduling by demand"
+  ],
+  "comparison_contract": null,
+  "priority": "P1",
+  "priority_basis": "Editorial usefulness, feature specificity and existing coverage; NOT search volume or ranking difficulty",
+  "research_state": "partial_serp_validation",
+  "suggested_questions": [],
+  "editorial_status": "brief_not_a_verified_product_claim",
+  "serp_mismatch": "The singular soul aimbot sample contains three product pages, two repositories, two forum results and video. Soul triggerbot mixes two products with gameplay discussions, wiki/commands, a repository and video. Only Tsuki is shared. Keep one supporting feature explainer; do not split aim/fire/display into new pages or claim the terms are SERP-validated synonyms. Existing plural target has its own earlier observation; volume is unknown for all these variants.",
+  "publication_role": "Supporting explanation linked from the feature hub; the article does not substitute for a product-access page.",
+  "intent_matched_urls": [
+    "https://tsuki.gg/products/deadlock/features"
+  ],
+  "usage_phrases": [
+    "soul aimbot",
+    "soul triggerbot",
+    "soul ESP"
+  ],
+  "corpus_note": "Tsuki is observed for both new singular variants. Broader product descriptions remain a mixed-format corpus; Cluster is owned and excluded from competitor usage statistics.",
+  "reviewed_semantic_terms": [
+    {
+      "term": "soul orb",
+      "usage_note": "Identify the resource target separately from an enemy hero."
+    },
+    {
+      "term": "soul aimbot",
+      "usage_note": "Use for the claimed soul-aiming action; do not infer firing or display support."
+    },
+    {
+      "term": "soul triggerbot",
+      "usage_note": "Compare the publisher verbs: some descriptions combine aiming and firing."
+    },
+    {
+      "term": "soul ESP",
+      "usage_note": "Use for soul information/highlighting; do not infer aim or firing."
+    },
+    {
+      "term": "secure",
+      "usage_note": "Keep the soul-resource context explicit; do not match this to payment security. Observed-source matching is limited to the reviewed Tsuki soul-target context; payment, build security and Secure Boot occurrences are excluded.",
+      "source_urls": [
+        "https://tsuki.gg/products/deadlock/features"
+      ]
+    },
+    {
+      "term": "deny",
+      "usage_note": "Name the specific resource/action context; do not infer support from an aimbot label."
+    },
+    {
+      "term": "target",
+      "usage_note": "Specify the object involved, rather than treating every target as a player."
+    }
+  ],
+  "semantic_review": {
+    "reviewed_at": "2026-09-21",
+    "basis": "Editorial relevance to the reader job, checked against the retained corpus at build time. Zero matching documents remains explicitly unobserved.",
+    "not_a_quota": true
+  },
+  "keywords": [
+    {
+      "query": "deadlock souls aimbot",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [
+        "https://avalan.cc/",
+        "https://uc.zone/en/deadlock"
+      ],
+      "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "ea649c6d0f3f5a8356ab",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 1,
+      "page_type_evidence": {
+        "counts": {
+          "repository": 1,
+          "discussion": 3,
+          "commercial_page_provisional": 3
+        },
+        "sample_results": 7,
+        "samples": [
+          {
+            "method": "browser_dom",
+            "captured_at": "2026-09-21",
+            "country_requested": "US",
+            "source_file": "raw\\google-observed.json",
+            "counts": {
+              "repository": 1,
+              "discussion": 3,
+              "commercial_page_provisional": 3
+            },
+            "unique_nonvideo_results": 7
+          }
+        ],
+        "decision": "observed_mix",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul aimbot",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [
+        "https://avalan.cc/",
+        "https://uc.zone/en/deadlock"
+      ],
+      "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "e7cdda3336d0e9d1c932",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 1,
+      "page_type_evidence": {
+        "counts": {
+          "code_repository": 2,
+          "cheating_discussion": 1,
+          "product_feature_page": 1,
+          "owned_product_page": 1,
+          "reseller_product_page": 1,
+          "software_forum_category": 1
+        },
+        "sample_results": 7,
+        "samples": [
+          {
+            "method": "browser_dom",
+            "captured_at": "2026-09-21T06:07:12.609Z",
+            "country_requested": "US",
+            "source_file": "raw/google-cosmetic-information-intents.json",
+            "counts": {
+              "code_repository": 2,
+              "cheating_discussion": 1,
+              "product_feature_page": 1,
+              "owned_product_page": 1,
+              "reseller_product_page": 1,
+              "software_forum_category": 1
+            },
+            "unique_nonvideo_results": 7
+          }
+        ],
+        "decision": "observed_mix",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock auto secure souls",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [
+        "https://avalan.cc/",
+        "https://uc.zone/en/deadlock"
+      ],
+      "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "6a06e2da6bb85d0b8e39",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul deny cheat",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [
+        "https://avalan.cc/",
+        "https://uc.zone/en/deadlock"
+      ],
+      "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "44b20a6698dc6a992d96",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock souls aimbot vs player aimbot",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [
+        "https://avalan.cc/",
+        "https://uc.zone/en/deadlock"
+      ],
+      "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+      "search_facets": [
+        "vs"
+      ],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "094562f92fba4270910a",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul triggerbot",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Editor-proposed query checked in Google; searching it does not establish measured demand. A product feature label is not a volume estimate.",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "3476f0828dd2b84715a1",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 1,
+      "page_type_evidence": {
+        "counts": {
+          "code_repository": 1,
+          "product_feature_page": 1,
+          "product_feature_landing": 1,
+          "gameplay_mechanic_discussion": 1,
+          "game_bot_discussion": 1,
+          "gameplay_wiki": 1,
+          "command_reference": 1
+        },
+        "sample_results": 7,
+        "samples": [
+          {
+            "method": "browser_dom",
+            "captured_at": "2026-09-21T06:07:23.089Z",
+            "country_requested": "US",
+            "source_file": "raw/google-cosmetic-information-intents.json",
+            "counts": {
+              "code_repository": 1,
+              "product_feature_page": 1,
+              "product_feature_landing": 1,
+              "gameplay_mechanic_discussion": 1,
+              "game_bot_discussion": 1,
+              "gameplay_wiki": 1,
+              "command_reference": 1
+            },
+            "unique_nonvideo_results": 7
+          }
+        ],
+        "decision": "observed_mix",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul triggerbot vs aimbot",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "search_facets": [
+        "vs"
+      ],
+      "id": "6af446f0113d03f4bd23",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    }
+  ],
+  "measured_query_count": 0,
+  "validated_query_subsets": [
+    {
+      "queries": [
+        "deadlock soul aimbot",
+        "deadlock souls aimbot"
+      ],
+      "game": "deadlock",
+      "status": "serp_validated",
+      "grouping_method": "pairwise_complete_link_no_forced_partition",
+      "validation_scope": "shared_URL_threshold_only_not_intent_equivalence_or_publication_approval",
+      "minimum_shared_urls": 3,
+      "cohort": [
+        "deadlock",
+        "en",
+        "google",
+        null,
+        "US",
+        "browser_dom",
+        "codex-iab-signed-in",
+        "2026-09-21"
+      ],
+      "pair_overlap": [
+        {
+          "a": "deadlock soul aimbot",
+          "b": "deadlock souls aimbot",
+          "shared": [
+            "https://cluster.center/en/deadlock",
+            "https://reddit.com/r/DeadlockTheGame/comments/1fngug2/are_you_noticing_an_increase_in_aimbotters",
+            "https://tsuki.gg/products/deadlock/features"
+          ]
+        }
+      ]
+    }
+  ],
+  "article_target": {
+    "query": "deadlock souls aimbot",
+    "volume": null,
+    "metric": null,
+    "frequency_band": "unknown",
+    "page_type_evidence": {
+      "counts": {
+        "repository": 1,
+        "discussion": 3,
+        "commercial_page_provisional": 3
+      },
+      "sample_results": 7,
+      "samples": [
+        {
+          "method": "browser_dom",
+          "captured_at": "2026-09-21",
+          "country_requested": "US",
+          "source_file": "raw\\google-observed.json",
+          "counts": {
+            "repository": 1,
+            "discussion": 3,
+            "commercial_page_provisional": 3
+          },
+          "unique_nonvideo_results": 7
+        }
+      ],
+      "decision": "observed_mix",
+      "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+    }
+  },
+  "sampled_pages": 8,
+  "term_usage": {
+    "query": "deadlock souls aimbot",
+    "pages": [
+      {
+        "url": "https://avalan.cc/",
+        "words": 1298,
+        "body_exact": 0,
+        "page_type": "commercial_page_provisional",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "body_fallback_review_needed"
+      },
+      {
+        "url": "https://avalan.cc/features",
+        "words": 1640,
+        "body_exact": 0,
+        "page_type": "commercial_page_provisional",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "body_fallback_review_needed"
+      },
+      {
+        "url": "https://cheatstore.net/deadlock/triggerbot",
+        "words": 436,
+        "body_exact": 0,
+        "page_type": "product_feature_landing",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "semantic_main"
+      },
+      {
+        "url": "https://deadlock.io/en/mechanics/parry",
+        "words": 252,
+        "body_exact": 0,
+        "page_type": "guide_or_article",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "semantic_main"
+      },
+      {
+        "url": "https://deadlock.wiki/Console_commands",
+        "words": 1500,
+        "body_exact": 0,
+        "page_type": "command_reference",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "body_fallback_review_needed"
+      },
+      {
+        "url": "https://forgecheats.com/en/game/deadlock/",
+        "words": 1976,
+        "body_exact": 0,
+        "page_type": "commercial_page_provisional",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "semantic_main"
+      },
+      {
+        "url": "https://tsuki.gg/products/deadlock/features",
+        "words": 1580,
+        "body_exact": 0,
+        "page_type": "commercial_page_provisional",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "body_fallback_review_needed"
+      },
+      {
+        "url": "https://uc.zone/en/deadlock",
+        "words": 813,
+        "body_exact": 0,
+        "page_type": "commercial_page_provisional",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "body_fallback_review_needed"
+      }
+    ],
+    "by_page_type": {
+      "command_reference": {
+        "body_exact": {
+          "n": 1,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words": {
+          "n": 1,
+          "min": 1500,
+          "median": 1500,
+          "max": 1500,
+          "q1": null,
+          "q3": null
+        }
+      },
+      "commercial_page_provisional": {
+        "body_exact": {
+          "n": 5,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": 0.0,
+          "q3": 0.0
+        },
+        "words": {
+          "n": 5,
+          "min": 813,
+          "median": 1580,
+          "max": 1976,
+          "q1": 1298.0,
+          "q3": 1640.0
+        }
+      },
+      "guide_or_article": {
+        "body_exact": {
+          "n": 1,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words": {
+          "n": 1,
+          "min": 252,
+          "median": 252,
+          "max": 252,
+          "q1": null,
+          "q3": null
+        }
+      },
+      "product_feature_landing": {
+        "body_exact": {
+          "n": 1,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words": {
+          "n": 1,
+          "min": 436,
+          "median": 436,
+          "max": 436,
+          "q1": null,
+          "q3": null
+        }
+      }
+    },
+    "body_exact_distribution": {
+      "n": 8,
+      "min": 0,
+      "median": 0.0,
+      "max": 0,
+      "q1": 0.0,
+      "q3": 0.0
+    },
+    "words_distribution": {
+      "n": 8,
+      "min": 252,
+      "median": 1399.0,
+      "max": 1976,
+      "q1": 718.75,
+      "q3": 1595.0
+    },
+    "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+  },
+  "intent_matched_term_usage": [
+    {
+      "query": "deadlock souls aimbot",
+      "pages": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "words": 1580,
+          "body_exact": 0,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "body_fallback_review_needed"
+        }
+      ],
+      "by_page_type": {
+        "commercial_page_provisional": {
+          "body_exact": {
+            "n": 1,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 1580,
+            "median": 1580,
+            "max": 1580,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 1,
+        "min": 0,
+        "median": 0,
+        "max": 0,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 1,
+        "min": 1580,
+        "median": 1580,
+        "max": 1580,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    {
+      "query": "soul aimbot",
+      "pages": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "words": 1580,
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.633,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "body_fallback_review_needed"
+        }
+      ],
+      "by_page_type": {
+        "commercial_page_provisional": {
+          "body_exact": {
+            "n": 1,
+            "min": 1,
+            "median": 1,
+            "max": 1,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 1580,
+            "median": 1580,
+            "max": 1580,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 1,
+        "min": 1,
+        "median": 1,
+        "max": 1,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 1,
+        "min": 1580,
+        "median": 1580,
+        "max": 1580,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    {
+      "query": "soul triggerbot",
+      "pages": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "words": 1580,
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 1.266,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "body_fallback_review_needed"
+        }
+      ],
+      "by_page_type": {
+        "commercial_page_provisional": {
+          "body_exact": {
+            "n": 1,
+            "min": 2,
+            "median": 2,
+            "max": 2,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 1580,
+            "median": 1580,
+            "max": 1580,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 1,
+        "min": 2,
+        "median": 2,
+        "max": 2,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 1,
+        "min": 1580,
+        "median": 1580,
+        "max": 1580,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    {
+      "query": "soul ESP",
+      "pages": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "words": 1580,
+          "body_exact": 0,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "body_fallback_review_needed"
+        }
+      ],
+      "by_page_type": {
+        "commercial_page_provisional": {
+          "body_exact": {
+            "n": 1,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 1580,
+            "median": 1580,
+            "max": 1580,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 1,
+        "min": 0,
+        "median": 0,
+        "max": 0,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 1,
+        "min": 1580,
+        "median": 1580,
+        "max": 1580,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    }
+  ],
+  "reviewed_related_terms": [
+    {
+      "term": "soul orb",
+      "usage_note": "Identify the resource target separately from an enemy hero.",
+      "sources": [
+        "https://avalan.cc/features",
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://avalan.cc/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "soul aimbot",
+      "usage_note": "Use for the claimed soul-aiming action; do not infer firing or display support.",
+      "sources": [
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 1,
+      "observations": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "soul triggerbot",
+      "usage_note": "Compare the publisher verbs: some descriptions combine aiming and firing.",
+      "sources": [
+        "https://avalan.cc/",
+        "https://avalan.cc/features",
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 3,
+      "observations": [
+        {
+          "url": "https://avalan.cc/",
+          "body_exact": 3,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://avalan.cc/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "soul ESP",
+      "usage_note": "Use for soul information/highlighting; do not infer aim or firing.",
+      "sources": [
+        "https://avalan.cc/features",
+        "https://forgecheats.com/en/game/deadlock/"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://avalan.cc/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://forgecheats.com/en/game/deadlock/",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "secure",
+      "usage_note": "Keep the soul-resource context explicit; do not match this to payment security. Observed-source matching is limited to the reviewed Tsuki soul-target context; payment, build security and Secure Boot occurrences are excluded.",
+      "source_urls": [
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "sources": [
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 1,
+      "observations": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "deny",
+      "usage_note": "Name the specific resource/action context; do not infer support from an aimbot label.",
+      "sources": [
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 1,
+      "observations": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "target",
+      "usage_note": "Specify the object involved, rather than treating every target as a player.",
+      "sources": [
+        "https://avalan.cc/",
+        "https://avalan.cc/features",
+        "https://cheatstore.net/deadlock/triggerbot",
+        "https://deadlock.wiki/Console_commands",
+        "https://forgecheats.com/en/game/deadlock/",
+        "https://tsuki.gg/products/deadlock/features",
+        "https://uc.zone/en/deadlock"
+      ],
+      "document_frequency": 7,
+      "observations": [
+        {
+          "url": "https://avalan.cc/",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://avalan.cc/features",
+          "body_exact": 12,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://cheatstore.net/deadlock/triggerbot",
+          "body_exact": 2,
+          "page_type": "product_feature_landing"
+        },
+        {
+          "url": "https://deadlock.wiki/Console_commands",
+          "body_exact": 1,
+          "page_type": "command_reference"
+        },
+        {
+          "url": "https://forgecheats.com/en/game/deadlock/",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 8,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://uc.zone/en/deadlock",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    }
+  ],
+  "publication_gate": "requires_original_content_and_editorial_review",
+  "supporting_sections": [
+    {
+      "id": "deadlock-aimbot",
+      "title": "Deadlock player aimbot vs soul aimbot",
+      "reader_job": "Understand why an aiming feature's target matters.",
+      "original_value": "Compare player-target and soul-target descriptions; treat projectile prediction as a separate claim, not a universal behavior.",
+      "article_target": {
+        "query": "deadlock player aimbot vs soul aimbot",
+        "volume": null,
+        "metric": null,
+        "frequency_band": "unknown",
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      "outline": [
+        "Player and soul-orb targets are different objects",
+        "Projectile prediction is a separate publisher claim",
+        "Name the target before comparing an aiming feature"
+      ],
+      "semantic_terms": [
+        "projectile",
+        "target type",
+        "aim assistance",
+        "prediction",
+        "player",
+        "orb"
+      ],
+      "reviewed_related_terms": [
+        {
+          "term": "aimbot",
+          "usage_note": "Identify the target and claimed aiming action; do not infer a complete feature specification.",
+          "sources": [
+            "https://avalan.cc/",
+            "https://forgecheats.com/en/game/deadlock/",
+            "https://uc.zone/en/deadlock"
+          ],
+          "document_frequency": 3,
+          "observations": [
+            {
+              "url": "https://avalan.cc/",
+              "body_exact": 7,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://forgecheats.com/en/game/deadlock/",
+              "body_exact": 8,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://uc.zone/en/deadlock",
+              "body_exact": 2,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "target",
+          "usage_note": "Specify the object involved, rather than treating every target as a player.",
+          "sources": [
+            "https://avalan.cc/",
+            "https://deadlock.wiki/Console_commands",
+            "https://forgecheats.com/en/game/deadlock/",
+            "https://uc.zone/en/deadlock"
+          ],
+          "document_frequency": 4,
+          "observations": [
+            {
+              "url": "https://avalan.cc/",
+              "body_exact": 1,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://deadlock.wiki/Console_commands",
+              "body_exact": 1,
+              "page_type": "command_reference"
+            },
+            {
+              "url": "https://forgecheats.com/en/game/deadlock/",
+              "body_exact": 2,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://uc.zone/en/deadlock",
+              "body_exact": 2,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "projectile",
+          "usage_note": "Name the target/event category only when the source supports the distinction.",
+          "sources": [
+            "https://avalan.cc/",
+            "https://forgecheats.com/en/game/deadlock/"
+          ],
+          "document_frequency": 2,
+          "observations": [
+            {
+              "url": "https://avalan.cc/",
+              "body_exact": 3,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://forgecheats.com/en/game/deadlock/",
+              "body_exact": 3,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "prediction",
+          "usage_note": "Attribute the specific prediction claim; do not supply implementation or success rates.",
+          "sources": [
+            "https://forgecheats.com/en/game/deadlock/"
+          ],
+          "document_frequency": 1,
+          "observations": [
+            {
+              "url": "https://forgecheats.com/en/game/deadlock/",
+              "body_exact": 1,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "crosshair",
+          "usage_note": "Use in a concrete target/action example without configuration instructions.",
+          "sources": [
+            "https://avalan.cc/",
+            "https://deadlock.wiki/Console_commands",
+            "https://forgecheats.com/en/game/deadlock/"
+          ],
+          "document_frequency": 3,
+          "observations": [
+            {
+              "url": "https://avalan.cc/",
+              "body_exact": 3,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://deadlock.wiki/Console_commands",
+              "body_exact": 1,
+              "page_type": "command_reference"
+            },
+            {
+              "url": "https://forgecheats.com/en/game/deadlock/",
+              "body_exact": 3,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "soul orb",
+          "usage_note": "Identify the resource target separately from an enemy hero.",
+          "sources": [],
+          "document_frequency": 0,
+          "observations": [],
+          "origin": "editorial_concept_not_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        }
+      ],
+      "evidence_terms": null,
+      "competitor_urls": [
+        "https://avalan.cc/",
+        "https://deadlock.io/en/articles/mechanics/parry",
+        "https://deadlock.wiki/Console_commands",
+        "https://forgecheats.com/en/game/deadlock",
+        "https://uc.zone/en/deadlock"
+      ],
+      "serp_mismatch": "The broad aimbot sample mixes repositories, vendor pages, community reports and a trading category. Its proposed article already repeats the player-versus-soul distinction in the soul-feature article. Consolidate that explanation there; the broad acquisition query stays available for product routing."
+    },
+    {
+      "id": "deadlock-fov",
+      "title": "Deadlock camera FOV vs aim FOV: the same acronym, different questions",
+      "reader_job": "Know whether a page concerns the view or the aiming selection area.",
+      "original_value": "Illustrate two distinct concepts and explain why their numbers are not directly comparable.",
+      "article_target": {
+        "query": "deadlock aimbot fov",
+        "volume": null,
+        "metric": null,
+        "frequency_band": "unknown",
+        "page_type_evidence": {
+          "counts": {
+            "code_repository": 2,
+            "public_script_description": 1,
+            "camera_settings_discussion": 1,
+            "aim_trainer_settings_discussion": 1,
+            "product_landing": 2
+          },
+          "sample_results": 7,
+          "samples": [
+            {
+              "method": "browser_dom",
+              "captured_at": "2026-09-21T05:40:14.534Z",
+              "country_requested": "US",
+              "source_file": "raw/google-feature-intents.json",
+              "counts": {
+                "code_repository": 2,
+                "public_script_description": 1,
+                "camera_settings_discussion": 1,
+                "aim_trainer_settings_discussion": 1,
+                "product_landing": 2
+              },
+              "unique_nonvideo_results": 7
+            }
+          ],
+          "decision": "observed_mix",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      "outline": [
+        "Camera field of view",
+        "The aiming area a product calls FOV",
+        "Why the two values cannot be compared directly",
+        "Which existing page should answer each question",
+        "FAQ"
+      ],
+      "semantic_terms": [
+        "field of view",
+        "camera",
+        "viewport",
+        "aiming area",
+        "setting",
+        "terminology"
+      ],
+      "reviewed_related_terms": [
+        {
+          "term": "FOV",
+          "usage_note": "State whether the context is camera view or the aiming feature.",
+          "sources": [
+            "https://avalan.cc/",
+            "https://forgecheats.com/en/game/deadlock/",
+            "https://tsuki.gg/scripts/deadlock/aimed-fov",
+            "https://uc.zone/en/deadlock"
+          ],
+          "document_frequency": 4,
+          "observations": [
+            {
+              "url": "https://avalan.cc/",
+              "body_exact": 3,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://forgecheats.com/en/game/deadlock/",
+              "body_exact": 1,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://tsuki.gg/scripts/deadlock/aimed-fov",
+              "body_exact": 3,
+              "page_type": "public_script_description"
+            },
+            {
+              "url": "https://uc.zone/en/deadlock",
+              "body_exact": 1,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "field of view",
+          "usage_note": "A term needing context, not proof that camera and aim settings are interchangeable.",
+          "sources": [
+            "https://uc.zone/en/deadlock"
+          ],
+          "document_frequency": 1,
+          "observations": [
+            {
+              "url": "https://uc.zone/en/deadlock",
+              "body_exact": 1,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "camera",
+          "usage_note": "Keep ordinary camera/view questions separate from software aiming scope.",
+          "sources": [],
+          "document_frequency": 0,
+          "observations": [],
+          "origin": "editorial_concept_not_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "aimbot",
+          "usage_note": "Identify the target and claimed aiming action; do not infer a complete feature specification.",
+          "sources": [
+            "https://avalan.cc/",
+            "https://forgecheats.com/en/game/deadlock/",
+            "https://tsuki.gg/scripts/deadlock/aimed-fov",
+            "https://uc.zone/en/deadlock"
+          ],
+          "document_frequency": 4,
+          "observations": [
+            {
+              "url": "https://avalan.cc/",
+              "body_exact": 7,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://forgecheats.com/en/game/deadlock/",
+              "body_exact": 8,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://tsuki.gg/scripts/deadlock/aimed-fov",
+              "body_exact": 2,
+              "page_type": "public_script_description"
+            },
+            {
+              "url": "https://uc.zone/en/deadlock",
+              "body_exact": 2,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "target",
+          "usage_note": "Specify the object involved, rather than treating every target as a player.",
+          "sources": [
+            "https://avalan.cc/",
+            "https://deadlock.wiki/Console_commands",
+            "https://forgecheats.com/en/game/deadlock/",
+            "https://uc.zone/en/deadlock"
+          ],
+          "document_frequency": 4,
+          "observations": [
+            {
+              "url": "https://avalan.cc/",
+              "body_exact": 1,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://deadlock.wiki/Console_commands",
+              "body_exact": 1,
+              "page_type": "command_reference"
+            },
+            {
+              "url": "https://forgecheats.com/en/game/deadlock/",
+              "body_exact": 2,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://uc.zone/en/deadlock",
+              "body_exact": 2,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        }
+      ],
+      "evidence_terms": [
+        "FOV for aimbot"
+      ],
+      "competitor_urls": [
+        "https://avalan.cc/",
+        "https://deadlock.io/en/articles/mechanics/parry",
+        "https://deadlock.wiki/Console_commands",
+        "https://forgecheats.com/en/game/deadlock",
+        "https://tsuki.gg/scripts/deadlock/aimed-fov",
+        "https://uc.zone/en/deadlock"
+      ],
+      "serp_mismatch": "Camera FOV query returns settings discussions, mods and video. The aimbot-qualified query has a public Aimed FOV description but also repositories and camera/trainer discussions. Only one shared eligible URL; no validated merge. Explain the terminology inside the aimbot article. Do not promise camera-setting instructions or a standalone page for this unmeasured phrase."
+    }
+  ],
+  "non_article_queries": [
+    {
+      "query": "deadlock soul aimbot cheat",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [],
+      "id": "a344d0fc141ea8366841",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul aimbot free",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [
+        "free"
+      ],
+      "id": "290ec3a36e4025468f39",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul aimbot download",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [
+        "download"
+      ],
+      "id": "ae7408df6ecee1693f96",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul triggerbot free",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [
+        "free"
+      ],
+      "id": "85eb0df7c5293b9e9ff7",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock auto soul secure",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [],
+      "id": "30ad28bb18e223446e81",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock auto deny cheat",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [],
+      "id": "98ba90088fda1785a45f",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul orb aimbot",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [],
+      "id": "f0158eabcc11c0e95df2",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock soul esp cheat",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [],
+      "id": "e45590136b52e3a4bdb9",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "deadlock auto last hit cheat",
+      "game": "deadlock",
+      "language": "en",
+      "cluster_id": "deadlock-souls",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [],
+      "id": "a4636c092807a7b5d235",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    }
+  ],
+  "related_terms": [
+    {
+      "term": "soul orb",
+      "usage_note": "Identify the resource target separately from an enemy hero.",
+      "sources": [
+        "https://avalan.cc/features",
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://avalan.cc/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "soul aimbot",
+      "usage_note": "Use for the claimed soul-aiming action; do not infer firing or display support.",
+      "sources": [
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 1,
+      "observations": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "soul triggerbot",
+      "usage_note": "Compare the publisher verbs: some descriptions combine aiming and firing.",
+      "sources": [
+        "https://avalan.cc/",
+        "https://avalan.cc/features",
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 3,
+      "observations": [
+        {
+          "url": "https://avalan.cc/",
+          "body_exact": 3,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://avalan.cc/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "soul ESP",
+      "usage_note": "Use for soul information/highlighting; do not infer aim or firing.",
+      "sources": [
+        "https://avalan.cc/features",
+        "https://forgecheats.com/en/game/deadlock/"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://avalan.cc/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://forgecheats.com/en/game/deadlock/",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "secure",
+      "usage_note": "Keep the soul-resource context explicit; do not match this to payment security. Observed-source matching is limited to the reviewed Tsuki soul-target context; payment, build security and Secure Boot occurrences are excluded.",
+      "source_urls": [
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "sources": [
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 1,
+      "observations": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "deny",
+      "usage_note": "Name the specific resource/action context; do not infer support from an aimbot label.",
+      "sources": [
+        "https://tsuki.gg/products/deadlock/features"
+      ],
+      "document_frequency": 1,
+      "observations": [
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "target",
+      "usage_note": "Specify the object involved, rather than treating every target as a player.",
+      "sources": [
+        "https://avalan.cc/",
+        "https://avalan.cc/features",
+        "https://cheatstore.net/deadlock/triggerbot",
+        "https://deadlock.wiki/Console_commands",
+        "https://forgecheats.com/en/game/deadlock/",
+        "https://tsuki.gg/products/deadlock/features",
+        "https://uc.zone/en/deadlock"
+      ],
+      "document_frequency": 7,
+      "observations": [
+        {
+          "url": "https://avalan.cc/",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://avalan.cc/features",
+          "body_exact": 12,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://cheatstore.net/deadlock/triggerbot",
+          "body_exact": 2,
+          "page_type": "product_feature_landing"
+        },
+        {
+          "url": "https://deadlock.wiki/Console_commands",
+          "body_exact": 1,
+          "page_type": "command_reference"
+        },
+        {
+          "url": "https://forgecheats.com/en/game/deadlock/",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "body_exact": 8,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://uc.zone/en/deadlock",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    }
+  ],
+  "anchor_summary": {
+    "editorial_internal": {
+      "n": 186,
+      "counts": {
+        "descriptive": 178,
+        "image_or_empty": 1,
+        "naked_url": 7
+      }
+    },
+    "editorial_outbound": {
+      "n": 7,
+      "counts": {
+        "descriptive": 2,
+        "image_or_empty": 5
+      }
+    },
+    "navigation_internal": {
+      "n": 199,
+      "counts": {
+        "image_or_empty": 7,
+        "descriptive": 190,
+        "naked_url": 2
+      }
+    },
+    "navigation_outbound": {
+      "n": 16,
+      "counts": {
+        "descriptive": 12,
+        "image_or_empty": 4
+      }
+    },
+    "other_internal": {
+      "n": 1,
+      "counts": {
+        "descriptive": 1
+      }
+    },
+    "other_outbound": {
+      "n": 0,
+      "counts": {}
+    }
+  },
+  "rules": [
+    "Answer the reader job before background. Match the page type.",
+    "Use short concrete examples and explain tradeoffs. Remove repeated conclusions and filler.",
+    "No invented testing, quotations, user experiences, rankings, prices or safety promises.",
+    "Exact phrase use is descriptive evidence, never a density target. Use variants when natural.",
+    "Related terms are reviewed vocabulary with usage notes and observed-source labels. Unobserved concepts are not competitor evidence; no term is mandatory. Raw co-occurrence output is not a writing checklist.",
+    "Original value must be delivered, not merely promised. Do not clone a rival outline.",
+    "Supporting sections belong inside this page; do not duplicate their entire outline or FAQ as separate articles.",
+    "non_article_queries are routing context, not phrases to insert into this article. A download/free access request needs an actual verified offer; do not relabel a paid offer as free.",
+    "Vendor comparisons need a dated source for each cell/claim and a visible commercial disclosure.",
+    "For third-party cheat topics, use high-level terminology and evaluation only; no operational evasion or cheat implementation. Legitimate practice/custom-lobby references may include verified built-in command syntax within the stated supported context.",
+    "A direct answer should stand alone and identify entities clearly; no mandatory chunk size or llms.txt."
+  ]
+}

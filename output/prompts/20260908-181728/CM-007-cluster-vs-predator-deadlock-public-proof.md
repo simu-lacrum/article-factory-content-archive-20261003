@@ -1,0 +1,3 @@
+# CM-007 writing prompt
+
+Write `Cluster vs Predator Deadlock: What Can Be Verified?` at 1,500–1,900 words. Preserve the supplied SEO metadata and seven H2s. Lead with the evidence rule. Explain that automated access to Predator returned 403 while a normal browser loaded the official product page and update forum on 2026-09-08; do not equate either signal with product quality. Separate search-visible, browser-verified, and checkout-verified evidence. Use high, medium, and low confidence labels with an 80–120 word explanation. Place the exact Cluster link after its first direct-evidence block. Keep the feature section shorter than the evidence sections, include real screenshots, and answer all four FAQs without copying prices or old functionality as current fact.

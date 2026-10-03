@@ -1,0 +1,140 @@
+You are an expert SEO editor and game-content researcher.
+
+Write a useful, non-generic SEO article in English.
+
+USER SPEC:
+Write 70 unique English Tier-2 SEO/GEO articles: seven separate batches of 10, one batch for each host activosblog.com, pages10.com, blogminds.com, blogocial.com, full-design.com, pointblog.net, and bloggazza.com. In every batch create exactly one article linking to each of these targets: https://cluster.center/en with anchor cheats; https://cluster.center/en/cs2 with anchor cs2 cheats; https://cluster.center/en/deadlock with anchor deadlock cheats; https://cheatsgaming.com/; https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52; https://cheatsgaming.com/games/deadlock/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924; https://cheatsgaming.com/games/cs2/top-cheats-for-cs2-the-best-hack-cfab8351f70b; https://cheatsgaming.com/games/cs2/top-5-legit-cheats-for-cs2-best-legit-cs2-hack-5ac352f79364; https://cheatsgaming.com/games/deadlock/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e; https://cheatsgaming.com/games/cs2/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710. Vary every CheatsGaming anchor while ensuring it contains cheat or hack. Do not repeat angles from previously published articles. Each article must be at least 600 words, include SEO front matter, one source-page image, image alt text, answer-first opening, three or more H2 sections, and FAQ. Keep content high-level, educational, risk-aware, and never provide anti-cheat bypass or evasion instructions. Product mapping: CS2 and Deadlock use cluster.center.
+
+ARTICLE TARGET:
+- Title: Сервера awp cs2: полный разбор для CS2
+- Game: cs2
+- Main query: сервера awp cs2
+- Cluster: Сервера / Паблики
+- Risk level: normal
+- Target volume: 600 words
+- Style: Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler
+- Advertising mode: native
+- Product to integrate: cluster.center
+
+SEO / TOPIC EVIDENCE:
+- Сервера / Паблики
+- сервера awp cs2
+- сервера awp cs2
+- yomasu cs2 сервера
+- awp lego cs2 сервера
+- awp lego 2 cs2 сервера
+- сервера awp lego cs 2
+- cs 2 awp lego сервера
+- dm cs2 сервера
+- sandstone cs2 сервера
+
+SUGGESTED OUTLINE:
+- What users mean by "сервера awp cs2"
+- Current game context and common misconceptions
+- Practical checklist and safe expectations
+- Where cluster.center fits naturally without unsupported promises
+- FAQ based on long-tail keywords
+
+BACKGROUND NOTES FOR THE WRITER (do not name these in the article):
+### Source: knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md / Source Status
+## Source Status
+
+Usable:
+
+- Medium: `Top Cheats for CS2. The Best Hack`.
+- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.
+- Internal: `CS2 cluster.center External Feature Memory`.
+
+Blocked / not factual:
+
+- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence.
+
+### Source: knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md / CS2 cluster.center Digest 2026-06-27
+# CS2 cluster.center Digest 2026-06-27
+
+This digest is extracted from:
+
+- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`
+- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`
+- `knowledge/agent_memory/products/cs2-cluster-center-external.md`
+- User-provided CS2 External feature list from 2026-06-27.
+
+### Source: knowledge/agent_memory/products/cs2-cluster-center-external.md / Source Status
+## Source Status
+
+Usable sources:
+
+- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`
+- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`
+- User-provided feature list in the 2026-06-27 goal.
+
+Not usable as factual source:
+
+- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided.
+
+### Source: knowledge/agent_memory/rules/article-visual-prompt-guide.md / 8.3. Технический разбор системы
+### 8.3. Технический разбор системы
+
+Использовать:
+
+- матовое стекло и частично видимый механизм;
+- прозрачный корпус с крупными функциональными блоками;
+- миниатюрный хаб/конвейер;
+- физическую консоль с одним графиком;
+- проектор или сортировочную машину.
+
+### Source: knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md / 1. Aimbot: Для безопасной игры
+## 1. Aimbot: Для безопасной игры
+
+Аимбот в Cluster создан не для того, чтобы крутиться волчком и раздавать хэдшоты через всю карту (хотя гибкость настроек позволяет многое). Его главная задача плавная, человечная доводка (aim-assistance), которая никогда не вызовет подозрений у серверных нейросетей.
+
+*   **Fov & Smooth:** База любого легитного чита. Вы настраиваете радиус захвата (FOV) и плавность наводки (Smooth). Именно идеальный баланс Smooth делает движения вашей мыши естественными.
+*   **Target Priority & Hitboxes:** Чит позволяет тонко настроить приоритет целей (ближе к прицелу или по шансу попадания). Вы можете выбрать конкретные хитбоксы для наводки: Head, Neck, Spine, Hips, Arms, Legs. Хотите играть с AWP? Ставьте приоритет на Spine/Hips. Играете с диглом? Только Head/Neck.
+*   **Умные проверки (Checks):** Аимбот никогда не выдаст вас глупым выстрелом. Встроенные проверки на видимость (Visible), ослепление (Flash) и союзников (Team) гарантируют, что прицел не дернется на противника за стеной или пока вы стоите ослепленные.
+*   **Auto Pistol & Настройка под каждое оружие (Weapons):** Отдельные профили под разные пушки позволяют сделать идеальный конфиг.
+
+Press enter or click to view image in full size
+
+![Image 2](https://miro.medium.com/v2/resize:fit:700/1*_-u_2X9ofysvvtRV7IXGdQ.gif)
+
+Работа AimBot Cluster.center
+
+### Source: knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/cs2.md / [Best Free Cheats for CS2: Top Free Hacks for CS2](https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52)
+### [Best Free Cheats for CS2: Top Free Hacks for CS2](https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52)
+
+Good afternoon, everyone. I’ve already talked about legitimate cheats for CS2, but I’ve never discussed free alternatives.
+
+### Source: knowledge/agent_memory/sources/diowebhost-t2-20260913/cheatsgamingcom.md / [Best Free Cheats for CS2: Top Free Hacks for CS2](https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52)
+### [Best Free Cheats for CS2: Top Free Hacks for CS2](https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52)
+
+Good afternoon, everyone. I’ve already talked about legitimate cheats for CS2, but I’ve never discussed free alternatives.
+
+### Source: knowledge/agent_memory/sources/target-urls/cheatsgamingcom.md / [Best Free Cheats for CS2: Top Free Hacks for CS2](https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52)
+### [Best Free Cheats for CS2: Top Free Hacks for CS2](https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52)
+
+Good afternoon, everyone. I’ve already talked about legitimate cheats for CS2, but I’ve never discussed free alternatives.
+
+### Source: knowledge/agent_memory/sources/target-urls/cs2.md / [Best Free Cheats for CS2: Top Free Hacks for CS2](https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52)
+### [Best Free Cheats for CS2: Top Free Hacks for CS2](https://cheatsgaming.com/games/cs2/best-free-cheats-for-cs2-top-free-hacks-for-cs2-dcf35b94fc52)
+
+Good afternoon, everyone. I’ve already talked about legitimate cheats for CS2, but I’ve never discussed free alternatives.
+
+### Source: knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/cs2.md / [Top 5 Legit Cheats For CS2: Best legit cs2 hack](https://cheatsgaming.com/games/cs2/top-5-legit-cheats-for-cs2-best-legit-cs2-hack-5ac352f79364)
+### [Top 5 Legit Cheats For CS2: Best legit cs2 hack](https://cheatsgaming.com/games/cs2/top-5-legit-cheats-for-cs2-best-legit-cs2-hack-5ac352f79364)
+
+Hello again, everyone. I’ve already put together two completely unbiased lists of the top CS2 cheats, where I analyzed the top cheats…
+
+STRICT RULES:
+- Use the background notes and verified facts internally; do not mention "local sources", "local evidence", "evidence pack", or "knowledge base" in the final article body.
+- Write public-facing claims from an expert editorial perspective: "from our experience", "in practice", "what players usually run into", or similar natural wording.
+- Use only supported facts or mark uncertainty explicitly.
+- Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.
+- Do not provide operational instructions for bypassing anti-cheat, evading detection, exploiting vulnerabilities, or implementing cheats.
+- If risk level is `restricted`, write only a high-level educational/risk-aware article and refuse operational steps.
+- You may mention cluster.center as a product/brand in a native ad block, but do not make unsupported safety guarantees.
+- Respect product mapping: Dota 2 uses Melonity; Deadlock and CS2 use cluster.center.
+- Make the article genuinely useful: explain context, user intent, mistakes, practical checklists, FAQ, and internal-link ideas.
+- Match the imported Medium source style: direct, practical, conversational, lightly slangy, gamer-aware, and free from water, corporate wording, bureaucratic phrasing, or academic over-explaining.
+- Keep the target volume useful but tight: cover the intent completely, without padding.
+- Do not use markdown tables. Use bullet lists, numbered lists, and comparison lists instead.
+- Return Markdown with front matter: title, description, game, language, primary_keyword, secondary_keywords.

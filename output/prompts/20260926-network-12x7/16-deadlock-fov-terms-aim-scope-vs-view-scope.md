@@ -1,0 +1,1 @@
+Write a unique, risk-aware Tier-2 article for https://deadlockhacks.com/guides/deadlock-aimbot-fov-vs-camera-fov-explained with the title Deadlock FOV Terms: Aim Scope vs View Scope.

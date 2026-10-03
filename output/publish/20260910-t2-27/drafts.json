@@ -1,0 +1,60 @@
+{
+  "substack": [
+    {"title": "CS2 Cheat Research: A Safer Order of Checks", "edit_url": "https://clustercheats.substack.com/publish/post/214999407", "public_url": "https://clustercheats.substack.com/p/cs2-cheat-research-a-safer-order", "status": "public_web_only", "images": 2, "target_links": 1},
+    {"title": "Deadlock Cheat Research: Four Feature Families", "edit_url": "https://clustercheats.substack.com/publish/post/214999653", "public_url": "https://clustercheats.substack.com/p/deadlock-cheat-research-four-feature", "status": "public_web_only", "images": 2, "target_links": 1},
+    {"title": "Статус продукта — не гарантия: как читать каталог игровых инструментов", "edit_url": "https://clustercheats.substack.com/publish/post/214999691", "public_url": "https://clustercheats.substack.com/p/dca", "status": "public_web_only", "images": 2, "target_links": 1},
+    {"title": "HUD в CS2: как оценить полезность информации на экране", "edit_url": "https://clustercheats.substack.com/publish/post/214999923", "public_url": "https://clustercheats.substack.com/p/hud-cs2", "status": "public_web_only", "images": 2, "target_links": 1},
+    {"title": "Deadlock и глубина поддержки героев: что на самом деле значит Combo", "edit_url": "https://clustercheats.substack.com/publish/post/214999975", "public_url": "https://clustercheats.substack.com/p/deadlock-combo", "status": "public_web_only", "images": 2, "target_links": 1}
+  ],
+  "notion": [
+    {"title": "Dota 2 Cheat Categories: Scripts, Visuals, and Utility", "edit_url": "https://app.notion.com/p/Dota-2-Cheat-Categories-Scripts-Visuals-and-Utility-3d7ab4c3c094800ca9dbf9cd2d86bf3f", "public_url": "https://faint-liquid-acd.notion.site/Dota-2-Cheat-Categories-Scripts-Visuals-and-Utility-3d7ab4c3c094800ca9dbf9cd2d86bf3f", "status": "public_indexed", "images": 2, "target_links": 1},
+    {"title": "Melonity or Umbrella After a Patch? Audit the Proof", "edit_url": "https://app.notion.com/p/Melonity-or-Umbrella-After-a-Patch-Audit-the-Proof-3d7ab4c3c0948043bb8afa2fa0cc8f91", "public_url": "https://faint-liquid-acd.notion.site/Melonity-or-Umbrella-After-a-Patch-Audit-the-Proof-3d7ab4c3c0948043bb8afa2fa0cc8f91", "status": "public_indexed", "images": 2, "target_links": 1},
+    {"title": "Единый аккаунт, тест и поддержка: как проверить путь пользователя", "edit_url": "https://app.notion.com/p/3d7ab4c3c094801b8493f3c28b85a0e6", "public_url": "https://faint-liquid-acd.notion.site/3d7ab4c3c094801b8493f3c28b85a0e6", "status": "public_indexed", "images": 2, "target_links": 1},
+    {"title": "CS2 External и совместимость: экранный режим, Windows и разрешение", "edit_url": "https://app.notion.com/p/CS2-External-Windows-3d7ab4c3c09480cfa016c85729ab8e25", "public_url": "https://faint-liquid-acd.notion.site/CS2-External-Windows-3d7ab4c3c09480cfa016c85729ab8e25", "status": "public_indexed", "images": 2, "target_links": 1},
+    {"title": "Auto Parry и задержка: почему один ролик не доказывает стабильность", "edit_url": "https://app.notion.com/p/Auto-Parry-3d7ab4c3c09480ee9d99f62eef94b4ad", "public_url": "https://faint-liquid-acd.notion.site/Auto-Parry-3d7ab4c3c09480ee9d99f62eef94b4ad", "status": "public_indexed", "images": 2, "target_links": 1}
+  ],
+  "gitbook": {
+    "site": "https://cluster-cheats.gitbook.io/cluster-cheats-docs/",
+    "plan": "Free/Basic",
+    "status": "public",
+    "pages": [
+      "https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/dota-2/dota-2-cheat-trials-seven-day-evaluation",
+      "https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/en/deadlock/06-deadlock-risk-layers",
+      "https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/ru/dokumentaciya-igrovogo-servisa",
+      "https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/ru/cs2/slovar-funkciy-cs2",
+      "https://cluster-cheats.gitbook.io/cluster-cheats-docs/cluster-and-melonity-game-guides/ru/deadlock/slovar-funkciy-deadlock"
+    ]
+  },
+  "github": {
+    "repository": "https://github.com/simu-lacrum/cluster-melonity-articles",
+    "local_checkout": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20260910-t2-27\\github-repo-prep",
+    "local_commit": "ba46852",
+    "status": "pushed_and_pages_deployed",
+    "pages": [
+      "https://simu-lacrum.github.io/cluster-melonity-articles/guides/07-cs2-skin-changer-screenshot-proof/",
+      "https://simu-lacrum.github.io/cluster-melonity-articles/guides/08-cs2-skin-changer-preview-mismatch/",
+      "https://simu-lacrum.github.io/cluster-melonity-articles/guides/publichnyy-changelog-i-status-page/",
+      "https://simu-lacrum.github.io/cluster-melonity-articles/guides/posle-obnovleniya-cs2-chto-proveryat/",
+      "https://simu-lacrum.github.io/cluster-melonity-articles/guides/matrica-podderzhki-geroev-deadlock/"
+    ]
+  },
+  "justpasteme": {
+    "status": "public_indexed_timeline",
+    "pages": [
+      "https://justpaste.me/09-cost-of-free-cs2-cheats-2026",
+      "https://justpaste.me/10-legit-vs-semi-rage-vs-rage-cs2-2026",
+      "https://justpaste.me/besplatnyy-test-12-voprosov-2026",
+      "https://justpaste.me/kak-razbirat-demo-cs2-2026",
+      "https://justpaste.me/demo-deadlock-bez-haypa-2026"
+    ]
+  },
+  "rentry": {
+    "status": "public",
+    "count": 2,
+    "edit_codes_file": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20260910-t2-27\\rentry\\edit-codes.json",
+    "pages": [
+      "https://rentry.co/11-deadlock-parry-window-timing-feints",
+      "https://rentry.co/12-deadlock-cheat-comparison-beyond-aimbot"
+    ]
+  }
+}

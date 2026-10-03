@@ -1,0 +1,1 @@
+Write a unique, risk-aware Tier-2 article for https://deadlockhacks.com/ with the title Deadlock Hacks Research Without the Sales Fog.

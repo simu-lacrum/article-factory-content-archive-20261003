@@ -1,0 +1,5 @@
+# Prompt 04 — CS2 ESP Readability
+
+Write a 1000–1200 word English Tier-2 article titled “CS2 ESP Explained: Boxes, Health, Weapons, Status Icons.” Primary keyword: `CS2 ESP`. Intent: informational feature literacy with commercial investigation. Explain positional layers, identity and resource layers, status/world indicators, Chams/Skeleton at a high level, visibility filters, visual hierarchy, and a practical readability audit. Keep the focus on understanding and comparing interfaces, not on tactical concealment or technical implementation.
+
+Target URL: `https://cluster.center/en/cs2`. Use it exactly twice. First link at 35–45% with anchor `cluster.center CS2 External`. Second link in the conclusion/next step at 75–88% with anchor `explore the CS2 product`. Keep 120+ words between links. Add 3 IMAGE_SLOT comments, internal-link suggestions in front matter, and exactly 5 FAQs. Do not write a direct product review, ranking, current safety claim, price, low-level detail, or configuration intended to avoid review.

@@ -1,0 +1,10 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Local Markdown Viewer</title>
+<pre id="content">Loading…</pre>
+<script>
+const file = new URLSearchParams(location.search).get('file');
+fetch(file).then(response => response.text()).then(text => {
+  document.getElementById('content').textContent = text;
+});
+</script>

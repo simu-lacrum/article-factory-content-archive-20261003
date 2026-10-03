@@ -1,0 +1,3 @@
+# CM-006 writing prompt
+
+Write `Cluster vs Umbrella Deadlock: Setup or Script Platform?` at 1,800–2,300 words. Preserve the supplied SEO metadata and seven H2s. Start with the week-two problem, compare Cluster's compact categories with Umbrella's claimed cloud and extensibility platform, and never imply that cloud sync or support quality was tested. Include both required week-two scenarios and their new questions. Place the exact Cluster link after its model and before Umbrella. Report the unstable price rendering without quoting amounts, state that the docs button did not open a separate public route during the check, use the required real screenshots, answer all four FAQs, and end with exactly two conditional-verdict sentences.

@@ -1,0 +1,2066 @@
+You are an expert SEO editor and game-content researcher.
+
+Write a useful, non-generic SEO article in English.
+
+USER SPEC:
+Write three English articles: CS2 triggerbot vs aimbot; Dota 2 scripts vs macros vs bots; Deadlock souls aimbot. Use current research and concise prose.
+
+ARTICLE TARGET:
+- Title: CS2 triggerbot vs aimbot: what changes?
+- Game: cs2
+- Main query: triggerbot vs aimbot cs2
+- Cluster: cs2-triggerbot
+- Risk level: elevated
+- Target volume: Cover the reader job completely; no SEO word-count target
+- Style: Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler
+- Advertising mode: native
+- Product to integrate: cluster.center
+
+SEO / TOPIC EVIDENCE:
+- Separate firing automation from aim movement using an understandable conceptual example
+- A reader decision tree for cs2 triggerbot: definition, distinct neighboring features, source-backed limitations, and what evidence would change the conclusion.
+
+SUGGESTED OUTLINE:
+- Quick answer to the reader's specific question
+- Explain the distinction with one concrete hypothetical example
+- What the cited feature descriptions establish and leave unknown
+- A short decision checklist
+- FAQ
+
+BACKGROUND NOTES FOR THE WRITER (do not name these in the article):
+### Source: https://cheatix.to/information/counter-strike-2/best-cheats / CS2 Hacks & Cheats: Aimbot, ESP, Triggerbot, Radar & More | Cheatix
+CS2 Hacks & Cheats: Aimbot, ESP, Triggerbot, Radar & More Compare Counter-Strike 2 cheats and providers offering aimbot, player ESP, wallhack, triggerbot, RCS, and radar. Review current listings, software types, updates, setup requirements, and community feedback. Introduction A general overview of the current Counter-Strike 2 cheat market. CS2 cheats are commonly grouped into aimbot, ESP or wallhack, triggerbot, RCS, radar, […] balance available information with readable filters for distance, health, equipment, visibility, teams, items, or vehicles. 03 Triggerbot Compare activation keys, reaction delay, hitbox selection, weapon filters, visibility checks, and how independently the feature can be configured. 04 Skin changer Compare configuration depth, compatibility, setup requirements, and current maintenance notes for this feature across active CS2 listings. 05 External cheats Product type affects installation, available controls, overlay behavior, and maintenance. Confirm […] how the common Counter-Strike 2 product formats differ in setup, features, and maintenance. 01 Aimbot & triggerbot Compare FOV, smoothing, bone or hitbox selection, visibility checks, target switching, trigger delay, and per-weapon configs. Legit-style aim and rage features should be evaluated separately. 02 Player ESP & wallhack Player ESP commonly includes boxes, skeletons, health, armor, distance, weapon, and visibility colors. Bomb, dropped-weapon, and grenade information are useful secondary options. 03
+
+### Source: https://cluster.center/en/cs2 / Cluster CS2 official feature descriptions
+The official page separately describes Aimbot as aim assistance and TriggerBot as automatic firing when targeting conditions are met. It lists ESP as an information overlay. These are vendor descriptions, not independent test results.
+
+STRICT RULES:
+- Use the background notes and verified facts internally; do not mention "local sources", "local evidence", "evidence pack", or "knowledge base" in the final article body.
+- Write in a direct editorial voice. Never invent personal testing or experience; use "we tested" only with a real test record.
+- Use only supported facts or mark uncertainty explicitly.
+- Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.
+- Do not provide operational instructions for bypassing anti-cheat, evading detection, exploiting vulnerabilities, or implementing cheats.
+- If risk level is `restricted`, write only a high-level educational/risk-aware article and refuse operational steps.
+- You may mention cluster.center as a product/brand in a native ad block, but do not make unsupported safety guarantees.
+- Respect product mapping: Dota 2 uses Melonity; Deadlock and CS2 use cluster.center.
+- Deliver the reader's answer first. Include only examples, explanations and checklists that help this specific intent.
+- Match the imported Medium source style: direct, practical, conversational, lightly slangy, gamer-aware, and free from water, corporate wording, bureaucratic phrasing, or academic over-explaining.
+- Keep the target volume useful but tight: cover the intent completely, without padding.
+- Do not use markdown tables. Use bullet lists, numbered lists, and comparison lists instead.
+- Return Markdown with front matter: title, description, game, language, primary_keyword, secondary_keywords.
+- End with a useful FAQ block and include image placement notes. Follow the project's visual prompt guide.
+- Use related entities and natural variants where relevant. There is no mandatory keyword density or ideal anchor ratio.
+- Do not add empty introductions, repeated takeaways, fake quotes, or a fixed paragraph template to reach a word count.
+
+RESEARCH AND READER CONTRACT:
+{
+  "study_id": "seo-20260921",
+  "captured_at": "2026-09-21",
+  "market": {
+    "country": "US",
+    "engine": "google",
+    "language": "en",
+    "secondary_market": "GB"
+  },
+  "source_policies": {
+    "https://cswatch.gg/blog/cs2-cheat-types-explained": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reason": "Contains unsupported anti-cheat effectiveness/safety claims and overconfident behavioral detection statements. Analyze layout and wording, not product truth.",
+      "reviewed_at": "2026-09-21"
+    },
+    "https://steamreport.net/blog/cs2-cheating-types-explained": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reason": "Commercial reporting-service article makes unsupported report-priority and ban-effectiveness claims. Analyze layout and wording, not product truth.",
+      "reviewed_at": "2026-09-21"
+    },
+    "https://umbrella-dota.com/en/features/maphack/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Page mixes feature labels with unverified hidden-information, safety and evasion claims plus setup instructions. Retain for on-page analysis; do not automatically feed these passages to the writer."
+    },
+    "https://dota2tool.vercel.app/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Useful example of the manual-timer reader job, not an authoritative source for current game timings or third-party ESP functionality."
+    },
+    "https://dotasense.com/guides/roshan-timer": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Gameplay/timer page observed in broad timer SERP. It does not substantiate ESP or other third-party information features."
+    },
+    "https://xplay.gg/blog/cs2-skinchanger-how-it-works-and-how-to-access-it-on-our-servers/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://sellyourskins.com/blog/is-skin-changer-bannable/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://cheatstore.net/deadlock/triggerbot": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+    },
+    "https://umbrella-dota.com/en/scripts/invoker/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+    },
+    "https://umbrella-dota.com/en/scripts/meepo/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+    },
+    "https://umbrella-dota.com/en/features/dodger/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+    },
+    "https://www.ciroscript.com/dota": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+    },
+    "https://cheater.fun/deadlock_cheats/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://en.exloader.net/tree/games/deadlock/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://octarine.fun/en/deadlock/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://cheater.fun/cs2-hacks/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://cheater.fun/cheats_for_dota2_download_hacks_free/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://en.exloader.net/tree/modifications/sdk2changer/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://en.exloader.net/tree/modifications/d2jsr/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+    },
+    "https://scope.gg/grenade-predictor/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. The page includes legacy-looking tickrate/map wording; do not assume every detail describes the current CS2 version."
+    },
+    "https://csnades.gg/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified."
+    },
+    "https://ivsofte.biz/en/blog/best-deadlock-cheats/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. Reseller recommendations and anti-cheat/evasion assertions are not independent factual evidence."
+    },
+    "https://madchad.net/best-deadlock-cheats-2026/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified."
+    },
+    "https://deadlockcheats.net/blog": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. The comparison uses an own-product column and unnamed generic rivals, with no inspected test protocol."
+    },
+    "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence. Own-product comparison contains unsupported rival capability, price, ban-rate, support and patch-speed assertions. The inspected copy does not establish a verifiable test protocol."
+    },
+    "https://dota2cheat.net/blog/dota2-cheats-vs-ghostware-features-pricing/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+    },
+    "https://ivsofte.biz/en/compare/dota-2-hacks/": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observed redirect to /en/games/dota-2-hacks/ returns an access-restricted login screen. Preserve the HTTP capture but exclude its words, links and metadata from the competitor-comparison corpus; no access attempt was made.",
+      "exclude_from_onpage_analysis": true
+    },
+    "https://overplus.gg/en": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+    },
+    "https://metaskins.gg/en": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence. Multi-game landing includes product cards; a risk-free slogan is an unverified marketing claim, not evidence of safety."
+    },
+    "https://distort.wtf/features/cs2-grenade-helper": {
+      "role": "competitor_onpage_analysis_only",
+      "exclude_from_fact_evidence": true,
+      "reviewed_at": "2026-09-21",
+      "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+    }
+  },
+  "id": "cs2-triggerbot",
+  "game": "cs2",
+  "language": "en",
+  "primary_query": "cs2 triggerbot",
+  "title": "CS2 triggerbot vs aimbot: what changes?",
+  "reader_job": "Understand whether the advertised feature aims, fires, or does both.",
+  "intent": "informational",
+  "scope": "third_party_software",
+  "page_type": "explanatory_guide",
+  "publication_action": "write_article",
+  "primary_site": "counterskrikecheats.com",
+  "grouping_basis": "editorial_hypothesis_pending_serp_overlap_validation",
+  "original_value": "Use a crosshair-on-target example to separate aiming from firing without implementation steps.",
+  "semantic_terms": [
+    "crosshair",
+    "firing action",
+    "target selection",
+    "aim assistance",
+    "automation",
+    "manual input"
+  ],
+  "competitor_urls": [
+    "https://anyx.gg/",
+    "https://cheatix.to/information/counter-strike-2/best-cheats",
+    "https://cs2-cheats.com/",
+    "https://cs2hacks.net/",
+    "https://cs2hacks.net/compare-cs2-cheats",
+    "https://cswatch.gg/blog/cs2-cheat-types-explained",
+    "https://en.exloader.net/",
+    "https://insanitycheats.com/",
+    "https://insanitycheats.com/product-tag/triggerbot/",
+    "https://lethality.io/cs2-cheats/",
+    "https://steamreport.net/blog/cs2-cheating-types-explained",
+    "https://undetek.com/",
+    "https://undetek.com/free-cs2-cheats-download/"
+  ],
+  "outline": [
+    "The difference in one aiming situation",
+    "Triggerbot, aimbot and aim-assist labels",
+    "What a feature list still needs to clarify",
+    "Aiming names: aim assist, aimbot and legitbot",
+    "FAQ"
+  ],
+  "anchor_guidance": [
+    "Use a descriptive contextual link to the cs2 feature hub when it helps the next reader question",
+    "Use the brand name for a vendor reference; do not disguise promotional links as independent recommendations",
+    "Use the raw URL only when identifying a destination is useful; avoid filler anchors such as click here",
+    "No required exact/partial/branded/naked percentages; inbound backlink ratios remain unmeasured"
+  ],
+  "evidence_needed": [
+    "Confirm the CS2 publication domain",
+    "Obtain volume for the comparison query itself",
+    "Recheck attributed feature claims before publication"
+  ],
+  "comparison_contract": null,
+  "priority": "P1",
+  "priority_basis": "Editorial usefulness, feature specificity and existing coverage; NOT search volume or ranking difficulty",
+  "research_state": "partial_provider_metrics_serp_grouping_still_unvalidated",
+  "suggested_questions": [
+    "What is a triggerbot in CS2?",
+    "Is triggerbot cheating?",
+    "What's the difference between aimbot and triggerbot?",
+    "Does CS2 have a bot mode?"
+  ],
+  "measured_query_count": 2,
+  "editorial_status": "brief_not_a_verified_product_claim",
+  "article_target_query": "triggerbot vs aimbot cs2",
+  "intent_matched_urls": [
+    "https://cswatch.gg/blog/cs2-cheat-types-explained",
+    "https://steamreport.net/blog/cs2-cheating-types-explained"
+  ],
+  "usage_phrases": [
+    "triggerbot",
+    "aimbot",
+    "triggerbot vs aimbot"
+  ],
+  "serp_mismatch": "The broad cs2 triggerbot sample is dominated by releases, repositories and video. The comparison query returned two explainers and two discussions plus video. Its search volume is unknown; do not transfer the broad query's 20 estimate. Four eligible results are insufficient for automatic overlap validation.",
+  "reviewed_semantic_terms": [
+    {
+      "term": "triggerbot",
+      "usage_note": "Separate the claimed firing action from aiming; compare the actual description."
+    },
+    {
+      "term": "aimbot",
+      "usage_note": "Identify the target and claimed aiming action; do not infer a complete feature specification."
+    },
+    {
+      "term": "crosshair",
+      "usage_note": "Use in a concrete target/action example without configuration instructions."
+    },
+    {
+      "term": "target",
+      "usage_note": "Specify the object involved, rather than treating every target as a player."
+    },
+    {
+      "term": "firing",
+      "usage_note": "Use for the action of a shot; separate it from movement of aim."
+    },
+    {
+      "term": "aim assist",
+      "usage_note": "A broad publisher label that needs an explicit action and target."
+    }
+  ],
+  "semantic_review": {
+    "reviewed_at": "2026-09-21",
+    "basis": "Editorial relevance to the reader job, checked against the retained corpus at build time. Zero matching documents remains explicitly unobserved.",
+    "not_a_quota": true
+  },
+  "keywords": [
+    {
+      "query": "triggerbot vs aimbot cs2",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [
+        "https://anyx.gg/",
+        "https://undetek.com/"
+      ],
+      "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+      "search_facets": [
+        "vs"
+      ],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "cfa83370b282fa838339",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 1,
+      "page_type_evidence": {
+        "counts": {
+          "guide_or_article": 2,
+          "discussion": 2
+        },
+        "sample_results": 4,
+        "samples": [
+          {
+            "method": "browser_dom",
+            "captured_at": "2026-09-21T05:22:37.441Z",
+            "country_requested": "US",
+            "source_file": "raw/google-intent-validation.json",
+            "counts": {
+              "guide_or_article": 2,
+              "discussion": 2
+            },
+            "unique_nonvideo_results": 4
+          }
+        ],
+        "decision": "observed_mix",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "what is a triggerbot in cs2",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "observed",
+      "sources": [
+        "https://www.google.com/search?q=cs2+triggerbot&hl=en&gl=us&pws=0"
+      ],
+      "discovery_note": "Observed People Also Ask question in the saved Google sample. Question wording does not establish exact search volume.",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "a93526ace3888c4b5bea",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "cs2 triggerbot meaning",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [
+        "https://anyx.gg/",
+        "https://undetek.com/"
+      ],
+      "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "f73739e84db446c5fd5b",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "cs2 triggerbot vs aim assist",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [
+        "https://anyx.gg/",
+        "https://undetek.com/"
+      ],
+      "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+      "search_facets": [
+        "vs"
+      ],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "aa880dcf786745de5b32",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "Is triggerbot cheating?",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "observed",
+      "sources": [
+        "https://www.google.com/search?q=cs2+triggerbot&hl=en&gl=us&pws=0"
+      ],
+      "discovery_note": "Observed People Also Ask question in the saved Google sample. Question wording does not establish exact search volume.",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "307316e8619e498b074e",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "What's the difference between aimbot and triggerbot?",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "observed",
+      "sources": [
+        "https://www.google.com/search?q=cs2+triggerbot&hl=en&gl=us&pws=0"
+      ],
+      "discovery_note": "Observed People Also Ask question in the saved Google sample. Question wording does not establish exact search volume.",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "5f1dc37fc9fcf993678c",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "triggerbot cs2",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "sources": [
+        "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=cs2+triggerbot"
+      ],
+      "discovery": "observed",
+      "discovery_note": "Visible Semrush keyword output; estimated demand, not an independent Google exact count",
+      "search_facets": [],
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "id": "bfbf20c1a214ffd6c2d3",
+      "volume": 30,
+      "metric": {
+        "query": "triggerbot cs2",
+        "game": "cs2",
+        "language": "en",
+        "country": "US",
+        "engine": "google",
+        "provider": "semrush_public_keyword_checker",
+        "period": "2026-09",
+        "period_basis": "capture_month",
+        "match_type": "provider_unspecified",
+        "volume": 30,
+        "volume_basis": "provider_estimated_rolling_12_month_average",
+        "measurement_window_end": "",
+        "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=cs2+triggerbot",
+        "captured_at": "2026-09-21T04:54:26.807Z",
+        "provider_difficulty": "0",
+        "observation_kind": "related_keyword_in_selected_database",
+        "precision": "provider_display",
+        "imported_at": "2026-09-21T04:57:35.888817+00:00",
+        "source_file": "semrush-public-metrics.csv"
+      },
+      "metric_candidates": [
+        {
+          "query": "triggerbot cs2",
+          "game": "cs2",
+          "language": "en",
+          "country": "US",
+          "engine": "google",
+          "provider": "semrush_public_keyword_checker",
+          "period": "2026-09",
+          "period_basis": "capture_month",
+          "match_type": "provider_unspecified",
+          "volume": 30,
+          "volume_basis": "provider_estimated_rolling_12_month_average",
+          "measurement_window_end": "",
+          "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=cs2+triggerbot",
+          "captured_at": "2026-09-21T04:54:26.807Z",
+          "provider_difficulty": "0",
+          "observation_kind": "related_keyword_in_selected_database",
+          "precision": "provider_display",
+          "imported_at": "2026-09-21T04:57:35.888817+00:00",
+          "source_file": "semrush-public-metrics.csv"
+        }
+      ],
+      "frequency_band": "low",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "cs2 triggerbot vs aimbot",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "search_facets": [
+        "vs"
+      ],
+      "id": "6cf178446e3a15a923c4",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "long_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "cs2 triggerbot limitations",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "article_candidate",
+      "recommended_page_type": "article_or_section",
+      "search_facets": [],
+      "id": "19389c086bdaa928b5cc",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    }
+  ],
+  "validated_query_subsets": [],
+  "article_target": {
+    "query": "triggerbot vs aimbot cs2",
+    "volume": null,
+    "metric": null,
+    "frequency_band": "unknown",
+    "page_type_evidence": {
+      "counts": {
+        "guide_or_article": 2,
+        "discussion": 2
+      },
+      "sample_results": 4,
+      "samples": [
+        {
+          "method": "browser_dom",
+          "captured_at": "2026-09-21T05:22:37.441Z",
+          "country_requested": "US",
+          "source_file": "raw/google-intent-validation.json",
+          "counts": {
+            "guide_or_article": 2,
+            "discussion": 2
+          },
+          "unique_nonvideo_results": 4
+        }
+      ],
+      "decision": "observed_mix",
+      "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+    }
+  },
+  "sampled_pages": 6,
+  "term_usage": {
+    "query": "cs2 triggerbot",
+    "pages": [
+      {
+        "url": "https://anyx.gg/",
+        "words": 119,
+        "body_exact": 0,
+        "page_type": "commercial_page_provisional",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "semantic_main"
+      },
+      {
+        "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+        "words": 2124,
+        "body_exact": 0,
+        "page_type": "comparison_overview",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "semantic_main"
+      },
+      {
+        "url": "https://cs2-cheats.com/",
+        "words": 887,
+        "body_exact": 0,
+        "page_type": "commercial_page_provisional",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "body_fallback_review_needed"
+      },
+      {
+        "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "words": 571,
+        "body_exact": 0,
+        "page_type": "guide_or_article",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "semantic_main"
+      },
+      {
+        "url": "https://en.exloader.net/",
+        "words": 1432,
+        "body_exact": 0,
+        "page_type": "commercial_page_provisional",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "body_fallback_review_needed"
+      },
+      {
+        "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+        "words": 1064,
+        "body_exact": 0,
+        "page_type": "guide_or_article",
+        "exact_per_1000_words": 0.0,
+        "title_exact": 0,
+        "description_exact": 0,
+        "h1_exact": 0,
+        "h2_h3_exact": 0,
+        "intro_100_words_exact": 0,
+        "capture_notes": [],
+        "extraction": "semantic_main"
+      }
+    ],
+    "by_page_type": {
+      "commercial_page_provisional": {
+        "body_exact": {
+          "n": 3,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words": {
+          "n": 3,
+          "min": 119,
+          "median": 887,
+          "max": 1432,
+          "q1": null,
+          "q3": null
+        }
+      },
+      "comparison_overview": {
+        "body_exact": {
+          "n": 1,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words": {
+          "n": 1,
+          "min": 2124,
+          "median": 2124,
+          "max": 2124,
+          "q1": null,
+          "q3": null
+        }
+      },
+      "guide_or_article": {
+        "body_exact": {
+          "n": 2,
+          "min": 0,
+          "median": 0.0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words": {
+          "n": 2,
+          "min": 571,
+          "median": 817.5,
+          "max": 1064,
+          "q1": null,
+          "q3": null
+        }
+      }
+    },
+    "body_exact_distribution": {
+      "n": 6,
+      "min": 0,
+      "median": 0.0,
+      "max": 0,
+      "q1": 0.0,
+      "q3": 0.0
+    },
+    "words_distribution": {
+      "n": 6,
+      "min": 119,
+      "median": 975.5,
+      "max": 2124,
+      "q1": 650.0,
+      "q3": 1340.0
+    },
+    "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+  },
+  "intent_matched_term_usage": [
+    {
+      "query": "cs2 triggerbot",
+      "pages": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "words": 571,
+          "body_exact": 0,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "words": 1064,
+          "body_exact": 0,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        }
+      ],
+      "by_page_type": {
+        "guide_or_article": {
+          "body_exact": {
+            "n": 2,
+            "min": 0,
+            "median": 0.0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 2,
+            "min": 571,
+            "median": 817.5,
+            "max": 1064,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 2,
+        "min": 0,
+        "median": 0.0,
+        "max": 0,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 2,
+        "min": 571,
+        "median": 817.5,
+        "max": 1064,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    {
+      "query": "triggerbot vs aimbot cs2",
+      "pages": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "words": 571,
+          "body_exact": 0,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "words": 1064,
+          "body_exact": 0,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        }
+      ],
+      "by_page_type": {
+        "guide_or_article": {
+          "body_exact": {
+            "n": 2,
+            "min": 0,
+            "median": 0.0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 2,
+            "min": 571,
+            "median": 817.5,
+            "max": 1064,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 2,
+        "min": 0,
+        "median": 0.0,
+        "max": 0,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 2,
+        "min": 571,
+        "median": 817.5,
+        "max": 1064,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    {
+      "query": "triggerbot",
+      "pages": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "words": 571,
+          "body_exact": 2,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 3.503,
+          "title_exact": 1,
+          "description_exact": 0,
+          "h1_exact": 1,
+          "h2_h3_exact": 1,
+          "intro_100_words_exact": 1,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "words": 1064,
+          "body_exact": 5,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 4.699,
+          "title_exact": 0,
+          "description_exact": 1,
+          "h1_exact": 0,
+          "h2_h3_exact": 1,
+          "intro_100_words_exact": 1,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        }
+      ],
+      "by_page_type": {
+        "guide_or_article": {
+          "body_exact": {
+            "n": 2,
+            "min": 2,
+            "median": 3.5,
+            "max": 5,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 2,
+            "min": 571,
+            "median": 817.5,
+            "max": 1064,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 2,
+        "min": 2,
+        "median": 3.5,
+        "max": 5,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 2,
+        "min": 571,
+        "median": 817.5,
+        "max": 1064,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    {
+      "query": "aimbot",
+      "pages": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "words": 571,
+          "body_exact": 8,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 14.011,
+          "title_exact": 1,
+          "description_exact": 0,
+          "h1_exact": 1,
+          "h2_h3_exact": 1,
+          "intro_100_words_exact": 1,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "words": 1064,
+          "body_exact": 12,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 11.278,
+          "title_exact": 1,
+          "description_exact": 1,
+          "h1_exact": 1,
+          "h2_h3_exact": 1,
+          "intro_100_words_exact": 3,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        }
+      ],
+      "by_page_type": {
+        "guide_or_article": {
+          "body_exact": {
+            "n": 2,
+            "min": 8,
+            "median": 10.0,
+            "max": 12,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 2,
+            "min": 571,
+            "median": 817.5,
+            "max": 1064,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 2,
+        "min": 8,
+        "median": 10.0,
+        "max": 12,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 2,
+        "min": 571,
+        "median": 817.5,
+        "max": 1064,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    {
+      "query": "triggerbot vs aimbot",
+      "pages": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "words": 571,
+          "body_exact": 0,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "words": 1064,
+          "body_exact": 0,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        }
+      ],
+      "by_page_type": {
+        "guide_or_article": {
+          "body_exact": {
+            "n": 2,
+            "min": 0,
+            "median": 0.0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 2,
+            "min": 571,
+            "median": 817.5,
+            "max": 1064,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 2,
+        "min": 0,
+        "median": 0.0,
+        "max": 0,
+        "q1": null,
+        "q3": null
+      },
+      "words_distribution": {
+        "n": 2,
+        "min": 571,
+        "median": 817.5,
+        "max": 1064,
+        "q1": null,
+        "q3": null
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    }
+  ],
+  "reviewed_related_terms": [
+    {
+      "term": "triggerbot",
+      "usage_note": "Separate the claimed firing action from aiming; compare the actual description.",
+      "sources": [
+        "https://cheatix.to/information/counter-strike-2/best-cheats",
+        "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "https://steamreport.net/blog/cs2-cheating-types-explained"
+      ],
+      "document_frequency": 3,
+      "observations": [
+        {
+          "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "body_exact": 7,
+          "page_type": "comparison_overview"
+        },
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 2,
+          "page_type": "guide_or_article"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "body_exact": 5,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "aimbot",
+      "usage_note": "Identify the target and claimed aiming action; do not infer a complete feature specification.",
+      "sources": [
+        "https://cheatix.to/information/counter-strike-2/best-cheats",
+        "https://cs2-cheats.com/",
+        "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "https://en.exloader.net/",
+        "https://steamreport.net/blog/cs2-cheating-types-explained"
+      ],
+      "document_frequency": 5,
+      "observations": [
+        {
+          "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "body_exact": 8,
+          "page_type": "comparison_overview"
+        },
+        {
+          "url": "https://cs2-cheats.com/",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 8,
+          "page_type": "guide_or_article"
+        },
+        {
+          "url": "https://en.exloader.net/",
+          "body_exact": 3,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "body_exact": 12,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "crosshair",
+      "usage_note": "Use in a concrete target/action example without configuration instructions.",
+      "sources": [
+        "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "https://steamreport.net/blog/cs2-cheating-types-explained"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 2,
+          "page_type": "guide_or_article"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "body_exact": 8,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "target",
+      "usage_note": "Specify the object involved, rather than treating every target as a player.",
+      "sources": [
+        "https://cheatix.to/information/counter-strike-2/best-cheats",
+        "https://steamreport.net/blog/cs2-cheating-types-explained"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "body_exact": 6,
+          "page_type": "comparison_overview"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "body_exact": 2,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "firing",
+      "usage_note": "Use for the action of a shot; separate it from movement of aim.",
+      "sources": [
+        "https://cswatch.gg/blog/cs2-cheat-types-explained"
+      ],
+      "document_frequency": 1,
+      "observations": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 1,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "aim assist",
+      "usage_note": "A broad publisher label that needs an explicit action and target.",
+      "sources": [
+        "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "https://en.exloader.net/"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 1,
+          "page_type": "guide_or_article"
+        },
+        {
+          "url": "https://en.exloader.net/",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    }
+  ],
+  "publication_gate": "requires_original_content_and_editorial_review",
+  "supporting_sections": [
+    {
+      "id": "cs2-aimbot",
+      "title": "CS2 aim assist, aimbot and legitbot: why names are not specifications",
+      "reader_job": "Interpret aiming-feature descriptions without assuming identical behavior.",
+      "original_value": "Build an action vocabulary from dated descriptions; contrast it with the separate firing question.",
+      "article_target": {
+        "query": "cs2 aim assist vs aimbot",
+        "volume": null,
+        "metric": null,
+        "frequency_band": "unknown",
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      "outline": [
+        "An aiming label needs an action and target",
+        "Aim assist, aimbot and legitbot are publisher vocabulary, not comparable specifications",
+        "Link to the separate product-access destination when needed"
+      ],
+      "semantic_terms": [
+        "aim assistance",
+        "crosshair movement",
+        "target selection",
+        "legitbot",
+        "input",
+        "accuracy"
+      ],
+      "reviewed_related_terms": [
+        {
+          "term": "aimbot",
+          "usage_note": "Identify the target and claimed aiming action; do not infer a complete feature specification.",
+          "sources": [
+            "https://cheatix.to/information/counter-strike-2/best-cheats",
+            "https://cs2-cheats.com/",
+            "https://en.exloader.net/"
+          ],
+          "document_frequency": 3,
+          "observations": [
+            {
+              "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+              "body_exact": 8,
+              "page_type": "comparison_overview"
+            },
+            {
+              "url": "https://cs2-cheats.com/",
+              "body_exact": 2,
+              "page_type": "commercial_page_provisional"
+            },
+            {
+              "url": "https://en.exloader.net/",
+              "body_exact": 3,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "aim assist",
+          "usage_note": "A broad publisher label that needs an explicit action and target.",
+          "sources": [
+            "https://en.exloader.net/"
+          ],
+          "document_frequency": 1,
+          "observations": [
+            {
+              "url": "https://en.exloader.net/",
+              "body_exact": 1,
+              "page_type": "commercial_page_provisional"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "legitbot",
+          "usage_note": "Explain the naming ambiguity; the name is not evidence of safety or acceptability.",
+          "sources": [],
+          "document_frequency": 0,
+          "observations": [],
+          "origin": "editorial_concept_not_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "target",
+          "usage_note": "Specify the object involved, rather than treating every target as a player.",
+          "sources": [
+            "https://cheatix.to/information/counter-strike-2/best-cheats"
+          ],
+          "document_frequency": 1,
+          "observations": [
+            {
+              "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+              "body_exact": 6,
+              "page_type": "comparison_overview"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "crosshair",
+          "usage_note": "Use in a concrete target/action example without configuration instructions.",
+          "sources": [],
+          "document_frequency": 0,
+          "observations": [],
+          "origin": "editorial_concept_not_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        },
+        {
+          "term": "prediction",
+          "usage_note": "Attribute the specific prediction claim; do not supply implementation or success rates.",
+          "sources": [
+            "https://cheatix.to/information/counter-strike-2/best-cheats"
+          ],
+          "document_frequency": 1,
+          "observations": [
+            {
+              "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+              "body_exact": 1,
+              "page_type": "comparison_overview"
+            }
+          ],
+          "origin": "reviewed_vocabulary_observed_in_sample",
+          "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+        }
+      ],
+      "evidence_terms": null,
+      "competitor_urls": [
+        "https://anyx.gg/",
+        "https://cheatix.to/information/counter-strike-2/best-cheats",
+        "https://cs2-cheats.com/",
+        "https://cs2hacks.net/",
+        "https://cs2hacks.net/compare-cs2-cheats",
+        "https://en.exloader.net/",
+        "https://insanitycheats.com/",
+        "https://lethality.io/cs2-cheats/",
+        "https://undetek.com/"
+      ],
+      "serp_mismatch": "The broad aimbot sample mixes product pages, discussions, repositories, video, a software release and a player's config page. The proposed naming/aim-versus-fire explanation substantially overlaps the existing triggerbot-versus-aimbot article. Add a short naming section there; no validated equivalence or standalone demand is claimed."
+    }
+  ],
+  "non_article_queries": [
+    {
+      "query": "cs2 triggerbot",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "informational",
+      "scope": "third_party_software",
+      "discovery": "observed",
+      "sources": [
+        "https://anyx.gg/",
+        "https://undetek.com/",
+        "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=cs2+triggerbot"
+      ],
+      "discovery_note": "Visible Semrush keyword output; estimated demand, not an independent Google exact count",
+      "search_facets": [],
+      "query_role": "ambiguous_research",
+      "recommended_page_type": "intent_review",
+      "id": "3cd09143676a74c69c02",
+      "volume": 20,
+      "metric": {
+        "query": "cs2 triggerbot",
+        "game": "cs2",
+        "language": "en",
+        "country": "US",
+        "engine": "google",
+        "provider": "semrush_public_keyword_checker",
+        "period": "2026-09",
+        "period_basis": "capture_month",
+        "match_type": "provider_unspecified",
+        "volume": 20,
+        "volume_basis": "provider_estimated_rolling_12_month_average",
+        "measurement_window_end": "",
+        "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=cs2+triggerbot",
+        "captured_at": "2026-09-21T04:54:26.807Z",
+        "provider_difficulty": "",
+        "observation_kind": "primary_lookup",
+        "precision": "provider_display",
+        "imported_at": "2026-09-21T04:57:35.888812+00:00",
+        "source_file": "semrush-public-metrics.csv"
+      },
+      "metric_candidates": [
+        {
+          "query": "cs2 triggerbot",
+          "game": "cs2",
+          "language": "en",
+          "country": "US",
+          "engine": "google",
+          "provider": "semrush_public_keyword_checker",
+          "period": "2026-09",
+          "period_basis": "capture_month",
+          "match_type": "provider_unspecified",
+          "volume": 20,
+          "volume_basis": "provider_estimated_rolling_12_month_average",
+          "measurement_window_end": "",
+          "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=cs2+triggerbot",
+          "captured_at": "2026-09-21T04:54:26.807Z",
+          "provider_difficulty": "",
+          "observation_kind": "primary_lookup",
+          "precision": "provider_display",
+          "imported_at": "2026-09-21T04:57:35.888812+00:00",
+          "source_file": "semrush-public-metrics.csv"
+        }
+      ],
+      "frequency_band": "low",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 2,
+      "page_type_evidence": {
+        "counts": {
+          "repository": 2,
+          "discussion": 3,
+          "commercial_page_provisional": 2,
+          "code_repository": 1,
+          "software_release": 3,
+          "product_landing": 1
+        },
+        "sample_results": 12,
+        "samples": [
+          {
+            "method": "browser_dom",
+            "captured_at": "2026-09-21",
+            "country_requested": "US",
+            "source_file": "raw\\google-observed.json",
+            "counts": {
+              "repository": 2,
+              "discussion": 2,
+              "commercial_page_provisional": 2
+            },
+            "unique_nonvideo_results": 6
+          },
+          {
+            "method": "browser_dom",
+            "captured_at": "2026-09-21T05:20:18.336Z",
+            "country_requested": "US",
+            "source_file": "raw/google-intent-validation.json",
+            "counts": {
+              "code_repository": 1,
+              "discussion": 1,
+              "software_release": 3,
+              "product_landing": 1
+            },
+            "unique_nonvideo_results": 6
+          }
+        ],
+        "decision": "observed_mix",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "cs2 triggerbot cheat",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [],
+      "id": "599b1e3ab151078282d4",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "cs2 triggerbot free",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [
+        "free"
+      ],
+      "id": "22dfc24185979326062c",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "free cs2 triggerbot",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [
+        "free"
+      ],
+      "id": "0362bab31b624c19572a",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "cs2 triggerbot download",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [
+        "download"
+      ],
+      "id": "896fc62f4a4236e95a03",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "cs2 triggerbot hack",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [],
+      "id": "7bcc39f584d13a9c9443",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    {
+      "query": "triggerbot cs2 free",
+      "game": "cs2",
+      "language": "en",
+      "cluster_id": "cs2-triggerbot",
+      "intent": "transactional",
+      "scope": "third_party_software",
+      "discovery": "editorial_expansion",
+      "sources": [],
+      "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+      "query_role": "product_access",
+      "recommended_page_type": "verified_product_or_category",
+      "search_facets": [
+        "free"
+      ],
+      "id": "7e6fc2a21e9f65446b6e",
+      "volume": null,
+      "metric": null,
+      "metric_candidates": [],
+      "frequency_band": "unknown",
+      "specificity": "head_or_mid_tail_phrase",
+      "serp_samples": 0,
+      "page_type_evidence": {
+        "counts": {},
+        "sample_results": 0,
+        "samples": [],
+        "decision": "manual_review",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    }
+  ],
+  "related_terms": [
+    {
+      "term": "triggerbot",
+      "usage_note": "Separate the claimed firing action from aiming; compare the actual description.",
+      "sources": [
+        "https://cheatix.to/information/counter-strike-2/best-cheats",
+        "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "https://steamreport.net/blog/cs2-cheating-types-explained"
+      ],
+      "document_frequency": 3,
+      "observations": [
+        {
+          "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "body_exact": 7,
+          "page_type": "comparison_overview"
+        },
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 2,
+          "page_type": "guide_or_article"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "body_exact": 5,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "aimbot",
+      "usage_note": "Identify the target and claimed aiming action; do not infer a complete feature specification.",
+      "sources": [
+        "https://cheatix.to/information/counter-strike-2/best-cheats",
+        "https://cs2-cheats.com/",
+        "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "https://en.exloader.net/",
+        "https://steamreport.net/blog/cs2-cheating-types-explained"
+      ],
+      "document_frequency": 5,
+      "observations": [
+        {
+          "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "body_exact": 8,
+          "page_type": "comparison_overview"
+        },
+        {
+          "url": "https://cs2-cheats.com/",
+          "body_exact": 2,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 8,
+          "page_type": "guide_or_article"
+        },
+        {
+          "url": "https://en.exloader.net/",
+          "body_exact": 3,
+          "page_type": "commercial_page_provisional"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "body_exact": 12,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "crosshair",
+      "usage_note": "Use in a concrete target/action example without configuration instructions.",
+      "sources": [
+        "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "https://steamreport.net/blog/cs2-cheating-types-explained"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 2,
+          "page_type": "guide_or_article"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "body_exact": 8,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "target",
+      "usage_note": "Specify the object involved, rather than treating every target as a player.",
+      "sources": [
+        "https://cheatix.to/information/counter-strike-2/best-cheats",
+        "https://steamreport.net/blog/cs2-cheating-types-explained"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "body_exact": 6,
+          "page_type": "comparison_overview"
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "body_exact": 2,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "firing",
+      "usage_note": "Use for the action of a shot; separate it from movement of aim.",
+      "sources": [
+        "https://cswatch.gg/blog/cs2-cheat-types-explained"
+      ],
+      "document_frequency": 1,
+      "observations": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 1,
+          "page_type": "guide_or_article"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    },
+    {
+      "term": "aim assist",
+      "usage_note": "A broad publisher label that needs an explicit action and target.",
+      "sources": [
+        "https://cswatch.gg/blog/cs2-cheat-types-explained",
+        "https://en.exloader.net/"
+      ],
+      "document_frequency": 2,
+      "observations": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "body_exact": 1,
+          "page_type": "guide_or_article"
+        },
+        {
+          "url": "https://en.exloader.net/",
+          "body_exact": 1,
+          "page_type": "commercial_page_provisional"
+        }
+      ],
+      "origin": "reviewed_vocabulary_observed_in_sample",
+      "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+    }
+  ],
+  "anchor_summary": {
+    "editorial_internal": {
+      "n": 105,
+      "counts": {
+        "descriptive": 101,
+        "branded": 2,
+        "generic": 1,
+        "naked_url": 1
+      }
+    },
+    "editorial_outbound": {
+      "n": 14,
+      "counts": {
+        "descriptive": 9,
+        "branded": 1,
+        "image_or_empty": 3,
+        "naked_url": 1
+      }
+    },
+    "navigation_internal": {
+      "n": 177,
+      "counts": {
+        "image_or_empty": 6,
+        "descriptive": 169,
+        "naked_url": 2
+      }
+    },
+    "navigation_outbound": {
+      "n": 15,
+      "counts": {
+        "image_or_empty": 7,
+        "descriptive": 8
+      }
+    },
+    "other_internal": {
+      "n": 61,
+      "counts": {
+        "descriptive": 46,
+        "image_or_empty": 11,
+        "naked_url": 1,
+        "branded": 2,
+        "generic": 1
+      }
+    },
+    "other_outbound": {
+      "n": 10,
+      "counts": {
+        "descriptive": 8,
+        "image_or_empty": 2
+      }
+    }
+  },
+  "rules": [
+    "Answer the reader job before background. Match the page type.",
+    "Use short concrete examples and explain tradeoffs. Remove repeated conclusions and filler.",
+    "No invented testing, quotations, user experiences, rankings, prices or safety promises.",
+    "Exact phrase use is descriptive evidence, never a density target. Use variants when natural.",
+    "Related terms are reviewed vocabulary with usage notes and observed-source labels. Unobserved concepts are not competitor evidence; no term is mandatory. Raw co-occurrence output is not a writing checklist.",
+    "Original value must be delivered, not merely promised. Do not clone a rival outline.",
+    "Supporting sections belong inside this page; do not duplicate their entire outline or FAQ as separate articles.",
+    "non_article_queries are routing context, not phrases to insert into this article. A download/free access request needs an actual verified offer; do not relabel a paid offer as free.",
+    "Vendor comparisons need a dated source for each cell/claim and a visible commercial disclosure.",
+    "For third-party cheat topics, use high-level terminology and evaluation only; no operational evasion or cheat implementation. Legitimate practice/custom-lobby references may include verified built-in command syntax within the stated supported context.",
+    "A direct answer should stand alone and identify entities clearly; no mandatory chunk size or llms.txt."
+  ]
+}

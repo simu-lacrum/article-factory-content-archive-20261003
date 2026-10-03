@@ -1,0 +1,13 @@
+title: "Game Product Research Guides"
+description: "Evidence-led research guides for CS2, Deadlock, and Dota 2."
+url: "https://simu-lacrum.github.io"
+baseurl: "/cluster-melonity-articles"
+markdown: kramdown
+strict_front_matter: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
