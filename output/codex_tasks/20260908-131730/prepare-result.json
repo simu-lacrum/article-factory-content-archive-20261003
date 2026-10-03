@@ -1,0 +1,48 @@
+{
+  "spec": "Create 57 distinct English T2 article briefs, exactly three for each of the 19 CheatsGaming target URLs. Use adjacent informational, decision, troubleshooting, and evidence-literacy intents; do not duplicate target rankings or provide operational anti-cheat bypass guidance. Use Cluster for CS2 and Deadlock, Melonity for Dota 2, and the CheatsGaming visual identity.",
+  "ingest": {
+    "sources": 94,
+    "chunks": 980,
+    "clusters": 1213,
+    "wiki_pages": 980,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 12,
+    "topic_exclusions": 33
+  },
+  "task": {
+    "run_id": "20260908-131730",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260908-131730\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260908-131730\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260908-131730.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-131730",
+    "items": 57
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 94,
+    "clusters": 120
+  },
+  "graph": {
+    "status": "PASS",
+    "graph": "memory/graph/knowledge-graph.json",
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "graph_sha256": "7a9ecec93bb200eb478b85a7a88d93183d457cb737eca93540f9dafedf52f3bc",
+    "nodes": "1899/1899",
+    "edges": "1760/1760",
+    "components": 157,
+    "mandatory_nodes": 1,
+    "required_reading": [
+      "AGENTS.md",
+      "SEO_ARTICLE_RULES.md",
+      "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "memory/graph/knowledge-graph.json"
+    ],
+    "report": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\SESSION_BOOTSTRAP.md",
+    "receipt": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\session-bootstrap.json"
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260908-131730\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

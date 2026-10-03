@@ -1,0 +1,48 @@
+{
+  "spec": "Write exactly two Tier 2 Russian Dota 2 articles for Melonity, each 1000-1200 words, based on a real AI-assisted custom scripting workflow but without code or operational cheat instructions. Article 1: Как написать скрипт для Dota 2 с AI: реальный workflow; explain idea -> public template context -> first wrong TypeScript/archive deliverable -> clarified standalone .js -> configurable UI -> repeatable controlled functional test. Primary keyword: как написать скрипт для Dota 2. Exact anchor once after value: читы дота 2 to https://melonity.gg/; later branded Melonity link, separated by at least two full sections. Article 2: Промпт для Dota 2-скрипта: 5 блоков хорошего ТЗ; focus at least 60% on a five-part observable behavior contract: goal/boundaries, trigger/state transitions, useful settings, context/deliverable format, acceptance test, plus a fillable no-code prompt template. Primary keyword: промпт для Dota 2-скрипта. Exact anchor once after value: читы для dota 2 to https://melonity.gg/; later branded официальная платформа Melonity link, separated by at least two full sections. Both need exact user-specified SEO front matter, 2-4 screenshot placement notes based on local output/video_analysis frames, two generated-image slots carrying the full supplied article-editorial-poster-v1 Nano Banana Pro prompts and QA scores above 80, practical FAQ with five questions, direct gamer-aware tone, no markdown tables. Treat VAC/VAC Live only as a boundary: functional testing proves behavior, not anti-cheat status or account safety. Never give code, private API methods, injection, bypass, masking, evasion, fake safety, detection, current patch, ban, or guarantee claims. Do not duplicate published topics such as best cheats, installation, MapHack, safety, ban risk, or commands.",
+  "ingest": {
+    "sources": 46,
+    "chunks": 555,
+    "clusters": 1213,
+    "wiki_pages": 555,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 10,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260804-175441",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260804-175441\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260804-175441\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260804-175441.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260804-175441",
+    "items": 2
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 46,
+    "clusters": 120
+  },
+  "graph": {
+    "status": "PASS",
+    "graph": "memory/graph/knowledge-graph.json",
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "graph_sha256": "e6c1f2b1dd305d1eff74950293113121dcfc5867843c3ce70f049492d9df2963",
+    "nodes": "1403/1403",
+    "edges": "1310/1310",
+    "components": 103,
+    "mandatory_nodes": 1,
+    "required_reading": [
+      "AGENTS.md",
+      "SEO_ARTICLE_RULES.md",
+      "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "memory/graph/knowledge-graph.json"
+    ],
+    "report": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\SESSION_BOOTSTRAP.md",
+    "receipt": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\session-bootstrap.json"
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260804-175441\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

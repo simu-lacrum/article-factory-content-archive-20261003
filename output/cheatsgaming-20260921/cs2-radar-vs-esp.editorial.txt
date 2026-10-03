@@ -1,0 +1,20 @@
+IMAGE_SLOT_01
+Placement: after "## One opponent, two ways to display their position"
+Type: real screenshot
+Purpose: let the reader compare a map display with an on-screen information display
+Suggested file name: cs2-radar-esp-publisher-comparison.webp
+Alt text: Separate radar and ESP descriptions on a CS2 feature page
+Capture instruction: capture the radar and ESP sections of https://favade.org/features/ with source attribution and date. Use only the real published display examples if available; otherwise capture the text descriptions. Do not fabricate an in-game overlay.
+
+
+ IMAGE_SLOT_02
+Placement: after "## What Cluster's ESP description actually covers"
+Type: real screenshot
+Purpose: show the exact scope of the cited Cluster ESP description
+Suggested file name: cluster-cs2-esp-description.webp
+Alt text: Cluster CS2 ESP description identifying an on-screen information overlay
+Capture instruction: capture the ESP heading and its complete description at https://cluster.center/en/cs2, with the capture date retained in editorial records. Do not add a radar label or unverified feature artwork.
+
+
+ INTERNAL_LINKS
+The existing Cluster overview is linked. After the companion triggerbot/aimbot article is published, link the opening reference to aiming and firing using "CS2 triggerbot vs aimbot" and the real assigned URL.

@@ -1,0 +1,48 @@
+{
+  "spec": "Create fifteen English restricted-safe adjacent-intent SEO articles: three contextual backlink articles for each of these CheatsGaming CS2 pages: best free CS2 cheats, legit CS2 cheats, external CS2 cheats, CS2 cheats installation, and best CS2 cheats. Keep content non-operational and evidence-led.",
+  "ingest": {
+    "sources": 95,
+    "chunks": 985,
+    "clusters": 1213,
+    "wiki_pages": 985,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 12,
+    "topic_exclusions": 33
+  },
+  "task": {
+    "run_id": "20260909-104143",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260909-104143\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260909-104143\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260909-104143.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104143",
+    "items": 15
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 95,
+    "clusters": 120
+  },
+  "graph": {
+    "status": "PASS",
+    "graph": "memory/graph/knowledge-graph.json",
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "graph_sha256": "62b378248a0378799cd74f7bcbb2eb612c692a1b61c0f411b4205d9aa414582f",
+    "nodes": "1905/1905",
+    "edges": "1765/1765",
+    "components": 158,
+    "mandatory_nodes": 1,
+    "required_reading": [
+      "AGENTS.md",
+      "SEO_ARTICLE_RULES.md",
+      "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "memory/graph/knowledge-graph.json"
+    ],
+    "report": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\SESSION_BOOTSTRAP.md",
+    "receipt": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\session-bootstrap.json"
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260909-104143\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

@@ -1,0 +1,35 @@
+{
+  "spec": "Topic: How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery\nGame: dota2\nLanguage: en\nArticle count: 1\nTarget volume: 1800-2400 words\nAudience: Dota 2 players with low or unstable Behavior Score / Communication Score who want practical, non-operational recovery advice before returning to ranked.\nRequired outline:\n- What Behavior Score and Communication Score mean in Dota 2\n- How to check your current score\n- What actually lowers your score: abandons, reports, griefing, chat abuse\n- How often Behavior Score updates\n- Fast recovery plan: Turbo, mute, support picks, commends, no chat fights\n- Why low Behavior Score feels like a hidden pool\n- Where Melonity fits: fewer mechanical mistakes, better awareness, less tilt, cleaner execution\n- Soft CTA: try Melonity free for 7 days before grinding ranked again\nSEO requirements: title <= 60 characters, description <= 160 characters containing primary keyword, H2/H3 structure, FAQ with 4-7 questions, 2-5 image placement notes, internal-link suggestions, native Melonity integration with a clearly visible link.\nSafety/factual limits: use local memory/evidence only for factual claims; do not invent patch/meta/prices/ban waves/anti-cheat status/current product guarantees; do not provide bypass, evasion, exploit, or cheat implementation instructions.",
+  "ingest": {
+    "sources": 19,
+    "chunks": 281,
+    "clusters": 1213,
+    "wiki_pages": 281,
+    "warnings": [],
+    "topic_ideas_rebuilt": 515,
+    "published_articles": 5,
+    "topic_exclusions": 14
+  },
+  "task": {
+    "run_id": "20260622-183400",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260622-183400\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260622-183400\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260622-183400.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-183400",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 19,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 939,
+    "edges": 902
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260622-183400\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

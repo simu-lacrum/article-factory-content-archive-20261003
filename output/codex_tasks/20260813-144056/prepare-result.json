@@ -1,0 +1,48 @@
+{
+  "spec": "Create exactly fourteen T2V articles from the attached second-package brief: Dota 2 skin changer layers; private cheats buying checklist; Foxhole artillery calculator inputs; compare CS2 cheats methodology; Dota hero-script coverage and maintenance; CS2 Humanizer claim literacy; CS2 Chams readability; CS2 launcher diagnostics; Dota CFG layers; Deadlock target categories; Deadlock movement timing; Russian Cluster catalog card anatomy; Russian CS2 status ESP; Russian Deadlock FOV readability. Include exactly two generated image slots per article using the supplied prompts and global indices 1-28. Never claim 100% safe or guaranteed detection status.",
+  "ingest": {
+    "sources": 75,
+    "chunks": 804,
+    "clusters": 1213,
+    "wiki_pages": 804,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 12,
+    "topic_exclusions": 33
+  },
+  "task": {
+    "run_id": "20260813-144056",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260813-144056\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260813-144056\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260813-144056.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-144056",
+    "items": 14
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 75,
+    "clusters": 120
+  },
+  "graph": {
+    "status": "PASS",
+    "graph": "memory/graph/knowledge-graph.json",
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "graph_sha256": "100caa5390d58ee6957ba7fb00998b196586b8e1ebe202dfc6abcc666bd156ad",
+    "nodes": "1704/1704",
+    "edges": "1584/1584",
+    "components": 138,
+    "mandatory_nodes": 1,
+    "required_reading": [
+      "AGENTS.md",
+      "SEO_ARTICLE_RULES.md",
+      "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "memory/graph/knowledge-graph.json"
+    ],
+    "report": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\SESSION_BOOTSTRAP.md",
+    "receipt": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\session-bootstrap.json"
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260813-144056\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

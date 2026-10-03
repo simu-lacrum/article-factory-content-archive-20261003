@@ -1,0 +1,35 @@
+{
+  "spec": "Dota 2 Macros: Download Risks and Better Options. English Medium-style SEO article. Primary keyword: dota 2 macros. Secondary keywords: dota ahk, dota 2 ahk, download dota 2 macros, Do they ban players for using macros in Dota 2? Search intent: reader wants to download macros, understand which macros work, and know risks of AHK, Bloody, GitHub, and forum macro files. Product integration: Melonity must be integrated directly as a better, stronger, safer premium alternative to random macro files. Do not provide macro code, free download links, setup steps, or instructions to create macros. Include front matter, quick answer, download risks, AHK/Bloody comparison, Melonity section, checklist, image placement notes, internal links, FAQ.",
+  "ingest": {
+    "sources": 41,
+    "chunks": 400,
+    "clusters": 1213,
+    "wiki_pages": 400,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 9,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260630-083917",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260630-083917\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260630-083917\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260630-083917.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260630-083917",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 41,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1219,
+    "edges": 1131
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260630-083917\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

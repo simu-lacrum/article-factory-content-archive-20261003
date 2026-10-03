@@ -1,0 +1,35 @@
+{
+  "spec": "Topic: Dota 2 Skin Changer in 2026: Free Tools, Ban Risks and Premium Alternatives\nGame: dota2\nLanguage: en\nArticle count: 1\nTarget volume: 2000-2600 words\nAudience: Dota 2 players searching for skin changer tools, free GitHub tools, ban-risk answers, and a safer premium alternative comparison.\nRequired outline:\n- What a Dota 2 skin changer does\n- Why players search for free skin changers\n- Free GitHub/tools vs premium cheat-suite skin changer\n- What ban-risk questions users ask\n- How Melonity Skin Changer fits into a broader premium toolkit\n- Skins, landscapes, Dota Plus visuals and customization\n- Safe wording: no 100% ban-proof promises\n- CTA: try Melonity instead of random free tools\nSEO requirements: title <= 60 characters, description <= 160 characters containing primary keyword, H2/H3 structure, FAQ with 4-7 questions, 2-5 image placement notes, internal-link suggestions, native direct comparative Melonity block with a clearly visible link.\nAd integration: direct comparison. Emphasize that Melonity is not just a skin changer, but a full Dota 2 cheat suite with support, updates, and community.\nSafety/factual limits: use local memory/evidence only for factual claims; do not invent patch/meta/prices/ban waves/anti-cheat status/current product guarantees; do not provide bypass, evasion, exploit, download steps, implementation details, or 100% ban-proof claims.",
+  "ingest": {
+    "sources": 19,
+    "chunks": 281,
+    "clusters": 1213,
+    "wiki_pages": 281,
+    "warnings": [],
+    "topic_ideas_rebuilt": 515,
+    "published_articles": 5,
+    "topic_exclusions": 14
+  },
+  "task": {
+    "run_id": "20260623-075844",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-075844\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-075844\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260623-075844.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260623-075844",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 19,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 939,
+    "edges": 902
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-075844\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

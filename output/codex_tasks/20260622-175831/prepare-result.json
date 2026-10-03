@@ -1,0 +1,34 @@
+{
+  "spec": "Сгенерируй 10 SEO статей объемом 1800-2400 words, в экспертном живом стиле, с нативной интеграцией Melonity",
+  "ingest": {
+    "sources": 11,
+    "chunks": 201,
+    "clusters": 1213,
+    "wiki_pages": 201,
+    "warnings": [],
+    "topic_ideas_rebuilt": 515,
+    "published_articles": 0
+  },
+  "task": {
+    "run_id": "20260622-175831",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260622-175831\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260622-175831\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260622-175831.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-175831",
+    "items": 10
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 11,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 832,
+    "edges": 821
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260622-175831\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

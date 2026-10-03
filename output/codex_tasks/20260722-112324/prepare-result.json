@@ -1,0 +1,35 @@
+{
+  "spec": "Написать одну русскую SEO-статью 800–1000 слов с точным углом: 'VACNET и античит Dota 2: что обновилось на самом деле'. Primary keyword: античит Dota 2. Следовать ТЗ пользователя от 2026-07-22 и источнику knowledge/agent_memory/sources/vac-live-vacnet-verified-2026-07-22.md. Прямо сказать, что майское переименование в CS2 не подтверждает VAC Live/VACNET в Dota. Разобрать honeypot и 40 тысяч банов в феврале 2023, 90 тысяч смурфов в сентябре 2023, ограничения client state в марте 2024, reports и Overwatch; отделить факты Valve от экспертной модели серверных сигналов. Одна нативная ссылка Melonity, 3 image slots, 6 FAQ, без таблиц и без инструкций обхода.",
+  "ingest": {
+    "sources": 42,
+    "chunks": 407,
+    "clusters": 1213,
+    "wiki_pages": 407,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 9,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260722-112324",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260722-112324\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260722-112324\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260722-112324.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260722-112324",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 42,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1227,
+    "edges": 1138
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260722-112324\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

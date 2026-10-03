@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-09-10",
+  "status": "articles_in_progress",
+  "excluded_platforms": [
+    "Rentry"
+  ],
+  "platforms": {
+    "Substack": [
+      1,
+      2,
+      3
+    ],
+    "Notion": [
+      4,
+      5,
+      6
+    ],
+    "GitBook": [
+      7,
+      8,
+      9
+    ],
+    "GitHub": [
+      10,
+      11,
+      12
+    ],
+    "JustPasteMe": [
+      13,
+      14,
+      15
+    ]
+  },
+  "targets": {
+    "https://cluster.center/ru": [
+      1,
+      4,
+      7,
+      10,
+      13
+    ],
+    "https://cluster.center/ru/cs2": [
+      2,
+      5,
+      8,
+      11,
+      14
+    ],
+    "https://cluster.center/ru/deadlock": [
+      3,
+      6,
+      9,
+      12,
+      15
+    ]
+  }
+}

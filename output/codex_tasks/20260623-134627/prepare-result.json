@@ -1,0 +1,35 @@
+{
+  "spec": "Write one English Medium-style SEO article/section describing the functionality of a Deadlock cheat, following the provided Dota 2 example style: direct, practical, feature-focused, conversational. Topic: Deadlock cheat features explained. Cover Aimbot: default, silent, default + silent; FOV, show default FOV, show silent FOV, smooth, target lock; targets players, XP orbs, creeps; hitboxes head, neck, spine, hips; ignore invisible, in air, easing in-out; easing modes easing in-out, static, decreases when aiming, easing out-back; anti frog. Cover ESP: box, player name, hero name, hero icon, health, healthBar, glow, thickness, orbs gear. Cover Misc: FOV changer, world color, disable skybox, skybox color, auto dash jump, auto parry. Game: deadlock. Product: cluster.center. Do not write installation, bypass, evasion, exploit, or implementation steps. No absolute safety guarantees.",
+  "ingest": {
+    "sources": 34,
+    "chunks": 356,
+    "clusters": 1213,
+    "wiki_pages": 356,
+    "warnings": [],
+    "topic_ideas_rebuilt": 522,
+    "published_articles": 8,
+    "topic_exclusions": 24
+  },
+  "task": {
+    "run_id": "20260623-134627",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-134627\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-134627\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260623-134627.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260623-134627",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 34,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1118,
+    "edges": 1042
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-134627\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

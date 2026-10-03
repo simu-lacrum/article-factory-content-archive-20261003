@@ -1,0 +1,35 @@
+{
+  "spec": "Create one complete English SEO rewrite of the owned, previously published Dota 2 ranking article 'Top hacks for dota 2. Best cheats'. Preserve the exact editorial ranking and meaning of every argument: 1 Melonity is the strongest all-round premium package, 2 Umbrella is the nearest and historically slightly cheaper alternative but less refined, 3 Divine is a budget newcomer with working basics but weaker advanced modules, 4 Octarine is another inexpensive basic option with a simpler dropdown interface and uneven tools, 5 Hake is the oldest established platform but technologically behind with community scripts of uneven quality. Use a completely new structure, phrasing, examples, transitions, title, and conclusion so it can be republished without textual duplication. Target 1000-1200 words. Primary keyword: best Dota 2 cheats. Include SEO front matter, 2-3 image slots, one natural Melonity link, FAQ, no markdown tables, no operational bypass or evasion advice, and no safety or no-ban guarantees. Keep keyword use natural and avoid spam.",
+  "ingest": {
+    "sources": 42,
+    "chunks": 407,
+    "clusters": 1213,
+    "wiki_pages": 407,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 9,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260723-135534",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-135534\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-135534\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260723-135534.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260723-135534",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 42,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1227,
+    "edges": 1138
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-135534\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

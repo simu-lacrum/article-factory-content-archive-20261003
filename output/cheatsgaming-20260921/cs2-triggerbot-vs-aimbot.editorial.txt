@@ -1,0 +1,20 @@
+IMAGE_SLOT_01
+Placement: after "## Picture an enemy crossing a doorway"
+Type: real screenshot
+Purpose: ground the doorway example in an ordinary CS2 view
+Suggested file name: cs2-crosshair-doorway-example.webp
+Alt text: CS2 crosshair positioned at a doorway in a practice match
+Capture instruction: use a real author-owned practice screenshot with the crosshair on a doorway; no cheat software or simulated product UI. Caption it as an illustration of crosshair placement, not a product test.
+
+
+ IMAGE_SLOT_02
+Placement: after "## How Cluster separates the features"
+Type: real screenshot
+Purpose: show the three separate feature descriptions referenced by the article
+Suggested file name: cluster-cs2-aimbot-triggerbot-esp.webp
+Alt text: Aimbot, TriggerBot and ESP descriptions on Cluster's CS2 page
+Capture instruction: capture only the public feature descriptions at https://cluster.center/en/cs2; include the three headings, exclude prices and account controls, and record the capture date.
+
+
+ INTERNAL_LINKS
+The existing Cluster CS2 overview is linked in the public copy. Once the companion radar/ESP article has a published URL, link the first ESP mention to it using "CS2 radar, ESP and wallhack differences". Do not guess the final CMS URL.

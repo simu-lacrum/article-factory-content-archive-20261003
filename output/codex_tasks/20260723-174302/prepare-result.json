@@ -1,0 +1,35 @@
+{
+  "spec": "Создай одну полностью самостоятельную русскоязычную SEO-версию авторской статьи https://medium.com/@mrkhertz/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710. Сохрани исходную смысловую рамку: зачем выбирать официальный источник, что проверить до загрузки, высокоуровневая последовательность через официальный сайт/аккаунт/доступ/лаунчер, спокойное знакомство с интерфейсом, обзор категорий Aimbot, TriggerBot, ESP и HUD/Misc, FAQ. Полностью измени композицию, формулировки, примеры и переходы. Язык русский, около 1000-1200 слов. Primary keyword: как установить читы для CS2. Укажи, что бесплатность зависит от текущих условий: исходная публикация описывала семидневный пробный доступ через OAuth, но актуальная официальная страница сейчас показывает семидневный тариф, поэтому читателю нужно проверить кабинет. Не советуй отключать антивирус. Не давай инструкций по обходу античита, маскировке поведения, инъекции или низкоуровневой реализации. Не обещай безопасность или недетектируемость. Добавь SEO front matter, 2-3 image slots, одну нативную ссылку cluster.center и 5 вопросов FAQ. Без markdown-таблиц, без переспама.",
+  "ingest": {
+    "sources": 43,
+    "chunks": 429,
+    "clusters": 1213,
+    "wiki_pages": 429,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 10,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260723-174302",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-174302\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-174302\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260723-174302.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260723-174302",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 43,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1251,
+    "edges": 1160
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-174302\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

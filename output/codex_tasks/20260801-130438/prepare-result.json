@@ -1,0 +1,35 @@
+{
+  "spec": "Create exactly the ten safe, high-level Hashnode technical articles in the supplied campaign brief: external vs internal CS2 architecture; Dota 2 automation as event system; defensive CS2 download verification; Deadlock aim and ESP design; Russian CS2 ESP pipeline; Dota 2 safer setup lifecycle; Russian CS2 FOV and smoothing concepts; CS2 TriggerBot state machine; multi-game platform shared versus game-specific logic; Russian guide to reading a game-tool catalog. Each 800-1000 words, English or Russian as specified, no operational evasion or implementation details, with exact provided target links, SEO metadata, Sources, image slots, and four-question FAQ.",
+  "ingest": {
+    "sources": 44,
+    "chunks": 435,
+    "clusters": 1213,
+    "wiki_pages": 435,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 10,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260801-130438",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260801-130438\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260801-130438\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260801-130438.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438",
+    "items": 10
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 44,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1258,
+    "edges": 1166
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260801-130438\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

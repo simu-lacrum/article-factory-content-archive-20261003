@@ -1,0 +1,20 @@
+IMAGE_SLOT_01
+Placement: after "## Two publishers, one label, different descriptions"
+Type: real screenshot
+Purpose: allow readers to inspect the differing verbs behind the same feature name
+Suggested file name: deadlock-soul-triggerbot-descriptions.webp
+Alt text: Soul Triggerbot descriptions from Avalanche and Tsuki
+Capture instruction: capture the Soul Triggerbot description at https://avalan.cc/features and at https://tsuki.gg/products/deadlock/features; preserve names and full sentences with dated source credits. Show two separate genuine captures, not a fabricated combined product interface. Exclude configuration controls.
+
+
+ IMAGE_SLOT_02
+Placement: after "## Where Cluster's Souls Aimbot fits"
+Type: real screenshot
+Purpose: show that the cited Cluster description names souls and aim assistance
+Suggested file name: cluster-deadlock-souls-aimbot.webp
+Alt text: Souls Aimbot description on Cluster's Deadlock feature page
+Capture instruction: capture only the Souls Aimbot heading and complete explanatory sentence at https://cluster.center/en/deadlock. Record the capture date and exclude purchase controls and unrelated safety claims.
+
+
+ INTERNAL_LINKS
+The existing Cluster Deadlock overview is linked. Keep this page focused on soul targets; the separate auto-parry update handles melee automation. Do not create additional articles for singular/plural spellings of soul aimbot.

@@ -1,0 +1,20 @@
+IMAGE_SLOT_01
+Placement: after "## What changes between manual parry and auto-parry?"
+Type: real screenshot
+Purpose: anchor the explanation in a genuine example of the ordinary game mechanic
+Suggested file name: deadlock-manual-parry-practice.webp
+Alt text: A manually performed parry during a Deadlock practice encounter
+Capture instruction: use an author-owned recording or screenshot of an ordinary manual parry in a practice environment; retain the surrounding recording to verify context. Label it as a manual parry illustration, not evidence of auto-parry software.
+
+
+ IMAGE_SLOT_02
+Placement: after "## Reading Cluster's auto-parry listing"
+Type: real screenshot
+Purpose: show the separate Auto Parry and Anti Parry descriptions and their limits
+Suggested file name: cluster-deadlock-auto-parry-anti-parry.webp
+Alt text: Auto Parry and Anti Parry descriptions on Cluster's Deadlock page
+Capture instruction: capture both complete descriptions at https://cluster.center/en/deadlock, including the Auto Parry limitation sentence; preserve the capture date. Exclude pricing and unrelated promotional claims.
+
+
+ INTERNAL_LINKS
+Update the existing auto-parry URL in front matter; do not publish a second competing page. The existing Cluster Deadlock overview is linked in the copy. Preserve the CMS publication date and record the actual edit date when this replacement is published.

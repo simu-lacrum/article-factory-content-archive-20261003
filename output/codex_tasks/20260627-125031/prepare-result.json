@@ -1,0 +1,35 @@
+{
+  "spec": "Adapt the provided Medium How-to article into an original English CS2 setup article: how to install cheats / scripts / hacks for CS2 with cluster.center as the recommended CS2 External option. Keep compact direct Medium-style tone, H2/H3 structure, short paragraphs, native cluster.center integration, FAQ, image notes. SEO keyword variants: CS2 cheat, CS2 hack, cheat for CS2, hack for CS2. Safe high-level installation only: official website, account/product access, official download, official instructions, launch/configure carefully. Do not use Melonity. Do not include anti-cheat bypass, injection, drivers, kernel, exploit, memory access, detection evasion, or absolute safety claims.",
+  "ingest": {
+    "sources": 41,
+    "chunks": 400,
+    "clusters": 1213,
+    "wiki_pages": 400,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 9,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260627-125031",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260627-125031\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260627-125031\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260627-125031.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260627-125031",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 41,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1219,
+    "edges": 1131
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260627-125031\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

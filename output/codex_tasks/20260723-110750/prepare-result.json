@@ -1,0 +1,35 @@
+{
+  "spec": "Написать одну русскую SEO-статью 800–1000 слов с заголовком «Как работает VAC Live в Dota 2 сейчас: факты без мифов». Primary keyword: VAC Live Dota 2. Угол: объяснить в настоящем времени реальную многоуровневую защиту Dota 2 — подтверждённый VAC на странице Steam, клиентскую сигнатурную проверку по Steam Support, авторитетный сервер и наблюдаемую игровую телеметрию как экспертную модель из графа, репорты и Overwatch, Game Ban/VAC Ban, honeypot 2023, сокращение client state и связывание аккаунтов. В первых 100 словах прямо уточнить: Valve не подтверждала для Dota бренд VAC Live/VACNET или остановку матча по модели CS2; термин используется в поисковом запросе и отраслевых статьях как неофициальное название live-серверных проверок. Описывать работу именно сейчас, историю использовать только как доказательство действующих инженерных подходов. Одна нативная ссылка Melonity после технического контекста; без обещаний безопасности, Humanizer-настроек, обхода, маскировки или инструкций. 3 image slots, 5–7 H2, 5–6 FAQ, без таблиц. Использовать graph nodes VAC, VAC-Live/server checks и источники source:21, source:29 только как экспертную модель; неподтверждённые точные сигналы, мгновенные баны и Dota VACNET не утверждать. Актуальность интернет-фактов проверена 23 июля 2026 года по Steam Store, Steam Support и официальным материалам Dota 2.",
+  "ingest": {
+    "sources": 42,
+    "chunks": 407,
+    "clusters": 1213,
+    "wiki_pages": 407,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 9,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260723-110750",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-110750\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-110750\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260723-110750.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260723-110750",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 42,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1227,
+    "edges": 1138
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260723-110750\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

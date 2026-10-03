@@ -1,0 +1,48 @@
+{
+  "spec": "Create exactly four publication-ready English Cluster Deadlock T2 comparison articles from output/briefs/CLUSTER-MELONITY-COMPETITOR-T2-20-20260908/02-CLUSTER-DEADLOCK.md: CM-005 \"Cluster vs Octarine for Deadlock: Which Model Fits?\" slug cluster-vs-octarine-deadlock-product-models; CM-006 \"Cluster vs Umbrella Deadlock: Setup or Script Platform?\" slug cluster-vs-umbrella-deadlock-setup-or-scripts; CM-007 \"Cluster vs Predator Deadlock: What Can Be Verified?\" slug cluster-vs-predator-deadlock-public-proof; CM-008 \"Deadlock Cheat Providers Compared by Patch Evidence\" slug deadlock-cheat-providers-patch-evidence. Preserve every supplied SEO field, structure, target length, original-value requirement, visual plan, FAQ, and prohibition. Link exactly once in each article to https://cluster.center/en/deadlock with exact anchor deadlock cheat. Use official public evidence checked on 2026-09-08, label vendor claims and confidence limits, disclose the linked product relationship, give competitors fair credit, and never include operational exploit, bypass, injection, configuration, or anti-detection guidance.",
+  "ingest": {
+    "sources": 95,
+    "chunks": 985,
+    "clusters": 1213,
+    "wiki_pages": 985,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 12,
+    "topic_exclusions": 33
+  },
+  "task": {
+    "run_id": "20260908-181728",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260908-181728\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260908-181728\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260908-181728.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181728",
+    "items": 4
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 95,
+    "clusters": 120
+  },
+  "graph": {
+    "status": "PASS",
+    "graph": "memory/graph/knowledge-graph.json",
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "graph_sha256": "3e1e1fa659e9f78cde6e57d1ae41ccba869a6b9f0e5e05d64f0cb08d165f1fd3",
+    "nodes": "1905/1905",
+    "edges": "1765/1765",
+    "components": 158,
+    "mandatory_nodes": 1,
+    "required_reading": [
+      "AGENTS.md",
+      "SEO_ARTICLE_RULES.md",
+      "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "memory/graph/knowledge-graph.json"
+    ],
+    "report": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\SESSION_BOOTSTRAP.md",
+    "receipt": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\session-bootstrap.json"
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260908-181728\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

@@ -1,0 +1,35 @@
+{
+  "spec": "Write one English SEO article about differences between anti-cheats in Dota 2 and LoL and which anti-cheat is stronger. Primary keyword: античит Dota 2 и LoL. Secondary keywords: VAC vs Vanguard, VAC Live, Riot Vanguard, Dota 2 anti-cheat, LoL anti-cheat, Melonity. Style: direct practical conversational like mrkhertz Medium articles. Voice: from a team with 10 plus years making cheat software for games; use expert phrasing from our experience, in practice, we see, for players this means. Do not mention local sources evidence packs knowledge base or internal provenance. Compare VAC and VAC Live in Dota 2 with Riot Vanguard in League of Legends. Explain user mode ring 3 and kernel ring 0 simply. Cover VAC client user mode, Steam VAC ecosystem, server checks, VAC Live. Cover Vanguard kernel driver, system requirements, why Riot chose ring 0, privacy and stability concerns, BSOD and conflict reports with careful public fact wording. Include short DMA summary without technical bypass instructions. Explain why Valve chose server checks behavior patterns and in match verdicts. Direct Melonity.gg integration: Melonity for Dota 2, team has 10 plus years with cheat software for games, strong security team, unique technologies, stability focus. Use 300k plus users, 10 years history, no ban cases, Humanizer vs VAC Live for over 2 years only as brand product claims unless independently verified. Do not provide bypass or evasion instructions. Mention Foxhole briefly as Steam VAC ecosystem example only if confirmed. No tables. Include 3 image placement notes with Nano Banana prompts: ring 3 vs ring 0 diagram; VAC VAC Live vs Vanguard comparison; Melonity Humanizer concept visual. End with 4 to 7 FAQ questions. Do not promise 100 percent safe undetected forever or guaranteed no bans.",
+  "ingest": {
+    "sources": 41,
+    "chunks": 400,
+    "clusters": 1213,
+    "wiki_pages": 400,
+    "warnings": [],
+    "topic_ideas_rebuilt": 527,
+    "published_articles": 9,
+    "topic_exclusions": 29
+  },
+  "task": {
+    "run_id": "20260711-120034",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260711-120034\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260711-120034\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260711-120034.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260711-120034",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 41,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1219,
+    "edges": 1131
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260711-120034\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}

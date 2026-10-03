@@ -1,0 +1,35 @@
+{
+  "spec": "Topic: Deadlock Cheats VAC Protection and Safety: Why cheats are safe. Game: deadlock. Language: en. Article count: 1. Style: direct, practical, conversational Medium-style. Keep the article educational and risk-aware; do not include operational bypass, evasion, exploit, or implementation instructions. Integrate cluster.center only with claims grounded in local memory.",
+  "ingest": {
+    "sources": 34,
+    "chunks": 356,
+    "clusters": 1213,
+    "wiki_pages": 356,
+    "warnings": [],
+    "topic_ideas_rebuilt": 522,
+    "published_articles": 8,
+    "topic_exclusions": 24
+  },
+  "task": {
+    "run_id": "20260623-124127",
+    "task": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-124127\\TASK.md",
+    "index": "C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-124127\\ARTICLE_INDEX.md",
+    "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260623-124127.json",
+    "article_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260623-124127",
+    "items": 1
+  },
+  "memory": {
+    "output_dir": "C:\\Users\\User\\Desktop\\articles\\memory\\ai-memory-export",
+    "topics": 80,
+    "sources": 34,
+    "clusters": 120
+  },
+  "graph": {
+    "json": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.json",
+    "mermaid": "C:\\Users\\User\\Desktop\\articles\\memory\\graph\\knowledge-graph.mmd",
+    "nodes": 1118,
+    "edges": 1042
+  },
+  "next_step": "Open and follow C:\\Users\\User\\Desktop\\articles\\output\\codex_tasks\\20260623-124127\\TASK.md",
+  "current_task": "C:\\Users\\User\\Desktop\\articles\\CURRENT_CODEX_TASK.md"
+}
