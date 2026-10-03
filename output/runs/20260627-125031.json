@@ -1,0 +1,28 @@
+{
+  "created_at": "20260627-125031",
+  "spec": {
+    "raw": "Adapt the provided Medium How-to article into an original English CS2 setup article: how to install cheats / scripts / hacks for CS2 with cluster.center as the recommended CS2 External option. Keep compact direct Medium-style tone, H2/H3 structure, short paragraphs, native cluster.center integration, FAQ, image notes. SEO keyword variants: CS2 cheat, CS2 hack, cheat for CS2, hack for CS2. Safe high-level installation only: official website, account/product access, official download, official instructions, launch/configure carefully. Do not use Melonity. Do not include anti-cheat bypass, injection, drivers, kernel, exploit, memory access, detection evasion, or absolute safety claims.",
+    "count": 1,
+    "language": "en",
+    "game": "cs2",
+    "style": "Medium-style, direct, practical, conversational, gamer-aware, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 24,
+      "title": "CS2 Bomb Timer, Spectator List and Keybinds Explained",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260627-125031\\01-cs2-bomb-timer-spectator-list-and-keybinds-explained.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260627-125031\\01-cs2-bomb-timer-spectator-list-and-keybinds-explained.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260627-125031\\01-cs2-bomb-timer-spectator-list-and-keybinds-explained.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260627-125031\\01-cs2-bomb-timer-spectator-list-and-keybinds-explained.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260921-073518-498926.json",
+  "total": 3,
+  "pass": 3,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-073518-498926\\01-cs2-triggerbot-vs-aimbot-what-changes.md",
+      "status": "pass",
+      "word_count": 513,
+      "h2_count": 4,
+      "evidence_sources": 2,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-073518-498926\\02-dota-2-scripts-macros-and-bots-are-different-things.md",
+      "status": "pass",
+      "word_count": 745,
+      "h2_count": 6,
+      "evidence_sources": 8,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-073518-498926\\03-deadlock-souls-aimbot-what-the-feature-targets.md",
+      "status": "pass",
+      "word_count": 575,
+      "h2_count": 5,
+      "evidence_sources": 5,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    }
+  ],
+  "editorial_review_required": true
+}

@@ -1,0 +1,32 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Cluster Cheats Docs
+  structure:
+    - type: section
+      key: section-1
+      title: Cluster Cheats Docs
+      path: cluster-cheats-docs
+      description: ""
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Cluster Cheats Docs
+          path: docs
+          default: true
+          content:
+            directory: ./cluster-cheats-docs/docs
+    - type: section
+      key: section-2
+      title: Landing Page
+      path: landing-page
+      icon: circle-v
+      children:
+        - type: space
+          key: space-2
+          title: Landing Page
+          path: landing-page
+          default: true
+          draft: true
+          content:
+            directory: ./landing-page

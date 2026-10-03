@@ -1,0 +1,228 @@
+{
+  "created_at": "2026-09-09T10:41:43+03:00",
+  "run_id": "cheatsgaming-anchor-articles-20260909",
+  "spec": {
+    "raw": "24 English contextual-link articles: three for each of eight CheatsGaming CS2/Deadlock target pages."
+  },
+  "llm_provider": "codex",
+  "model": "codex",
+  "visual_sequence_start": 1,
+  "items": [
+    {
+      "topic_id": "ANCHOR-01",
+      "title": "Free CS2 Cheat vs Trial vs Crack",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\free-cs2-cheat-overview.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-free-cs2-cheat-overview.json"
+    },
+    {
+      "topic_id": "ANCHOR-02",
+      "title": "The Cost of Free CS2 Cheats Beyond Price",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-free-cs2-cheats.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-best-free-cs2-cheats.json"
+    },
+    {
+      "topic_id": "ANCHOR-03",
+      "title": "Free CS2 Cheat Landing Page Audit",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\free-cs2-hacks-review.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-free-cs2-hacks-review.json"
+    },
+    {
+      "topic_id": "ANCHOR-04",
+      "title": "Legit vs Semi-Rage vs Rage in CS2",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\legit-cs2-cheats-comparison.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-legit-cs2-cheats-comparison.json"
+    },
+    {
+      "topic_id": "ANCHOR-05",
+      "title": "Legit CS2 Cheat Safety: Read Claims Carefully",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-legit-cs2-hack.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-best-legit-cs2-hack.json"
+    },
+    {
+      "topic_id": "ANCHOR-06",
+      "title": "CS2 Legit Cheat Review: Five Better Questions",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\top-legit-cs2-cheats.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-top-legit-cs2-cheats.json"
+    },
+    {
+      "topic_id": "ANCHOR-07",
+      "title": "External CS2 Cheat Review: Three Missing Tests",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\external-cs2-cheats-ranking.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-external-cs2-cheats-ranking.json"
+    },
+    {
+      "topic_id": "ANCHOR-08",
+      "title": "External CS2 Cheat Compatibility Checklist",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-external-cs2-hack.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-best-external-cs2-hack.json"
+    },
+    {
+      "topic_id": "ANCHOR-09",
+      "title": "External CS2 Cheat Update: Patch-Day Status Signals",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\external-cs2-cheat-comparison.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-external-cs2-cheat-comparison.json"
+    },
+    {
+      "topic_id": "ANCHOR-10",
+      "title": "CS2 Cheat Launch Problems: Change One Variable",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheat-setup-guide.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-cs2-cheat-setup-guide.json"
+    },
+    {
+      "topic_id": "ANCHOR-11",
+      "title": "CS2 Cheat Download Verification Checklist",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheats-installation-guide.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-cs2-cheats-installation-guide.json"
+    },
+    {
+      "topic_id": "ANCHOR-12",
+      "title": "Best CS2 Cheat for Your Playstyle",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-cs2-hack-comparison.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-best-cs2-hack-comparison.json"
+    },
+    {
+      "topic_id": "ANCHOR-13",
+      "title": "CS2 Cheat Update Loop: Three Possible Causes",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheats-download-guide.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-cs2-cheats-download-guide.json"
+    },
+    {
+      "topic_id": "ANCHOR-14",
+      "title": "CS2 Cheat Subscription: Compare the Full Workflow",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheat-ranking.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-cs2-cheat-ranking.json"
+    },
+    {
+      "topic_id": "ANCHOR-15",
+      "title": "CS2 Cheat Trial: A 30-Minute Evaluation Plan",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\top-cs2-cheats-list.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\cs2-top-cs2-cheats-list.json"
+    },
+    {
+      "topic_id": "ANCHOR-16",
+      "title": "Deadlock Auto-Parry Limits and Bad States",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-auto-parry.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-deadlock-auto-parry.json"
+    },
+    {
+      "topic_id": "ANCHOR-17",
+      "title": "Deadlock Parry Window: Timing and Feints Explained",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-auto-parry-cheat-guide.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-deadlock-auto-parry-cheat-guide.json"
+    },
+    {
+      "topic_id": "ANCHOR-18",
+      "title": "Deadlock Cheat Download Verification Checklist",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheats-installation-guide.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-deadlock-cheats-installation-guide.json"
+    },
+    {
+      "topic_id": "ANCHOR-19",
+      "title": "Deadlock Auto-Parry Review: Better Evidence",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-auto-parry-cheat.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-deadlock-auto-parry-cheat.json"
+    },
+    {
+      "topic_id": "ANCHOR-20",
+      "title": "Outdated Deadlock Cheat Guide: Five Warning Signs",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheats-download-guide.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-deadlock-cheats-download-guide.json"
+    },
+    {
+      "topic_id": "ANCHOR-21",
+      "title": "Deadlock Cheat Support Ticket: What to Include",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheat-setup-article.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-deadlock-cheat-setup-article.json"
+    },
+    {
+      "topic_id": "ANCHOR-22",
+      "title": "Deadlock Cheat Comparison Beyond Aimbot",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\best-deadlock-hack.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-best-deadlock-hack.json"
+    },
+    {
+      "topic_id": "ANCHOR-23",
+      "title": "Deadlock Hero Coverage: Depth vs Menu Length",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\top-deadlock-cheats.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-top-deadlock-cheats.json"
+    },
+    {
+      "topic_id": "ANCHOR-24",
+      "title": "Deadlock Cheat Trial: A Practical Checklist",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheat-ranking.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\cheatsgaming-anchor-articles-20260909\\deadlock-deadlock-cheat-ranking.json"
+    }
+  ]
+}

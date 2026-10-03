@@ -1,0 +1,75 @@
+{
+  "destination": "Substack",
+  "status": "waiting_for_user_registration",
+  "preserve_article_body": true,
+  "preserve_link_anchors": true,
+  "screenshots": {
+    "cs2": "C:\\Users\\User\\.codex\\attachments\\7766fb52-1f00-4712-916f-be1b345ab992\\image-1.png",
+    "deadlock": "C:\\Users\\User\\.codex\\attachments\\7766fb52-1f00-4712-916f-be1b345ab992\\image-2.png"
+  },
+  "articles": [
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181728\\deadlock-cheat-providers-patch-evidence.md",
+      "sha256": "AA33AE91267B333CD685E293E74DFBD82D473E50BF873DA0478B261D5F006291",
+      "game": "deadlock",
+      "slug": "deadlock-cheat-providers-patch-evidence",
+      "title": "Deadlock Cheat Providers Compared by Patch Evidence",
+      "description": "Deadlock cheat providers can be compared by dated updates, current status, docs, support and disclosed limits instead of unverifiable safety claims.",
+      "required_anchors": ["deadlock cheat"]
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181031\\04-phantom-overlay-alternatives-after-cs2-closure.md",
+      "sha256": "788A4485A9FE431AAD997E76C221C43DB1B3C6CC63CE72B834D487D6C6C0D74C",
+      "game": "cs2",
+      "slug": "phantom-overlay-alternatives-after-cs2-closure",
+      "title": "Phantom Overlay Alternatives After Its CS2 Closure",
+      "description": "Phantom Overlay alternatives need a live-status check first. Compare Cluster, Undetek, and Octarine without treating old reviews as current proof.",
+      "required_anchors": ["Phantom Overlay status page", "buy cheats cs2"]
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-auto-parry-cheat-guide.md",
+      "sha256": "652FDA78DD4B26B23A6DABD616810F5AD74E86D6F4CEE13C5FFEECFD16909DAA",
+      "game": "deadlock",
+      "slug": "deadlock-auto-parry-cheat-guide",
+      "title": "Deadlock Parry Window: Timing and Feints Explained",
+      "description": "The Deadlock parry window depends on readable commitment, distance, and timing. Feints and spacing explain why a parry decision can still fail.",
+      "required_anchors": ["official April 10, 2026 update", "Deadlock Auto-Parry cheat guide"]
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheat-setup-article.md",
+      "sha256": "01E39B86280D77EA7662B42560DDAACEBAA44D14F034BD834C40100890BB84BB",
+      "game": "deadlock",
+      "slug": "deadlock-cheat-setup-article",
+      "title": "Deadlock Cheat Support Ticket: What to Include",
+      "description": "A Deadlock cheat support ticket needs the game build, exact symptom, timestamp, one repeatable sequence, and privacy-safe evidence.",
+      "required_anchors": ["Deadlock cheat setup article"]
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheats-download-guide.md",
+      "sha256": "C6F79FAA8FEFF67DD8BFBEA9FF369EAE6E5A9830EBECE28C37E1BBF5972A84EC",
+      "game": "cs2",
+      "slug": "cs2-cheats-download-guide",
+      "title": "CS2 Cheat Update Loop: Three Possible Causes",
+      "description": "A CS2 cheat update loop may reflect a stale build, damaged local state, or a status mismatch. Diagnose the category before repeating downloads.",
+      "required_anchors": ["CS2 cheats download guide"]
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-external-cs2-hack.md",
+      "sha256": "1454805F053DDA3862BBA8AC8A495251645489DF439C68267B344E692EB23F4D",
+      "game": "cs2",
+      "slug": "best-external-cs2-hack",
+      "title": "External CS2 Cheat Compatibility Checklist",
+      "description": "External CS2 cheat compatibility depends on display mode, scaling, monitor layout, and capture tools—not only the Windows version on a page.",
+      "required_anchors": ["best external CS2 hack"]
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\legit-cs2-cheats-comparison.md",
+      "sha256": "3466794579F2347870EB86F3B32A750774EC3B2A82EADF30FB08FD5C4368B591",
+      "game": "cs2",
+      "slug": "legit-cs2-cheats-comparison",
+      "title": "Legit vs Semi-Rage vs Rage in CS2",
+      "description": "Legit vs semi-rage vs rage describes intended behavior and visibility in CS2 discussions; it is not a certified safety or detection scale.",
+      "required_anchors": ["legit CS2 cheats comparison"]
+    }
+  ]
+}

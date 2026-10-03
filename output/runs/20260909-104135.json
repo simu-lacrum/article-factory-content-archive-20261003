@@ -1,0 +1,124 @@
+{
+  "created_at": "20260909-104135",
+  "spec": {
+    "raw": "Create nine English restricted-safe adjacent-intent SEO articles: three contextual backlink articles for each of these CheatsGaming Deadlock pages: Deadlock Auto-Parry, Deadlock cheat installation, and best Deadlock cheats. Keep content non-operational and evidence-led.",
+    "count": 9,
+    "language": "en",
+    "game": "deadlock",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 16,
+      "title": "Deadlock Aimbot Settings Explained",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\01-deadlock-aimbot-settings-explained.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\01-deadlock-aimbot-settings-explained.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\01-deadlock-aimbot-settings-explained.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\01-deadlock-aimbot-settings-explained.md"
+    },
+    {
+      "topic_id": 16,
+      "title": "Deadlock Aimbot Settings Explained",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\02-deadlock-aimbot-settings-explained.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\02-deadlock-aimbot-settings-explained.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\02-deadlock-aimbot-settings-explained.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\02-deadlock-aimbot-settings-explained.md"
+    },
+    {
+      "topic_id": 17,
+      "title": "Deadlock ESP Explained: Boxes, Glow and Hero Info",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\03-deadlock-esp-explained-boxes-glow-and-hero-info.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\03-deadlock-esp-explained-boxes-glow-and-hero-info.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\03-deadlock-esp-explained-boxes-glow-and-hero-info.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\03-deadlock-esp-explained-boxes-glow-and-hero-info.md"
+    },
+    {
+      "topic_id": 17,
+      "title": "Deadlock ESP Explained: Boxes, Glow and Hero Info",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\04-deadlock-esp-explained-boxes-glow-and-hero-info.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\04-deadlock-esp-explained-boxes-glow-and-hero-info.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\04-deadlock-esp-explained-boxes-glow-and-hero-info.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\04-deadlock-esp-explained-boxes-glow-and-hero-info.md"
+    },
+    {
+      "topic_id": 20,
+      "title": "Deadlock Cheat Feature Glossary",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\05-deadlock-cheat-feature-glossary.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\05-deadlock-cheat-feature-glossary.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\05-deadlock-cheat-feature-glossary.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\05-deadlock-cheat-feature-glossary.md"
+    },
+    {
+      "topic_id": 20,
+      "title": "Deadlock Cheat Feature Glossary",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\06-deadlock-cheat-feature-glossary.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\06-deadlock-cheat-feature-glossary.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\06-deadlock-cheat-feature-glossary.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\06-deadlock-cheat-feature-glossary.md"
+    },
+    {
+      "topic_id": 18,
+      "title": "Deadlock FOV Changer and Visibility Features",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\07-deadlock-fov-changer-and-visibility-features.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\07-deadlock-fov-changer-and-visibility-features.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\07-deadlock-fov-changer-and-visibility-features.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\07-deadlock-fov-changer-and-visibility-features.md"
+    },
+    {
+      "topic_id": 18,
+      "title": "Deadlock FOV Changer and Visibility Features",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\08-deadlock-fov-changer-and-visibility-features.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\08-deadlock-fov-changer-and-visibility-features.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\08-deadlock-fov-changer-and-visibility-features.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\08-deadlock-fov-changer-and-visibility-features.md"
+    },
+    {
+      "topic_id": 19,
+      "title": "Deadlock Auto Parry and Movement Assistance",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-104135\\09-deadlock-auto-parry-and-movement-assistance.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260909-104135\\09-deadlock-auto-parry-and-movement-assistance.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260909-104135\\09-deadlock-auto-parry-and-movement-assistance.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260909-104135\\09-deadlock-auto-parry-and-movement-assistance.md"
+    }
+  ]
+}

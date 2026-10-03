@@ -1,0 +1,58 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260911-112757.json",
+  "total": 6,
+  "pass": 6,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260911-112757\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.md",
+      "status": "pass",
+      "word_count": 986,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260911-112757\\02-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "status": "pass",
+      "word_count": 730,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260911-112757\\03-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md",
+      "status": "pass",
+      "word_count": 939,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260911-112757\\04-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md",
+      "status": "pass",
+      "word_count": 737,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260911-112757\\05-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md",
+      "status": "pass",
+      "word_count": 708,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260911-112757\\06-melonity-dota-2-setup-guide-free-trial-cfg-spoofer-and-first-safe-launch.md",
+      "status": "pass",
+      "word_count": 1014,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "created_at": "20260721-153311",
+  "spec": {
+    "raw": "Six exact Tier-2 articles for the six requested localized product URLs",
+    "count": 6,
+    "language": "all",
+    "game": "all",
+    "style": "Medium-style, direct, practical, conversational, gamer-aware, no filler",
+    "volume": "1000-1200 words",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": "site-brief-01",
+      "title": "Скрипты для героев Dota 2: как собрать чистый набор",
+      "game": "dota2",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-153311\\01-skripty-dlya-geroev-dota-2.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-153311\\01-skripty-dlya-geroev-dota-2.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-153311\\01-skripty-dlya-geroev-dota-2.json"
+    },
+    {
+      "topic_id": "site-brief-02",
+      "title": "Dota 2 Visual Scripts: Build a Readable Information Layer",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-153311\\02-dota-2-visual-scripts.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-153311\\02-dota-2-visual-scripts.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-153311\\02-dota-2-visual-scripts.json"
+    },
+    {
+      "topic_id": "site-brief-03",
+      "title": "Настройки аимбота CS2: FOV, Smooth и профили оружия",
+      "game": "cs2",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-153311\\03-nastroiki-aimbota-cs2.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-153311\\03-nastroiki-aimbota-cs2.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-153311\\03-nastroiki-aimbota-cs2.json"
+    },
+    {
+      "topic_id": "site-brief-04",
+      "title": "CS2 ESP Explained: Boxes, Health, Weapons, Status Icons",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-153311\\04-cs2-esp-readability.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-153311\\04-cs2-esp-readability.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-153311\\04-cs2-esp-readability.json"
+    },
+    {
+      "topic_id": "site-brief-05",
+      "title": "Deadlock ESP: Box, Hero Info, HealthBar и Glow без шума",
+      "game": "deadlock",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-153311\\05-deadlock-esp-bez-shuma.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-153311\\05-deadlock-esp-bez-shuma.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-153311\\05-deadlock-esp-bez-shuma.json"
+    },
+    {
+      "topic_id": "site-brief-06",
+      "title": "Deadlock Aimbot Settings: FOV, Smooth, and Target Lock",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-153311\\06-deadlock-aimbot-settings.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-153311\\06-deadlock-aimbot-settings.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-153311\\06-deadlock-aimbot-settings.json"
+    }
+  ]
+}

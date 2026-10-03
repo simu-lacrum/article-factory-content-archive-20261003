@@ -1,0 +1,84 @@
+{
+  "publication": "https://clustercheats.substack.com/",
+  "published_at": "2026-09-09",
+  "delivery": "web_only",
+  "email_sent": false,
+  "dashboard_after_publish": {
+    "published": 24,
+    "drafts": 14
+  },
+  "audit": {
+    "article_count": 5,
+    "all_public": true,
+    "all_exact_anchors_match": true,
+    "all_target_urls_match": true,
+    "all_meta_descriptions_present": true,
+    "all_open_graph_titles_and_descriptions_present": true,
+    "all_canonicals_match": true,
+    "all_article_media_present": true,
+    "deadlock_gif_present": true
+  },
+  "articles": [
+    {
+      "draft_id": 214902567,
+      "game": "multi",
+      "language": "ru",
+      "title": "Приватные читы: 7 проверок до покупки",
+      "url": "https://clustercheats.substack.com/p/7",
+      "canonical": "https://clustercheats.substack.com/p/7",
+      "target_url": "https://cluster.center/ru",
+      "exact_anchor": "приватные читы для многопользовательских игр",
+      "article_media_count": 1,
+      "verified": true
+    },
+    {
+      "draft_id": 214903350,
+      "game": "multi",
+      "language": "en",
+      "title": "How to Audit a Private Cheat Store Before You Pay",
+      "url": "https://clustercheats.substack.com/p/how-to-audit-a-private-cheat-store",
+      "canonical": "https://clustercheats.substack.com/p/how-to-audit-a-private-cheat-store",
+      "target_url": "https://cluster.center/en",
+      "exact_anchor": "private cheats for multiplayer games",
+      "article_media_count": 1,
+      "verified": true
+    },
+    {
+      "draft_id": 214903383,
+      "game": "cs2",
+      "language": "ru",
+      "title": "Приватный чит для CS2: как читать страницу продукта",
+      "url": "https://clustercheats.substack.com/p/cs2",
+      "canonical": "https://clustercheats.substack.com/p/cs2",
+      "target_url": "https://cluster.center/ru/cs2",
+      "exact_anchor": "приватный чит для CS2",
+      "article_media_count": 1,
+      "verified": true
+    },
+    {
+      "draft_id": 214903414,
+      "game": "deadlock",
+      "language": "ru",
+      "title": "Чит для Deadlock после патча: что проверять",
+      "url": "https://clustercheats.substack.com/p/deadlock",
+      "canonical": "https://clustercheats.substack.com/p/deadlock",
+      "target_url": "https://cluster.center/ru/deadlock",
+      "exact_anchor": "чит для Deadlock",
+      "article_media_count": 2,
+      "animated_gif_present": true,
+      "verified": true
+    },
+    {
+      "draft_id": 214903446,
+      "game": "cs2",
+      "language": "en",
+      "title": "Private CS2 Cheats: Read Features Without the Hype",
+      "url": "https://clustercheats.substack.com/p/private-cs2-cheats-read-features",
+      "canonical": "https://clustercheats.substack.com/p/private-cs2-cheats-read-features",
+      "target_url": "https://cluster.center/en/cs2",
+      "exact_anchor": "private CS2 cheats",
+      "article_media_count": 1,
+      "verified": true
+    }
+  ]
+}

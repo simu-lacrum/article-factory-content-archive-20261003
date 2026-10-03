@@ -1,0 +1,40 @@
+{
+  "created_at": "20261002-155610-004992",
+  "spec": {
+    "raw": "Prepare two distinct English SEO articles. First: Deadlock hacks vs cheats: how to separate hero feature labels, scope, update evidence and support claims; use cluster.center as mapped product, no operational instructions. Second: Cheats Deadlock: how to compare private product pages, feature coverage and documentation without promising safety or detection; include a contextual link to a requested Melonity Deadlock destination but do not claim unsupported product capabilities. Avoid existing auto-parry/FOV/souls duplicates, use fresh evidence-led angles, FAQs, LSI, and image placement guidance.",
+    "count": 2,
+    "language": "en",
+    "game": "deadlock",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1257,
+      "title": "Deadlock cheat comparisons: start with the feature you need to understand",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-155610-004992\\01-deadlock-cheat-comparisons-start-with-the-feature-you-need-to-understand.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20261002-155610-004992\\01-deadlock-cheat-comparisons-start-with-the-feature-you-need-to-understand.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20261002-155610-004992\\01-deadlock-cheat-comparisons-start-with-the-feature-you-need-to-understand.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20261002-155610-004992\\01-deadlock-cheat-comparisons-start-with-the-feature-you-need-to-understand.md"
+    },
+    {
+      "topic_id": 1255,
+      "title": "Is there a parry cheat in Deadlock? What auto-parry claims mean",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-155610-004992\\02-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20261002-155610-004992\\02-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20261002-155610-004992\\02-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20261002-155610-004992\\02-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md"
+    }
+  ]
+}

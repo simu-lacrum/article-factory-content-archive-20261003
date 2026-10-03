@@ -1,0 +1,28 @@
+{
+  "created_at": "20260921-105845-113024",
+  "spec": {
+    "raw": "Write an English article for CheatsGaming.com about Deadlock soul aimbot, soul triggerbot and soul ESP. Use the deadlock-souls research group and distinguish targets and actions with actual publisher wording. Deliver HTML plus a markdown source, a title under 60 characters, and a meta description exactly 160 characters with no final period. Natural readable prose, no filler or invented tests.",
+    "count": 1,
+    "language": "en",
+    "game": "deadlock",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1418,
+      "title": "Deadlock soul aimbot, soul triggerbot and soul ESP: what changes?",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-105845-113024\\01-deadlock-soul-aimbot-soul-triggerbot-and-soul-esp-what-changes.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260921-105845-113024\\01-deadlock-soul-aimbot-soul-triggerbot-and-soul-esp-what-changes.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260921-105845-113024\\01-deadlock-soul-aimbot-soul-triggerbot-and-soul-esp-what-changes.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260921-105845-113024\\01-deadlock-soul-aimbot-soul-triggerbot-and-soul-esp-what-changes.md"
+    }
+  ]
+}

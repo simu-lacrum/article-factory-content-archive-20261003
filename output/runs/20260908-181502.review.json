@@ -1,0 +1,42 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260908-181502.json",
+  "total": 4,
+  "pass": 4,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181502\\01-melonity-vs-umbrella-update-evidence.md",
+      "status": "pass",
+      "word_count": 2775,
+      "h2_count": 8,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181502\\02-melonity-vs-octarine-dota-depth-multi-game.md",
+      "status": "pass",
+      "word_count": 2817,
+      "h2_count": 8,
+      "evidence_sources": 7,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181502\\03-dota-2-cheat-trials-seven-day-evaluation.md",
+      "status": "pass",
+      "word_count": 2761,
+      "h2_count": 8,
+      "evidence_sources": 6,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181502\\04-umbrella-alternatives-dota-2-public-proof.md",
+      "status": "pass",
+      "word_count": 2706,
+      "h2_count": 8,
+      "evidence_sources": 7,
+      "findings": []
+    }
+  ]
+}

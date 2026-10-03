@@ -1,0 +1,35 @@
+{
+  "max_posts_per_platform": 2,
+  "excluded_platforms": [
+    "medium"
+  ],
+  "allocations": {
+    "dzen": [
+      "Скинченджер КС2: как проверить каталог и видимость",
+      "Читы Dota 2: как читать каталог и проверять функции"
+    ],
+    "tumblr": [
+      "Skinchanger Dota 2: как сравнить косметику с CS2",
+      "Читы КС2: как проверить приватный продукт"
+    ],
+    "blogger": [
+      "Читы Дедлок: как сравнить поддержку и функции",
+      "Читы для игр: как читать каталог без рекламного шума"
+    ],
+    "gitbook": [
+      "Cheats for CS2: a private product-page checklist",
+      "Читы на Дедлок: как проверить страницу продукта"
+    ],
+    "github-pages": [
+      "Deadlock Cheats and Hacks: Compare Private-Page Evidence",
+      "Cheats for Games: A Cross-Game Research Checklist"
+    ],
+    "substack": [
+      "Cheats Deadlock: A High-Level Product Checklist"
+    ],
+    "telegraph": [
+      "Dota 2 Cheats: A Private Product Evidence Checklist"
+    ]
+  },
+  "note": "Dzen and Telegraph are fresh platform choices; other assignments avoid exact target URLs already found in the local publication bundles where possible."
+}

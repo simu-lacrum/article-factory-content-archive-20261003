@@ -1,0 +1,90 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260622-173506.json",
+  "total": 10,
+  "pass": 10,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "status": "pass",
+      "word_count": 1883,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\02-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md",
+      "status": "pass",
+      "word_count": 1910,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\03-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md",
+      "status": "pass",
+      "word_count": 1959,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\04-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md",
+      "status": "pass",
+      "word_count": 1956,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\05-random-dota-2-hero-and-build-challenge-how-to-make-any-pick-playable.md",
+      "status": "pass",
+      "word_count": 1752,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\06-overwolf-dota-2-skin-changer-and-overlays-what-works-what-breaks-and-what-to-use-instead.md",
+      "status": "pass",
+      "word_count": 1899,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\07-dota-2-low-priority-how-it-works-how-to-get-out-and-how-to-avoid-it-again.md",
+      "status": "pass",
+      "word_count": 1849,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\08-dota-2-ahk-scripts-and-macros-invoker-meepo-tinker-and-the-safer-premium-alternative.md",
+      "status": "pass",
+      "word_count": 1923,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\09-best-dota-2-autoexeccfg-and-fps-settings-max-fps-ping-config-transfer-and-stable-gameplay.md",
+      "status": "pass",
+      "word_count": 1919,
+      "h2_count": 14,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\10-umbrella-dota-2-cfg-and-setup-problems-settings-launch-issues-and-alternatives.md",
+      "status": "pass",
+      "word_count": 1787,
+      "h2_count": 13,
+      "evidence_sources": 10,
+      "findings": []
+    }
+  ]
+}

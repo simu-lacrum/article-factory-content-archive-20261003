@@ -1,0 +1,21 @@
+{
+  "created_at": "20260926-network-12x7",
+  "spec": {
+    "count": 12,
+    "language": "en",
+    "game": "mixed",
+    "ad_mode": "native"
+  },
+  "items": [
+    {
+      "topic_id": 0,
+      "title": "Deadlock Cheats: What a Hub Should Explain",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-network-12x7\\01-deadlock-cheats-what-a-hub-should-explain.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-network-12x7\\01-deadlock-cheats-what-a-hub-should-explain.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-network-12x7\\01-deadlock-cheats-what-a-hub-should-explain.json"
+    }
+  ]
+}

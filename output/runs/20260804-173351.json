@@ -1,0 +1,40 @@
+{
+  "created_at": "20260804-173351",
+  "spec": {
+    "raw": "Подготовить два русскоязычных SEO-ТЗ для tier-2 статей о кастомных Dota 2 скриптах на основе видео: 1) от идеи и AI-промпта до загрузки локального JavaScript-скрипта и теста в Melonity, анкор 'читы дота 2'; 2) как составить техническое задание для AI на Dota 2 скрипт через модель цель-условия-действия-настройки-тест, анкор 'читы для dota 2'. Каждая будущая статья 1000-1200 слов, без кода и без anti-cheat bypass/evasion, с естественной ссылкой на https://melonity.gg/, уникальный интент, стиль Medium mrkhertz, визуалы Nano Banana Pro.",
+    "count": 2,
+    "language": "ru",
+    "game": "dota2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": "1200 слов",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 28,
+      "title": "Дота 2 интернешнл 2025: полный разбор для Dota 2",
+      "game": "dota2",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260804-173351\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260804-173351\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260804-173351\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260804-173351\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.md"
+    },
+    {
+      "topic_id": 88,
+      "title": "Дота лагает: полный разбор для Dota 2",
+      "game": "dota2",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260804-173351\\02-дота-лагает-полныи-разбор-для-dota-2.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260804-173351\\02-дота-лагает-полныи-разбор-для-dota-2.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260804-173351\\02-дота-лагает-полныи-разбор-для-dota-2.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260804-173351\\02-дота-лагает-полныи-разбор-для-dota-2.md"
+    }
+  ]
+}

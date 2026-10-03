@@ -1,0 +1,201 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260925-204449-895460.json",
+  "total": 19,
+  "pass": 19,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\01-melonity-umbrella-and-octarine-compare-documented-features.md",
+      "status": "pass",
+      "word_count": 1156,
+      "h2_count": 9,
+      "evidence_sources": 1,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\02-dota-2-macros-feature-name-and-coverage.md",
+      "status": "pass",
+      "word_count": 854,
+      "h2_count": 7,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\03-dota-2-cosmetic-changers-appearance-ownership-and-visibility.md",
+      "status": "pass",
+      "word_count": 955,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\04-dota-2-scripts-macros-and-bots-are-different-things.md",
+      "status": "pass",
+      "word_count": 970,
+      "h2_count": 7,
+      "evidence_sources": 8,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\05-custom-dota-2-skins-official-workshop-vs-local-changes.md",
+      "status": "pass",
+      "word_count": 722,
+      "h2_count": 9,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\06-raise-dota-2-behavior-score.md",
+      "status": "pass",
+      "word_count": 745,
+      "h2_count": 8,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\07-write-dota-2-script-workshop-tools.md",
+      "status": "pass",
+      "word_count": 720,
+      "h2_count": 9,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\08-vac-vs-vanguard-dota-2-valorant.md",
+      "status": "pass",
+      "word_count": 659,
+      "h2_count": 8,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\09-dota-2-cheat-features-explained.md",
+      "status": "pass",
+      "word_count": 662,
+      "h2_count": 9,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\10-dota-2-lobby-cheat-commands-private-practice.md",
+      "status": "pass",
+      "word_count": 636,
+      "h2_count": 7,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\11-dota-2-maphack-features-limits-ban-risk.md",
+      "status": "pass",
+      "word_count": 631,
+      "h2_count": 7,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\12-free-dota-2-scripts-download-safety.md",
+      "status": "pass",
+      "word_count": 662,
+      "h2_count": 8,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\13-dota-2-cheat-detection-vac-facts-limits.md",
+      "status": "pass",
+      "word_count": 594,
+      "h2_count": 7,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\14-melonity-dota-2-cheat-features-setup-access.md",
+      "status": "pass",
+      "word_count": 622,
+      "h2_count": 7,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\15-best-dota-2-skin-changers.md",
+      "status": "pass",
+      "word_count": 582,
+      "h2_count": 9,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\16-install-dota-2-cheat-safe-access-checks.md",
+      "status": "pass",
+      "word_count": 543,
+      "h2_count": 8,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\17-dota-2-smurf-ban-recovery.md",
+      "status": "pass",
+      "word_count": 567,
+      "h2_count": 8,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\18-how-dota-2-cheats-work-features-risks-limits.md",
+      "status": "pass",
+      "word_count": 587,
+      "h2_count": 8,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260925-204449-895460\\19-best-dota-2-cheats-buyer-evaluation.md",
+      "status": "pass",
+      "word_count": 556,
+      "h2_count": 8,
+      "evidence_sources": 21,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    }
+  ],
+  "editorial_review_required": true
+}

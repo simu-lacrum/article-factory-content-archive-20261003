@@ -1,0 +1,51 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260921-cheatsgaming-cs2-deadlock-4.json",
+  "total": 4,
+  "pass": 4,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-105840-967517\\01-cs2-triggerbot-vs-aimbot-what-changes.md",
+      "status": "pass",
+      "word_count": 668,
+      "h2_count": 5,
+      "evidence_sources": 2,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-105945-702353\\01-cs2-esp-wallhack-and-radar-three-labels-worth-separating.md",
+      "status": "pass",
+      "word_count": 687,
+      "h2_count": 5,
+      "evidence_sources": 4,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-105845-113024\\01-deadlock-soul-aimbot-soul-triggerbot-and-soul-esp-what-changes.md",
+      "status": "pass",
+      "word_count": 717,
+      "h2_count": 5,
+      "evidence_sources": 5,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-110014-516265\\01-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md",
+      "status": "pass",
+      "word_count": 727,
+      "h2_count": 5,
+      "evidence_sources": 4,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    }
+  ],
+  "editorial_review_required": true
+}

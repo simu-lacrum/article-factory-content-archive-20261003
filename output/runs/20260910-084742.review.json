@@ -1,0 +1,130 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260910-084742.json",
+  "total": 15,
+  "pass": 15,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\01-status-produkta-ne-garantiya.md",
+      "status": "pass",
+      "word_count": 1494,
+      "h2_count": 12,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\02-hud-v-cs2-informacionnaya-plotnost.md",
+      "status": "pass",
+      "word_count": 1517,
+      "h2_count": 13,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\03-deadlock-glubina-podderzhki-geroev.md",
+      "status": "pass",
+      "word_count": 1506,
+      "h2_count": 14,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\04-edinyy-akkaunt-test-i-podderzhka.md",
+      "status": "pass",
+      "word_count": 1460,
+      "h2_count": 13,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\05-cs2-external-sovmestimost.md",
+      "status": "pass",
+      "word_count": 1448,
+      "h2_count": 14,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\06-auto-parry-zaderzhka-i-dokazatelstva.md",
+      "status": "pass",
+      "word_count": 1414,
+      "h2_count": 15,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\07-dokumentaciya-igrovogo-servisa.md",
+      "status": "pass",
+      "word_count": 1486,
+      "h2_count": 15,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\08-slovar-funkciy-cs2.md",
+      "status": "pass",
+      "word_count": 1435,
+      "h2_count": 15,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\09-slovar-funkciy-deadlock.md",
+      "status": "pass",
+      "word_count": 1450,
+      "h2_count": 16,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\10-publichnyy-changelog-i-status-page.md",
+      "status": "pass",
+      "word_count": 1477,
+      "h2_count": 15,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\11-posle-obnovleniya-cs2-chto-proveryat.md",
+      "status": "pass",
+      "word_count": 1457,
+      "h2_count": 16,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\12-matrica-podderzhki-geroev-deadlock.md",
+      "status": "pass",
+      "word_count": 1470,
+      "h2_count": 17,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\13-besplatnyy-test-12-voprosov.md",
+      "status": "pass",
+      "word_count": 1538,
+      "h2_count": 18,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\14-kak-razbirat-demo-cs2.md",
+      "status": "pass",
+      "word_count": 1447,
+      "h2_count": 16,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-084742\\15-demo-deadlock-bez-haypa.md",
+      "status": "pass",
+      "word_count": 1484,
+      "h2_count": 18,
+      "evidence_sources": 5,
+      "findings": []
+    }
+  ]
+}

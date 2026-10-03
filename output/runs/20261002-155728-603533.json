@@ -1,0 +1,15 @@
+{
+  "created_at": "20261002-155728-603533",
+  "spec": {
+    "raw": "Prepare two distinct Russian SEO articles. First: читы Dota 2 — how to read a product page, compare hero scripts, map and support claims, and separate fact from marketing without operational instructions. Second: читы на Дедлок — explain a careful terminology and evidence checklist for a Deadlock page, with only high-level risk-aware content and a contextual link to a requested Melonity Deadlock destination. Include LSI, target key in title/H1/description, FAQs and two real image slots.",
+    "count": 2,
+    "language": "ru",
+    "game": "dota2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": []
+}

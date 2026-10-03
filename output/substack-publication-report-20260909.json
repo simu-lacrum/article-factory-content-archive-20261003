@@ -1,0 +1,69 @@
+{
+  "publication": "https://clustercheats.substack.com/",
+  "published_at": "2026-09-09",
+  "delivery": "web_only",
+  "publication_seo": {
+    "language": "English",
+    "primary_category": "Technology",
+    "secondary_category": "Games",
+    "substack_directory_listing": true,
+    "automatic_translation": true,
+    "ga4_configured": true,
+    "google_tag_manager_configured": true
+  },
+  "audit": {
+    "article_count": 7,
+    "all_public": true,
+    "all_h1_match": true,
+    "all_visible_blocks_in_source_order": true,
+    "all_source_links_and_anchors_match": true,
+    "all_game_images_present_with_alt_text": true,
+    "all_meta_descriptions_match": true,
+    "all_open_graph_fields_present": true,
+    "all_canonicals_match": true
+  },
+  "articles": [
+    {
+      "game": "deadlock",
+      "title": "Deadlock Cheat Providers Compared by Patch Evidence",
+      "url": "https://clustercheats.substack.com/p/deadlock-cheat-providers-patch-evidence",
+      "verified_anchors": ["deadlock cheat"]
+    },
+    {
+      "game": "cs2",
+      "title": "Phantom Overlay Alternatives After Its CS2 Closure",
+      "url": "https://clustercheats.substack.com/p/phantom-overlay-alternatives-after-cs2-closure",
+      "verified_anchors": ["Phantom Overlay status page", "buy cheats cs2"]
+    },
+    {
+      "game": "deadlock",
+      "title": "Deadlock Parry Window Explained: Timing, Distance, Feints, and Commitment",
+      "url": "https://clustercheats.substack.com/p/deadlock-auto-parry-cheat-guide",
+      "verified_anchors": ["official April 10, 2026 update", "Deadlock Auto-Parry cheat guide"]
+    },
+    {
+      "game": "deadlock",
+      "title": "Deadlock Cheat Support Ticket: Build, Symptom, Timestamp, and Reproduction",
+      "url": "https://clustercheats.substack.com/p/deadlock-cheat-setup-article",
+      "verified_anchors": ["Deadlock cheat setup article"]
+    },
+    {
+      "game": "cs2",
+      "title": "CS2 Cheat Update Loop: Is It a Stale Build, Cache Problem, or Status Mismatch?",
+      "url": "https://clustercheats.substack.com/p/cs2-cheats-download-guide",
+      "verified_anchors": ["CS2 cheats download guide"]
+    },
+    {
+      "game": "cs2",
+      "title": "External CS2 Cheat Compatibility: Borderless Mode, Monitors, Scaling, and Capture",
+      "url": "https://clustercheats.substack.com/p/best-external-cs2-hack",
+      "verified_anchors": ["best external CS2 hack"]
+    },
+    {
+      "game": "cs2",
+      "title": "Legit vs Semi-Rage vs Rage in CS2: What Reviewers Actually Mean",
+      "url": "https://clustercheats.substack.com/p/legit-cs2-cheats-comparison",
+      "verified_anchors": ["legit CS2 cheats comparison"]
+    }
+  ]
+}

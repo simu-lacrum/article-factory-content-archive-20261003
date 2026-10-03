@@ -1,0 +1,320 @@
+{
+  "created_at": "20261002",
+  "source_run": "20261002-backlink-12",
+  "platforms": {
+    "dzen": [
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\01-skinchanger-ks2-kak-proverit-katalog-i-vidimost.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\dzen\\01-скинченджер-кс2-как-проверить-каталог-и-видимость.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\dzen\\01-скинченджер-кс2-как-проверить-каталог-и-видимость.html",
+        "title": "Скинченджер КС2: как проверить каталог и видимость",
+        "description": "Скинченджер КС2 стоит оценивать по каталогу, видимости, инвентарю и обновлениям, а не по громкому обещанию «все скины».",
+        "slug": "скинченджер-кс2-как-проверить-каталог-и-видимость",
+        "language": "ru",
+        "game": "cs2",
+        "target_url": "https://metaskins.gg/",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://metaskins.gg/images/opengraph/og-en.png",
+            "alt": "Каталог скинченджера КС2 и проверка видимости косметики",
+            "caption": "Кадр показывает внешний вид, но не доказывает владение предметом."
+          },
+          {
+            "src": "https://cluster.center/images/products/cs2/logo.webp",
+            "alt": "Визуальная проверка скина CS2 по скриншоту",
+            "caption": "Один скриншот — это один контекст, а не полный тест каталога."
+          }
+        ],
+        "status": "ready"
+      },
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\09-chity-dota-2-kak-chitat-katalog-i-funkcii.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\dzen\\02-читы-dota-2-как-читать-каталог-и-проверять-функции.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\dzen\\02-читы-dota-2-как-читать-каталог-и-проверять-функции.html",
+        "title": "Читы Dota 2: как читать каталог и проверять функции",
+        "description": "Читы Dota 2 сравнивайте по героям, видимым функциям, датам и поддержке; чек-лист отделяет каталог от неподтверждённого обещания.",
+        "slug": "читы-dota-2-как-читать-каталог-и-проверять-функции",
+        "language": "ru",
+        "game": "dota2",
+        "target_url": "https://melonity.gg/",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://dota2cheat.com/assets/figma-raw-1.webp",
+            "alt": "Каталог читов Dota 2 и разделение функций по задачам",
+            "caption": "Категория в меню — отправная точка для проверки, а не готовый вердикт."
+          },
+          {
+            "src": "https://metaskins.gg/images/opengraph/og-en.png",
+            "alt": "Скриншот функций читов Dota 2 для проверки доказательности",
+            "caption": "Кадр показывает момент, а дата и контекст определяют границы вывода."
+          }
+        ],
+        "status": "ready"
+      }
+    ],
+    "tumblr": [
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\02-skinchanger-dota-2-cs2-cosmetic-checklist.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\tumblr\\01-skinchanger-dota-2-как-сравнить-косметику-с-cs2.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\tumblr\\01-skinchanger-dota-2-как-сравнить-косметику-с-cs2.html",
+        "title": "Skinchanger Dota 2: как сравнить косметику с CS2",
+        "description": "Skinchanger Dota 2 и CS2 сравнивайте по видимости, каталогу и владению предметами, а не по одному рекламному скриншоту.",
+        "slug": "skinchanger-dota-2-как-сравнить-косметику-с-cs2",
+        "language": "en",
+        "game": "multi",
+        "target_url": "https://metaskins.gg/en",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://metaskins.gg/images/opengraph/og-en.png",
+            "alt": "Skinchanger Dota 2 and CS2 comparison by visibility and ownership",
+            "caption": "A cosmetic preview is one layer of evidence, not an inventory receipt."
+          },
+          {
+            "src": "https://dota2cheat.com/assets/figma-raw-1.webp",
+            "alt": "Cosmetic preview reference for CS2 and Dota 2 skinchanger research",
+            "caption": "The frame shows appearance; the checklist supplies the missing context."
+          }
+        ],
+        "status": "ready"
+      },
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\03-chity-ks2-kak-proverit-privatnyy-produkt.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\tumblr\\02-читы-кс2-как-проверить-приватный-продукт.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\tumblr\\02-читы-кс2-как-проверить-приватный-продукт.html",
+        "title": "Читы КС2: как проверить приватный продукт",
+        "description": "Читы КС2 сравнивайте по функциям, поддержке и датам обновлений; чек-лист помогает отделить приватный продукт от рекламной витрины.",
+        "slug": "читы-кс2-как-проверить-приватный-продукт",
+        "language": "ru",
+        "game": "cs2",
+        "target_url": "https://cluster.center/ru/cs2",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://cluster.center/images/products/cs2/logo.webp",
+            "alt": "Каталог приватного чита для КС2 и проверка заявленных функций",
+            "caption": "Интерфейс помогает понять область действия, но не заменяет дату и источник."
+          },
+          {
+            "src": "https://cluster.center/images/products/cs2/aimbot.webp",
+            "alt": "Визуальная проверка поддержки и обновлений читов КС2",
+            "caption": "Список функций и история обновлений — разные типы доказательств."
+          }
+        ],
+        "status": "ready"
+      }
+    ],
+    "blogger": [
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\04-chity-dedlok-kak-sravnit-podderzhku-i-funkcii.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\blogger\\01-читы-дедлок-как-сравнить-поддержку-и-функции.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\blogger\\01-читы-дедлок-как-сравнить-поддержку-и-функции.html",
+        "title": "Читы Дедлок: как сравнить поддержку и функции",
+        "description": "Читы Дедлок сравнивайте по героям, функциям, обновлениям и поддержке; слова «приватный» и «undetected» сами ничего не доказывают.",
+        "slug": "читы-дедлок-как-сравнить-поддержку-и-функции",
+        "language": "ru",
+        "game": "deadlock",
+        "target_url": "https://cluster.center/ru/deadlock",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://cluster.center/images/products/deadlock/logo.webp",
+            "alt": "Каталог читов Дедлок и проверка поддержки функций",
+            "caption": "Видимый раздел меню — это только один слой доказательств."
+          },
+          {
+            "src": "https://deadlockhacks.com/images/deadlock-hero.webp",
+            "alt": "Контекст демонстрационного видео для читов Дедлок",
+            "caption": "Хороший кадр показывает задачу и ограничения, а не обещает вечный статус."
+          }
+        ],
+        "status": "ready"
+      },
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\05-chity-dlya-igr-kak-chitat-katalog.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\blogger\\02-читы-для-игр-как-читать-каталог-без-рекламного-шума.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\blogger\\02-читы-для-игр-как-читать-каталог-без-рекламного-шума.html",
+        "title": "Читы для игр: как читать каталог без рекламного шума",
+        "description": "Читы для игр стоит сравнивать по задаче, доказательствам и поддержке; короткий чек-лист помогает не перепутать каталог с тестом.",
+        "slug": "читы-для-игр-как-читать-каталог-без-рекламного-шума",
+        "language": "ru",
+        "game": "multiplayer",
+        "target_url": "https://cluster.center/ru",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://cluster.center/images/products/cs2/logo.webp",
+            "alt": "Каталог читов для игр и сравнение функций",
+            "caption": "Каталог помогает найти раздел, но не заменяет проверку задачи."
+          },
+          {
+            "src": "https://cluster.center/images/products/deadlock/logo.webp",
+            "alt": "Сравнение игровых каталогов CS2 и Deadlock",
+            "caption": "Разные игры требуют разных критериев поддержки."
+          }
+        ],
+        "status": "ready"
+      }
+    ],
+    "gitbook": [
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\06-cheats-for-cs2-private-product-page-checklist.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\gitbook\\01-cheats-for-cs2-a-private-product-page-checklist.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\gitbook\\01-cheats-for-cs2-a-private-product-page-checklist.html",
+        "title": "Cheats for CS2: a private product-page checklist",
+        "description": "Cheats for CS2 are easier to compare when you separate feature scope, update notes, support and unknowns from marketing language.",
+        "slug": "cheats-for-cs2-a-private-product-page-checklist",
+        "language": "en",
+        "game": "cs2",
+        "target_url": "https://cluster.center/en/cs2",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://cluster.center/images/products/cs2/logo.webp",
+            "alt": "Cheats for CS2 feature scope and private product page reference",
+            "caption": "A visible label is not a dated compatibility test."
+          },
+          {
+            "src": "https://cluster.center/images/products/cs2/triggerbot.webp",
+            "alt": "CS2 hacks catalogue reference for evidence-led comparison",
+            "caption": "Use the category page to find terminology, then verify each claim on its own."
+          }
+        ],
+        "status": "ready"
+      },
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\12-chity-na-dedlok-kak-proverit-stranicu.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\gitbook\\02-читы-на-дедлок-как-проверить-страницу-продукта.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\gitbook\\02-читы-на-дедлок-как-проверить-страницу-продукта.html",
+        "title": "Читы на Дедлок: как проверить страницу продукта",
+        "description": "Читы на Дедлок проверяйте по функции, герою, дате и поддержке; слово «приватный» не заменяет доказательства и честные ограничения.",
+        "slug": "читы-на-дедлок-как-проверить-страницу-продукта",
+        "language": "ru",
+        "game": "deadlock",
+        "target_url": "https://melonity.gg/deadlock",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://cluster.center/images/products/deadlock/logo.webp",
+            "alt": "Страница читов на Дедлок и список заявленных функций",
+            "caption": "Визуальный каталог нужно читать вместе с датой и ограничениями."
+          },
+          {
+            "src": "https://deadlockhacks.com/images/deadlock-hero.webp",
+            "alt": "Контекст функции и героя в статье про читы на Дедлок",
+            "caption": "Чем уже контекст кадра, тем осторожнее должен быть вывод."
+          }
+        ],
+        "status": "ready"
+      }
+    ],
+    "github-pages": [
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\07-deadlock-cheats-hacks-private-page-evidence.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\github-pages\\01-deadlock-cheats-and-hacks-compare-private-page-evidence.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\github-pages\\01-deadlock-cheats-and-hacks-compare-private-page-evidence.html",
+        "title": "Deadlock Cheats and Hacks: Compare Private-Page Evidence",
+        "description": "Deadlock cheats and hacks pages become easier to judge when hero coverage, feature scope, update notes and support are separated.",
+        "slug": "deadlock-cheats-and-hacks-compare-private-page-evidence",
+        "language": "en",
+        "game": "deadlock",
+        "target_url": "https://cluster.center/en/deadlock",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://cluster.center/images/products/deadlock/logo.webp",
+            "alt": "Deadlock cheats and hacks feature catalogue reference",
+            "caption": "A feature list is a map of claims, not a test score."
+          },
+          {
+            "src": "https://deadlockhacks.com/images/deadlock-hero.webp",
+            "alt": "Deadlock hacks demo context for checking hero coverage",
+            "caption": "Context turns a clip into evidence; without it, the claim stays narrow."
+          }
+        ],
+        "status": "ready"
+      },
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\08-cheats-for-games-cross-game-research-checklist.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\github-pages\\02-cheats-for-games-a-cross-game-research-checklist.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\github-pages\\02-cheats-for-games-a-cross-game-research-checklist.html",
+        "title": "Cheats for Games: A Cross-Game Research Checklist",
+        "description": "Cheats for games are easier to compare when you record the game, feature, evidence, update date and support instead of trusting a universal list.",
+        "slug": "cheats-for-games-a-cross-game-research-checklist",
+        "language": "en",
+        "game": "multiplayer",
+        "target_url": "https://cluster.center/en",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://cluster.center/images/products/cs2/logo.webp",
+            "alt": "Cheats for games cross-game catalogue and evidence checklist",
+            "caption": "Start broad for navigation, then narrow the claim to one game and one feature."
+          },
+          {
+            "src": "https://cluster.center/images/products/deadlock/logo.webp",
+            "alt": "Cheats and hacks terminology across CS2 and Deadlock",
+            "caption": "Similar search words can hide different mechanics and evidence requirements."
+          }
+        ],
+        "status": "ready"
+      }
+    ],
+    "substack": [
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\11-cheats-deadlock-high-level-product-checklist.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\substack\\01-cheats-deadlock-a-high-level-product-checklist.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\substack\\01-cheats-deadlock-a-high-level-product-checklist.html",
+        "title": "Cheats Deadlock: A High-Level Product Checklist",
+        "description": "Cheats Deadlock pages should be checked for hero scope, feature wording, update evidence and support before any product claim is trusted.",
+        "slug": "cheats-deadlock-a-high-level-product-checklist",
+        "language": "en",
+        "game": "deadlock",
+        "target_url": "https://melonity.gg/en/deadlock",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://cluster.center/images/products/deadlock/logo.webp",
+            "alt": "Cheats Deadlock product page and hero coverage checklist",
+            "caption": "A category page is a map of claims, not a universal status report."
+          },
+          {
+            "src": "https://deadlockhacks.com/images/deadlock-hero.webp",
+            "alt": "Deadlock hero coverage and feature evidence context",
+            "caption": "The context around a demo controls how far its conclusion can travel."
+          }
+        ],
+        "status": "ready"
+      }
+    ],
+    "telegraph": [
+      {
+        "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-backlink-12\\10-dota-2-cheats-private-page-evidence-checklist.md",
+        "markdown": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\telegraph\\01-dota-2-cheats-a-private-product-evidence-checklist.md",
+        "html": "C:\\Users\\User\\Desktop\\articles\\output\\publish\\20261002-backlink-12\\telegraph\\01-dota-2-cheats-a-private-product-evidence-checklist.html",
+        "title": "Dota 2 Cheats: A Private Product Evidence Checklist",
+        "description": "Dota 2 cheats pages are easier to compare when hero coverage, feature scope, update notes and support are checked separately.",
+        "slug": "dota-2-cheats-a-private-product-evidence-checklist",
+        "language": "en",
+        "game": "dota2",
+        "target_url": "https://melonity.gg/en",
+        "target_anchors": "",
+        "images": [
+          {
+            "src": "https://dota2cheat.com/assets/figma-raw-1.webp",
+            "alt": "Dota 2 cheats private product page evidence checklist",
+            "caption": "A named feature still needs scope, date and a source boundary."
+          },
+          {
+            "src": "https://metaskins.gg/images/opengraph/og-en.png",
+            "alt": "Dota 2 hack feature list and evidence boundary",
+            "caption": "Product positioning is useful context, not an independent benchmark."
+          }
+        ],
+        "status": "ready"
+      }
+    ]
+  }
+}

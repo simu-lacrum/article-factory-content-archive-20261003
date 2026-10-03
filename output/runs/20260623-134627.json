@@ -1,0 +1,28 @@
+{
+  "created_at": "20260623-134627",
+  "spec": {
+    "raw": "Write one English Medium-style SEO article/section describing the functionality of a Deadlock cheat, following the provided Dota 2 example style: direct, practical, feature-focused, conversational. Topic: Deadlock cheat features explained. Cover Aimbot: default, silent, default + silent; FOV, show default FOV, show silent FOV, smooth, target lock; targets players, XP orbs, creeps; hitboxes head, neck, spine, hips; ignore invisible, in air, easing in-out; easing modes easing in-out, static, decreases when aiming, easing out-back; anti frog. Cover ESP: box, player name, hero name, hero icon, health, healthBar, glow, thickness, orbs gear. Cover Misc: FOV changer, world color, disable skybox, skybox color, auto dash jump, auto parry. Game: deadlock. Product: cluster.center. Do not write installation, bypass, evasion, exploit, or implementation steps. No absolute safety guarantees.",
+    "count": 1,
+    "language": "en",
+    "game": "deadlock",
+    "style": "Medium-style, direct, practical, conversational, gamer-aware, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 20,
+      "title": "Deadlock Cheat Feature Glossary",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260623-134627\\01-deadlock-cheat-feature-glossary.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260623-134627\\01-deadlock-cheat-feature-glossary.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260623-134627\\01-deadlock-cheat-feature-glossary.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260623-134627\\01-deadlock-cheat-feature-glossary.md"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "20260921-073518-498926",
+  "spec": {
+    "raw": "Write three English articles: CS2 triggerbot vs aimbot; Dota 2 scripts vs macros vs bots; Deadlock souls aimbot. Use current research and concise prose.",
+    "count": 3,
+    "language": "en",
+    "game": "all",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1368,
+      "title": "CS2 triggerbot vs aimbot: what changes?",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-073518-498926\\01-cs2-triggerbot-vs-aimbot-what-changes.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260921-073518-498926\\01-cs2-triggerbot-vs-aimbot-what-changes.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260921-073518-498926\\01-cs2-triggerbot-vs-aimbot-what-changes.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260921-073518-498926\\01-cs2-triggerbot-vs-aimbot-what-changes.md"
+    },
+    {
+      "topic_id": 1377,
+      "title": "Dota 2 scripts, macros and bots are different things",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-073518-498926\\02-dota-2-scripts-macros-and-bots-are-different-things.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260921-073518-498926\\02-dota-2-scripts-macros-and-bots-are-different-things.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260921-073518-498926\\02-dota-2-scripts-macros-and-bots-are-different-things.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260921-073518-498926\\02-dota-2-scripts-macros-and-bots-are-different-things.md"
+    },
+    {
+      "topic_id": 1389,
+      "title": "Deadlock souls aimbot: what the feature targets",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-073518-498926\\03-deadlock-souls-aimbot-what-the-feature-targets.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260921-073518-498926\\03-deadlock-souls-aimbot-what-the-feature-targets.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260921-073518-498926\\03-deadlock-souls-aimbot-what-the-feature-targets.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260921-073518-498926\\03-deadlock-souls-aimbot-what-the-feature-targets.md"
+    }
+  ]
+}

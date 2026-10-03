@@ -1,0 +1,18 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260813-162744.json",
+  "total": 1,
+  "pass": 1,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-162744\\01-auto-dodge-v-dota-2-kak-dodger-chitaet-ugrozu.md",
+      "status": "pass",
+      "word_count": 3094,
+      "h2_count": 13,
+      "evidence_sources": 5,
+      "findings": []
+    }
+  ]
+}

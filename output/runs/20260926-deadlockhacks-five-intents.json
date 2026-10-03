@@ -1,0 +1,69 @@
+{
+  "created_at": "20260926-deadlockhacks-five-intents",
+  "spec": {
+    "raw": "Five distinct English Deadlockhacks.com access and feature-intent articles; no external links except Cluster",
+    "count": 5,
+    "game": "deadlock",
+    "language": "en",
+    "style": "direct practical gamer-aware"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": "deadlock-free-download",
+      "title": "Deadlock Cheats Download: Find the Real Source",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-deadlockhacks-five-intents\\deadlock-cheats-download-find-the-real-source.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-deadlockhacks-five-intents\\deadlock-cheats-download-find-the-real-source.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-deadlockhacks-five-intents\\deadlock-cheats-download-find-the-real-source.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": "deadlock-comparison",
+      "title": "Where to Buy Deadlock Cheats: A Buyer Checklist",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-deadlockhacks-five-intents\\where-to-buy-deadlock-cheats-buyer-checklist.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-deadlockhacks-five-intents\\where-to-buy-deadlock-cheats-buyer-checklist.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-deadlockhacks-five-intents\\where-to-buy-deadlock-cheats-buyer-checklist.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": "deadlock-trial",
+      "title": "Free Deadlock Cheats vs Trial: What Is Real?",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-deadlockhacks-five-intents\\free-deadlock-cheats-vs-trial-what-is-real.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-deadlockhacks-five-intents\\free-deadlock-cheats-vs-trial-what-is-real.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-deadlockhacks-five-intents\\free-deadlock-cheats-vs-trial-what-is-real.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": "deadlock-fov",
+      "title": "Deadlock Aimbot FOV vs Camera FOV: Explained",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-deadlockhacks-five-intents\\deadlock-aimbot-fov-vs-camera-fov-explained.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-deadlockhacks-five-intents\\deadlock-aimbot-fov-vs-camera-fov-explained.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-deadlockhacks-five-intents\\deadlock-aimbot-fov-vs-camera-fov-explained.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": "deadlock-combos",
+      "title": "Deadlock Hero Scripts: What Combo Automation Means",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-deadlockhacks-five-intents\\deadlock-hero-scripts-combo-automation-meaning.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-deadlockhacks-five-intents\\deadlock-hero-scripts-combo-automation-meaning.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-deadlockhacks-five-intents\\deadlock-hero-scripts-combo-automation-meaning.json",
+      "llm_error": null
+    }
+  ]
+}

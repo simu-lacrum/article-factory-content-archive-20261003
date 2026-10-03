@@ -1,0 +1,28 @@
+{
+  "created_at": "20260921-105945-702353",
+  "spec": {
+    "raw": "Write an English article for CheatsGaming.com about CS2 radar vs ESP and wallhack, focusing on where information appears and what each label means. Use cs2-esp research. Deliver HTML and markdown, title at most 60 characters, meta description exactly 160 characters without a final period. Include concrete examples and natural internal links; no filler or invented tests.",
+    "count": 1,
+    "language": "en",
+    "game": "cs2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1399,
+      "title": "CS2 ESP, wallhack and radar: three labels worth separating",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-105945-702353\\01-cs2-esp-wallhack-and-radar-three-labels-worth-separating.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260921-105945-702353\\01-cs2-esp-wallhack-and-radar-three-labels-worth-separating.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260921-105945-702353\\01-cs2-esp-wallhack-and-radar-three-labels-worth-separating.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260921-105945-702353\\01-cs2-esp-wallhack-and-radar-three-labels-worth-separating.md"
+    }
+  ]
+}

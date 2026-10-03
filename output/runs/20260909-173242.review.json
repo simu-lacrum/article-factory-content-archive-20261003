@@ -1,0 +1,50 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260909-173242.json",
+  "total": 5,
+  "pass": 5,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\приватные-читы-для-многопользовательских-игр.md",
+      "status": "pass",
+      "word_count": 1099,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\private-cheats-for-multiplayer-games.md",
+      "status": "pass",
+      "word_count": 1306,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\приватный-чит-для-cs2.md",
+      "status": "pass",
+      "word_count": 938,
+      "h2_count": 7,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\чит-для-deadlock.md",
+      "status": "pass",
+      "word_count": 992,
+      "h2_count": 8,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\private-cs2-cheats.md",
+      "status": "pass",
+      "word_count": 1267,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    }
+  ]
+}

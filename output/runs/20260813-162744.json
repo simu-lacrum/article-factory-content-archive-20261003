@@ -1,0 +1,29 @@
+{
+  "created_at": "20260813-162744",
+  "spec": {
+    "raw": "Самостоятельная русская SEO-статья для melonity.gg: Auto Dodge в Dota 2 — узкий feature explainer без операционных инструкций и гарантий безопасности.",
+    "count": 1,
+    "language": "ru",
+    "game": "dota2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": "1400-1800 слов",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": "manual-auto-dodge-ru-20260813",
+      "title": "Auto Dodge в Dota 2: как Dodger читает угрозу",
+      "game": "dota2",
+      "language": "ru",
+      "status": "article",
+      "risk_level": "restricted",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-162744\\01-auto-dodge-v-dota-2-kak-dodger-chitaet-ugrozu.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260813-162744\\01-auto-dodge-v-dota-2.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260813-162744\\01-auto-dodge-v-dota-2.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260813-162744\\01-auto-dodge-v-dota-2.md"
+    }
+  ]
+}

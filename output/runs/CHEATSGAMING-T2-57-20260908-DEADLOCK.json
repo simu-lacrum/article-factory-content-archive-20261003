@@ -1,0 +1,146 @@
+{
+  "created_at": "CHEATSGAMING-T2-57-20260908-DEADLOCK",
+  "spec": {
+    "raw": "Review the completed T2 run through Deadlock CG-042."
+  },
+  "llm_provider": "codex",
+  "model": "codex",
+  "visual_sequence_start": 28,
+  "items": [
+    {
+      "topic_id": "028",
+      "title": "Deadlock Cheat Research: Four Feature Families",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-028-deadlock-cheat-research-map.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-028-deadlock-cheat-research-map.json"
+    },
+    {
+      "topic_id": "029",
+      "title": "Deadlock Hero Assistants vs Global Utilities",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-029-deadlock-hero-assistants-vs-global-utilities.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-029-deadlock-hero-assistants-vs-global-utilities.json"
+    },
+    {
+      "topic_id": "030",
+      "title": "Deadlock Cheat Changelog: Read Patch Support Correctly",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-030-deadlock-cheat-changelog-patch-support.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-030-deadlock-cheat-changelog-patch-support.json"
+    },
+    {
+      "topic_id": "031",
+      "title": "Deadlock Parry Window: Timing and Feints Explained",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-031-deadlock-parry-window-timing-feints.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-031-deadlock-parry-window-timing-feints.json"
+    },
+    {
+      "topic_id": "032",
+      "title": "Deadlock Auto-Parry Limits and Bad States",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-032-deadlock-auto-parry-limits.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-032-deadlock-auto-parry-limits.json"
+    },
+    {
+      "topic_id": "033",
+      "title": "Deadlock Auto-Parry Review: Better Evidence",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-033-deadlock-auto-parry-review-evidence.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-033-deadlock-auto-parry-review-evidence.json"
+    },
+    {
+      "topic_id": "034",
+      "title": "Deadlock Cheat Download Verification Checklist",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-034-deadlock-cheat-download-verification.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-034-deadlock-cheat-download-verification.json"
+    },
+    {
+      "topic_id": "035",
+      "title": "Deadlock Cheat Support Ticket: What to Include",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-035-deadlock-cheat-support-ticket.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-035-deadlock-cheat-support-ticket.json"
+    },
+    {
+      "topic_id": "036",
+      "title": "Outdated Deadlock Cheat Guide: Five Warning Signs",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-036-outdated-deadlock-cheat-guide-signals.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-036-outdated-deadlock-cheat-guide-signals.json"
+    },
+    {
+      "topic_id": "037",
+      "title": "Undetected Deadlock Cheat Claims Need Dates",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-037-undetected-deadlock-cheat-claim-date-scope.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-037-undetected-deadlock-cheat-claim-date-scope.json"
+    },
+    {
+      "topic_id": "038",
+      "title": "Deadlock Risk Layers: VAC, Reports, and Updates",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-038-deadlock-vac-reports-updates-risk-layers.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-038-deadlock-vac-reports-updates-risk-layers.json"
+    },
+    {
+      "topic_id": "039",
+      "title": "Deadlock Ban Stories: Weigh the Evidence",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-039-deadlock-ban-stories-evidence.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-039-deadlock-ban-stories-evidence.json"
+    },
+    {
+      "topic_id": "040",
+      "title": "Deadlock Cheat Comparison Beyond Aimbot",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-040-deadlock-cheat-comparison-beyond-aimbot.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-040-deadlock-cheat-comparison-beyond-aimbot.json"
+    },
+    {
+      "topic_id": "041",
+      "title": "Deadlock Hero Coverage: Depth vs Menu Length",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-041-deadlock-hero-coverage-depth.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-041-deadlock-hero-coverage-depth.json"
+    },
+    {
+      "topic_id": "042",
+      "title": "Deadlock Cheat Trial: A Practical Checklist",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-042-deadlock-cheat-trial-checklist.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\CG-042-deadlock-cheat-trial-checklist.json"
+    }
+  ]
+}

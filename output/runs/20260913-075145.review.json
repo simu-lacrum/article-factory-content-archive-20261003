@@ -1,0 +1,90 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260913-075145.json",
+  "total": 10,
+  "pass": 10,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\01-cheat-menu-ux-defaults-undo-and-clarity.md",
+      "status": "pass",
+      "word_count": 839,
+      "h2_count": 6,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\02-cs2-cheat-toggles-and-cognitive-load.md",
+      "status": "pass",
+      "word_count": 819,
+      "h2_count": 6,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\03-deadlock-cheat-hero-coverage-breadth-vs-depth.md",
+      "status": "pass",
+      "word_count": 821,
+      "h2_count": 6,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\04-how-to-judge-a-game-cheat-guide.md",
+      "status": "pass",
+      "word_count": 748,
+      "h2_count": 6,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\05-what-free-cs2-cheat-searchers-really-want.md",
+      "status": "pass",
+      "word_count": 761,
+      "h2_count": 6,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\06-deadlock-auto-parry-demos-what-they-miss.md",
+      "status": "pass",
+      "word_count": 756,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\07-why-cs2-cheat-rankings-age-so-fast.md",
+      "status": "pass",
+      "word_count": 758,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\08-legit-cs2-cheat-is-not-a-safety-standard.md",
+      "status": "pass",
+      "word_count": 683,
+      "h2_count": 6,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\09-deadlock-cheat-shortlists-by-player-problem.md",
+      "status": "pass",
+      "word_count": 740,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260913-075145\\10-why-cs2-cheat-install-guides-go-stale.md",
+      "status": "pass",
+      "word_count": 773,
+      "h2_count": 7,
+      "evidence_sources": 10,
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "created_at": "20260623-124157",
+  "spec": {
+    "raw": "Exact topic: Deadlock Cheats VAC Protection and Safety: Why cheats are safe. Write one English Deadlock article about VAC protection, cheat safety claims, and risk-aware evaluation. Do not select an ESP, aimbot, feature glossary, FOV, or auto-parry article. Do not include operational bypass, evasion, exploit, or implementation instructions. Product mapping: Deadlock -> cluster.center. Use only local evidence and mark uncertainty.",
+    "count": 1,
+    "language": "en",
+    "game": "deadlock",
+    "style": "Medium-style, direct, practical, conversational, gamer-aware, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 17,
+      "title": "Deadlock Cheat Safety and VAC Protection Explained",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260623-124157\\01-deadlock-cheat-safety-vac-protection.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260623-124157\\01-deadlock-esp-explained-boxes-glow-and-hero-info.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260623-124157\\01-deadlock-esp-explained-boxes-glow-and-hero-info.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260623-124157\\01-deadlock-esp-explained-boxes-glow-and-hero-info.md"
+    }
+  ]
+}

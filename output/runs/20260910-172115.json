@@ -1,0 +1,88 @@
+{
+  "created_at": "20260910-172115",
+  "spec": {
+    "raw": "Create six completely unique English T2 SEO articles for six separate off-site publications. Every article must provide standalone value, use a distinct search intent, include exactly one contextual link to https://cheatsgaming.com/shop/dota-2/melonity-dota2-cheat with diversified natural anchors (Melonity; Melonity Dota 2; buy Melonity for Dota 2; Melonity Dota 2 buy page; Dota 2 Melonity cheat; Melonity Dota 2 product), and reuse two factual images from the supplied target page. Topics must stay high-level, educational, evidence-aware and non-operational. Do not modify or duplicate any existing article.",
+    "count": 6,
+    "language": "en",
+    "game": "dota2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1,
+      "title": "How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-172115\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-172115\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-172115\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260910-172115\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md"
+    },
+    {
+      "topic_id": 4,
+      "title": "Dota 2 Skin Changer in 2026: Free Tools, Ban Risks and Premium Alternatives",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-172115\\02-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-172115\\02-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-172115\\02-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260910-172115\\02-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md"
+    },
+    {
+      "topic_id": 11,
+      "title": "Dota 2 Couriers: Best Unusual Couriers, Courier Value and Why Courier Info Wins Games",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-172115\\03-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-172115\\03-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-172115\\03-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260910-172115\\03-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md"
+    },
+    {
+      "topic_id": 12,
+      "title": "Dota 2 Boosting vs Using a Cheat Tool: Account Risk, Cost and Control",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-172115\\04-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-172115\\04-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-172115\\04-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260910-172115\\04-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md"
+    },
+    {
+      "topic_id": 10,
+      "title": "Random Dota 2 Hero and Build Challenge: How to Make Any Pick Playable",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-172115\\05-random-dota-2-hero-and-build-challenge-how-to-make-any-pick-playable.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-172115\\05-random-dota-2-hero-and-build-challenge-how-to-make-any-pick-playable.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-172115\\05-random-dota-2-hero-and-build-challenge-how-to-make-any-pick-playable.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260910-172115\\05-random-dota-2-hero-and-build-challenge-how-to-make-any-pick-playable.md"
+    },
+    {
+      "topic_id": 8,
+      "title": "Best Dota 2 Autoexec.cfg and FPS Settings: Max FPS, Ping, Config Transfer and Stable Gameplay",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-172115\\06-best-dota-2-autoexeccfg-and-fps-settings-max-fps-ping-config-transfer-and-stable-gameplay.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-172115\\06-best-dota-2-autoexeccfg-and-fps-settings-max-fps-ping-config-transfer-and-stable-gameplay.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-172115\\06-best-dota-2-autoexeccfg-and-fps-settings-max-fps-ping-config-transfer-and-stable-gameplay.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260910-172115\\06-best-dota-2-autoexeccfg-and-fps-settings-max-fps-ping-config-transfer-and-stable-gameplay.md"
+    }
+  ]
+}

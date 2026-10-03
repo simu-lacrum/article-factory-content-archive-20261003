@@ -1,0 +1,61 @@
+{
+  "publication": "https://clustercheats.substack.com/",
+  "prepared_at": "2026-09-09",
+  "status": "waiting_for_publish_confirmation",
+  "delivery_planned": "web_only",
+  "email_send_planned": false,
+  "reload_audit": {
+    "status": "passed",
+    "checked_after_reopen": true,
+    "all_titles_match": true,
+    "all_subtitles_match": true,
+    "all_exact_target_links_match": true,
+    "all_media_present": true,
+    "deadlock_gif_present": true
+  },
+  "published_count_before": 19,
+  "draft_count_after": 19,
+  "new_drafts": [
+    {
+      "title": "Приватные читы: 7 проверок до покупки",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214902567",
+      "target_url": "https://cluster.center/ru",
+      "anchor": "приватные читы для многопользовательских игр",
+      "target_link_count": 1,
+      "media_count": 1
+    },
+    {
+      "title": "How to Audit a Private Cheat Store Before You Pay",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214903350",
+      "target_url": "https://cluster.center/en",
+      "anchor": "private cheats for multiplayer games",
+      "target_link_count": 1,
+      "media_count": 1
+    },
+    {
+      "title": "Приватный чит для CS2: как читать страницу продукта",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214903383",
+      "target_url": "https://cluster.center/ru/cs2",
+      "anchor": "приватный чит для CS2",
+      "target_link_count": 1,
+      "media_count": 1
+    },
+    {
+      "title": "Чит для Deadlock после патча: что проверять",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214903414",
+      "target_url": "https://cluster.center/ru/deadlock",
+      "anchor": "чит для Deadlock",
+      "target_link_count": 1,
+      "media_count": 2,
+      "includes_gif": true
+    },
+    {
+      "title": "Private CS2 Cheats: Read Features Without the Hype",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214903446",
+      "target_url": "https://cluster.center/en/cs2",
+      "anchor": "private CS2 cheats",
+      "target_link_count": 1,
+      "media_count": 1
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "created_at": "20260721-101252",
+  "spec": {
+    "raw": "Nine exact Tier-2 articles from the user-provided brief",
+    "count": 9,
+    "language": "all",
+    "game": "all",
+    "style": "Medium-style, direct, practical, conversational, gamer-aware, no filler",
+    "volume": "620-720 words",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": "brief-01",
+      "title": "How to Compare CS2 Cheat Software Before Choosing a Platform",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\01-how-to-compare-cs2-cheats.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\01-how-to-compare-cs2-cheats.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\01-how-to-compare-cs2-cheats.json"
+    },
+    {
+      "topic_id": "brief-02",
+      "title": "Dota 2 Scripts by Use Case: Combos, Vision, and Utility",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\02-dota-2-script-types-by-use-case.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\02-dota-2-script-types-by-use-case.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\02-dota-2-script-types-by-use-case.json"
+    },
+    {
+      "topic_id": "brief-03",
+      "title": "How to Evaluate a Dota 2 Cheat Platform Before Choosing",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\03-evaluate-dota-2-cheat-platform.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\03-evaluate-dota-2-cheat-platform.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\03-evaluate-dota-2-cheat-platform.json"
+    },
+    {
+      "topic_id": "brief-04",
+      "title": "Before Installing a Dota 2 Cheat: A Practical Checklist",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\04-dota-2-cheat-installation-checklist.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\04-dota-2-cheat-installation-checklist.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\04-dota-2-cheat-installation-checklist.json"
+    },
+    {
+      "topic_id": "brief-05",
+      "title": "Внешний или внутренний чит для CS2: как выбрать правильно",
+      "game": "cs2",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\05-vneshnii-ili-vnutrennii-chit-dlya-cs2.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\05-vneshnii-ili-vnutrennii-chit-dlya-cs2.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\05-vneshnii-ili-vnutrennii-chit-dlya-cs2.json"
+    },
+    {
+      "topic_id": "brief-06",
+      "title": "Какие функции чита для Deadlock действительно важны игроку",
+      "game": "deadlock",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\06-funkcii-chita-dlya-deadlock.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\06-funkcii-chita-dlya-deadlock.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\06-funkcii-chita-dlya-deadlock.json"
+    },
+    {
+      "topic_id": "brief-07",
+      "title": "CS2 Cheat Setup Checklist: What to Verify Before Launch",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\07-cs2-cheat-setup-checklist.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\07-cs2-cheat-setup-checklist.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\07-cs2-cheat-setup-checklist.json"
+    },
+    {
+      "topic_id": "brief-08",
+      "title": "What Defines a Leading Dota 2 Software Ecosystem for Gamers?",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\08-dota-2-software-ecosystem.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\08-dota-2-software-ecosystem.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\08-dota-2-software-ecosystem.json"
+    },
+    {
+      "topic_id": "brief-09",
+      "title": "What Separates a CS2 Cheat Product From a Full Platform?",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260721-101252\\09-cs2-product-vs-platform.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260721-101252\\09-cs2-product-vs-platform.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260721-101252\\09-cs2-product-vs-platform.json"
+    }
+  ]
+}

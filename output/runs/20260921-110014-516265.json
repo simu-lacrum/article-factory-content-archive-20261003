@@ -1,0 +1,28 @@
+{
+  "created_at": "20260921-110014-516265",
+  "spec": {
+    "raw": "Update the existing CheatsGaming.com Deadlock auto parry cheat article around the actual query deadlock auto parry cheat. Use deadlock-auto-parry research and answer is there a parry cheat in Deadlock. Explain manual parry versus advertised automation, avoiding another URL or a generic software ranking. English, HTML and markdown; title at most 60 characters, meta description exactly 160 characters without final period. Practical examples, no invented timing numbers or product tests.",
+    "count": 1,
+    "language": "en",
+    "game": "deadlock",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1417,
+      "title": "Is there a parry cheat in Deadlock? What auto-parry claims mean",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-110014-516265\\01-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260921-110014-516265\\01-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260921-110014-516265\\01-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260921-110014-516265\\01-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md"
+    }
+  ]
+}

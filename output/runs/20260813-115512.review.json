@@ -1,0 +1,98 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260813-115512.json",
+  "total": 11,
+  "pass": 11,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\01-dota-2-map-awareness-roshan-teleports-wards.md",
+      "status": "pass",
+      "word_count": 1516,
+      "h2_count": 9,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\02-cluster-cs2-vs-deadlock-products.md",
+      "status": "pass",
+      "word_count": 1159,
+      "h2_count": 8,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\03-foxhole-logistics-tools-minimap-alerts-artillery.md",
+      "status": "pass",
+      "word_count": 1375,
+      "h2_count": 10,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\04-what-cs2-cheat-features-do.md",
+      "status": "pass",
+      "word_count": 1434,
+      "h2_count": 10,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\05-dota-2-ahk-scripts-hero-macros.md",
+      "status": "pass",
+      "word_count": 1346,
+      "h2_count": 8,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\06-legit-semirage-rage-cs2-terms.md",
+      "status": "pass",
+      "word_count": 982,
+      "h2_count": 7,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\07-external-vs-internal-cs2-cheats.md",
+      "status": "pass",
+      "word_count": 1153,
+      "h2_count": 8,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\08-cs2-cheat-download-mirrors-red-flags.md",
+      "status": "pass",
+      "word_count": 1194,
+      "h2_count": 8,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\09-dota-2-cheat-not-working-after-update.md",
+      "status": "pass",
+      "word_count": 1267,
+      "h2_count": 9,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\10-deadlock-cheat-features-aimbot-esp-fov-movement.md",
+      "status": "pass",
+      "word_count": 1323,
+      "h2_count": 9,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260813-115512\\11-deadlock-esp-boxes-glow-hero-information.md",
+      "status": "pass",
+      "word_count": 1477,
+      "h2_count": 10,
+      "evidence_sources": 3,
+      "findings": []
+    }
+  ]
+}

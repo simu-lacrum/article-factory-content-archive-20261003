@@ -1,0 +1,40 @@
+{
+  "created_at": "20261002-155646-429091",
+  "spec": {
+    "raw": "Prepare two distinct English SEO articles for Dota 2. First: Dota 2 cheats: evaluate private product pages by feature scope, hero coverage, update notes and evidence, without setup or evasion instructions; map Melonity natively. Second: Skinchanger Dota 2 and CS2: explain cosmetic previews, visibility, inventory ownership and source quality, with MetaSkins as contextual cosmetic reference. Avoid existing generic 2026 and preview/inventory duplicates; include fresh checklists, LSI, FAQs and real image placement guidance.",
+    "count": 2,
+    "language": "en",
+    "game": "dota2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1253,
+      "title": "Melonity, Umbrella and Octarine: compare documented features",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-155646-429091\\01-melonity-umbrella-and-octarine-compare-documented-features.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20261002-155646-429091\\01-melonity-umbrella-and-octarine-compare-documented-features.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20261002-155646-429091\\01-melonity-umbrella-and-octarine-compare-documented-features.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20261002-155646-429091\\01-melonity-umbrella-and-octarine-compare-documented-features.md"
+    },
+    {
+      "topic_id": 1249,
+      "title": "Dota 2 scripts, macros and bots are different things",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20261002-155646-429091\\02-dota-2-scripts-macros-and-bots-are-different-things.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20261002-155646-429091\\02-dota-2-scripts-macros-and-bots-are-different-things.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20261002-155646-429091\\02-dota-2-scripts-macros-and-bots-are-different-things.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20261002-155646-429091\\02-dota-2-scripts-macros-and-bots-are-different-things.md"
+    }
+  ]
+}

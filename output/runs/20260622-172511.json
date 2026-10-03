@@ -1,0 +1,27 @@
+{
+  "created_at": "20260622-172511",
+  "spec": {
+    "raw": "Сгенерируй 1 SEO статью объемом 1800-2400 words, в экспертном живом стиле, с нативной интеграцией Melonity",
+    "count": 1,
+    "language": "en",
+    "game": "dota2",
+    "style": "expert, clear, human, useful, SEO-aware",
+    "volume": "2400 words",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1,
+      "title": "How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery",
+      "game": "dota2",
+      "language": "en",
+      "status": "brief",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260622-172511\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-172511\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-172511\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.json",
+      "llm_error": null
+    }
+  ]
+}

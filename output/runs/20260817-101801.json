@@ -1,0 +1,59 @@
+{
+  "created_at": "20260817-101801",
+  "spec": {
+    "raw": "Four standalone Melonity T2 articles from the user editorial brief; exact H1, slug, keywords, target, structure, word range and eight preserved image prompts; no image generation.",
+    "count": 4,
+    "language": "all",
+    "game": "all",
+    "style": "direct, practical, conversational, expert, no filler",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": "T2-01",
+      "title": "Deadlock Auto-Dispel Logic: Why Fast Reactions Still Fail",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801\\01-deadlock-auto-dispel-logic-fast-reactions-fail.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\026b06f4-7210-4cec-a156-06fb1a615e94\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260817-101801\\01-deadlock-auto-dispel-logic-fast-reactions-fail.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": "T2-02",
+      "title": "Dota 2 Courier Information: The Delivery That Reveals the Next Fight",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801\\02-dota-2-courier-information-next-fight.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\026b06f4-7210-4cec-a156-06fb1a615e94\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260817-101801\\02-dota-2-courier-information-next-fight.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": "T2-03",
+      "title": "Телепорт в Dota 2: как одно перемещение меняет три линии",
+      "game": "dota2",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801\\03-teleport-v-dota-2-kak-menyaetsya-karta.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\026b06f4-7210-4cec-a156-06fb1a615e94\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260817-101801\\03-teleport-v-dota-2-kak-menyaetsya-karta.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": "T2-04",
+      "title": "Души в Deadlock: как проигрывают линию между добиванием и подтверждением",
+      "game": "deadlock",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801\\04-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\026b06f4-7210-4cec-a156-06fb1a615e94\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260817-101801\\04-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya.json",
+      "llm_error": null
+    }
+  ]
+}

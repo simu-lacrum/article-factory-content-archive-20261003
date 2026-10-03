@@ -1,0 +1,64 @@
+{
+  "created_at": "20260926-065204-882684",
+  "spec": {
+    "raw": "Write four separate English editorial comparison articles for deadlockhacks.com: Cluster vs Predator Systems, Cluster vs Umbrella, Cluster vs Octarine (the user's Ocratine typo means Octarine), and Cluster vs Melonity. Each page must have a distinct reader job, evidence-led comparison of current public product pages, dated freshness/support/price caveats, real screenshot placement notes, and a clear disclosed commercial preference for Cluster. Use the user's attached Predator screenshots and four short Predator videos as observed demo evidence only. Do not claim private testing, ban safety, undetected status, or current compatibility unless sourced. The articles should follow the direct practical style of the supplied Dota2Cheat comparison example, answer the query immediately, use lists instead of tables, and end with FAQs. Keep all feature descriptions high-level and omit anti-cheat bypass or setup instructions.",
+    "count": 4,
+    "language": "en",
+    "game": "deadlock",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1257,
+      "title": "Deadlock cheat comparisons: start with the feature you need to understand",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-065204-882684\\01-deadlock-cheat-comparisons-start-with-the-feature-you-need-to-understand.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-065204-882684\\01-deadlock-cheat-comparisons-start-with-the-feature-you-need-to-understand.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-065204-882684\\01-deadlock-cheat-comparisons-start-with-the-feature-you-need-to-understand.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260926-065204-882684\\01-deadlock-cheat-comparisons-start-with-the-feature-you-need-to-understand.md"
+    },
+    {
+      "topic_id": 1256,
+      "title": "Deadlock soul aimbot, soul triggerbot and soul ESP: what changes?",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-065204-882684\\02-cluster-vs-umbrella-deadlock.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-065204-882684\\02-deadlock-soul-aimbot-soul-triggerbot-and-soul-esp-what-changes.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-065204-882684\\02-deadlock-soul-aimbot-soul-triggerbot-and-soul-esp-what-changes.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260926-065204-882684\\02-deadlock-soul-aimbot-soul-triggerbot-and-soul-esp-what-changes.md"
+    },
+    {
+      "topic_id": 1255,
+      "title": "Is there a parry cheat in Deadlock? What auto-parry claims mean",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-065204-882684\\03-cluster-vs-octarine-deadlock.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-065204-882684\\03-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-065204-882684\\03-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260926-065204-882684\\03-is-there-a-parry-cheat-in-deadlock-what-auto-parry-claims-mean.md"
+    },
+    {
+      "topic_id": 1258,
+      "title": "Deadlock sandbox commands: a task-based reference",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-065204-882684\\04-cluster-vs-melonity-deadlock.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260926-065204-882684\\04-deadlock-sandbox-commands-a-task-based-reference.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260926-065204-882684\\04-deadlock-sandbox-commands-a-task-based-reference.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260926-065204-882684\\04-deadlock-sandbox-commands-a-task-based-reference.md"
+    }
+  ]
+}

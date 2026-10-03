@@ -1,0 +1,42 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260908-181728.json",
+  "total": 4,
+  "pass": 4,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181728\\cluster-vs-octarine-deadlock-product-models.md",
+      "status": "pass",
+      "word_count": 2329,
+      "h2_count": 8,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181728\\cluster-vs-umbrella-deadlock-setup-or-scripts.md",
+      "status": "pass",
+      "word_count": 2074,
+      "h2_count": 8,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181728\\cluster-vs-predator-deadlock-public-proof.md",
+      "status": "pass",
+      "word_count": 1852,
+      "h2_count": 8,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181728\\deadlock-cheat-providers-patch-evidence.md",
+      "status": "pass",
+      "word_count": 2574,
+      "h2_count": 9,
+      "evidence_sources": 7,
+      "findings": []
+    }
+  ]
+}

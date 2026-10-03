@@ -1,0 +1,1118 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\CHEATSGAMING-T2-57-20260908-DEADLOCK.json",
+  "total": 42,
+  "pass": 0,
+  "needs_review": 0,
+  "fail": 42,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-001-game-cheat-shop-vs-review-site.md",
+      "status": "fail",
+      "word_count": 1879,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: game cheat shop\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-002-game-cheat-status-page-labels.md",
+      "status": "fail",
+      "word_count": 1787,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: game cheat status page\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-003-multi-game-cheat-subscription-decision.md",
+      "status": "fail",
+      "word_count": 1785,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: multi-game cheat subscription\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-004-cs2-cheat-research-order.md",
+      "status": "fail",
+      "word_count": 1726,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat research\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-005-cs2-cheat-categories-by-question.md",
+      "status": "fail",
+      "word_count": 1706,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat categories\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-006-cs2-cheat-shortlist-review-noise.md",
+      "status": "fail",
+      "word_count": 1699,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat shortlist\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-007-free-cs2-cheat-vs-trial-vs-crack.md",
+      "status": "fail",
+      "word_count": 1764,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: free CS2 cheat\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-008-cost-of-free-cs2-cheats.md",
+      "status": "fail",
+      "word_count": 1769,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: cost of free CS2 cheats\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-009-free-cs2-cheat-landing-page-audit.md",
+      "status": "fail",
+      "word_count": 1779,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: free CS2 cheat landing page\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-010-legit-vs-semi-rage-vs-rage-cs2.md",
+      "status": "fail",
+      "word_count": 1716,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: legit vs semi-rage vs rage\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-011-legit-cs2-cheat-safety-claims.md",
+      "status": "fail",
+      "word_count": 1694,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: legit CS2 cheat safety\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-012-cs2-legit-cheat-review-questions.md",
+      "status": "fail",
+      "word_count": 1667,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 legit cheat review\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-013-external-cs2-cheat-review-tests.md",
+      "status": "fail",
+      "word_count": 1678,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: external CS2 cheat review\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-014-external-cs2-cheat-compatibility.md",
+      "status": "fail",
+      "word_count": 1648,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: external CS2 cheat compatibility\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-015-external-cs2-cheat-update-status.md",
+      "status": "fail",
+      "word_count": 1664,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: external CS2 cheat update\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-016-cs2-aimbot-not-working-symptom-check.md",
+      "status": "fail",
+      "word_count": 1656,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 aimbot not working\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-017-cs2-esp-first-launch-vocabulary.md",
+      "status": "fail",
+      "word_count": 1681,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 ESP first launch\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-018-cs2-cheat-support-ticket-evidence.md",
+      "status": "fail",
+      "word_count": 1669,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat support ticket\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-019-cs2-cheat-download-verification.md",
+      "status": "fail",
+      "word_count": 1695,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat download verification\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-020-cs2-cheat-launch-problems-random-fixes.md",
+      "status": "fail",
+      "word_count": 1637,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat launch problems\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-021-cs2-cheat-update-loop-diagnosis.md",
+      "status": "fail",
+      "word_count": 1683,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat update loop\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-022-best-cs2-cheat-for-playstyle.md",
+      "status": "fail",
+      "word_count": 1707,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: best CS2 cheat for your playstyle\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-023-cs2-cheat-trial-30-minute-evaluation.md",
+      "status": "fail",
+      "word_count": 1653,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat trial\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-024-cs2-cheat-subscription-workflow.md",
+      "status": "fail",
+      "word_count": 1599,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 cheat subscription\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-025-cs2-skin-changer-screenshot-proof.md",
+      "status": "fail",
+      "word_count": 1677,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 skin changer screenshot\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-026-cs2-skin-changer-preview-mismatch.md",
+      "status": "fail",
+      "word_count": 1641,
+      "h2_count": 12,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 skin changer preview\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-HOME-CS2\\md\\CG-027-cs2-skin-changer-checklist.md",
+      "status": "fail",
+      "word_count": 1695,
+      "h2_count": 13,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 is missing Style branch A/B1/B2/B3",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from a related explainer using a natural variant of: CS2 skin changer checklist\n- Link to the relevant CheatsGaming hub using the user's question, not an exact-match commercial anchor\n- Add one adjacent troubleshooting or evidence-quality article after it is live\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-028-deadlock-cheat-research-map.md",
+      "status": "fail",
+      "word_count": 1786,
+      "h2_count": 10,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from the Deadlock hub with the anchor: research Deadlock features by job\n- Link to the Auto-Parry timing explainer from the movement section\n- Link to the hero coverage depth article from the hero-automation section\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-029-deadlock-hero-assistants-vs-global-utilities.md",
+      "status": "fail",
+      "word_count": 1829,
+      "h2_count": 10,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from the Deadlock research map using: hero-specific depth versus global utility breadth\n- Link to the hero coverage depth article using: measure scenarios, not roster names\n- Link to the Deadlock changelog article from the maintenance section\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-030-deadlock-cheat-changelog-patch-support.md",
+      "status": "fail",
+      "word_count": 1635,
+      "h2_count": 10,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from the Deadlock research map using: verify feature support after updates\n- Link to the outdated-guide article using: recognize stale documentation\n- Link to the support-ticket article using: report one repeatable regression\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-031-deadlock-parry-window-timing-feints.md",
+      "status": "fail",
+      "word_count": 1574,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 branch B is missing the 4/5 reference-fidelity target",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link to CG-032 using: states with no valid parry answer\n- Link to CG-033 using: review Auto-Parry evidence\n- Link from the Deadlock research map using: where Auto-Parry fits\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-032-deadlock-auto-parry-limits.md",
+      "status": "fail",
+      "word_count": 1397,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from CG-031 using: no-win parry states\n- Link to CG-033 using: evidence beyond highlight clips\n- Link to CG-038 using: separate game-state failure from enforcement claims\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-033-deadlock-auto-parry-review-evidence.md",
+      "status": "fail",
+      "word_count": 1472,
+      "h2_count": 10,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 branch B is missing the 4/5 reference-fidelity target",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from CG-031 using: what a useful demonstration should show\n- Link from CG-032 using: disclose failure states\n- Link to CG-037 using: audit time-bound status claims\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-034-deadlock-cheat-download-verification.md",
+      "status": "fail",
+      "word_count": 1338,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link to CG-036 using: five signs a guide is stale\n- Link to CG-035 using: send a privacy-safe support ticket\n- Link from CG-030 using: archive a dated product route\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-035-deadlock-cheat-support-ticket.md",
+      "status": "fail",
+      "word_count": 1379,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 branch B is missing the 4/5 reference-fidelity target",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from CG-034 using: contact verified support safely\n- Link from CG-036 using: report a stale or broken route\n- Link from CG-030 using: report one repeatable regression\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-036-outdated-deadlock-cheat-guide-signals.md",
+      "status": "fail",
+      "word_count": 1304,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from CG-034 using: recognize a stale route\n- Link to CG-035 using: report conflicting requirements\n- Link from CG-030 using: why update notes need dates\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-037-undetected-deadlock-cheat-claim-date-scope.md",
+      "status": "fail",
+      "word_count": 1253,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 branch B is missing the 4/5 reference-fidelity target",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link to CG-038 using: separate Deadlock risk layers\n- Link to CG-039 using: why anecdotes need context\n- Link from CG-030 using: every status claim needs a clock\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-038-deadlock-vac-reports-updates-risk-layers.md",
+      "status": "fail",
+      "word_count": 1319,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from CG-037 using: four distinct risk layers\n- Link to CG-039 using: evaluate anecdotal ban stories\n- Link from CG-030 using: separate update failure from enforcement\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-039-deadlock-ban-stories-evidence.md",
+      "status": "fail",
+      "word_count": 1339,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 branch B is missing the 4/5 reference-fidelity target",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from CG-037 using: absence of reports is not proof\n- Link from CG-038 using: reports are a separate evidence layer\n- Link to CG-030 using: align stories with update dates\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-040-deadlock-cheat-comparison-beyond-aimbot.md",
+      "status": "fail",
+      "word_count": 1219,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link to CG-041 using: measure hero coverage depth\n- Link to CG-042 using: test a shortlist consistently\n- Link from CG-029 using: compare depth with breadth\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-041-deadlock-hero-coverage-depth.md",
+      "status": "fail",
+      "word_count": 1288,
+      "h2_count": 9,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 branch B is missing the 4/5 reference-fidelity target",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from CG-040 using: judge hero coverage depth\n- Link from CG-029 using: depth versus global breadth\n- Link to CG-042 using: test one representative hero\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\packages\\CHEATSGAMING-T2-57-20260908-DEADLOCK\\md\\CG-042-deadlock-cheat-trial-checklist.md",
+      "status": "fail",
+      "word_count": 1348,
+      "h2_count": 10,
+      "evidence_sources": 0,
+      "findings": [
+        {
+          "severity": "error",
+          "message": "IMAGE_SLOT_01 has no passing Prompt QA score (minimum 80)",
+          "excerpt": null
+        },
+        {
+          "severity": "error",
+          "message": "Placeholder text detected",
+          "excerpt": "<!-- INTERNAL_LINK_SUGGESTIONS\n- Link from CG-040 using: test every shortlist consistently\n- Link from CG-041 using: choose one representative hero\n- Link to CG-037 using: why a trial cannot prove safety\n-->"
+        },
+        {
+          "severity": "warning",
+          "message": "No evidence pack found for this article",
+          "excerpt": null
+        }
+      ]
+    }
+  ]
+}

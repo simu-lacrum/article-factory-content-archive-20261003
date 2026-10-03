@@ -1,0 +1,18 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260723-110750.json",
+  "total": 1,
+  "pass": 1,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260723-110750\\01-kak-rabotaet-vac-live-v-dota-2-seichas.md",
+      "status": "pass",
+      "word_count": 972,
+      "h2_count": 7,
+      "evidence_sources": 12,
+      "findings": []
+    }
+  ]
+}

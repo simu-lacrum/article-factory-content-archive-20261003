@@ -1,0 +1,60 @@
+{
+  "created_at": "20260908-181031",
+  "visual_sequence_start": 1,
+  "spec": {
+    "raw": "Four English CS2 competitor-comparison articles CM-001 through CM-004 from the supplied editorial brief.",
+    "count": 4,
+    "language": "en",
+    "game": "cs2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": "CM-001",
+      "title": "Cluster vs Undetek for CS2: Free Tool or Paid Support?",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181031\\01-cluster-vs-undetek-free-tool-or-paid-support.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260908-181031\\01-cluster-vs-undetek-free-tool-or-paid-support.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260908-181031\\01-cluster-vs-undetek-free-tool-or-paid-support.json",
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260908-181031\\01-cluster-vs-undetek-free-tool-or-paid-support.md"
+    },
+    {
+      "topic_id": "CM-002",
+      "title": "Cluster vs Octarine CS2: Focused Product or Game Bundle?",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181031\\02-cluster-vs-octarine-cs2-product-or-game-bundle.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260908-181031\\02-cluster-vs-octarine-cs2-product-or-game-bundle.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260908-181031\\02-cluster-vs-octarine-cs2-product-or-game-bundle.json",
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260908-181031\\02-cluster-vs-octarine-cs2-product-or-game-bundle.md"
+    },
+    {
+      "topic_id": "CM-003",
+      "title": "Undetek Alternatives for CS2 Players Who Want Support",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181031\\03-undetek-alternatives-cs2-support-updates.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260908-181031\\03-undetek-alternatives-cs2-support-updates.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260908-181031\\03-undetek-alternatives-cs2-support-updates.json",
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260908-181031\\03-undetek-alternatives-cs2-support-updates.md"
+    },
+    {
+      "topic_id": "CM-004",
+      "title": "Phantom Overlay Alternatives After Its CS2 Closure",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260908-181031\\04-phantom-overlay-alternatives-after-cs2-closure.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260908-181031\\04-phantom-overlay-alternatives-after-cs2-closure.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260908-181031\\04-phantom-overlay-alternatives-after-cs2-closure.json",
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260908-181031\\04-phantom-overlay-alternatives-after-cs2-closure.md"
+    }
+  ]
+}

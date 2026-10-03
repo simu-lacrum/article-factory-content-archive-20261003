@@ -1,0 +1,31 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260927-115915-948133.json",
+  "total": 2,
+  "pass": 2,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260927-115915-948133\\01-dota-2-scripts-macros-and-bots-are-different-things.md",
+      "status": "pass",
+      "word_count": 834,
+      "h2_count": 6,
+      "evidence_sources": 8,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260927-115915-948133\\02-dota-2-cosmetic-changers-appearance-ownership-and-visibility.md",
+      "status": "pass",
+      "word_count": 730,
+      "h2_count": 6,
+      "evidence_sources": 4,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    }
+  ],
+  "editorial_review_required": true
+}

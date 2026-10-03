@@ -1,0 +1,15 @@
+{
+  "created_at": "20261002-155302-112605",
+  "spec": {
+    "raw": "Create 12 distinct SEO articles with images and exact search intent. Do not use Medium. Each article must have the primary key phrase in title, H1, description, and opening where natural, include relevant LSI, a practical checklist, a short FAQ, and 2 real image placement slots. No operational instructions for bypassing anti-cheat, evasion, exploitation, or cheat implementation. Use high-level, evidence-aware editorial framing. Prepare these exact article targets and languages: (1) Russian for MetaSkins root https://metaskins.gg/ with primary phrase скинченджер КС2, anchors скинченджер кс2 and скинченджер; (2) English for MetaSkins /en https://metaskins.gg/en with primary phrase skinchanger dota 2, anchors skinchanger dota 2 and skinchanger cs2; (3) Russian for cluster.center/ru/cs2 https://cluster.center/ru/cs2 with primary phrase читы кс2, anchors читы кс2 and приватный чит для кс2; (4) Russian for cluster.center/ru/deadlock https://cluster.center/ru/deadlock with primary phrase читы дедлок, anchors читы дедлок and приватный чит на дедлок; (5) Russian for cluster.center/ru https://cluster.center/ru with primary phrase читы для игр, anchors читы and читы для игр; (6) English for cluster.center/en/cs2 https://cluster.center/en/cs2 with primary phrase cheats for cs2, anchors cheats for cs2, cs2 hacks, private cheats cs2; (7) English for cluster.center/en/deadlock https://cluster.center/en/deadlock with primary phrase deadlock cheats, anchors deadlock cheats, deadlock hacks, private cheat for deadlock; (8) English for cluster.center/en https://cluster.center/en with primary phrase cheats for games, anchors cheats for games, cheats, hacks; (9) Russian for melonity.gg https://melonity.gg/ with primary phrase читы Dota 2, anchors читы для доты, читы дота 2, читы dota 2, чит на доту; (10) English for melonity.gg/en https://melonity.gg/en with primary phrase dota 2 cheats, anchors dota 2 cheats, dota 2 hack, cheats for dota 2, private dota 2 cheat; (11) English for melonity.gg/en/deadlock https://melonity.gg/en/deadlock with primary phrase cheats deadlock, anchor cheats deadlock; (12) Russian for melonity.gg/deadlock https://melonity.gg/deadlock with primary phrase читы на Дедлок, anchors читы на дедлок and чит deadlock. Map Dota 2 to Melonity and CS2/Deadlock to cluster.center; MetaSkins articles may discuss cosmetic terminology. Avoid direct duplicates of already published topics by choosing fresh angles such as evidence checklists, scope, terminology, update notes, and comparison criteria.",
+    "count": 12,
+    "language": "all",
+    "game": "multiplayer",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": []
+}

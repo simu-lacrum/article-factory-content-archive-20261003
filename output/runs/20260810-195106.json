@@ -1,0 +1,112 @@
+{
+  "created_at": "20260810-195106",
+  "spec": {
+    "raw": "Create 8 English SEO content briefs for Tier-2 supporting articles in CS2: 4 contextually linking to the Medium article Top 5 Legit Cheats for CS2 (5ac352f79364), and 4 linking to Top 5 External Cheats for CS2 (2cfd5e5de7a4). Use distinct adjacent search intents, avoid duplicate ranking/listicle/review angles, keep all restricted content high-level and educational, do not include anti-cheat bypass, evasion, injection, driver, memory-access, or numeric stealth-configuration instructions. Integrate cluster.center natively only through supported high-level claims. Include backlink anchor strategy and article visual briefs.",
+    "count": 8,
+    "language": "en",
+    "game": "cs2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 21,
+      "title": "CS2 Aimbot Settings Explained: FOV, Smooth and Hitboxes",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260810-195106\\01-cs2-aimbot-settings-explained-fov-smooth-and-hitboxes.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260810-195106\\01-cs2-aimbot-settings-explained-fov-smooth-and-hitboxes.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260810-195106\\01-cs2-aimbot-settings-explained-fov-smooth-and-hitboxes.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260810-195106\\01-cs2-aimbot-settings-explained-fov-smooth-and-hitboxes.md"
+    },
+    {
+      "topic_id": 23,
+      "title": "CS2 ESP Explained: Boxes, Chams, Skeleton and Status Icons",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260810-195106\\02-cs2-esp-explained-boxes-chams-skeleton-and-status-icons.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260810-195106\\02-cs2-esp-explained-boxes-chams-skeleton-and-status-icons.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260810-195106\\02-cs2-esp-explained-boxes-chams-skeleton-and-status-icons.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260810-195106\\02-cs2-esp-explained-boxes-chams-skeleton-and-status-icons.md"
+    },
+    {
+      "topic_id": 22,
+      "title": "CS2 TriggerBot Settings Explained",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260810-195106\\03-cs2-triggerbot-settings-explained.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260810-195106\\03-cs2-triggerbot-settings-explained.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260810-195106\\03-cs2-triggerbot-settings-explained.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260810-195106\\03-cs2-triggerbot-settings-explained.md"
+    },
+    {
+      "topic_id": 27,
+      "title": "CS2 Hack vs Assistive Tools: What Players Search For",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260810-195106\\04-cs2-hack-vs-assistive-tools-what-players-search-for.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260810-195106\\04-cs2-hack-vs-assistive-tools-what-players-search-for.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260810-195106\\04-cs2-hack-vs-assistive-tools-what-players-search-for.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260810-195106\\04-cs2-hack-vs-assistive-tools-what-players-search-for.md"
+    },
+    {
+      "topic_id": 25,
+      "title": "CS2 External Cheat Feature Glossary",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260810-195106\\05-cs2-external-cheat-feature-glossary.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260810-195106\\05-cs2-external-cheat-feature-glossary.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260810-195106\\05-cs2-external-cheat-feature-glossary.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260810-195106\\05-cs2-external-cheat-feature-glossary.md"
+    },
+    {
+      "topic_id": 24,
+      "title": "CS2 Bomb Timer, Spectator List and Keybinds Explained",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260810-195106\\06-cs2-bomb-timer-spectator-list-and-keybinds-explained.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260810-195106\\06-cs2-bomb-timer-spectator-list-and-keybinds-explained.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260810-195106\\06-cs2-bomb-timer-spectator-list-and-keybinds-explained.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260810-195106\\06-cs2-bomb-timer-spectator-list-and-keybinds-explained.md"
+    },
+    {
+      "topic_id": 26,
+      "title": "CS2 Cheat Features Explained",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260810-195106\\07-cs2-cheat-features-explained.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260810-195106\\07-cs2-cheat-features-explained.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260810-195106\\07-cs2-cheat-features-explained.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260810-195106\\07-cs2-cheat-features-explained.md"
+    },
+    {
+      "topic_id": 303,
+      "title": "CS2: Faceit Finder Cs2 Explained, Use Cases and Practical Tips",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260810-195106\\08-cs2-faceit-finder-cs2-explained-use-cases-and-practical-tips.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260810-195106\\08-cs2-faceit-finder-cs2-explained-use-cases-and-practical-tips.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260810-195106\\08-cs2-faceit-finder-cs2-explained-use-cases-and-practical-tips.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260810-195106\\08-cs2-faceit-finder-cs2-explained-use-cases-and-practical-tips.md"
+    }
+  ]
+}

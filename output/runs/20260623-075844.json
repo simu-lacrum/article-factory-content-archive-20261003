@@ -1,0 +1,28 @@
+{
+  "created_at": "20260623-075844",
+  "spec": {
+    "raw": "Topic: Dota 2 Skin Changer in 2026: Free Tools, Ban Risks and Premium Alternatives\nGame: dota2\nLanguage: en\nArticle count: 1\nTarget volume: 2000-2600 words\nAudience: Dota 2 players searching for skin changer tools, free GitHub tools, ban-risk answers, and a safer premium alternative comparison.\nRequired outline:\n- What a Dota 2 skin changer does\n- Why players search for free skin changers\n- Free GitHub/tools vs premium cheat-suite skin changer\n- What ban-risk questions users ask\n- How Melonity Skin Changer fits into a broader premium toolkit\n- Skins, landscapes, Dota Plus visuals and customization\n- Safe wording: no 100% ban-proof promises\n- CTA: try Melonity instead of random free tools\nSEO requirements: title <= 60 characters, description <= 160 characters containing primary keyword, H2/H3 structure, FAQ with 4-7 questions, 2-5 image placement notes, internal-link suggestions, native direct comparative Melonity block with a clearly visible link.\nAd integration: direct comparison. Emphasize that Melonity is not just a skin changer, but a full Dota 2 cheat suite with support, updates, and community.\nSafety/factual limits: use local memory/evidence only for factual claims; do not invent patch/meta/prices/ban waves/anti-cheat status/current product guarantees; do not provide bypass, evasion, exploit, download steps, implementation details, or 100% ban-proof claims.",
+    "count": 1,
+    "language": "en",
+    "game": "dota2",
+    "style": "expert, clear, human, useful, SEO-aware",
+    "volume": "2600 words",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1,
+      "title": "How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260623-075844\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260623-075844\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260623-075844\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260623-075844\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md"
+    }
+  ]
+}

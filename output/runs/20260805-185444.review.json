@@ -1,0 +1,34 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260805-185444.json",
+  "total": 3,
+  "pass": 3,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-185444\\01-aimbot-cs2-explained-fov-smooth-and-target-selection.md",
+      "status": "pass",
+      "word_count": 1270,
+      "h2_count": 7,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-185444\\02-wallhack-cs2-explained-esp-layers-without-screen-clutter.md",
+      "status": "pass",
+      "word_count": 1188,
+      "h2_count": 7,
+      "evidence_sources": 3,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-185444\\03-triggerbot-cs2-explained-shot-timing-vs-aim-assistance.md",
+      "status": "pass",
+      "word_count": 1278,
+      "h2_count": 7,
+      "evidence_sources": 3,
+      "findings": []
+    }
+  ]
+}

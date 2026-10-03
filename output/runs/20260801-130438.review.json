@@ -1,0 +1,90 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260801-130438.json",
+  "total": 10,
+  "pass": 10,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\01-external-vs-internal-cs2-tools-architecture.md",
+      "status": "pass",
+      "word_count": 2150,
+      "h2_count": 8,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\02-why-dota-2-automation-is-harder-than-it-looks.md",
+      "status": "pass",
+      "word_count": 2107,
+      "h2_count": 8,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\03-verify-cs2-tool-download-before-running.md",
+      "status": "pass",
+      "word_count": 1903,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\04-deadlock-aim-esp-design-technical-breakdown.md",
+      "status": "pass",
+      "word_count": 2124,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\05-kak-ustroen-esp-v-cs2-dannye-filtry-vizual.md",
+      "status": "pass",
+      "word_count": 1776,
+      "h2_count": 8,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\06-dota-2-tool-setup-safer-configuration-workflow.md",
+      "status": "pass",
+      "word_count": 1811,
+      "h2_count": 8,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\07-fov-sglazhivanie-kak-ustroen-aimbot-cs2.md",
+      "status": "pass",
+      "word_count": 1981,
+      "h2_count": 8,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\08-cs2-triggerbot-logic-timing-hitboxes-latency.md",
+      "status": "pass",
+      "word_count": 2067,
+      "h2_count": 8,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\09-how-multi-game-tools-separate-shared-game-logic.md",
+      "status": "pass",
+      "word_count": 1939,
+      "h2_count": 9,
+      "evidence_sources": 10,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260801-130438\\10-kak-chitat-katalog-igrovyh-instrumentov.md",
+      "status": "pass",
+      "word_count": 1821,
+      "h2_count": 8,
+      "evidence_sources": 10,
+      "findings": []
+    }
+  ]
+}

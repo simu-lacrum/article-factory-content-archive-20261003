@@ -1,0 +1,28 @@
+{
+  "created_at": "20260623-124127",
+  "spec": {
+    "raw": "Topic: Deadlock Cheats VAC Protection and Safety: Why cheats are safe. Game: deadlock. Language: en. Article count: 1. Style: direct, practical, conversational Medium-style. Keep the article educational and risk-aware; do not include operational bypass, evasion, exploit, or implementation instructions. Integrate cluster.center only with claims grounded in local memory.",
+    "count": 1,
+    "language": "en",
+    "game": "deadlock",
+    "style": "Medium-style, direct, practical, conversational, gamer-aware, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 17,
+      "title": "Deadlock ESP Explained: Boxes, Glow and Hero Info",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260623-124127\\01-deadlock-esp-explained-boxes-glow-and-hero-info.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260623-124127\\01-deadlock-esp-explained-boxes-glow-and-hero-info.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260623-124127\\01-deadlock-esp-explained-boxes-glow-and-hero-info.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260623-124127\\01-deadlock-esp-explained-boxes-glow-and-hero-info.md"
+    }
+  ]
+}

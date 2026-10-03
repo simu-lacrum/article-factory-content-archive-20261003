@@ -1,0 +1,106 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260910-082336.json",
+  "total": 12,
+  "pass": 12,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\01-cs2-cheat-research-order.md",
+      "status": "pass",
+      "word_count": 1574,
+      "h2_count": 13,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\02-deadlock-cheat-research-map.md",
+      "status": "pass",
+      "word_count": 1532,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\03-dota-2-cheat-categories.md",
+      "status": "pass",
+      "word_count": 2238,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\04-melonity-vs-umbrella-update-evidence.md",
+      "status": "pass",
+      "word_count": 2195,
+      "h2_count": 8,
+      "evidence_sources": 6,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\05-dota-2-cheat-trial-evaluation.md",
+      "status": "pass",
+      "word_count": 2278,
+      "h2_count": 8,
+      "evidence_sources": 6,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\06-deadlock-risk-layers.md",
+      "status": "pass",
+      "word_count": 1622,
+      "h2_count": 11,
+      "evidence_sources": 6,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\07-cs2-skin-changer-screenshot-proof.md",
+      "status": "pass",
+      "word_count": 1549,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\08-cs2-skin-changer-preview-mismatch.md",
+      "status": "pass",
+      "word_count": 1529,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\09-cost-of-free-cs2-cheats.md",
+      "status": "pass",
+      "word_count": 1602,
+      "h2_count": 13,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\10-legit-vs-semi-rage-vs-rage-cs2.md",
+      "status": "pass",
+      "word_count": 1573,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\11-deadlock-parry-window-timing-feints.md",
+      "status": "pass",
+      "word_count": 1563,
+      "h2_count": 9,
+      "evidence_sources": 5,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\12-deadlock-cheat-comparison-beyond-aimbot.md",
+      "status": "pass",
+      "word_count": 1600,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    }
+  ]
+}

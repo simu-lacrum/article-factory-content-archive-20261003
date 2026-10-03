@@ -1,0 +1,21 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260926-network-12x7.json",
+  "total": 1,
+  "pass": 1,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260926-network-12x7\\01-deadlock-cheats-what-a-hub-should-explain.md",
+      "status": "pass",
+      "word_count": 2027,
+      "h2_count": 7,
+      "evidence_sources": 2,
+      "findings": [],
+      "editorial_review_required": true,
+      "review_scope": "Automated formatting and risk indicators; not proof of accuracy, helpfulness or E-E-A-T"
+    }
+  ],
+  "editorial_review_required": true
+}

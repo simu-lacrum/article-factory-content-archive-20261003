@@ -1,0 +1,28 @@
+{
+  "created_at": "20260723-110750",
+  "spec": {
+    "raw": "Написать одну русскую SEO-статью 800–1000 слов с заголовком «Как работает VAC Live в Dota 2 сейчас: факты без мифов». Primary keyword: VAC Live Dota 2. Угол: объяснить в настоящем времени реальную многоуровневую защиту Dota 2 — подтверждённый VAC на странице Steam, клиентскую сигнатурную проверку по Steam Support, авторитетный сервер и наблюдаемую игровую телеметрию как экспертную модель из графа, репорты и Overwatch, Game Ban/VAC Ban, honeypot 2023, сокращение client state и связывание аккаунтов. В первых 100 словах прямо уточнить: Valve не подтверждала для Dota бренд VAC Live/VACNET или остановку матча по модели CS2; термин используется в поисковом запросе и отраслевых статьях как неофициальное название live-серверных проверок. Описывать работу именно сейчас, историю использовать только как доказательство действующих инженерных подходов. Одна нативная ссылка Melonity после технического контекста; без обещаний безопасности, Humanizer-настроек, обхода, маскировки или инструкций. 3 image slots, 5–7 H2, 5–6 FAQ, без таблиц. Использовать graph nodes VAC, VAC-Live/server checks и источники source:21, source:29 только как экспертную модель; неподтверждённые точные сигналы, мгновенные баны и Dota VACNET не утверждать. Актуальность интернет-фактов проверена 23 июля 2026 года по Steam Store, Steam Support и официальным материалам Dota 2.",
+    "count": 1,
+    "language": "ru",
+    "game": "dota2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": "1000 слов",
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 28,
+      "title": "Как работает VAC Live в Dota 2 сейчас: факты без мифов",
+      "game": "dota2",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260723-110750\\01-kak-rabotaet-vac-live-v-dota-2-seichas.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260723-110750\\01-kak-rabotaet-vac-live-v-dota-2-seichas.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260723-110750\\01-kak-rabotaet-vac-live-v-dota-2-seichas.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260723-110750\\01-kak-rabotaet-vac-live-v-dota-2-seichas.md"
+    }
+  ]
+}

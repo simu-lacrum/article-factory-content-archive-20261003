@@ -1,0 +1,202 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\cheatsgaming-anchor-articles-20260909.json",
+  "total": 24,
+  "pass": 24,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\free-cs2-cheat-overview.md",
+      "status": "pass",
+      "word_count": 1779,
+      "h2_count": 13,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-free-cs2-cheats.md",
+      "status": "pass",
+      "word_count": 1768,
+      "h2_count": 13,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\free-cs2-hacks-review.md",
+      "status": "pass",
+      "word_count": 1794,
+      "h2_count": 13,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\legit-cs2-cheats-comparison.md",
+      "status": "pass",
+      "word_count": 1715,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-legit-cs2-hack.md",
+      "status": "pass",
+      "word_count": 1709,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\top-legit-cs2-cheats.md",
+      "status": "pass",
+      "word_count": 1666,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\external-cs2-cheats-ranking.md",
+      "status": "pass",
+      "word_count": 1693,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-external-cs2-hack.md",
+      "status": "pass",
+      "word_count": 1647,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\external-cs2-cheat-comparison.md",
+      "status": "pass",
+      "word_count": 1679,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheat-setup-guide.md",
+      "status": "pass",
+      "word_count": 1636,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheats-installation-guide.md",
+      "status": "pass",
+      "word_count": 1710,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\best-cs2-hack-comparison.md",
+      "status": "pass",
+      "word_count": 1706,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheats-download-guide.md",
+      "status": "pass",
+      "word_count": 1698,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\cs2-cheat-ranking.md",
+      "status": "pass",
+      "word_count": 1598,
+      "h2_count": 13,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\cs2\\top-cs2-cheats-list.md",
+      "status": "pass",
+      "word_count": 1668,
+      "h2_count": 12,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-auto-parry.md",
+      "status": "pass",
+      "word_count": 1403,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-auto-parry-cheat-guide.md",
+      "status": "pass",
+      "word_count": 1587,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheats-installation-guide.md",
+      "status": "pass",
+      "word_count": 1337,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-auto-parry-cheat.md",
+      "status": "pass",
+      "word_count": 1477,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheats-download-guide.md",
+      "status": "pass",
+      "word_count": 1308,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheat-setup-article.md",
+      "status": "pass",
+      "word_count": 1384,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\best-deadlock-hack.md",
+      "status": "pass",
+      "word_count": 1218,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\top-deadlock-cheats.md",
+      "status": "pass",
+      "word_count": 1293,
+      "h2_count": 9,
+      "evidence_sources": 4,
+      "findings": []
+    },
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\deliverables\\cheatsgaming-anchor-articles-20260909\\deadlock\\deadlock-cheat-ranking.md",
+      "status": "pass",
+      "word_count": 1347,
+      "h2_count": 10,
+      "evidence_sources": 4,
+      "findings": []
+    }
+  ]
+}

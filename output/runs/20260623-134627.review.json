@@ -1,0 +1,18 @@
+{
+  "manifest": "C:\\Users\\User\\Desktop\\articles\\output\\runs\\20260623-134627.json",
+  "total": 1,
+  "pass": 1,
+  "needs_review": 0,
+  "fail": 0,
+  "not_generated": 0,
+  "results": [
+    {
+      "article": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260623-134627\\01-deadlock-cheat-feature-glossary.md",
+      "status": "pass",
+      "word_count": 2873,
+      "h2_count": 16,
+      "evidence_sources": 10,
+      "findings": []
+    }
+  ]
+}

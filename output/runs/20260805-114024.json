@@ -1,0 +1,112 @@
+{
+  "created_at": "20260805-114024",
+  "spec": {
+    "raw": "Create eight distinct 500-800 word Tier 2 article briefs, one per supplied target URL. Match the language of each target page, use exactly two organic backlinks per article with the specified Russian anchors for Deadlock, Foxhole and GTA 5 RP and natural English equivalents for English pages, use the Dota video workflow as source truth for the Dota scripting target, keep content high-level and risk-aware, and provide Nano Banana Pro article-editorial-poster-v1 visual prompts.",
+    "count": 8,
+    "language": "all",
+    "game": "dota2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 28,
+      "title": "Дота 2 интернешнл 2025: полный разбор для Dota 2",
+      "game": "dota2",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-114024\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260805-114024\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-114024\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260805-114024\\01-дота-2-интернешнл-2025-полныи-разбор-для-dota-2.md"
+    },
+    {
+      "topic_id": 1,
+      "title": "How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-114024\\02-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260805-114024\\02-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-114024\\02-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260805-114024\\02-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md"
+    },
+    {
+      "topic_id": 4,
+      "title": "Dota 2 Skin Changer in 2026: Free Tools, Ban Risks and Premium Alternatives",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-114024\\03-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260805-114024\\03-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-114024\\03-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260805-114024\\03-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md"
+    },
+    {
+      "topic_id": 11,
+      "title": "Dota 2 Couriers: Best Unusual Couriers, Courier Value and Why Courier Info Wins Games",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-114024\\04-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260805-114024\\04-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-114024\\04-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260805-114024\\04-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md"
+    },
+    {
+      "topic_id": 12,
+      "title": "Dota 2 Boosting vs Using a Cheat Tool: Account Risk, Cost and Control",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-114024\\05-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260805-114024\\05-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-114024\\05-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260805-114024\\05-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md"
+    },
+    {
+      "topic_id": 15,
+      "title": "Invoker Auto Cast and One-Button Combos: From AHK Macros to Melonity Hero Scripts",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-114024\\06-invoker-auto-cast-and-one-button-combos-from-ahk-macros-to-melonity-hero-scripts.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260805-114024\\06-invoker-auto-cast-and-one-button-combos-from-ahk-macros-to-melonity-hero-scripts.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-114024\\06-invoker-auto-cast-and-one-button-combos-from-ahk-macros-to-melonity-hero-scripts.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260805-114024\\06-invoker-auto-cast-and-one-button-combos-from-ahk-macros-to-melonity-hero-scripts.md"
+    },
+    {
+      "topic_id": 3,
+      "title": "Melonity Dota 2 Setup Guide: Free Trial, CFG, Spoofer and First Safe Launch",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-114024\\07-melonity-dota-2-setup-guide-free-trial-cfg-spoofer-and-first-safe-launch.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260805-114024\\07-melonity-dota-2-setup-guide-free-trial-cfg-spoofer-and-first-safe-launch.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-114024\\07-melonity-dota-2-setup-guide-free-trial-cfg-spoofer-and-first-safe-launch.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260805-114024\\07-melonity-dota-2-setup-guide-free-trial-cfg-spoofer-and-first-safe-launch.md"
+    },
+    {
+      "topic_id": 2,
+      "title": "Dota 2 Hidden Pool and Smurf Pool: How to Check Your Account and Get Better Matches",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-114024\\08-dota-2-hidden-pool-and-smurf-pool-how-to-check-your-account-and-get-better-matches.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260805-114024\\08-dota-2-hidden-pool-and-smurf-pool-how-to-check-your-account-and-get-better-matches.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-114024\\08-dota-2-hidden-pool-and-smurf-pool-how-to-check-your-account-and-get-better-matches.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260805-114024\\08-dota-2-hidden-pool-and-smurf-pool-how-to-check-your-account-and-get-better-matches.md"
+    }
+  ]
+}

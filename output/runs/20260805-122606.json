@@ -1,0 +1,112 @@
+{
+  "created_at": "20260805-122606",
+  "spec": {
+    "raw": "Create the exact eight standalone Tier 2 articles in the user brief dated 2026-08-05: Dota 2 AI script QA (en), Deadlock comparison criteria (ru), Deadlock information triage (en), Deadlock phase profiles (ru), Foxhole logistics bottlenecks (ru), Foxhole artillery coordination (en), GTA 5 RP compatibility (en), and GTA 5 RP menu profiles (ru). Each must follow its assigned target URL and exact anchors, include supplied visual notes and prompt, and remain non-operational and risk-aware.",
+    "count": 8,
+    "language": "all",
+    "game": "mixed",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": "tier2-01",
+      "title": "How to QA an AI-Generated Dota 2 Script Before You Trust It",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-122606\\01-ai-dota-2-script-qa.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-122606\\shared-tier2-evidence.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt"
+    },
+    {
+      "topic_id": "tier2-02",
+      "title": "Как сравнивать читы для Deadlock: критерии важнее громкого топа",
+      "game": "deadlock",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-122606\\02-kak-sravnivat-deadlock.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-122606\\shared-tier2-evidence.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt"
+    },
+    {
+      "topic_id": "tier2-03",
+      "title": "Deadlock Information Triage: What Matters First in a 6v6 Fight",
+      "game": "deadlock",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-122606\\03-deadlock-information-triage.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-122606\\shared-tier2-evidence.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt"
+    },
+    {
+      "topic_id": "tier2-04",
+      "title": "Один профиль на весь матч не работает: настройки Deadlock по фазам",
+      "game": "deadlock",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-122606\\04-nastroiki-deadlock-po-fazam.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-122606\\shared-tier2-evidence.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt"
+    },
+    {
+      "topic_id": "tier2-05",
+      "title": "Где ломается логистика Foxhole: путь ресурса от добычи до фронта",
+      "game": "foxhole",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-122606\\05-logistika-foxhole.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-122606\\shared-tier2-evidence.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt"
+    },
+    {
+      "topic_id": "tier2-06",
+      "title": "Foxhole Artillery Coordination: The Information Checklist Before Every Salvo",
+      "game": "foxhole",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-122606\\06-foxhole-artillery-coordination.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-122606\\shared-tier2-evidence.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt"
+    },
+    {
+      "topic_id": "tier2-07",
+      "title": "GTA 5 RP Tool Compatibility: Check the Platform Before the Feature List",
+      "game": "gta",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-122606\\07-gta-5-rp-tool-compatibility.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-122606\\shared-tier2-evidence.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt"
+    },
+    {
+      "topic_id": "tier2-08",
+      "title": "Три профиля вместо перегруженного меню: как организовать GTA 5 RP",
+      "game": "gta",
+      "language": "ru",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260805-122606\\08-profili-gta-5-rp.md",
+      "prompt": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260805-122606\\shared-tier2-evidence.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\.codex\\attachments\\65c6ac2c-ac9b-4a85-bac1-213c623d7aca\\pasted-text-1.txt"
+    }
+  ]
+}

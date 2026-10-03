@@ -1,0 +1,126 @@
+{
+  "created_at": "20260622-173506",
+  "spec": {
+    "raw": "Сгенерируй 10 SEO статей объемом 1800-2400 words, в экспертном живом стиле, с нативной интеграцией Melonity",
+    "count": 10,
+    "language": "en",
+    "game": "dota2",
+    "style": "expert, clear, human, useful, SEO-aware",
+    "volume": "2400 words",
+    "ad_mode": "native"
+  },
+  "llm_provider": "template",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1,
+      "title": "How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\01-how-to-raise-behavior-score-in-dota-2-communication-score-reports-and-fast-recovery.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 4,
+      "title": "Dota 2 Skin Changer in 2026: Free Tools, Ban Risks and Premium Alternatives",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\02-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\02-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\02-dota-2-skin-changer-in-2026-free-tools-ban-risks-and-premium-alternatives.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 11,
+      "title": "Dota 2 Couriers: Best Unusual Couriers, Courier Value and Why Courier Info Wins Games",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\03-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\03-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\03-dota-2-couriers-best-unusual-couriers-courier-value-and-why-courier-info-wins-games.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 12,
+      "title": "Dota 2 Boosting vs Using a Cheat Tool: Account Risk, Cost and Control",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\04-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\04-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\04-dota-2-boosting-vs-using-a-cheat-tool-account-risk-cost-and-control.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 10,
+      "title": "Random Dota 2 Hero and Build Challenge: How to Make Any Pick Playable",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\05-random-dota-2-hero-and-build-challenge-how-to-make-any-pick-playable.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\05-random-dota-2-hero-and-build-challenge-how-to-make-any-pick-playable.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\05-random-dota-2-hero-and-build-challenge-how-to-make-any-pick-playable.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 5,
+      "title": "Overwolf Dota 2 Skin Changer and Overlays: What Works, What Breaks and What to Use Instead",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\06-overwolf-dota-2-skin-changer-and-overlays-what-works-what-breaks-and-what-to-use-instead.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\06-overwolf-dota-2-skin-changer-and-overlays-what-works-what-breaks-and-what-to-use-instead.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\06-overwolf-dota-2-skin-changer-and-overlays-what-works-what-breaks-and-what-to-use-instead.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 6,
+      "title": "Dota 2 Low Priority: How It Works, How to Get Out and How to Avoid It Again",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\07-dota-2-low-priority-how-it-works-how-to-get-out-and-how-to-avoid-it-again.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\07-dota-2-low-priority-how-it-works-how-to-get-out-and-how-to-avoid-it-again.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\07-dota-2-low-priority-how-it-works-how-to-get-out-and-how-to-avoid-it-again.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 7,
+      "title": "Dota 2 AHK Scripts and Macros: Invoker, Meepo, Tinker and the Safer Premium Alternative",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\08-dota-2-ahk-scripts-and-macros-invoker-meepo-tinker-and-the-safer-premium-alternative.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\08-dota-2-ahk-scripts-and-macros-invoker-meepo-tinker-and-the-safer-premium-alternative.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\08-dota-2-ahk-scripts-and-macros-invoker-meepo-tinker-and-the-safer-premium-alternative.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 8,
+      "title": "Best Dota 2 Autoexec.cfg and FPS Settings: Max FPS, Ping, Config Transfer and Stable Gameplay",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\09-best-dota-2-autoexeccfg-and-fps-settings-max-fps-ping-config-transfer-and-stable-gameplay.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\09-best-dota-2-autoexeccfg-and-fps-settings-max-fps-ping-config-transfer-and-stable-gameplay.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\09-best-dota-2-autoexeccfg-and-fps-settings-max-fps-ping-config-transfer-and-stable-gameplay.json",
+      "llm_error": null
+    },
+    {
+      "topic_id": 14,
+      "title": "Umbrella Dota 2 CFG and Setup Problems: Settings, Launch Issues and Alternatives",
+      "game": "dota2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260622-173506\\10-umbrella-dota-2-cfg-and-setup-problems-settings-launch-issues-and-alternatives.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260622-173506\\10-umbrella-dota-2-cfg-and-setup-problems-settings-launch-issues-and-alternatives.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260622-173506\\10-umbrella-dota-2-cfg-and-setup-problems-settings-launch-issues-and-alternatives.json",
+      "llm_error": null
+    }
+  ]
+}

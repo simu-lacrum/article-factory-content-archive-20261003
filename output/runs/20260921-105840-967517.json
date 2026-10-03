@@ -1,0 +1,28 @@
+{
+  "created_at": "20260921-105840-967517",
+  "spec": {
+    "raw": "Write an English article for CheatsGaming.com about triggerbot vs aimbot CS2, explaining firing, aim movement and ESP with concrete examples. Use the cs2-triggerbot research group. Deliver HTML plus a markdown source, a title under 60 characters, and a meta description exactly 160 characters with no final period. Natural readable prose, no filler or invented tests.",
+    "count": 1,
+    "language": "en",
+    "game": "cs2",
+    "style": "Medium-style, direct, practical, conversational, lightly slangy, gamer-aware, expert voice, no filler",
+    "volume": null,
+    "ad_mode": "native"
+  },
+  "llm_provider": "none",
+  "model": null,
+  "items": [
+    {
+      "topic_id": 1368,
+      "title": "CS2 triggerbot vs aimbot: what changes?",
+      "game": "cs2",
+      "language": "en",
+      "status": "article",
+      "output": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260921-105840-967517\\01-cs2-triggerbot-vs-aimbot-what-changes.md",
+      "prompt": "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260921-105840-967517\\01-cs2-triggerbot-vs-aimbot-what-changes.md",
+      "evidence": "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260921-105840-967517\\01-cs2-triggerbot-vs-aimbot-what-changes.json",
+      "llm_error": null,
+      "brief": "C:\\Users\\User\\Desktop\\articles\\output\\briefs\\20260921-105840-967517\\01-cs2-triggerbot-vs-aimbot-what-changes.md"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+    "created_at":  "20260910-082336",
+    "spec":  {
+                 "raw":  "Create exactly 12 original English T2 articles for 12 supplied link placements across 11 live CheatsGaming targets; publish two per platform across Substack, Notion, GitBook, GitHub, JustPasteMe, and Rentry.",
+                 "count":  12,
+                 "language":  "en",
+                 "game":  "mixed",
+                 "style":  "Direct, practical, conversational, answer-first, evidence-led, gamer-aware",
+                 "volume":  "1500+ words",
+                 "ad_mode":  "native"
+             },
+    "llm_provider":  "none",
+    "model":  null,
+    "items":  [
+                  {
+                      "topic_id":  1,
+                      "title":  "CS2 Cheat Research: Check Claims in the Right Order",
+                      "game":  "cs2",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\01-cs2-cheat-research-order.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\01-cs2-cheat-research-order.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\01-cs2-cheat-research-order.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  2,
+                      "title":  "Deadlock Cheat Research: Four Feature Families",
+                      "game":  "deadlock",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\02-deadlock-cheat-research-map.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\02-deadlock-cheat-research-map.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\02-deadlock-cheat-research-map.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  3,
+                      "title":  "Dota 2 Cheat Categories: Scripts, Visuals, and Utility",
+                      "game":  "dota2",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\03-dota-2-cheat-categories.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\03-dota-2-cheat-categories.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\03-dota-2-cheat-categories.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  4,
+                      "title":  "Melonity or Umbrella After a Patch? Audit the Proof",
+                      "game":  "dota2",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\04-melonity-vs-umbrella-update-evidence.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\04-melonity-vs-umbrella-update-evidence.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\04-melonity-vs-umbrella-update-evidence.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  5,
+                      "title":  "Dota 2 Cheat Trials: What Seven Days Can Prove",
+                      "game":  "dota2",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\05-dota-2-cheat-trial-evaluation.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\05-dota-2-cheat-trial-evaluation.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\05-dota-2-cheat-trial-evaluation.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  6,
+                      "title":  "Deadlock Risk Layers: VAC, Reports, and Updates",
+                      "game":  "deadlock",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\06-deadlock-risk-layers.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\06-deadlock-risk-layers.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\06-deadlock-risk-layers.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  7,
+                      "title":  "CS2 Skin Changer Screenshots: What They Prove",
+                      "game":  "cs2",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\07-cs2-skin-changer-screenshot-proof.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\07-cs2-skin-changer-screenshot-proof.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\07-cs2-skin-changer-screenshot-proof.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  8,
+                      "title":  "CS2 Skin Changer Preview Mismatch Explained",
+                      "game":  "cs2",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\08-cs2-skin-changer-preview-mismatch.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\08-cs2-skin-changer-preview-mismatch.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\08-cs2-skin-changer-preview-mismatch.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  9,
+                      "title":  "The Real Cost of Free CS2 Cheats",
+                      "game":  "cs2",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\09-cost-of-free-cs2-cheats.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\09-cost-of-free-cs2-cheats.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\09-cost-of-free-cs2-cheats.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  10,
+                      "title":  "Legit vs Semi-Rage vs Rage in CS2",
+                      "game":  "cs2",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\10-legit-vs-semi-rage-vs-rage-cs2.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\10-legit-vs-semi-rage-vs-rage-cs2.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\10-legit-vs-semi-rage-vs-rage-cs2.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  11,
+                      "title":  "Deadlock Parry Window: Timing and Feints Explained",
+                      "game":  "deadlock",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\11-deadlock-parry-window-timing-feints.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\11-deadlock-parry-window-timing-feints.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\11-deadlock-parry-window-timing-feints.json",
+                      "llm_error":  null
+                  },
+                  {
+                      "topic_id":  12,
+                      "title":  "Deadlock Cheat Comparison Beyond Aimbot",
+                      "game":  "deadlock",
+                      "language":  "en",
+                      "status":  "article",
+                      "output":  "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260910-082336\\12-deadlock-cheat-comparison-beyond-aimbot.md",
+                      "prompt":  "C:\\Users\\User\\Desktop\\articles\\output\\prompts\\20260910-082336\\12-deadlock-cheat-comparison-beyond-aimbot.md",
+                      "evidence":  "C:\\Users\\User\\Desktop\\articles\\output\\evidence\\20260910-082336\\12-deadlock-cheat-comparison-beyond-aimbot.json",
+                      "llm_error":  null
+                  }
+              ]
+}
