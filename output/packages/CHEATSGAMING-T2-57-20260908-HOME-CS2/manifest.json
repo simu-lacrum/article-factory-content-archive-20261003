@@ -1,0 +1,223 @@
+{
+  "run_id": "CHEATSGAMING-T2-57-20260908",
+  "scope": "homepage + CS2",
+  "article_count": 27,
+  "articles": [
+    {
+      "id": "CG-001",
+      "title": "Game Cheat Shop or Review Site? Why You Need Both Before Choosing Software",
+      "slug": "game-cheat-shop-vs-review-site",
+      "words": 1333,
+      "markdown": "md/CG-001-game-cheat-shop-vs-review-site.md",
+      "html": "html/CG-001-game-cheat-shop-vs-review-site.html"
+    },
+    {
+      "id": "CG-002",
+      "title": "Game Cheat Status Pages: What Live, Updating, Offline, and Unknown Should Mean",
+      "slug": "game-cheat-status-page-labels",
+      "words": 1278,
+      "markdown": "md/CG-002-game-cheat-status-page-labels.md",
+      "html": "html/CG-002-game-cheat-status-page-labels.html"
+    },
+    {
+      "id": "CG-003",
+      "title": "Multi-Game Cheat Subscription: When One Account for Several Games Makes Sense",
+      "slug": "multi-game-cheat-subscription-decision",
+      "words": 1246,
+      "markdown": "md/CG-003-multi-game-cheat-subscription-decision.md",
+      "html": "html/CG-003-multi-game-cheat-subscription-decision.html"
+    },
+    {
+      "id": "CG-004",
+      "title": "CS2 Cheat Research: The Order to Check Features, Downloads, Updates, and Risk",
+      "slug": "cs2-cheat-research-order",
+      "words": 1230,
+      "markdown": "md/CG-004-cs2-cheat-research-order.md",
+      "html": "html/CG-004-cs2-cheat-research-order.html"
+    },
+    {
+      "id": "CG-005",
+      "title": "CS2 Cheat Categories by Player Question: Aim, Visuals, Cosmetics, or Utility?",
+      "slug": "cs2-cheat-categories-by-question",
+      "words": 1190,
+      "markdown": "md/CG-005-cs2-cheat-categories-by-question.md",
+      "html": "html/CG-005-cs2-cheat-categories-by-question.html"
+    },
+    {
+      "id": "CG-006",
+      "title": "CS2 Cheat Shortlist: How to Cut Ten Similar Reviews Down to Three Candidates",
+      "slug": "cs2-cheat-shortlist-review-noise",
+      "words": 1193,
+      "markdown": "md/CG-006-cs2-cheat-shortlist-review-noise.md",
+      "html": "html/CG-006-cs2-cheat-shortlist-review-noise.html"
+    },
+    {
+      "id": "CG-007",
+      "title": "Free CS2 Cheat, Trial, or Crack? Three Offers That Should Never Be Confused",
+      "slug": "free-cs2-cheat-vs-trial-vs-crack",
+      "words": 1248,
+      "markdown": "md/CG-007-free-cs2-cheat-vs-trial-vs-crack.md",
+      "html": "html/CG-007-free-cs2-cheat-vs-trial-vs-crack.html"
+    },
+    {
+      "id": "CG-008",
+      "title": "The Cost of Free CS2 Cheats: Updates, Support, Downtime, and Lost Time",
+      "slug": "cost-of-free-cs2-cheats",
+      "words": 1258,
+      "markdown": "md/CG-008-cost-of-free-cs2-cheats.md",
+      "html": "html/CG-008-cost-of-free-cs2-cheats.html"
+    },
+    {
+      "id": "CG-009",
+      "title": "Free CS2 Cheat Landing Page Audit: Seven Checks Before You Download Anything",
+      "slug": "free-cs2-cheat-landing-page-audit",
+      "words": 1252,
+      "markdown": "md/CG-009-free-cs2-cheat-landing-page-audit.md",
+      "html": "html/CG-009-free-cs2-cheat-landing-page-audit.html"
+    },
+    {
+      "id": "CG-010",
+      "title": "Legit vs Semi-Rage vs Rage in CS2: What Reviewers Actually Mean",
+      "slug": "legit-vs-semi-rage-vs-rage-cs2",
+      "words": 1221,
+      "markdown": "md/CG-010-legit-vs-semi-rage-vs-rage-cs2.md",
+      "html": "html/CG-010-legit-vs-semi-rage-vs-rage-cs2.html"
+    },
+    {
+      "id": "CG-011",
+      "title": "Legit CS2 Cheat Safety: Why a Subtle Label Cannot Prove Low Risk",
+      "slug": "legit-cs2-cheat-safety-claims",
+      "words": 1178,
+      "markdown": "md/CG-011-legit-cs2-cheat-safety-claims.md",
+      "html": "html/CG-011-legit-cs2-cheat-safety-claims.html"
+    },
+    {
+      "id": "CG-012",
+      "title": "CS2 Legit Cheat Review: Five Questions About Profiles, Behavior, and Support",
+      "slug": "cs2-legit-cheat-review-questions",
+      "words": 1171,
+      "markdown": "md/CG-012-cs2-legit-cheat-review-questions.md",
+      "html": "html/CG-012-cs2-legit-cheat-review-questions.html"
+    },
+    {
+      "id": "CG-013",
+      "title": "External CS2 Cheat Review: Cold Launch, Alt-Tab, and Long-Session Tests",
+      "slug": "external-cs2-cheat-review-tests",
+      "words": 1150,
+      "markdown": "md/CG-013-external-cs2-cheat-review-tests.md",
+      "html": "html/CG-013-external-cs2-cheat-review-tests.html"
+    },
+    {
+      "id": "CG-014",
+      "title": "External CS2 Cheat Compatibility: Borderless Mode, Monitors, Scaling, and Capture",
+      "slug": "external-cs2-cheat-compatibility",
+      "words": 1147,
+      "markdown": "md/CG-014-external-cs2-cheat-compatibility.md",
+      "html": "html/CG-014-external-cs2-cheat-compatibility.html"
+    },
+    {
+      "id": "CG-015",
+      "title": "External CS2 Cheat Update: What a Responsible Patch-Day Status Should Show",
+      "slug": "external-cs2-cheat-update-status",
+      "words": 1147,
+      "markdown": "md/CG-015-external-cs2-cheat-update-status.md",
+      "html": "html/CG-015-external-cs2-cheat-update-status.html"
+    },
+    {
+      "id": "CG-016",
+      "title": "CS2 Aimbot Not Working? Separate Missing Aim, Missing ESP, and No Launch",
+      "slug": "cs2-aimbot-not-working-symptom-check",
+      "words": 1166,
+      "markdown": "md/CG-016-cs2-aimbot-not-working-symptom-check.md",
+      "html": "html/CG-016-cs2-aimbot-not-working-symptom-check.html"
+    },
+    {
+      "id": "CG-017",
+      "title": "CS2 ESP First Launch: Profiles, Toggles, Visual Layers, and What They Mean",
+      "slug": "cs2-esp-first-launch-vocabulary",
+      "words": 1162,
+      "markdown": "md/CG-017-cs2-esp-first-launch-vocabulary.md",
+      "html": "html/CG-017-cs2-esp-first-launch-vocabulary.html"
+    },
+    {
+      "id": "CG-018",
+      "title": "CS2 Cheat Support Ticket: What to Record When Aim or Visuals Fail",
+      "slug": "cs2-cheat-support-ticket-evidence",
+      "words": 1176,
+      "markdown": "md/CG-018-cs2-cheat-support-ticket-evidence.md",
+      "html": "html/CG-018-cs2-cheat-support-ticket-evidence.html"
+    },
+    {
+      "id": "CG-019",
+      "title": "CS2 Cheat Download Verification: Domain, File Origin, and Support Channel",
+      "slug": "cs2-cheat-download-verification",
+      "words": 1162,
+      "markdown": "md/CG-019-cs2-cheat-download-verification.md",
+      "html": "html/CG-019-cs2-cheat-download-verification.html"
+    },
+    {
+      "id": "CG-020",
+      "title": "CS2 Cheat Launch Problems: Why Random Fixes Make the Cause Harder to Find",
+      "slug": "cs2-cheat-launch-problems-random-fixes",
+      "words": 1145,
+      "markdown": "md/CG-020-cs2-cheat-launch-problems-random-fixes.md",
+      "html": "html/CG-020-cs2-cheat-launch-problems-random-fixes.html"
+    },
+    {
+      "id": "CG-021",
+      "title": "CS2 Cheat Update Loop: Is It a Stale Build, Cache Problem, or Status Mismatch?",
+      "slug": "cs2-cheat-update-loop-diagnosis",
+      "words": 1160,
+      "markdown": "md/CG-021-cs2-cheat-update-loop-diagnosis.md",
+      "html": "html/CG-021-cs2-cheat-update-loop-diagnosis.html"
+    },
+    {
+      "id": "CG-022",
+      "title": "Best CS2 Cheat for Your Playstyle: A Decision Framework Without Brand Scores",
+      "slug": "best-cs2-cheat-for-playstyle",
+      "words": 1211,
+      "markdown": "md/CG-022-best-cs2-cheat-for-playstyle.md",
+      "html": "html/CG-022-best-cs2-cheat-for-playstyle.html"
+    },
+    {
+      "id": "CG-023",
+      "title": "CS2 Cheat Trial: What You Can Evaluate in 30 Minutes Without Trusting Marketing",
+      "slug": "cs2-cheat-trial-30-minute-evaluation",
+      "words": 1138,
+      "markdown": "md/CG-023-cs2-cheat-trial-30-minute-evaluation.md",
+      "html": "html/CG-023-cs2-cheat-trial-30-minute-evaluation.html"
+    },
+    {
+      "id": "CG-024",
+      "title": "CS2 Cheat Subscription: Compare Setup Friction, Profiles, Support, and Updates",
+      "slug": "cs2-cheat-subscription-workflow",
+      "words": 1109,
+      "markdown": "md/CG-024-cs2-cheat-subscription-workflow.md",
+      "html": "html/CG-024-cs2-cheat-subscription-workflow.html"
+    },
+    {
+      "id": "CG-025",
+      "title": "CS2 Skin Changer Screenshot: What It Proves About Preview and Inventory",
+      "slug": "cs2-skin-changer-screenshot-proof",
+      "words": 1151,
+      "markdown": "md/CG-025-cs2-skin-changer-screenshot-proof.md",
+      "html": "html/CG-025-cs2-skin-changer-screenshot-proof.html"
+    },
+    {
+      "id": "CG-026",
+      "title": "CS2 Skin Changer Preview Mismatch: Finish, Wear, Lighting, and Local Display",
+      "slug": "cs2-skin-changer-preview-mismatch",
+      "words": 1136,
+      "markdown": "md/CG-026-cs2-skin-changer-preview-mismatch.md",
+      "html": "html/CG-026-cs2-skin-changer-preview-mismatch.html"
+    },
+    {
+      "id": "CG-027",
+      "title": "CS2 Skin Changer Checklist: Cosmetics Coverage, Presets, and Update Discipline",
+      "slug": "cs2-skin-changer-checklist",
+      "words": 1165,
+      "markdown": "md/CG-027-cs2-skin-changer-checklist.md",
+      "html": "html/CG-027-cs2-skin-changer-checklist.html"
+    }
+  ]
+}
