@@ -1,0 +1,38 @@
+{
+  "topic": {
+    "id": "ANCHOR-11",
+    "title": "CS2 Cheat Download Verification Checklist",
+    "game": "cs2",
+    "language": "en",
+    "risk_level": "restricted-safe",
+    "target_anchor": "CS2 cheats installation guide",
+    "target_url": "https://cheatsgaming.com/games/cs2/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "Target page and link context",
+      "excerpt": "The target page establishes the page topic and the commercial phrase family used for contextual anchor selection."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Mapped cluster.center product memory",
+      "excerpt": "Product descriptions are limited to high-level, attributed feature categories and exclude safety guarantees or operational implementation."
+    },
+    {
+      "source": "output/briefs/CHEATSGAMING-T2-57-20260908/01-HOME-CS2-BRIEFS.md",
+      "heading": "Brief for cs2-install",
+      "excerpt": "The brief defines a distinct adjacent search intent, counterexample, factual boundary, and exact contextual backlink sentence."
+    },
+    {
+      "source": "output/deliverables/cheatsgaming-anchor-articles-20260909/SERP-AND-ANCHOR-ANALYSIS.md",
+      "heading": "SERP lexical consensus and anchor diversification",
+      "excerpt": "The anchor is drawn from repeated live SERP wording while varying comparison, ranking, overview, guide, and review formulations across the three placements."
+    }
+  ],
+  "strict_rules": [
+    "No operational installation, injection, bypass, evasion, or detection-avoidance guidance.",
+    "No current safety, price, trial, or availability guarantee unless freshly verified and attributed.",
+    "Keep the exact target anchor natural and use it once in the contextual backlink."
+  ]
+}

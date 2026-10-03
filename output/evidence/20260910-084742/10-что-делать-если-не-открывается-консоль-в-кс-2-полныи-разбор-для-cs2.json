@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 455,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Что делать если не открывается консоль в кс 2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "1662",
+    "cluster": "Консоль / Команды / Бинды",
+    "main_query": "что делать если не открывается консоль в кс 2",
+    "score": 59.81177904931124,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"что делать если не открывается консоль в кс 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Консоль / Команды / Бинды\", \"что делать если не открывается консоль в кс 2\", \"что делать если не открывается консоль в кс 2\", \"что делать если консоль не открывается в кс 2\", \"что делать если консоль в кс 2 не открывается\", \"что делать если в кс 2 не открывается консоль\", \"что делать если не открывается консоль в кс2\", \"что делать если не работает консоль в кс 2\", \"что делать если не работают консольные команды в кс 2\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.3. Референс №3 — прозрачная синяя консоль",
+      "excerpt": "### 3.3. Референс №3 — прозрачная синяя консоль\n\n- Формат: 720 × 1280, вертикаль 9:16.\n- Палитра: почти белый около 68%, синий около 13%, светло-синий около 6%.\n- Объект: ретро-консоль из прозрачного синего пластика с экраном, ползунками, индикаторами и большой кнопкой.\n- Иерархия: смысл и типографика встроены в экран объекта, а не наложены поверх случайно.\n- Материалы: прозрачный литой пластик, мягкая глянцевая поверхность, минимальные металлические детали.\n- Камера: предметная съемка, три четверти, умеренная перспектива.\n- Что переносить: превращение абстрактной темы в правдоподобный прибор; UI становится частью физического продукта."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "10.3. Обложка 16:9",
+      "excerpt": "### 10.3. Обложка 16:9\n\n- Safe zone: 5–7%.\n- Предпочтительная схема: текст слева x 6–45%, герой справа x 52–98%.\n- Альтернатива: короткий заголовок сверху x 6–66%, герой снизу/справа.\n- Смысловой объект не помещать в центральные 8% вертикальной оси, если обложка часто кропается в карточках.\n- Делать запас фона 10–15% для адаптивного кадрирования."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/external-forums/335446.md",
+      "heading": "Инвайт в Deadlock — как получить?",
+      "excerpt": "# Инвайт в Deadlock — как получить? > This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work. Source URL: https://yougame.biz/threads/335446/ Title: Инвайт в Deadlock — как получить? URL Source: https://yougame.biz/threads/335446/ Markdown Content: Deadlock — это новая игра от Valve, сейчас находящаяся на стадии закрытого бета-тестирования. Пока что она недоступна для всех, и для того чтобы в неё поиграть, нужно получить приглашение. Может показаться, что попасть в тестирование не так уж просто, но на самом деле есть несколько довольно лёгких способов, как это сделать. В этом руководстве я расскажу, как можно получить инвайт, а также поделюсь несколькими советами, которые помогут вам увеличить шансы на успех. ![Image 1: sZlVQ9c.png](https://yougame.biz/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FsZlVQ9c.png&hash=06773a9e87c9a49b03855270065b9dc8) **Почему Дедлок пока не доступна всем?** Деад Лок сейчас в закрытом бета-тестировании, и это совершенно нормально. Игра была недавно анонсирована, и разработчики активно трудятся над её улучшением: исправляют ошибки, добавляют новые фичи и делают баланс более точным. Бета-версия — это шанс для разработчиков получить отзывы от игроков, понять, что работает хорошо, а что нужно доработать. Чем..."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "CS2 cluster.center External Feature Memory",
+      "excerpt": "# CS2 cluster.center External Feature Memory\n\nDate added: 2026-06-27\n\nThis file is product memory for CS2 articles. It describes the `Cluster CS2 External` feature set at a high level so future Codex agents can explain features in SEO articles without reopening source URLs."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2, use `cluster.center` in one native product block after the educational explanation.\n- Use feature taxonomy, examples, FAQs, and image placement notes.\n- Do not use tables; use lists.\n- Good image slots: Aimbot FOV circle diagram, hitbox-zone diagram, ESP label screenshot/concept, TriggerBot settings close-up, Bomb timer / keybind overlay."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Deadlock / CS2 cluster.center Digest 2026-06-23",
+      "excerpt": "# Deadlock / CS2 cluster.center Digest 2026-06-23\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e.md`\n- `knowledge/agent_memory/products/product-map.md`\n- `knowledge/agent_memory/products/deadlock-cluster-center-internal.md`\n- Materialized YouGame files in `knowledge/agent_memory/sources/external-forums/`"
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for Deadlock. The Best Deadlock Hack`.\n- Internal: `Deadlock cluster.center Internal Feature Memory`.\n- Product map: `Product Map For SEO Articles`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/threads/338660/`\n- `https://yougame.biz/threads/337938/`\n- `https://yougame.biz/threads/335446/`\n- `https://yougame.biz/threads/335445/`\n- `https://yougame.biz/threads/335467/`\n- `https://yougame.biz/threads/337451/`\n- `https://yougame.biz/threads/337711/`\n\nAll listed YouGame pages currently materialize as anti-bot / 429 pages. Do not use them as product evidence until real text is manually provided."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

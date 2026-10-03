@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 403,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Фаталити кс 2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13386",
+    "cluster": "Чит-провайдеры / бренды",
+    "main_query": "фаталити кс 2",
+    "score": 51.58596750581274,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"фаталити кс 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Прямая реклама melonity",
+    "evidence_json": "[\"Чит-провайдеры / бренды\", \"фаталити кс 2\", \"фаталити кс 2\", \"неверлуз кс 2\", \"аимвар кс 2\", \"аимваре кс 2\", \"midnight кс 2\", \"вантап кс 2\", \"aimware кс 2\", \"xone конфиги кс 2\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable sources:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- User-provided feature list in the 2026-06-27 goal.\n\nNot usable as factual source:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "3A.6.4. Уровни античитов — для context",
+      "excerpt": "#### 3A.6.4. Уровни античитов — для context Чтобы пользователь понимал почему VAC «слабее» некоторых других: | Анти-чит | Уровень | Игры | Уязвимости | | --- | --- | --- | --- | | **VAC** | User-mode (Ring 3) | CS2, Dota 2, TF2 | Не видит kernel-level cheats; wave-based bans | | **EAC** (Easy Anti-Cheat) | Kernel + user | Apex, Fortnite, Rust | Видит почти всё; обходится только DMA/external | | **BattlEye** | Kernel | PUBG, R6, Tarkov | Сильный, но обходится | | **Vanguard** | Ring-0 + early boot | Valorant | Самый жёсткий — загружается до Windows; у Dota нет аналога | | **FACEIT AC** | Kernel | CS2 (FACEIT) | Обходится только DMA | | **VACnet** | Server ML | CS2 (только) | Behavioral analysis — ловит даже undetected cheats | | **Ricochet** | Kernel + ML | Call of Duty | Server-side ML | > **Контентный edge:** Для Dota 2 Valve **сознательно не делает kernel anti-cheat** (как Vanguard). Причины: privacy concerns (kernel anti-cheat имеет полный доступ к ПК пользователя — фотки, документы), кросс-платформенность (Linux/Mac),..."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+      "heading": "Итоги",
+      "excerpt": "## Итоги\n\n**Cluster CS2** — это эталон того, как должен выглядеть современный **external чит**. Глубочайшая настройка Humanizer-фичей в связке с богатым визуалом делают этот **экстернал чит** идеальным выбором для аккуратной и безопасной игры.\n\n[**Скачать лучший экстернал чит**](http://cluster.center/)\n\nЕсли вы ищете инструмент для тотального преимущества, который не подведет — выбор очевиден."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cluster-ru-t2-15-20260910-links/ru.md",
+      "heading": "Каталог читов",
+      "excerpt": "## Каталог читов\n\n[![Image 11: Deadlock — Приватный чит для Deadlock](https://cluster.center/_next/image?url=%2Fimages%2Fproducts%2Fdeadlock%2Fpreview.webp&w=3840&q=75)](https://cluster.center/ru/deadlock)\n\nDeadlock\n\n[Приватный чит для Deadlock](https://cluster.center/ru/deadlock)\n\nUNDETECT\n\nВыберите срок\n\n[![Image 12: Counter-Strike 2 — Приватный чит для CS2](https://cluster.center/_next/image?url=%2Fimages%2Fproducts%2Fcs2%2Fpreview.webp&w=3840&q=75)](https://cluster.center/ru/cs2)\n\nCounter-Strike 2\n\n[Приватный чит для CS2](https://cluster.center/ru/cs2)\n\nUNDETECT\n\nВыберите срок"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cluster-substack-targets-20260909-links/ru.md",
+      "heading": "Каталог читов",
+      "excerpt": "## Каталог читов\n\n[![Image 11: Deadlock — Приватный чит для Deadlock](https://cluster.center/_next/image?url=%2Fimages%2Fproducts%2Fdeadlock%2Fpreview.webp&w=3840&q=75)](https://cluster.center/ru/deadlock)\n\nDeadlock\n\n[Приватный чит для Deadlock](https://cluster.center/ru/deadlock)\n\nUNDETECT\n\nВыберите срок\n\n[![Image 12: Counter-Strike 2 — Приватный чит для CS2](https://cluster.center/_next/image?url=%2Fimages%2Fproducts%2Fcs2%2Fpreview.webp&w=3840&q=75)](https://cluster.center/ru/cs2)\n\nCounter-Strike 2\n\n[Приватный чит для CS2](https://cluster.center/ru/cs2)\n\nUNDETECT\n\nВыберите срок"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/tier2-target-links-2026-08-05/gta.md",
+      "heading": "Обширный функционал и удобное меню",
+      "excerpt": "## Обширный функционал и удобное меню\n\nПосмотрите, как работает наш чит перед тем, как скачивать"
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "cluster.center Positioning",
+      "excerpt": "## cluster.center Positioning\n\nUse `cluster.center` as the product/brand target for Deadlock and CS2 SEO articles.\n\nDetailed local product memory:\n\n- Deadlock: `knowledge/agent_memory/products/deadlock-cluster-center-internal.md`\n- CS2: `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n\nTone:\n\n- Calm, practical, premium, feature-oriented.\n- Avoid unsupported promises about bans, anti-cheat state, current detection status, or guaranteed outcomes.\n- Explain the game mechanic or reader problem first, then add one native product section.\n\nAllowed framing:\n\n- Game-assistance product.\n- Feature overview based on local memory.\n- Configuration and interface concepts at a high level.\n- Visual-awareness and aim-assistance categories, without operational evasion guidance.\n\nNot allowed:\n\n- Step-by-step bypass/evasion instructions.\n- Low-level implementation details.\n- Absolute safety claims."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

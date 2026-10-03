@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 150,
+    "game": "dota2",
+    "language": "en",
+    "title": "Dota 2: Axe Dota 2 Explained, Use Cases and Practical Tips",
+    "source_kind": "semantic_csv",
+    "source_ref": "15618",
+    "cluster": "NATIVE-HERO: axe",
+    "main_query": "axe dota 2",
+    "score": 43.039008933658344,
+    "volume_words": "1,500-2,200 words",
+    "outline_json": "[\"What users mean by \\\"axe dota 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where Melonity fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": null,
+    "evidence_json": "[\"NATIVE-HERO: axe\", \"axe dota 2\", \"axe dota 2\", \"акс дота\", \"акс дота 2\", \"axe dota\", \"axe unleashed dota 2 купить\", \"акс дота 2 гайд\", \"axe dota 2 сборка\", \"акс дота баф\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "7. `CORE: макросы/AHK для dota 2` -> Macros / AHK / Scripts",
+      "excerpt": "### 7. `CORE: макросы/AHK для dota 2` -> Macros / AHK / Scripts\n\n**Почему кластер:** KD 5, высокая продуктовая релевантность: `dota ahk`, `dota 2 ahk`, `макрос на инвокера`, `банят ли в доте за макросы`.\n\n**EN article title:** `Dota 2 AHK Scripts and Macros: Invoker, Meepo, Tinker and the Safer Premium Alternative`\n\n**Объем:** 2,200-3,000 words.\n\n**Почему можно ранжироваться:** EN SERP старая: AutoHotkey-треды 2012-2014, Reddit/Steam discussions, GitHub, YouTube. Хороший свежий explainer может зайти.\n\n**Оглавление:**\n\n- What players call macros, scripts and AHK in Dota 2\n- Difference between simple keybinds, macros and full cheat scripts\n- Popular use cases: Invoker, Meepo, Tinker, Skywrath\n- Why free scripts break after patches\n- Ban-risk and detection wording without false guarantees\n- Melonity V8 scripting API as a premium alternative\n- Why Humanizer matters for scripted actions\n- CTA: use a supported Dota 2 cheat instead of abandoned AHK snippets\n\n**Рекламная интеграция:** прямая ближе к середине. Это один из самых сильных мостов к V8 API.\n\n---"
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/dota-2.md",
+      "heading": "[Dota 2 Scripts Explained: Types, Functions and Risks](https://cheatsgaming.com/games/dota-2/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d)",
+      "excerpt": "### [Dota 2 Scripts Explained: Types, Functions and Risks](https://cheatsgaming.com/games/dota-2/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d)\n\nDota 2 scripts explained by category, from alerts and macros to hero combos, defensive actions, farming helpers and official Workshop bots."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/mediumcom-mrkhertz.md",
+      "heading": "[Dota 2 Cheats & Scripts Explained: All about dota hacks ### Ultimate guide to the world of dota 2 cheats. All about scripts and functionality.](https://medium.com/@mrkhertz/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d?source=user_profile_page---------2-------------5be60fc7a930----------------------)",
+      "excerpt": "## [Dota 2 Cheats & Scripts Explained: All about dota hacks ### Ultimate guide to the world of dota 2 cheats. All about scripts and functionality.](https://medium.com/@mrkhertz/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d?source=user_profile_page---------2-------------5be60fc7a930----------------------)\n\n![Image 8: Dota 2 Cheats & Scripts Explained: All about dota hacks](https://miro.medium.com/v2/resize:fill:160:106/1*0C1Pds8QxuG9RngVK2iz8Q.png)\n\n![Image 9: Dota 2 Cheats & Scripts Explained: All about dota hacks](https://miro.medium.com/v2/resize:fill:320:214/1*0C1Pds8QxuG9RngVK2iz8Q.png)\n\nPinned\n\n[![Image 10: Mark Hertz](https://miro.medium.com/v2/resize:fill:40:40/1*ZTVrjdF_JDZZTRH4s6DywQ.jpeg)](https://medium.com/@mrkhertz?source=user_profile_page---------3-------------5be60fc7a930----------------------)\n\n[Mark Hertz](https://medium.com/@mrkhertz?source=user_profile_page---------3-------------5be60fc7a930----------------------)\n\n·\n\nOct 7, 2025"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "EN",
+      "excerpt": "#### EN\n1. **«Stuck in low priority»** — emotional content\n2. **«Toxic teammates»** — universal\n3. **«Behavior score reset»** — техническое + эмоциональное\n4. **«Why is my matchmaking so bad?»** — endless discussion\n5. **«Hero balance complaints»** — patch reactions\n6. **«How to play [hero] in 2026»** — high SEO + viral\n7. **«Pro tips from [pro player]»** — authority content\n8. **«Ranked vs Turbo mode»** — debate-fueling\n9. **«Smurf detection by Valve»** — technical interest"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/dota-2.md",
+      "heading": "[Raise Dota 2 Behavior Score: A Practical Recovery Plan](https://cheatsgaming.com/games/dota-2/raise-behavior-score-in-dota-2-fast-recovery-cdfb4cad6820)",
+      "excerpt": "### [Raise Dota 2 Behavior Score: A Practical Recovery Plan](https://cheatsgaming.com/games/dota-2/raise-behavior-score-in-dota-2-fast-recovery-cdfb4cad6820)\n\nRaise Dota 2 behavior score through reliable match completion, controlled communication, fewer reports and a realistic one-account recovery routine."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/dota-2.md",
+      "heading": "[Best Dota 2 Cheats: How to Choose a Private Tool](https://cheatsgaming.com/games/dota-2/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6)",
+      "excerpt": "### [Best Dota 2 Cheats: How to Choose a Private Tool](https://cheatsgaming.com/games/dota-2/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6)\n\nChoose the best Dota 2 cheats using a practical checklist for features, build status, access plans, delivery, support and permanent-ban risk."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/dota-2.md",
+      "heading": "[Melonity vs Umbrella Dota 2 Cheats: Which Fits You?](https://cheatsgaming.com/games/dota-2/melonity-vs-umbrella-dota-2-cheats)",
+      "excerpt": "### [Melonity vs Umbrella Dota 2 Cheats: Which Fits You?](https://cheatsgaming.com/games/dota-2/melonity-vs-umbrella-dota-2-cheats)\n\nMelonity vs Umbrella for Dota 2: review feature scope, interface priorities, access, update evidence, delivery and account-risk disclosures."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/dota-2.md",
+      "heading": "[Dota 2 Macros: Types, Limits and Ban Risk](https://cheatsgaming.com/games/dota-2/dota-2-macros-download-and-better-options-e93789e42036)",
+      "excerpt": "### [Dota 2 Macros: Types, Limits and Ban Risk](https://cheatsgaming.com/games/dota-2/dota-2-macros-download-and-better-options-e93789e42036)\n\nUnderstand Dota 2 macros, hardware profiles, fixed input sequences, adaptive scripts, practical limits and the account risk of automated actions.\n\nQUICK ANSWER"
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

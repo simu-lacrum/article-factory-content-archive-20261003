@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 481,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Как растянуть экран кс 2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13803",
+    "cluster": "Разрешение / Графика",
+    "main_query": "как растянуть экран кс 2",
+    "score": 57.89071474203475,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"как растянуть экран кс 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Разрешение / Графика\", \"как растянуть экран кс 2\", \"как растянуть экран кс 2\", \"как растянуть экран в кс2\", \"как растянуть экран в кс 2 без потери качества\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable sources:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- User-provided feature list in the 2026-06-27 goal.\n\nNot usable as factual source:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "6.2. Роли референсов",
+      "excerpt": "### 6.2. Роли референсов\n\nПри загрузке референсов каждый файл должен получить уникальную роль. Пример:\n\n- Image 1 — `composition reference`: взять масштаб героя, свободную верхнюю треть и фронтальный кроп.\n- Image 2 — `material reference`: взять прозрачный синий пластик и характер рассеянных бликов.\n- Image 3 — `palette reference`: взять соотношение лавандового поля, молочно-белого объекта и малого желтого акцента.\n- Image 4 — `subject reference`: сохранить форму конкретного объекта, не копировать фон и текст.\n\nНельзя писать «используй эти картинки как референс» без разграничения. Модель может смешать взаимоисключающие ракурсы, палитры и материалы. Ветка A получает один-два релевантных референса, если они доступны. Для ветки B два реальных файла из сохраненного набора обязательны: один отвечает за композиционный силуэт, второй — за render/palette/typography. Полный набор — база анализа; конкретная генерация получает только A или только B. Не прикладывать референс ветки A к промпту B «для общего настроения» и наоборот. `Reference roles: none` автоматически дисквалифицирует B."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.8. Референс №8 — звонок на металлическом столе",
+      "excerpt": "### 3.8. Референс №8 — звонок на металлическом столе\n\n- Формат: 1024 × 1280, вертикаль 4:5.\n- Палитра: темный стальной серый около 58%, светлый серый около 27%, желтый около 3%.\n- Камера: строго сверху.\n- Сцена: поднос, грязная чашка, ложка, стакан и телефон с входящим звонком на металлической поверхности.\n- Свет: полосы солнечного света и длинные геометрические тени.\n- Эмоция: тихая кинематографическая история после события; людей нет, но их присутствие считывается.\n- Что переносить: повествование через следы действия, материальность нержавеющей стали, минимальный цветной экран как семантический центр."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.5. Референс №5 — плоский экран загрузки",
+      "excerpt": "### 3.5. Референс №5 — плоский экран загрузки\n\n- Формат: 1024 × 1280, вертикаль 4:5.\n- Палитра: лавандовый около 86%, почти белый около 5%, черный около 1%.\n- Композиция: огромный черный текст сверху и слева, белая округлая информационная плашка, крупный трехмерный индикатор загрузки снизу.\n- Плотность: минимум объектов, много активного одноцветного поля.\n- Что переносить: предельную графическую ясность, один знак в качестве героя и уверенное пустое пространство."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "1. КРАТКИЙ ПРОФИЛЬ БРЕНДА",
+      "excerpt": "## 1. КРАТКИЙ ПРОФИЛЬ БРЕНДА\n\n| Атрибут | Значение |\n| --- | --- |\n| Бренд | **Melonity** |\n| Основной сайт | melonity.gg |\n| Категория | Premium gaming assistance software (cheats & scripts) |\n| Игра | Dota 2 (единственный продукт; CS2/Deadlock пока нет) |\n| Продукт-флагман | **Melonity V2** на собственном движке V8 scripting |\n| На рынке с | 2020 г. (6 лет) |\n| Главные слоганы | «We have been industry leaders for 6 years now» / «Лидирующий проект премиальных читов на Dota 2» |\n| Контент-фабрика | 6 инфлюенсеров на зарплате (5 RU + 1 ES) + дополнительные на реферальной программе |\n| Модель монетизации | Подписка SaaS (1 день / 7 дней / 30 дней / 90 дней) |\n| Юридический фрейм | В премиум-визуальной коммуникации (главный экран сайта, hero-section) допустимо «assistant», «software», «scripts». В SEO-контенте, YouTube-заголовках, постах, мета-описаниях, форумных публикациях — обязательно используем `cheat`, `hack`, `чит`, `хак` как ключевые слова: это приоритетные поисковые запросы аудитории. |"
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.17. Вторая волна, референс B7 — смартфон с условиями тарифа",
+      "excerpt": "### 3.17. Вторая волна, референс B7 — смартфон с условиями тарифа - Файл: `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-07.png`; 1200 × 1200, квадрат 1:1; SHA-256 начинается с `70c7d83c8ff988d9`. - Палитра: белая экранная поверхность и насыщенный желтый сет занимают почти весь кадр; темный текст создает высокую контрастность. Средняя яркость около 0,93, а белые области занимают примерно треть изображения. - Композиция: смартфон экстремально обрезан сверху и по бокам, занимая верхние 60%; огромный заголовок расположен в нижней трети. Устройство нависает над текстом и физически визуализирует «условия внутри продукта». - Камера и материал: макро-фронтальный ракурс с небольшим наклоном, золотистая металлическая рамка, чистое стекло и аккуратные аппаратные отверстия. Глубина резкости направлена на кромку телефона, а мелкий экранный текст сознательно уходит в мягкий фокус. - Иерархия: короткая плашка на экране, затем крупный внешний тезис; юридический микротекст внизу не является переносимым стилевым требованием. - Что переносить: один реальный по конструкции девайс как рамка для абстрактной информации, макро-кроп, контраст «мелкие условия внутри — крупный вывод снаружи». - Чего не копировать: форму конкретного телефона, тариф, банковский текст и псевдодокумент. Для продуктовой статьи реальный UI нельзя заменять выдуманным; conceptual экран должен быть без данных или..."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.3. Референс №3 — прозрачная синяя консоль",
+      "excerpt": "### 3.3. Референс №3 — прозрачная синяя консоль\n\n- Формат: 720 × 1280, вертикаль 9:16.\n- Палитра: почти белый около 68%, синий около 13%, светло-синий около 6%.\n- Объект: ретро-консоль из прозрачного синего пластика с экраном, ползунками, индикаторами и большой кнопкой.\n- Иерархия: смысл и типографика встроены в экран объекта, а не наложены поверх случайно.\n- Материалы: прозрачный литой пластик, мягкая глянцевая поверхность, минимальные металлические детали.\n- Камера: предметная съемка, три четверти, умеренная перспектива.\n- Что переносить: превращение абстрактной темы в правдоподобный прибор; UI становится частью физического продукта."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

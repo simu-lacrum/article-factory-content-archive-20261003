@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 16,
+    "game": "deadlock",
+    "language": "en",
+    "title": "Deadlock Aimbot Settings Explained",
+    "source_kind": "curated_topic_seed",
+    "source_ref": "knowledge/topic_seeds/deadlock-cs2-cluster-center.json",
+    "cluster": "Deadlock cluster.center: aimbot modes and settings",
+    "main_query": "deadlock aimbot settings",
+    "score": 96.0,
+    "volume_words": "1,600-2,300 words",
+    "outline_json": "[\"What players mean by Deadlock aimbot settings\", \"Default, silent, and mixed aim modes at a high level\", \"FOV, smooth, target lock, targets, and hitboxes\", \"Why easing and ignore filters matter for readability\", \"Where cluster.center fits\", \"FAQ\"]",
+    "ad_integration": "Native cluster.center integration after high-level explanation",
+    "evidence_json": "[\"knowledge/agent_memory/products/deadlock-cluster-center-internal.md\", \"Aimbot modes: default, silent, default + silent\", \"Targets: players, XP orbs, creeps\", \"Hitboxes: head, neck, spine, hips\"]",
+    "risk_level": "restricted",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Published Topic Memory",
+      "excerpt": "## Published Topic Memory\n\nThe direct ranking/listicle topic is already published:\n\n- `Top Cheats for Deadlock. The Best Deadlock Hack`.\n\nDo not repeat direct angles such as:\n\n- top cheats for Deadlock\n- best Deadlock hack\n- Deadlock hack ranking\n\nAllowed adjacent angles:\n\n- Deadlock aimbot settings explained.\n- Deadlock ESP explained.\n- Deadlock FOV changer and visibility features.\n- Deadlock auto parry and movement assistance.\n- Deadlock cheat feature glossary.\n- Deadlock cluster.center feature overview."
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- Use these features as factual local product memory for Deadlock articles.\n- Prefer high-level descriptions such as \"aim-assistance modes\", \"ESP visual layers\", \"FOV and world-color customization\", \"auto dash jump\", and \"auto parry\".\n- Do not write installation steps, bypass steps, anti-cheat evasion steps, or low-level technical implementation.\n- Suggested adjacent article angles:\n  - Deadlock ESP explained.\n  - Deadlock aimbot settings explained at a high level.\n  - Deadlock FOV and visibility features.\n  - Deadlock auto parry and movement assistance.\n  - Deadlock cheat feature glossary."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Published And Duplicate Topic Memory",
+      "excerpt": "## Published And Duplicate Topic Memory\n\nDirect topics already covered by imported sources:\n\n- `Top Cheats for CS2. The Best Hack`.\n- `Best CS2 Hack`.\n- `Cluster CS2 External review`.\n- `Обзор функционала чита Cluster для CS2`.\n\nAllowed adjacent angles:\n\n- CS2 Aimbot settings explained.\n- CS2 TriggerBot settings explained.\n- CS2 ESP and visual indicators explained.\n- CS2 External feature glossary.\n- CS2 Bomb Timer, Spectator List, and Keybinds explained.\n- CS2 Chams and visuals in external cheats."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?",
+      "excerpt": "# Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8\n\nTitle: Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?\n\nURL Source: https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8\n\nPublished Time: 2026-06-24T10:20:29.128Z\n\nMarkdown Content:"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?",
+      "excerpt": "# Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8\n\nTitle: Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?\n\nURL Source: https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8\n\nPublished Time: 2026-06-24T10:20:29.128Z\n\nMarkdown Content:"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock.md",
+      "heading": "[Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8)",
+      "excerpt": "### [Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8)\n\nGood afternoon, everyone. Today we’re talking about something that affects all Deadlock players in one way or another: whether Valve bans cheaters and what methods they use to do it."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock.md",
+      "heading": "[Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8)",
+      "excerpt": "### [Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8)\n\nGood afternoon, everyone. Today we’re talking about something that affects all Deadlock players in one way or another: whether Valve bans cheaters and what methods they use to do it."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924.md",
+      "heading": "Aimbot and Soul Aimbot",
+      "excerpt": "### Aimbot and Soul Aimbot\n\nYou can’t do without it. The aimbot in Cluster is, by far, the best I’ve ever seen. It has very flexible settings, letting you choose the crosshair, miss rate, and so on.\n\nThere’s also a soul aimbot here that lets you collect souls and deny them from your opponent with a single click, which gives you a huge advantage at the start of the game.\n\n![Image 6: Aimbot in cluster.center deadlock](https://cheatsgaming.com/media/medium/b19efa2e7047c38e0b02f9ab.gif)\n\nAimbot in cluster.center deadlock"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/diowebhost-t2-20260913/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924.md",
+      "heading": "Aimbot and Soul Aimbot",
+      "excerpt": "### Aimbot and Soul Aimbot\n\nYou can’t do without it. The aimbot in Cluster is, by far, the best I’ve ever seen. It has very flexible settings, letting you choose the crosshair, miss rate, and so on.\n\nThere’s also a soul aimbot here that lets you collect souls and deny them from your opponent with a single click, which gives you a huge advantage at the start of the game.\n\n![Image 6: Aimbot in cluster.center deadlock](https://cheatsgaming.com/media/medium/b19efa2e7047c38e0b02f9ab.gif)\n\nAimbot in cluster.center deadlock"
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

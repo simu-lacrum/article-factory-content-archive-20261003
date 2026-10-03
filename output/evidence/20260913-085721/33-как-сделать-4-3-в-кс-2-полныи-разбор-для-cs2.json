@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 351,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Как сделать 4 3 в кс 2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13732",
+    "cluster": "Разрешение / Графика",
+    "main_query": "как сделать 4 3 в кс 2",
+    "score": 58.829739026800716,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"как сделать 4 3 в кс 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Разрешение / Графика\", \"как сделать 4 3 в кс 2\", \"как сделать 4 3 в кс 2\", \"как растянуть экран в кс 2\", \"как поставить 4 3 в кс 2\", \"как сделать растянутый экран в кс 2\", \"как растянуть 4 3 на весь экран в кс 2\", \"как сделать 4 3 в кс 2 без потери качества\", \"как растянуть кс 2 в обс\", \"как растянуть кс 2 на весь экран в разрешении 4 3\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable sources:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- User-provided feature list in the 2026-06-27 goal.\n\nNot usable as factual source:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "6.5. Размер и формат",
+      "excerpt": "### 6.5. Размер и формат\n\nДля рабочего мастер-ассета использовать 2K. 4K оправдан для финальной обложки, печати, сложной типографики или последующего кропа. 1K допустим для быстрых композиционных проб.\n\nРекомендуемые форматы:\n\n- вертикальный social/editorial poster: `9:16`, 2K или 4K;\n- Medium/блоговая обложка: `16:9`, 2K или 4K;\n- карточка ленты: `4:5`, 2K;\n- inline editorial image: `3:2`, 2K;\n- квадратная карточка: `1:1`, 2K;\n- панорамный разделитель: `21:9`, 2K.\n\nНе просить абстрактные «1200 × 630» внутри текстового промпта, если интерфейс отдельно принимает aspect ratio. Указать `16:9` в модели, затем сделать точный веб-ресайз после генерации."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "6.2. Роли референсов",
+      "excerpt": "### 6.2. Роли референсов\n\nПри загрузке референсов каждый файл должен получить уникальную роль. Пример:\n\n- Image 1 — `composition reference`: взять масштаб героя, свободную верхнюю треть и фронтальный кроп.\n- Image 2 — `material reference`: взять прозрачный синий пластик и характер рассеянных бликов.\n- Image 3 — `palette reference`: взять соотношение лавандового поля, молочно-белого объекта и малого желтого акцента.\n- Image 4 — `subject reference`: сохранить форму конкретного объекта, не копировать фон и текст.\n\nНельзя писать «используй эти картинки как референс» без разграничения. Модель может смешать взаимоисключающие ракурсы, палитры и материалы. Ветка A получает один-два релевантных референса, если они доступны. Для ветки B два реальных файла из сохраненного набора обязательны: один отвечает за композиционный силуэт, второй — за render/palette/typography. Полный набор — база анализа; конкретная генерация получает только A или только B. Не прикладывать референс ветки A к промпту B «для общего настроения» и наоборот. `Reference roles: none` автоматически дисквалифицирует B."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "6.4. Локальные правки вместо полного перезапуска",
+      "excerpt": "### 6.4. Локальные правки вместо полного перезапуска\n\nПосле выбора лучшего варианта не просить модель «сделать еще раз лучше» целиком. Работать последовательными правками:\n\n1. Зафиксировать героя, ракурс и кадрирование.\n2. Исправить фон или палитру.\n3. Исправить только свет/фокус.\n4. Исправить только текст или удалить его.\n5. Адаптировать aspect ratio, сохранив позицию героя.\n\nФормула локальной правки:\n\n`Keep [locked elements] exactly unchanged. Modify only [target region/property]. Preserve [identity, crop, materials, lighting relationship]. Do not add [forbidden changes].`"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/external-forums/335446.md",
+      "heading": "Инвайт в Deadlock — как получить?",
+      "excerpt": "# Инвайт в Deadlock — как получить? > This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work. Source URL: https://yougame.biz/threads/335446/ Title: Инвайт в Deadlock — как получить? URL Source: https://yougame.biz/threads/335446/ Markdown Content: Deadlock — это новая игра от Valve, сейчас находящаяся на стадии закрытого бета-тестирования. Пока что она недоступна для всех, и для того чтобы в неё поиграть, нужно получить приглашение. Может показаться, что попасть в тестирование не так уж просто, но на самом деле есть несколько довольно лёгких способов, как это сделать. В этом руководстве я расскажу, как можно получить инвайт, а также поделюсь несколькими советами, которые помогут вам увеличить шансы на успех. ![Image 1: sZlVQ9c.png](https://yougame.biz/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FsZlVQ9c.png&hash=06773a9e87c9a49b03855270065b9dc8) **Почему Дедлок пока не доступна всем?** Деад Лок сейчас в закрытом бета-тестировании, и это совершенно нормально. Игра была недавно анонсирована, и разработчики активно трудятся над её улучшением: исправляют ошибки, добавляют новые фичи и делают баланс более точным. Бета-версия — это шанс для разработчиков получить отзывы от игроков, понять, что работает хорошо, а что нужно доработать. Чем..."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+      "heading": "1. Aimbot: Для безопасной игры",
+      "excerpt": "## 1. Aimbot: Для безопасной игры\n\nАимбот в Cluster создан не для того, чтобы крутиться волчком и раздавать хэдшоты через всю карту (хотя гибкость настроек позволяет многое). Его главная задача плавная, человечная доводка (aim-assistance), которая никогда не вызовет подозрений у серверных нейросетей.\n\n*   **Fov & Smooth:** База любого легитного чита. Вы настраиваете радиус захвата (FOV) и плавность наводки (Smooth). Именно идеальный баланс Smooth делает движения вашей мыши естественными.\n*   **Target Priority & Hitboxes:** Чит позволяет тонко настроить приоритет целей (ближе к прицелу или по шансу попадания). Вы можете выбрать конкретные хитбоксы для наводки: Head, Neck, Spine, Hips, Arms, Legs. Хотите играть с AWP? Ставьте приоритет на Spine/Hips. Играете с диглом? Только Head/Neck.\n*   **Умные проверки (Checks):** Аимбот никогда не выдаст вас глупым выстрелом. Встроенные проверки на видимость (Visible), ослепление (Flash) и союзников (Team) гарантируют, что прицел не дернется на противника за стеной или пока вы стоите ослепленные.\n*   **Auto Pistol & Настройка под каждое оружие (Weapons):** Отдельные профили под разные пушки позволяют сделать идеальный конфиг.\n\nPress enter or click to view image in full size\n\n![Image 2](https://miro.medium.com/v2/resize:fit:700/1*_-u_2X9ofysvvtRV7IXGdQ.gif)\n\nРабота AimBot Cluster.center"
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "9.2. Dota 2",
+      "excerpt": "### 9.2. Dota 2\n\nВизуальный язык:\n\n- lavender, off-white, muted coral, translucent amber;\n- ветвящиеся дорожки, жетоны, орбиты, узлы, линзы, проекторы;\n- более органичные округлые формы, чем у CS2;\n- мягкий пластик и световые траектории.\n\nДопустимые абстракции: линия как конвейер, вардинг как система линз, тайминг как вращающаяся кассета, draft как физический селектор, macro decisions как пульт с ветвлением.\n\nНе использовать: узнаваемых героев, иконки способностей, официальный логотип и буквальную карту без разрешения/источника."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "9.3. Deadlock",
+      "excerpt": "### 9.3. Deadlock\n\nВизуальный язык:\n\n- amber/orange, steel blue, charcoal, dirty off-white;\n- вертикальные структуры, рельсы, мосты, лифты, сферы и узлы;\n- городской промышленный продукт-дизайн;\n- контраст матового металла и полупрозрачного янтарного пластика.\n\nДопустимые абстракции: вертикальность как многоэтажный прибор, lane control как железнодорожный узел, mobility как тросовый механизм, ресурс как светящийся физический модуль."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 8,
+    "game": "dota2",
+    "language": "en",
+    "title": "Best Dota 2 Autoexec.cfg and FPS Settings: Max FPS, Ping, Config Transfer and Stable Gameplay",
+    "source_kind": "cluster_map",
+    "source_ref": "melonity-seo-cluster-map-en.md",
+    "cluster": "`GENERAL: настройки/конфиг/производительность` -> FPS / Autoexec / Config",
+    "main_query": "Best Dota 2 Autoexec.cfg and FPS Settings: Max FPS, Ping, Config Transfer and Stable Gameplay",
+    "score": 100.0,
+    "volume_words": "1,800-2,300 words.",
+    "outline_json": "[\"What autoexec.cfg does in Dota 2\", \"Max FPS, ping and frame-time basics\", \"Launch options worth checking\", \"How to transfer config to another account\", \"Why FPS stability matters for combo heroes\", \"Melonity angle: stable performance requirements, Windows 7-11 support, settings checklist before using scripts\", \"FAQ: where cfg is stored, why commands reset, what to avoid\"]",
+    "ad_integration": "нативная. Это top-funnel тема, поэтому реклама должна быть soft: \"after stabilizing the client, advanced players add Melonity for scripts/visuals.\"",
+    "evidence_json": "[\"`GENERAL: настройки/конфиг/производительность` -> FPS / Autoexec / Config\", \"SERP состоит из Reddit, GitHub gists, старых Steam-гайдов и отдельных свежих статей. Можно выиграть структурой и актуализацией.\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "8. `GENERAL: настройки/конфиг/производительность` -> FPS / Autoexec / Config",
+      "excerpt": "### 8. `GENERAL: настройки/конфиг/производительность` -> FPS / Autoexec / Config\n\n**Почему кластер:** KD 5, EN-запросы: `max fps dota 2`, `boost fps dota 2`, `autoexec dota 2`, `dota 2 cfg`.\n\n**EN article title:** `Best Dota 2 Autoexec.cfg and FPS Settings: Max FPS, Ping, Config Transfer and Stable Gameplay`\n\n**Объем:** 1,800-2,300 words.\n\n**Почему можно ранжироваться:** SERP состоит из Reddit, GitHub gists, старых Steam-гайдов и отдельных свежих статей. Можно выиграть структурой и актуализацией.\n\n**Оглавление:**\n\n- What autoexec.cfg does in Dota 2\n- Max FPS, ping and frame-time basics\n- Launch options worth checking\n- How to transfer config to another account\n- Why FPS stability matters for combo heroes\n- Melonity angle: stable performance requirements, Windows 7-11 support, settings checklist before using scripts\n- FAQ: where cfg is stored, why commands reset, what to avoid\n\n**Рекламная интеграция:** нативная. Это top-funnel тема, поэтому реклама должна быть soft: \"after stabilizing the client, advanced players add Melonity for scripts/visuals.\"\n\n---"
+    },
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "Итоговый приоритет публикации",
+      "excerpt": "## Итоговый приоритет публикации\n\n| Приоритет | Статьи |\n| --- | --- |\n| P1: лучший баланс traffic / buyer intent / низкая конкуренция | Behavior Score, Hidden Pool, Skin Changer, AHK/Macros, Melonity Setup, HWID Spoofer |\n| P2: хороший добор и внутренние перелинковки | Low Priority, Reports, Overwolf/Overlay, Invoker Auto Cast, Dota Boost vs Tool |\n| P3: прогрев / social / YouTube-friendly | Random Hero Challenge, Courier Info, FPS/Autoexec |"
+    },
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "3. `MEL: бренд Melonity` -> Setup / CFG / Trial",
+      "excerpt": "### 3. `MEL: бренд Melonity` -> Setup / CFG / Trial\n\n**Почему кластер:** KD 2, собственный бренд: `melonity dota 2`, `melonity spoofer dota 2`, `melonity dota 2 cfg`, `melonity dota 2 promokod`.\n\n**EN article title:** `Melonity Dota 2 Setup Guide: Free Trial, CFG, Spoofer and First Safe Launch`\n\n**Объем:** 1,500-2,000 words.\n\n**Почему можно ранжироваться:** брендовый SERP проще контролировать, а часть выдачи по spoofer/cfg выглядит рыхлой и часто уводит в некачественные страницы.\n\n**Оглавление:**\n\n- What Melonity is: premium Dota 2 cheat and scripts platform\n- What is included in Melonity V2\n- How the free trial works\n- What CFG/settings mean in Melonity\n- Spoofer basics: when users need it\n- First launch checklist\n- Common mistakes after installing any Dota 2 cheat\n- CTA: official site, Telegram, Discord, support bot\n\n**Рекламная интеграция:** прямая. Это брендовая посадочная статья, задача - забирать навигационный и troubleshooting-трафик.\n\n---"
+    },
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "14. `COMP: Umbrella` -> Umbrella CFG / Not Launching / Alternatives",
+      "excerpt": "### 14. `COMP: Umbrella` -> Umbrella CFG / Not Launching / Alternatives\n\n**Почему кластер:** KD 5, но не повтор прямого сравнения: `umbrella dota 2 cfg`, `umbrella dota 2 настройка`, `umbrella dota 2 не запускается`, `umbrella dota 2 promokod`.\n\n**EN article title:** `Umbrella Dota 2 CFG and Setup Problems: Settings, Launch Issues and Alternatives`\n\n**Объем:** 1,800-2,400 words.\n\n**Почему можно ранжироваться:** это competitor-intercept без повторения `Melonity vs Umbrella`. Пользователь уже ищет настройку или проблему.\n\n**Оглавление:**\n\n- What users search for when they type Umbrella Dota 2 CFG\n- Common setup issues in Dota 2 cheat tools\n- What to check before blaming the cheat: game mode, Windows, overlay, antivirus, updates\n- Why users compare alternatives after launch problems\n- Melonity angle: 6 years, support, free trial, V8 scripts, community\n- CTA: try Melonity if you want a supported premium Dota 2 cheat\n\n**Рекламная интеграция:** direct competitor intercept, но без токсичного тона. Не писать \"Umbrella плохой\"; писать \"если ищешь альтернативу, вот чем Melonity отличается\".\n\n---"
+    },
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "SERP notes used",
+      "excerpt": "## SERP notes used\n\n- Behavior Score EN SERP has Reddit, Profilerr, TenTonHammer, Alphr, Eloking, Hotspawn and Liquipedia-style informational pages.\n- Hidden/smurf pool EN SERP has Reddit and community discussions, with weak evergreen coverage.\n- Low Priority EN SERP has Reddit, Steam discussions, esports.gg, old YouTube and several short boost-service guides.\n- Skin Changer EN SERP has YouTube, GitHub pages, old Reddit and mixed-quality free-tool pages.\n- AHK/macros EN SERP has old AutoHotkey, Dotabuff, Reddit, Steam and YouTube content, often 8-13 years old.\n- FPS/autoexec EN SERP has Reddit, GitHub gists, Steam guides and several generic performance articles.\n- Randomizer EN SERP has fan tools and simple generators, not deep editorial articles."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/how-to-install-dota-2-cheats-hacks-for-free-de9e42a6b202.md",
+      "heading": "4. Launch and configure carefully",
+      "excerpt": "### 4. Launch and configure carefully\n\nAfter setup, open the product according to the official instructions and configure it slowly.\n\nThe Melonity includes a default CFG that is available to all users and works right out of the box. I recommend going to the training section and testing it with all its features.\n\nDo not turn on every feature at once. A cheat for Dota 2 is easier to understand when you start with a few basic settings, test how they feel, and adjust from there."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "4. Launch and configure carefully",
+      "excerpt": "### 4. Launch and configure carefully\n\nAfter setup, open the product according to the official instructions and configure it slowly.\n\nThe cluster includes a default CFG that is available to all users and works right out of the box. I recommend going to the training section and testing it with all its features. Read\n\nDo not turn on every feature at once. A cheat for CS2 is easier to understand when you start with a few basic settings, test how they feel, and adjust from there."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/how-to-install-dota-2-cheats-hacks-for-free-de9e42a6b202.md",
+      "heading": "Quick answer",
+      "excerpt": "## Quick answer\n\nIf you want to install a Dota 2 hack, the safe high-level flow is:\n\n1.   Go to the official Melonity.gg website.\n2.   Register an account or log in.\n3.   Check that you have access to the Dota 2 product.(**All users who register receive a free 7-day subscription to all Melonity products and cheats.**)\n4.   Download only from the official source.\n5.   Follow the official instructions from melonity.gg(There is a link to it in your account on the website in the form of a video).\n6.   Launch and configure the cheat for Dota 2 carefully, using conservative settings first. Melonity comes with a default CFG right out of the box, but first try to get the hang of the cheat in a custom match (use only Stockholm).\n\nThat is the whole idea. The details should come from the official website and support channels, not from random files, reposts, or “free Dota 2 hack” archives from search results."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "4. Launch and configure carefully",
+      "excerpt": "### 4. Launch and configure carefully\n\nAfter setup, open the product according to the official instructions and configure it slowly.\n\nThe cluster includes a default CFG that is available to all users and works right out of the box. I recommend going to the training section and testing it with all its features. Read\n\nDo not turn on every feature at once. A cheat for CS2 is easier to understand when you start with a few basic settings, test how they feel, and adjust from there.\n\nFor a first run, focus on comfort:\n\n*   readable visuals;\n*   simple keybinds;\n*   modest aim settings;\n*   no overloaded screen;\n*   one weapon profile at a time.\n\nThat is enough to learn the menu without making your game look chaotic.\n\n![Image 4: Cluster CS2 Cheat UI](https://cheatsgaming.com/media/medium/0d3a3a87d2c17e579574113f.jpg)"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "9.0.4. Приоритет web2.0-пакетов",
+      "excerpt": "#### 9.0.4. Приоритет web2.0-пакетов\n\n- **Пакет A — Core commercial:** 20-30 статей под `чит/cheat/hack`, `MapHack`, `scripts`, `Melonity review`, `Melonity vs Umbrella`, `best Dota 2 cheat 2026`.\n- **Пакет B — Native education:** 40-60 статей под MMR, ranks, calibration, behavior score, hidden/smurf pool, low priority, console/FPS, patch/meta.\n- **Пакет C — Hero-specific:** 30-50 статей по героям, где есть сильная связка с функциями: Invoker auto-cast, Pudge hook, Arc Warden clone control, Meepo control, Tinker combo, Zeus vision, Nyx/Bounty/Spectre map awareness.\n- **Пакет D — Comparisons and trust:** 10-15 статей по конкурентам и рынку: Umbrella, Octarine, Divine, Hake, skinchangers, «почему стабильных Dota cheats так мало»."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

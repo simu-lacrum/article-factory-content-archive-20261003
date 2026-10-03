@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 394,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Как забиндить ноуклип кс2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13756",
+    "cluster": "Консоль / Команды / Бинды",
+    "main_query": "как забиндить ноуклип кс2",
+    "score": 56.328086576717034,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"как забиндить ноуклип кс2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Консоль / Команды / Бинды\", \"как забиндить ноуклип кс2\", \"как забиндить ноуклип кс2\", \"как забиндить ноуклип в кс2\", \"как забиндить ноклип в кс2\", \"как забиндить кнопку в кс2\", \"как забиндить клавишу в кс2\", \"как забиндить фразу в кс2\", \"как забиндить сообщение в чат в кс2\", \"как забиндить команду в кс2\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable sources:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- User-provided feature list in the 2026-06-27 goal.\n\nNot usable as factual source:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "6.2. Роли референсов",
+      "excerpt": "### 6.2. Роли референсов\n\nПри загрузке референсов каждый файл должен получить уникальную роль. Пример:\n\n- Image 1 — `composition reference`: взять масштаб героя, свободную верхнюю треть и фронтальный кроп.\n- Image 2 — `material reference`: взять прозрачный синий пластик и характер рассеянных бликов.\n- Image 3 — `palette reference`: взять соотношение лавандового поля, молочно-белого объекта и малого желтого акцента.\n- Image 4 — `subject reference`: сохранить форму конкретного объекта, не копировать фон и текст.\n\nНельзя писать «используй эти картинки как референс» без разграничения. Модель может смешать взаимоисключающие ракурсы, палитры и материалы. Ветка A получает один-два релевантных референса, если они доступны. Для ветки B два реальных файла из сохраненного набора обязательны: один отвечает за композиционный силуэт, второй — за render/palette/typography. Полный набор — база анализа; конкретная генерация получает только A или только B. Не прикладывать референс ветки A к промпту B «для общего настроения» и наоборот. `Reference roles: none` автоматически дисквалифицирует B."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "9.2. Dota 2",
+      "excerpt": "### 9.2. Dota 2\n\nВизуальный язык:\n\n- lavender, off-white, muted coral, translucent amber;\n- ветвящиеся дорожки, жетоны, орбиты, узлы, линзы, проекторы;\n- более органичные округлые формы, чем у CS2;\n- мягкий пластик и световые траектории.\n\nДопустимые абстракции: линия как конвейер, вардинг как система линз, тайминг как вращающаяся кассета, draft как физический селектор, macro decisions как пульт с ветвлением.\n\nНе использовать: узнаваемых героев, иконки способностей, официальный логотип и буквальную карту без разрешения/источника."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "9.3. Deadlock",
+      "excerpt": "### 9.3. Deadlock\n\nВизуальный язык:\n\n- amber/orange, steel blue, charcoal, dirty off-white;\n- вертикальные структуры, рельсы, мосты, лифты, сферы и узлы;\n- городской промышленный продукт-дизайн;\n- контраст матового металла и полупрозрачного янтарного пластика.\n\nДопустимые абстракции: вертикальность как многоэтажный прибор, lane control как железнодорожный узел, mobility как тросовый механизм, ресурс как светящийся физический модуль."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "9.1. CS2",
+      "excerpt": "### 9.1. CS2\n\nВизуальный язык:\n\n- acid yellow, off-white, charcoal, cool concrete gray;\n- геометрия дверей, углов, маршрутов, контейнеров, точек и линий;\n- строгие приборы, индустриальная поверхность, фронтальный hardware;\n- контролируемая резкость и контраст.\n\nДопустимые абстракции: карта как архитектурная модель, тайминг как механические часы, прицел как оптическая метка без оружия, экономика раунда как сортировочный терминал.\n\nНе использовать: скопированные карты, оружейные скины, официальный логотип, спецназовцев, террористов, огонь и generic esports arena."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/tier2-target-links-2026-08-05/gta.md",
+      "heading": "Обширный функционал и удобное меню",
+      "excerpt": "## Обширный функционал и удобное меню\n\nПосмотрите, как работает наш чит перед тем, как скачивать"
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.3. Референс №3 — прозрачная синяя консоль",
+      "excerpt": "### 3.3. Референс №3 — прозрачная синяя консоль\n\n- Формат: 720 × 1280, вертикаль 9:16.\n- Палитра: почти белый около 68%, синий около 13%, светло-синий около 6%.\n- Объект: ретро-консоль из прозрачного синего пластика с экраном, ползунками, индикаторами и большой кнопкой.\n- Иерархия: смысл и типографика встроены в экран объекта, а не наложены поверх случайно.\n- Материалы: прозрачный литой пластик, мягкая глянцевая поверхность, минимальные металлические детали.\n- Камера: предметная съемка, три четверти, умеренная перспектива.\n- Что переносить: превращение абстрактной темы в правдоподобный прибор; UI становится частью физического продукта."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "topic": {
+    "id": "deadlock-comparison",
+    "game": "deadlock",
+    "language": "en",
+    "title": "Where to Buy Deadlock Cheats: A Buyer Checklist",
+    "main_query": "where to buy deadlock cheats",
+    "reader_job": "Choose a current product page and plan by checking scope, price, support and terms before checkout",
+    "publication_action": "new_article"
+  },
+  "research_contract": {
+    "study_id": "seo-20260921",
+    "id": "deadlock-comparison",
+    "primary_query": "where to buy deadlock cheats",
+    "reader_job": "Choose a current product page and plan by checking scope, price, support and terms before checkout",
+    "publication_gate": "requires_original_content_and_editorial_review",
+    "reviewed_semantic_terms": [
+      "buy deadlock cheats",
+      "Deadlock cheat price",
+      "Deadlock cheat support"
+    ]
+  },
+  "evidence": [
+    {
+      "source": "https://cluster.center/en/deadlock",
+      "heading": "Cluster Deadlock public product page",
+      "excerpt": "Current public page lists the Deadlock product, plan selector, Windows requirements and feature categories. Captured 2026-09-26. Vendor statements are not independent tests.",
+      "captured_at": "2026-09-26",
+      "evidence_type": "publisher_statement_not_independent_test"
+    }
+  ],
+  "strict_rules": [
+    "No external links in public copy except Cluster",
+    "No anti-cheat bypass, evasion or implementation instructions",
+    "No unsupported guarantees, prices beyond dated page wording or personal tests"
+  ]
+}

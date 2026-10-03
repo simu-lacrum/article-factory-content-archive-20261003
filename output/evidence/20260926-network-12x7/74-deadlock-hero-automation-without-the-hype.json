@@ -1,0 +1,20 @@
+{
+  "evidence": [
+    {
+      "source": "https://deadlockhacks.com/guides/deadlock-hero-scripts-combo-automation-meaning",
+      "claim": "The phrase hero script can describe a tutorial, a macro-like sequence, or a product feature. A page should name which meaning it uses and what is actually visible in its example."
+    },
+    {
+      "source": "https://deadlockhacks.com/images/editorial/deadlock-hero-scripts-cover.webp",
+      "claim": "Deadlock hero scripts editorial cover from the source page"
+    }
+  ],
+  "image": "https://deadlockhacks.com/images/editorial/deadlock-hero-scripts-cover.webp",
+  "facts": "The phrase hero script can describe a tutorial, a macro-like sequence, or a product feature. A page should name which meaning it uses and what is actually visible in its example.",
+  "checks": [
+    "hero and ability scope",
+    "whether the example is manual or automated",
+    "conditions and exclusions",
+    "patch and maintenance context"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "Cluster vs Undetek",
+  "retrieved_at": "2026-09-08T18:13:41+03:00",
+  "method": "Public official pages only; no product installation or operational testing.",
+  "evidence": [
+    {"source": "https://cluster.center/en/cs2", "status": 200, "facts": ["Self-canonical target supplied and rechecked", "Aimbot, TriggerBot, ESP and HUD categories", "Windows 10/11 64-bit and Intel/AMD", "7, 30, 90 and 180 day selectors", "3-day new-account trial claim", "Telegram support route"]},
+    {"source": "https://cluster.center/en/documents/terms", "facts": ["Written support terms", "Updates included within a version", "Outage extension conditions described"]},
+    {"source": "https://undetek.app/", "status": 200, "facts": ["Free CS2 positioning", "Aimbot, wallhack/ESP and TriggerBot", "External overlay", "Windows 10/11", "Download count, active-since, undetected and stream-proof statements are vendor claims"]},
+    {"source": "C:/Users/User/.codex/attachments/6b26b61b-3631-4028-868b-376a10ffeda4/pasted-text-1.txt", "facts": ["Exact anchor and placement", "No universal winner", "Required worksheet and scenario cards"]},
+    {"source": "C:/Users/User/Desktop/articles/knowledge/agent_memory/products/product-map.md", "facts": ["CS2 maps to cluster.center", "No unsupported safety guarantees"]}
+  ]
+}

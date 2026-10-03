@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 453,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Что делать если не сохраняются настройки в кс 2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "1661",
+    "cluster": "Настройки / Конфиг",
+    "main_query": "что делать если не сохраняются настройки в кс 2",
+    "score": 59.95544172025252,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"что делать если не сохраняются настройки в кс 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Настройки / Конфиг\", \"что делать если не сохраняются настройки в кс 2\", \"что делать если не сохраняются настройки в кс 2\", \"что делать если настройки в кс 2 не сохраняются\", \"что делать если в кс 2 не сохраняются настройки\", \"как сбросить настройки кс 2 не заходя в игру\", \"как сбросить настройки в кс 2 не заходя в игру\", \"как сбросить настройки графики в кс 2 не заходя в игру\", \"как изменить настройки графики в кс 2 не заходя в игру\", \"что делать если при каждом запуске кс 2 сбрасываются настройки\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "10.3. Обложка 16:9",
+      "excerpt": "### 10.3. Обложка 16:9\n\n- Safe zone: 5–7%.\n- Предпочтительная схема: текст слева x 6–45%, герой справа x 52–98%.\n- Альтернатива: короткий заголовок сверху x 6–66%, герой снизу/справа.\n- Смысловой объект не помещать в центральные 8% вертикальной оси, если обложка часто кропается в карточках.\n- Делать запас фона 10–15% для адаптивного кадрирования."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cluster-ru-t2-15-20260910-links/cs2.md",
+      "heading": "Cluster CS2",
+      "excerpt": "## Cluster CS2\n\nCluster для CS2 — это приватный легитный чит с настраиваемой помощью в прицеливании, автоматической стрельбой, визуальной информацией и экранным HUD.\n\nВ актуальный набор функций входят Aimbot, TriggerBot, Wallhack и HUD. Каждая функция имеет собственные настраиваемые параметры, что позволяет пользователям регулировать отображение информации и поведение поддерживаемых игровых действий.\n\nМы приложили много усилий к оптимизации, безопасности и доступности, а также максимально упростили процесс настройки, чтобы покупка и использование наших приватных читов на CS2 были максимально удобными! Тем не менее, мы рекомендуем вам всегда взвешивать риски."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cluster-substack-targets-20260909-links/cs2.md",
+      "heading": "Cluster CS2",
+      "excerpt": "## Cluster CS2\n\nCluster для CS2 — это приватный легитный чит с настраиваемой помощью в прицеливании, автоматической стрельбой, визуальной информацией и экранным HUD.\n\nВ актуальный набор функций входят Aimbot, TriggerBot, Wallhack и HUD. Каждая функция имеет собственные настраиваемые параметры, что позволяет пользователям регулировать отображение информации и поведение поддерживаемых игровых действий.\n\nМы приложили много усилий к оптимизации, безопасности и доступности, а также максимально упростили процесс настройки, чтобы покупка и использование наших приватных читов на CS2 были максимально удобными! Тем не менее, мы рекомендуем вам всегда взвешивать риски."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/tier2-links-2026-08-05/топ-4-читов-для-deadlock-сравнение-функционала-цен-и-защиты-от-банов-8a3062388f8f.md",
+      "heading": "4 Место: Predator — Бюджетный вариант для старта",
+      "excerpt": "## 4 Место: Predator — Бюджетный вариант для старта\n\nЗамыкает наш топ чит **Predator**. Это минималистичное решение для игроков, которые только знакомятся со сторонним софтом и не готовы вкладывать крупные суммы.\n\n*   **Функционал:** Содержит базовый Wallhack (отображение врагов за препятствиями), простой векторный Аимбот без глубокой настройки предикции и фильтр отображения предметов/крипов.\n*   **Защита от бана:** Базовый уровень защиты. На мейн-аккаунтах с высоким рейтингом использовать не рекомендуется из-за риска получить блокировку по репортам или при обновлении античита.\n*   **Цена:** Главный плюс — доступная цена в районе **400–600 рублей за месяц**."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+      "heading": "1. Aimbot: Для безопасной игры",
+      "excerpt": "## 1. Aimbot: Для безопасной игры\n\nАимбот в Cluster создан не для того, чтобы крутиться волчком и раздавать хэдшоты через всю карту (хотя гибкость настроек позволяет многое). Его главная задача плавная, человечная доводка (aim-assistance), которая никогда не вызовет подозрений у серверных нейросетей.\n\n*   **Fov & Smooth:** База любого легитного чита. Вы настраиваете радиус захвата (FOV) и плавность наводки (Smooth). Именно идеальный баланс Smooth делает движения вашей мыши естественными.\n*   **Target Priority & Hitboxes:** Чит позволяет тонко настроить приоритет целей (ближе к прицелу или по шансу попадания). Вы можете выбрать конкретные хитбоксы для наводки: Head, Neck, Spine, Hips, Arms, Legs. Хотите играть с AWP? Ставьте приоритет на Spine/Hips. Играете с диглом? Только Head/Neck.\n*   **Умные проверки (Checks):** Аимбот никогда не выдаст вас глупым выстрелом. Встроенные проверки на видимость (Visible), ослепление (Flash) и союзников (Team) гарантируют, что прицел не дернется на противника за стеной или пока вы стоите ослепленные.\n*   **Auto Pistol & Настройка под каждое оружие (Weapons):** Отдельные профили под разные пушки позволяют сделать идеальный конфиг.\n\nPress enter or click to view image in full size\n\n![Image 2](https://miro.medium.com/v2/resize:fit:700/1*_-u_2X9ofysvvtRV7IXGdQ.gif)\n\nРабота AimBot Cluster.center"
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "cluster.center Positioning",
+      "excerpt": "## cluster.center Positioning\n\nUse `cluster.center` as the product/brand target for Deadlock and CS2 SEO articles.\n\nDetailed local product memory:\n\n- Deadlock: `knowledge/agent_memory/products/deadlock-cluster-center-internal.md`\n- CS2: `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n\nTone:\n\n- Calm, practical, premium, feature-oriented.\n- Avoid unsupported promises about bans, anti-cheat state, current detection status, or guaranteed outcomes.\n- Explain the game mechanic or reader problem first, then add one native product section.\n\nAllowed framing:\n\n- Game-assistance product.\n- Feature overview based on local memory.\n- Configuration and interface concepts at a high level.\n- Visual-awareness and aim-assistance categories, without operational evasion guidance.\n\nNot allowed:\n\n- Step-by-step bypass/evasion instructions.\n- Low-level implementation details.\n- Absolute safety claims."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "CS2 cluster.center External Feature Memory",
+      "excerpt": "# CS2 cluster.center External Feature Memory\n\nDate added: 2026-06-27\n\nThis file is product memory for CS2 articles. It describes the `Cluster CS2 External` feature set at a high level so future Codex agents can explain features in SEO articles without reopening source URLs."
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "Deadlock cluster.center Internal Feature Memory",
+      "excerpt": "# Deadlock cluster.center Internal Feature Memory\n\nThis file stores user-provided internal product memory for future Deadlock SEO articles. Treat it as local source memory for high-level feature descriptions. Do not turn it into operational bypass, exploit, or anti-cheat evasion guidance."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

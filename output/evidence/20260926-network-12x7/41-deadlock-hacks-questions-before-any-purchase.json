@@ -1,0 +1,20 @@
+{
+  "evidence": [
+    {
+      "source": "https://deadlockhacks.com/guides/where-to-buy-deadlock-cheats-buyer-checklist",
+      "claim": "A product page can state public terms and support routes. It cannot guarantee account safety or turn an anonymous mirror into an official source."
+    },
+    {
+      "source": "https://deadlockhacks.com/images/editorial/where-to-buy-deadlock-cheats-cover.webp",
+      "claim": "Deadlock buyer checklist editorial cover from the source page"
+    }
+  ],
+  "image": "https://deadlockhacks.com/images/editorial/where-to-buy-deadlock-cheats-cover.webp",
+  "facts": "A product page can state public terms and support routes. It cannot guarantee account safety or turn an anonymous mirror into an official source.",
+  "checks": [
+    "domain and source continuity",
+    "clear access terms",
+    "support and update history",
+    "a credible reason to walk away"
+  ]
+}

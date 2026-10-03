@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 11,
+    "game": "dota2",
+    "language": "en",
+    "title": "Dota 2 Couriers: Best Unusual Couriers, Courier Value and Why Courier Info Wins Games",
+    "source_kind": "cluster_map",
+    "source_ref": "melonity-seo-cluster-map-en.md",
+    "cluster": "`GENERAL: курьер` -> Courier Value / Courier Map Awareness",
+    "main_query": "Dota 2 Couriers: Best Unusual Couriers, Courier Value and Why Courier Info Wins Games",
+    "score": 137.0,
+    "volume_words": "1,800-2,400 words.",
+    "outline_json": "[\"What couriers do in Dota 2\", \"Best and unusual couriers players search for\", \"Courier sniping and item timing\", \"Why courier information matters in high-MMR games\", \"Melonity angle: Courier MapHack as separate feature, not повтор основной MapHack-статьи\", \"How to use courier info without overplaying\", \"CTA: Melonity visuals and information tools\"]",
+    "ad_integration": "нативная с прямым feature-блоком. Важно не превращать в повтор статьи про MapHack.",
+    "evidence_json": "[\"`GENERAL: курьер` -> Courier Value / Courier Map Awareness\", \"SERP по курьерам менее коммерческий и не забит cheat-сайтами. Можно зайти через cosmetics + gameplay.\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "11. `GENERAL: курьер` -> Courier Value / Courier Map Awareness",
+      "excerpt": "### 11. `GENERAL: курьер` -> Courier Value / Courier Map Awareness\n\n**Почему кластер:** KD 6 и много НЧ с KD 3 внутри long-tail: `unusual courier dota 2`, `all couriers dota 2`, `best couriers`, `courier dota 2`.\n\n**EN article title:** `Dota 2 Couriers: Best Unusual Couriers, Courier Value and Why Courier Info Wins Games`\n\n**Объем:** 1,800-2,400 words.\n\n**Почему можно ранжироваться:** SERP по курьерам менее коммерческий и не забит cheat-сайтами. Можно зайти через cosmetics + gameplay.\n\n**Оглавление:**\n\n- What couriers do in Dota 2\n- Best and unusual couriers players search for\n- Courier sniping and item timing\n- Why courier information matters in high-MMR games\n- Melonity angle: Courier MapHack as separate feature, not повтор основной MapHack-статьи\n- How to use courier info without overplaying\n- CTA: Melonity visuals and information tools\n\n**Рекламная интеграция:** нативная с прямым feature-блоком. Важно не превращать в повтор статьи про MapHack.\n\n---"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d.md",
+      "heading": "Courier maphack",
+      "excerpt": "### Courier maphack\n\nQuite recently, melonity managed to expand the functionality of the map hack in cheats by adding information about couriers, but unlike enemy heroes, it is possible to obtain their exact position and the contents of their inventory. This will allow you to prevent the enemy from obtaining important items.\n\n![Image 27](https://miro.medium.com/v2/resize:fit:297/1*Tj8r4YJaONUYHAL1XSFjHA.png)\n\nCourier maphack indication"
+    },
+    {
+      "source": "knowledge/editorial_memory.md",
+      "heading": "Topic Selection Rule",
+      "excerpt": "## Topic Selection Rule\n\nWhen generating new topics, avoid direct duplicates of the published Medium angles above. Prefer adjacent angles such as behavior score, low priority, reports, courier awareness, setup troubleshooting, config issues, or fresh long-tail clusters that add new value."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "3B.2. Dota 2 Cheats & Scripts Explained (21.11.2025)",
+      "excerpt": "### 3B.2. Dota 2 Cheats & Scripts Explained (21.11.2025) **Главная идея:** cheat = контейнер/платформа, script = отдельная функция внутри cheat. Это базовая терминология для любых SEO-статей. **Ключевые категории функций из статьи:** - **Hero scripts:** Invoker auto-cast/orb rotation, Arc Warden clone control и Spark Wraith spam, Pudge hook automation, Shadow Fiend coils, Enigma Black Hole с учетом позиции врагов и готовности союзников, illusions scout/farm. - **Visual scripts:** AOE radius, hidden abilities, wards, ward radius, remaining ward time, illusions, items on ground, TP indication, enemy smoke, kill indicator, VBE, ability radius, experience, Roshan, camps, runes, tormentors, lotuses. - **Continuous HUD information:** MetaPicker и build assistant, которые анализируют текущую мету, draft союзников и draft соперника, затем предлагают pick/build. - **Skinchanger / inventory changer:** skins, arcanas, couriers, landscapes, weather effects, Low Poly Map, custom skins; важная мысль — у Melonity заявлена реализация, близкая к механике Valve skins, чтобы не просаживать FPS. - **Supporting scripts:** Last Hit, Camera Hack, Auto Pick/Ban, Auto Dodge, MapHack, Courier MapHack. - **Risk framing:** нельзя обещать абсолютную защиту; статья сама признает, что 100% гарантий бана не бывает. **Как использовать в..."
+    },
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "Внутренняя перелинковка",
+      "excerpt": "## Внутренняя перелинковка\n\n- `Behavior Score` -> `Hidden Pool` -> `Low Priority` -> `HWID Spoofer`\n- `Skin Changer` -> `Overwolf alternatives` -> `Melonity Setup`\n- `AHK/Macros` -> `Invoker Auto Cast` -> `Melonity V8 API`\n- `Dota Boost vs Tool` -> `Stream Proof` -> `Melonity Setup`\n- `Courier Info` -> старая статья про MapHack, но с анкором `courier information in Dota 2`, а не `MapHack guide`"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/a-complete-guide-to-cheat-commands-in-the-dota-2-lobby-2026-1a32b1c1b58c.md",
+      "heading": "Why are these cheats useful in practice?",
+      "excerpt": "## Why are these cheats useful in practice?\n\nHere are a few examples of how experienced Dota 2 players use cheats in the lobby:\n\nInvoker Practice: Turn on -wtf mode and practice unleashing a 5–7 ability burst in a couple of seconds using Blink Dagger and Refresher Orb. Your goal is to do this so quickly that your muscle memory becomes automatic.\n\nArmlet Toggling Practice: Buy an Armlet of Mordiggian, go under an enemy tower or to Roshan, and practice the Dota 2 Armlet Abuse cheat, turning the item on and off between attacks to survive at 1 HP.\n\nWard Spotting: Use -allvision and a flying courier to find hidden tree textures where you can place an Observer Ward so the enemy can’t take it out with a standard Sentry.\n\nCreep Stacks: Test the stacking mechanics (pulls) on multiple camps at once using illusions (for example, on Naga Siren or Terrorblade) and the -spawnneutrals command."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "Образовательные / технические (Medium @mrkhertz)",
+      "excerpt": "### Образовательные / технические (Medium @mrkhertz)\n\n- [Dota 2 Cheats & Scripts Explained (2025)](https://medium.com/@mrkhertz/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d) — full cheat overview, hero scripts, visual functions\n- [Why cheaters in Dota 2 are not banned](https://medium.com/@mrkhertz/why-cheaters-in-dota-2-are-not-banned-a-detailed-explanation-of-why-cheats-are-safe-3f28752a7f98) — VAC, VAC-Live, VACnet, Humanizer\n- [MapHack for Dota 2: Everything You Need to Know](https://medium.com/@mrkhertz/maphack-for-dota-2-everything-you-need-to-know-how-to-download-it-a5126f8bc05f) — Full → Partial MapHack эволюция\n- [Top hacks for Dota 2 / Best cheats](https://medium.com/@mrkhertz/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6) — competitive comparison: Melonity, Umbrella, Divine, Octarine, Hake\n- [How to avoid a smurf ban in Dota 2](https://medium.com/@mrkhertz/how-to-avoid-a-smurf-ban-in-dota-2-guide-to-choosing-an-account-for-dota-f2e7434083ca) — game ban vs VAC ban, smurf-risk factors, account selection checklist\n- [How hacks work in Dota 2](https://medium.com/@mrkhertz/how-hacks-work-in-dota-2-4a2d06d5969e) — client/server bypass, Humanizer"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "НЧ (золотая зона) ⭐",
+      "excerpt": "#### НЧ (золотая зона) ⭐ - `melonity dota 2 v2 review` - `dota 2 cheat with v8 scripting api` - `how to bypass dota 2 smurf pool` - `dota 2 stream proof cheat for boosters` - `melonity bounty tournament` - `auto combo invoker autohotkey` - `dota 2 pudge hook script tutorial` - `melonity vs umbrella vs octarine` - `dota 2 hidden pool console command developer 1` - `dota 2 behavior score check command` - `cheat tier list dota 2 2026` - `how does maphack work in dota 2` — explainer-ниша ⭐ - `why dota 2 cheaters are not banned` — viral-потенциал ⭐ - `dota 2 partial maphack 2026` - `dota 2 humanizer vac bypass explained` - `dota 2 vac live anti cheat how it works` - `vacnet neural network dota` - `dota 2 invoker auto cast script` - `dota 2 arc warden clone control script` - `dota 2 courier maphack melonity` - `dota 2 camera hack without sv_cheats` - `dota 2 skin changer safe undetected` - `dota 2 vbe visible by enemy what is` - `dota 2 show hidden spells..."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/how-to-install-dota-2-cheats-hacks-for-free-de9e42a6b202.md",
+      "heading": "This includes:",
+      "excerpt": "## This includes:\n\n*   VBE(Visible By Enemy): An indicator that highlights your character if you enter the line of sight of an enemy or ward.\n*   Networth and gold indicators for all participants of the match.\n*   Map Hack: Highlights the last location of the enemy on the map. The same applies to couriers\n*   Rune predicate: shows where and which rune appeared\n*   Camera Hack: Allows you to move the game camera away on the mouse wheel\n\n![Image 6: Camera Hack For Dota 2 in Melonity.gg](https://miro.medium.com/v2/resize:fit:692/1*T6rWSTvXPw7ATC6AY9quYA.gif)\n\nCamera Hack in Melonity.gg\n\nPress enter or click to view image in full size\n\n![Image 7](https://miro.medium.com/v2/resize:fit:700/0*tKgCv0NBAhxIB9hB.png)\n\nAnd also much more, from Roshan indicators, tormentor, smoke usage to displaying information on the best builds and choosing a hero depending on the current meta and information in your match."
+    },
+    {
+      "source": "knowledge/editorial_memory.md",
+      "heading": "Published Topics To Avoid Repeating",
+      "excerpt": "## Published Topics To Avoid Repeating\n\nThe following exact angles have already been published and should not be selected again as primary article topics. They may be used only as supporting context, internal-link targets, source inspiration, or adjacent-angle references.\n\n1. Why cheaters in Dota 2 are not banned / why cheats are safe.\n2. Dota 2 cheats and scripts explained / all about Dota hacks.\n3. Top hacks and cheats for Dota 2 / best hack for Dota 2.\n4. MapHack for Dota 2 / how to download it / everything about MapHack.\n5. How to avoid a smurf ban in Dota 2 / choosing an account for Dota."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

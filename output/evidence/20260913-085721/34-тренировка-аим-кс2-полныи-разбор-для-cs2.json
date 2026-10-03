@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 352,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Тренировка аим кс2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13733",
+    "cluster": "Тренировка Aim",
+    "main_query": "тренировка аим кс2",
+    "score": 58.82032831509876,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"тренировка аим кс2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Тренировка Aim\", \"тренировка аим кс2\", \"тренировка аим кс2\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable sources:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- User-provided feature list in the 2026-06-27 goal.\n\nNot usable as factual source:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Why cluster.center is the best choice for Deadlock",
+      "excerpt": "## Why cluster.center is the best choice for Deadlock\n\nDeadlock is too complex for a primitive cheat. You need aim assistance, but you also need clean visuals. You need silent aim, but you also need smoothness. You need target lock, but you also need human-like behavior. You need ESP, but you also need readable information. You need automation like auto parry or auto dash jump, but it has to feel natural inside the match.\n\n[**clustercheats.com**](https://clustercheats.com/en)combines all of this in one product.\n\nIt gives Deadlock players a full feature set: default aim, silent aim, default + silent aim, FOV settings, smooth aim, target lock, players/orbs/creeps targeting, hitbox selection, ESP, glow, health info, FOV changer, world color, skybox controls, auto dash jump and auto parry.\n\nAnd most importantly, it includes Humanizer, the system that makes assisted gameplay look more like human gameplay instead of obvious scripted behavior.\n\nThat is the difference between a random cheat and a serious Deadlock solution. Random cheats sell functions. cluster.center gives you functions, visual control, movement assistance, aim assistance and Humanizer-backed protection in one Deadlock-focused product."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Why cluster.center is the best choice for Deadlock",
+      "excerpt": "## Why cluster.center is the best choice for Deadlock\n\nDeadlock is too complex for a primitive cheat. You need aim assistance, but you also need clean visuals. You need silent aim, but you also need smoothness. You need target lock, but you also need human-like behavior. You need ESP, but you also need readable information. You need automation like auto parry or auto dash jump, but it has to feel natural inside the match.\n\n[**clustercheats.com**](https://clustercheats.com/en)combines all of this in one product.\n\nIt gives Deadlock players a full feature set: default aim, silent aim, default + silent aim, FOV settings, smooth aim, target lock, players/orbs/creeps targeting, hitbox selection, ESP, glow, health info, FOV changer, world color, skybox controls, auto dash jump and auto parry.\n\nAnd most importantly, it includes Humanizer, the system that makes assisted gameplay look more like human gameplay instead of obvious scripted behavior.\n\nThat is the difference between a random cheat and a serious Deadlock solution. Random cheats sell functions. cluster.center gives you functions, visual control, movement assistance, aim assistance and Humanizer-backed protection in one Deadlock-focused product."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Aimbot",
+      "excerpt": "## Aimbot\n\nCategory: aim assistance.\n\nKey functions:\n\n- Fov: aim-assist capture radius around the crosshair.\n- Smooth: controls how gradual aim movement feels.\n- Auto Pistol: repeated-fire comfort feature for semi-automatic pistols.\n- Fov Color: visual color of the FOV indicator.\n- Target priority: chooses targets by crosshair distance or hit chance.\n- Hitboxes: Head, Neck, Spine, Hips, Arms, Legs.\n- Checks: Visible, Team, Flash.\n- Weapons: separate settings/profiles by weapon type."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Aimbot",
+      "excerpt": "### Aimbot\n\nThe main mechanical block in most Deadlock cheat features is the aimbot. In plain language, it is an aim-assistance system. Its job is to help the player keep aim closer to the selected target while still leaving room for configuration.\n\nThe local memory lists three type modes:\n\n*   Default.\n*   Silent.\n*   Default plus silent.\n\nDefault is the easiest concept to understand. It is the visible aim-assistance style: the player sees the aim correction in the way their crosshair or camera behavior feels. Silent is usually discussed as a less visibly obvious aim-assistance mode, though this article will keep that explanation high-level. Default plus silent means the product presents both styles together as one type option.\n\nThis is the same basic reason aimbot settings matter so much. A rough aim tool is easy to notice and unpleasant to use. A more controlled one lets the player choose how strong the assistance should feel, what it should prioritize, and how it should behave in different fights.\n\n![Image 2: Aimbot Cluster Deadlock Cheat UI](https://cheatsgaming.com/media/medium/4bcb43e93e3041bc4be354aa.jpg)\n\nCluster Deadlock UI"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Aimbot",
+      "excerpt": "### Aimbot\n\nThe main mechanical block in most Deadlock cheat features is the aimbot. In plain language, it is an aim-assistance system. Its job is to help the player keep aim closer to the selected target while still leaving room for configuration.\n\nThe local memory lists three type modes:\n\n*   Default.\n*   Silent.\n*   Default plus silent.\n\nDefault is the easiest concept to understand. It is the visible aim-assistance style: the player sees the aim correction in the way their crosshair or camera behavior feels. Silent is usually discussed as a less visibly obvious aim-assistance mode, though this article will keep that explanation high-level. Default plus silent means the product presents both styles together as one type option.\n\nThis is the same basic reason aimbot settings matter so much. A rough aim tool is easy to notice and unpleasant to use. A more controlled one lets the player choose how strong the assistance should feel, what it should prioritize, and how it should behave in different fights.\n\n![Image 2: Aimbot Cluster Deadlock Cheat UI](https://cheatsgaming.com/media/medium/4bcb43e93e3041bc4be354aa.jpg)\n\nCluster Deadlock UI"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "How Humanizer helps in Deadlock",
+      "excerpt": "### How Humanizer helps in Deadlock Take aim assistance as the easiest example. If a basic cheat instantly pulls to the same hitbox with the same speed and the same timing every fight, that is not how real players aim. Real aim has small variations. Sometimes the movement is smoother, sometimes slower, sometimes the player adjusts mid-fight. cluster.center’s Humanizer is important because it works with the idea of natural-looking input. Features like smooth aim, FOV-based control, silent aim, target lock and hitbox selection need to behave in a way that does not make every fight look identical. The same idea applies to target categories. Deadlock is not only about shooting enemy heroes. Players also interact with XP orbs and creeps. If a cheat handles players, orbs and creeps with perfect mechanical timing all the time, the pattern can look strange. Humanizer helps make those assisted actions look more like something a real player would do during a busy fight. This is why Humanizer is not just an extra checkbox. It is part of the core protection logic for a serious..."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

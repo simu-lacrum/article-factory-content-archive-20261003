@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 372,
+    "game": "cs2",
+    "language": "en",
+    "title": "CS2: Dm Server Cs2 Explained, Use Cases and Practical Tips",
+    "source_kind": "semantic_csv",
+    "source_ref": "13743",
+    "cluster": "Сервера / Паблики",
+    "main_query": "dm server cs2",
+    "score": 57.763472996609494,
+    "volume_words": "1,500-2,200 words",
+    "outline_json": "[\"What users mean by \\\"dm server cs2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Сервера / Паблики\", \"dm server cs2\", \"dm server cs2\", \"cs2 dm servers\", \"dm servers cs2\", \"warmap server cs2\", \"warmup server cs2\", \"cs2 server picker\", \"server picker cs2\", \"cs2 server status\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Published And Duplicate Topic Memory",
+      "excerpt": "## Published And Duplicate Topic Memory\n\nDirect topics already covered by imported sources:\n\n- `Top Cheats for CS2. The Best Hack`.\n- `Best CS2 Hack`.\n- `Cluster CS2 External review`.\n- `Обзор функционала чита Cluster для CS2`.\n\nAllowed adjacent angles:\n\n- CS2 Aimbot settings explained.\n- CS2 TriggerBot settings explained.\n- CS2 ESP and visual indicators explained.\n- CS2 External feature glossary.\n- CS2 Bomb Timer, Spectator List, and Keybinds explained.\n- CS2 Chams and visuals in external cheats."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "6. Специфика Nano Banana Pro",
+      "excerpt": "## 6. Специфика Nano Banana Pro Основная целевая модель — Nano Banana Pro, официальное имя модели в Gemini API: `gemini-3-pro-image`. Это reasoning-driven модель для сложного графического дизайна, профессиональных ассетов, локальных правок, бренд-консистентности и точной работы с текстом. Она принимает текст и изображения, поддерживает thinking, Search grounding, многошаговое редактирование и изображения до 4K. Официальные проектные ориентиры на дату обновления этого гайда: - Nano Banana Pro поддерживает 1K, 2K и 4K. - Поддерживаемые пропорции Pro: `1:1`, `2:3`, `3:2`, `3:4`, `4:3`, `4:5`, `5:4`, `9:16`, `16:9`, `21:9`. - В API размер задается как `1K`, `2K` или `4K` — с заглавной `K`. - Для Pro допускается до шести объектных референсов высокой точности, до пяти референсов людей для сохранения идентичности и до трех style references. Лимиты могут различаться по пользовательским поверхностям, поэтому перед серийной генерацией нужно проверить конкретный интерфейс. - Модель умеет рендерить разборчивый многоязычный текст лучше предыдущих поколений, но финальная орфографическая проверка все равно обязательна. - Все созданные Google изображения получают SynthID; это учитывать при политике публикации и прозрачности. Официальные источники для повторной проверки возможностей: - [Gemini API: image generation](https://ai.google.dev/gemini-api/docs/image-generation) - [Gemini 3 Pro Image..."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "CS2 cluster.center External Feature Memory",
+      "excerpt": "# CS2 cluster.center External Feature Memory\n\nDate added: 2026-06-27\n\nThis file is product memory for CS2 articles. It describes the `Cluster CS2 External` feature set at a high level so future Codex agents can explain features in SEO articles without reopening source URLs."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2, use `cluster.center` in one native product block after the educational explanation.\n- Use feature taxonomy, examples, FAQs, and image placement notes.\n- Do not use tables; use lists.\n- Good image slots: Aimbot FOV circle diagram, hitbox-zone diagram, ESP label screenshot/concept, TriggerBot settings close-up, Bomb timer / keybind overlay."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Deadlock / CS2 cluster.center Digest 2026-06-23",
+      "excerpt": "# Deadlock / CS2 cluster.center Digest 2026-06-23\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e.md`\n- `knowledge/agent_memory/products/product-map.md`\n- `knowledge/agent_memory/products/deadlock-cluster-center-internal.md`\n- Materialized YouGame files in `knowledge/agent_memory/sources/external-forums/`"
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for Deadlock. The Best Deadlock Hack`.\n- Internal: `Deadlock cluster.center Internal Feature Memory`.\n- Product map: `Product Map For SEO Articles`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/threads/338660/`\n- `https://yougame.biz/threads/337938/`\n- `https://yougame.biz/threads/335446/`\n- `https://yougame.biz/threads/335445/`\n- `https://yougame.biz/threads/335467/`\n- `https://yougame.biz/threads/337451/`\n- `https://yougame.biz/threads/337711/`\n\nAll listed YouGame pages currently materialize as anti-bot / 429 pages. Do not use them as product evidence until real text is manually provided."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Product Mapping",
+      "excerpt": "## Product Mapping\n\n- CS2 articles must integrate `cluster.center`.\n- Dota 2 articles continue to integrate `Melonity`.\n- Deadlock articles also use `cluster.center`, but Deadlock feature memory is separate."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Product Mapping",
+      "excerpt": "## Product Mapping\n\n- Deadlock articles must integrate `cluster.center`.\n- CS2 articles must integrate `cluster.center`.\n- Dota 2 articles continue to integrate `Melonity`.\n\nDo not mix these products unless the user explicitly asks for a comparison."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

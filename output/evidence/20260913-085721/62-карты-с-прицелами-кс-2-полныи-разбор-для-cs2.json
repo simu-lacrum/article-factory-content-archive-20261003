@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 502,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Карты с прицелами кс 2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13818",
+    "cluster": "Прицел / Crosshair",
+    "main_query": "карты с прицелами кс 2",
+    "score": 56.61323052355161,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"карты с прицелами кс 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Прицел / Crosshair\", \"карты с прицелами кс 2\", \"карты с прицелами кс 2\", \"карта из мастерской с прицелами кс 2\", \"карты с прицелами в кс 2 из мастерской\", \"карты с прицелами в кс2\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable sources:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- User-provided feature list in the 2026-06-27 goal.\n\nNot usable as factual source:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "4.7. Камера",
+      "excerpt": "### 4.7. Камера\n\nКанонические режимы:\n\n- фронтальная предметная симметрия;\n- три четверти на уровне объекта;\n- высокий трехчетвертной/изометрический ракурс;\n- строго top-down для натюрморта или карты процесса;\n- extreme close crop для массивного hardware hero.\n\nЛинза и перспектива описываются функционально. Для предмета — 50–85 mm equivalent, умеренная глубина резкости, отсутствие широкоугольной деформации. Для изометрической системы — 35–50 mm equivalent и глубокий фокус. Для top-down — ортогональная или почти ортогональная перспектива."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "9.1. CS2",
+      "excerpt": "### 9.1. CS2\n\nВизуальный язык:\n\n- acid yellow, off-white, charcoal, cool concrete gray;\n- геометрия дверей, углов, маршрутов, контейнеров, точек и линий;\n- строгие приборы, индустриальная поверхность, фронтальный hardware;\n- контролируемая резкость и контраст.\n\nДопустимые абстракции: карта как архитектурная модель, тайминг как механические часы, прицел как оптическая метка без оружия, экономика раунда как сортировочный терминал.\n\nНе использовать: скопированные карты, оружейные скины, официальный логотип, спецназовцев, террористов, огонь и generic esports arena."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "15.3. Deadlock: вертикальность карты, 9:16",
+      "excerpt": "### 15.3. Deadlock: вертикальность карты, 9:16 ```text Model target: Nano Banana Pro / gemini-3-pro-image. Style routing: generated asset #4, branch A — tactile industrial product poster. Brand accent: Cluster #635FD5 on the moving route token only, about 3% of the frame. Create a 9:16 vertical social poster for an editorial explainer about why vertical movement changes route choice in a lane-based urban game. Represent the concept as one tall modular transit instrument: three stacked matte-charcoal levels connected by an amber transparent lift capsule and two steel-blue rails. One small luminous token moves upward, leaving a short controlled path that makes the route change obvious. The tower is the only hero. Reserve x=7–86%, y=6–25% as a clean pale-gray headline zone. The tower begins near y=31% and extends below the bottom edge, occupying 60% of the width. Use a low three-quarter camera angle with a 55 mm product-photography feel, so the object looks monumental without wide-angle deformation. Background: flat dirty off-white. Materials: matte charcoal powder-coated metal, translucent amber capsule, muted steel-blue rails, realistic seams and contact points. The moving route token is..."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Aimbot",
+      "excerpt": "## Aimbot\n\nCategory: aim assistance.\n\nKey functions:\n\n- Fov: aim-assist capture radius around the crosshair.\n- Smooth: controls how gradual aim movement feels.\n- Auto Pistol: repeated-fire comfort feature for semi-automatic pistols.\n- Fov Color: visual color of the FOV indicator.\n- Target priority: chooses targets by crosshair distance or hit chance.\n- Hitboxes: Head, Neck, Spine, Hips, Arms, Legs.\n- Checks: Visible, Team, Flash.\n- Weapons: separate settings/profiles by weapon type."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+      "heading": "1. Aimbot: Для безопасной игры",
+      "excerpt": "## 1. Aimbot: Для безопасной игры\n\nАимбот в Cluster создан не для того, чтобы крутиться волчком и раздавать хэдшоты через всю карту (хотя гибкость настроек позволяет многое). Его главная задача плавная, человечная доводка (aim-assistance), которая никогда не вызовет подозрений у серверных нейросетей.\n\n*   **Fov & Smooth:** База любого легитного чита. Вы настраиваете радиус захвата (FOV) и плавность наводки (Smooth). Именно идеальный баланс Smooth делает движения вашей мыши естественными.\n*   **Target Priority & Hitboxes:** Чит позволяет тонко настроить приоритет целей (ближе к прицелу или по шансу попадания). Вы можете выбрать конкретные хитбоксы для наводки: Head, Neck, Spine, Hips, Arms, Legs. Хотите играть с AWP? Ставьте приоритет на Spine/Hips. Играете с диглом? Только Head/Neck.\n*   **Умные проверки (Checks):** Аимбот никогда не выдаст вас глупым выстрелом. Встроенные проверки на видимость (Visible), ослепление (Flash) и союзников (Team) гарантируют, что прицел не дернется на противника за стеной или пока вы стоите ослепленные.\n*   **Auto Pistol & Настройка под каждое оружие (Weapons):** Отдельные профили под разные пушки позволяют сделать идеальный конфиг.\n\nPress enter or click to view image in full size\n\n![Image 2](https://miro.medium.com/v2/resize:fit:700/1*_-u_2X9ofysvvtRV7IXGdQ.gif)\n\nРабота AimBot Cluster.center"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924.md",
+      "heading": "Aimbot and Soul Aimbot",
+      "excerpt": "### Aimbot and Soul Aimbot\n\nYou can’t do without it. The aimbot in Cluster is, by far, the best I’ve ever seen. It has very flexible settings, letting you choose the crosshair, miss rate, and so on.\n\nThere’s also a soul aimbot here that lets you collect souls and deny them from your opponent with a single click, which gives you a huge advantage at the start of the game.\n\n![Image 6: Aimbot in cluster.center deadlock](https://cheatsgaming.com/media/medium/b19efa2e7047c38e0b02f9ab.gif)\n\nAimbot in cluster.center deadlock"
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 26,
+    "game": "cs2",
+    "language": "en",
+    "title": "CS2 Cheat Features Explained",
+    "source_kind": "curated_topic_seed",
+    "source_ref": "knowledge/topic_seeds/deadlock-cs2-cluster-center.json",
+    "cluster": "CS2 cluster.center: feature explainer",
+    "main_query": "cs2 cheat features",
+    "score": 82.0,
+    "volume_words": "1,600-2,300 words",
+    "outline_json": "[\"What users mean by CS2 cheat features\", \"Common feature categories at a high level\", \"Visuals, aim assistance, and comfort settings\", \"Risk-aware expectations\", \"Where cluster.center fits\", \"FAQ\"]",
+    "ad_integration": "Native cluster.center integration",
+    "evidence_json": "[\"knowledge/agent_memory/products/product-map.md\", \"semantic_core_cs2.csv\"]",
+    "risk_level": "restricted",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- Use these features as factual local product memory for Deadlock articles.\n- Prefer high-level descriptions such as \"aim-assistance modes\", \"ESP visual layers\", \"FOV and world-color customization\", \"auto dash jump\", and \"auto parry\".\n- Do not write installation steps, bypass steps, anti-cheat evasion steps, or low-level technical implementation.\n- Suggested adjacent article angles:\n  - Deadlock ESP explained.\n  - Deadlock aimbot settings explained at a high level.\n  - Deadlock FOV and visibility features.\n  - Deadlock auto parry and movement assistance.\n  - Deadlock cheat feature glossary."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Published And Duplicate Topic Memory",
+      "excerpt": "## Published And Duplicate Topic Memory\n\nDirect topics already covered by imported sources:\n\n- `Top Cheats for CS2. The Best Hack`.\n- `Best CS2 Hack`.\n- `Cluster CS2 External review`.\n- `Обзор функционала чита Cluster для CS2`.\n\nAllowed adjacent angles:\n\n- CS2 Aimbot settings explained.\n- CS2 TriggerBot settings explained.\n- CS2 ESP and visual indicators explained.\n- CS2 External feature glossary.\n- CS2 Bomb Timer, Spectator List, and Keybinds explained.\n- CS2 Chams and visuals in external cheats."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Published Topic Memory",
+      "excerpt": "## Published Topic Memory\n\nThe direct ranking/listicle topic is already published:\n\n- `Top Cheats for Deadlock. The Best Deadlock Hack`.\n\nDo not repeat direct angles such as:\n\n- top cheats for Deadlock\n- best Deadlock hack\n- Deadlock hack ranking\n\nAllowed adjacent angles:\n\n- Deadlock aimbot settings explained.\n- Deadlock ESP explained.\n- Deadlock FOV changer and visibility features.\n- Deadlock auto parry and movement assistance.\n- Deadlock cheat feature glossary.\n- Deadlock cluster.center feature overview."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?",
+      "excerpt": "# Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8\n\nTitle: Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?\n\nURL Source: https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8\n\nPublished Time: 2026-06-24T10:20:29.128Z\n\nMarkdown Content:"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?",
+      "excerpt": "# Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8\n\nTitle: Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?\n\nURL Source: https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8\n\nPublished Time: 2026-06-24T10:20:29.128Z\n\nMarkdown Content:"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock.md",
+      "heading": "[Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8)",
+      "excerpt": "### [Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8)\n\nGood afternoon, everyone. Today we’re talking about something that affects all Deadlock players in one way or another: whether Valve bans cheaters and what methods they use to do it."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock.md",
+      "heading": "[Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8)",
+      "excerpt": "### [Deadlock Cheat Safety and VAC Protection Explained: Why Cheats are Safe?](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8)\n\nGood afternoon, everyone. Today we’re talking about something that affects all Deadlock players in one way or another: whether Valve bans cheaters and what methods they use to do it."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d.md",
+      "heading": "Game Cheats & Hacks Shop, Reviews & Guides | CheatsGaming",
+      "excerpt": "# Game Cheats & Hacks Shop, Reviews & Guides | CheatsGaming\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://cheatsgaming.com/games/dota-2/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d\n\nTitle: Game Cheats & Hacks Shop, Reviews & Guides | CheatsGaming\n\nURL Source: https://cheatsgaming.com/games/dota-2/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d\n\nWarning: Target URL returned error 404: Not Found\n\nMarkdown Content:\n[Skip to content](https://cheatsgaming.com/games/dota-2/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d#main-content)\n\n[cheats gaming CG>_](https://cheatsgaming.com/)[Latest](https://cheatsgaming.com/latest)[CS2 Cheats](https://cheatsgaming.com/games/cs2)[Deadlock Cheats](https://cheatsgaming.com/games/deadlock)[All Games](https://cheatsgaming.com/games)[Shop](https://cheatsgaming.com/shop)Sign in\n\nERROR / 404"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md",
+      "heading": "5. Midnight",
+      "excerpt": "## 5. Midnight\n\nAn internal hack that’s been around for quite some time. It’s fairly inexpensive and offers some interesting features, but very recently, due to a developer error, a detection occurred that banned users of this product. To be fair, though, this is the first time anyone has received a VAC ban for using Midnight in the last 3 or 4 years.\n\n**Let’s briefly go over the pros:**\n\n1.   Grenade Helper\n2.   Decent implementation of the aimbot functionality\n3.   Some work has been done on the visual aspect\n\n![Image 5: Midnight CS2 interface](https://cheatsgaming.com/media/medium/1bfb95adbee8a9c10b6beeb7.png)\n\nMidnight CS2 interface\n\nThat’s all — use only verified cheats.\n\nThe Cluster team explained to me how their protection works from the inside, and I was extremely surprised, so now I plan to write two more"
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

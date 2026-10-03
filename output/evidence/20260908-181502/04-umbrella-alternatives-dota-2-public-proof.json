@@ -1,0 +1,14 @@
+{
+  "article_id": "CM-016",
+  "retrieved_at": "2026-09-08",
+  "method": "Public first-party pages only; no product was downloaded or tested.",
+  "evidence": [
+    {"url": "https://uc.zone/en/dota2", "kind": "official product page", "observed": ["Live Dota page", "cloud configuration", "custom scripting proposition", "trial and no-card wording", "support and frequent-update claims"], "limits": "No comparable public dated update log was located and checkout values rendered unusably."},
+    {"url": "https://melonity.gg/en", "kind": "official product page", "observed": ["Dota-led page", "hero-script and visual categories", "trial wording", "plan cards", "public support routes"], "limits": "Feature, protection, and support statements are vendor claims."},
+    {"url": "https://melonity.gg/en/dota2/changelog/3-dark-carnival-script-improvements-and-a-new-vbe", "kind": "official dated changelog", "observed": ["Latest visible Dota entry dated 04.07.2026", "20 listed changes"], "limits": "Publication does not prove current compatibility or quality."},
+    {"url": "https://octarine.cc/en/", "kind": "official catalog", "observed": ["Dota 2, Deadlock, and CS2 catalog", "one-subscription-for-all-games wording", "plan structure"], "limits": "Access language varies by page."},
+    {"url": "https://octarine.cc/en/dota2/", "kind": "official Dota page", "observed": ["Dota product page and category examples"], "limits": "Performance comparisons are vendor claims."},
+    {"url": "https://docs.octarine.cc/en/", "kind": "official documentation", "observed": ["Public docs are available without an account"], "limits": "Docs visibility does not prove support quality or current compatibility."},
+    {"url": "https://hake.me/forums/threads/2026.35173/", "kind": "official-domain forum thread", "observed": ["Current community discussion exists on the official domain"], "limits": "A forum discussion is not a comparable public product page with current access, terms, support, and dated product-update evidence; Hake therefore remains outside this shortlist without a negative product judgment."}
+  ]
+}

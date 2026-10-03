@@ -1,0 +1,23 @@
+{
+    "checked_at":  "2026-09-10T08:23:36+03:00",
+    "evidence":  [
+                     {
+                         "role":  "live target page, canonical destination, and supplied editorial media",
+                         "source":  "https://cheatsgaming.com/games/cs2"
+                     },
+                     {
+                         "role":  "materialized target-page text and image references",
+                         "source":  "knowledge/agent_memory/sources/target-urls/cs2.md"
+                     },
+                     {
+                         "role":  "mandatory product mapping and supported high-level claims",
+                         "source":  "knowledge/agent_memory/products/product-map.md"
+                     },
+                     {
+                         "role":  "real screenshot accuracy, alt text, and placement requirements",
+                         "source":  "knowledge/agent_memory/rules/article-visual-prompt-guide.md"
+                     }
+                 ],
+    "target":  "https://cheatsgaming.com/games/cs2",
+    "intent":  "research workflow"
+}

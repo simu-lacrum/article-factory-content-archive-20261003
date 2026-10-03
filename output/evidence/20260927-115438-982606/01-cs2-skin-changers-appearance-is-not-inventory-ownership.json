@@ -1,0 +1,1759 @@
+{
+  "topic": {
+    "id": 1244,
+    "game": "cs2",
+    "language": "en",
+    "title": "CS2 skin changers: appearance is not inventory ownership",
+    "source_kind": "seo_research",
+    "source_ref": "cs2-skin-changer",
+    "cluster": "cs2-skin-changer",
+    "main_query": "cs2 skin changer",
+    "score": 210.0,
+    "volume_words": "Cover the reader job completely; no SEO word-count target",
+    "outline_json": "[\"What the reader wants to change: appearance, server cosmetics or owned items\", \"Can other players see the change? State the specific context and evidence\", \"Compare documented functions using the same criteria\", \"Inventory ownership and trading are separate questions\", \"What is confirmed, vendor-stated or unknown\", \"FAQ\"]",
+    "ad_integration": "Contextual cluster.center mention with disclosure when commercial",
+    "evidence_json": "[\"Find out what changes visually and what happens to item ownership.\", \"Follow one cosmetic through local appearance, what others see, and inventory ownership; flag unverified behavior.\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-09-26 16:28:56"
+  },
+  "research_contract": {
+    "study_id": "seo-20260921",
+    "captured_at": "2026-09-21",
+    "market": {
+      "country": "US",
+      "engine": "google",
+      "language": "en",
+      "secondary_market": "GB"
+    },
+    "source_policies": {
+      "https://cswatch.gg/blog/cs2-cheat-types-explained": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reason": "Contains unsupported anti-cheat effectiveness/safety claims and overconfident behavioral detection statements. Analyze layout and wording, not product truth.",
+        "reviewed_at": "2026-09-21"
+      },
+      "https://steamreport.net/blog/cs2-cheating-types-explained": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reason": "Commercial reporting-service article makes unsupported report-priority and ban-effectiveness claims. Analyze layout and wording, not product truth.",
+        "reviewed_at": "2026-09-21"
+      },
+      "https://umbrella-dota.com/en/features/maphack/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Page mixes feature labels with unverified hidden-information, safety and evasion claims plus setup instructions. Retain for on-page analysis; do not automatically feed these passages to the writer."
+      },
+      "https://dota2tool.vercel.app/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Useful example of the manual-timer reader job, not an authoritative source for current game timings or third-party ESP functionality."
+      },
+      "https://dotasense.com/guides/roshan-timer": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Gameplay/timer page observed in broad timer SERP. It does not substantiate ESP or other third-party information features."
+      },
+      "https://xplay.gg/blog/cs2-skinchanger-how-it-works-and-how-to-access-it-on-our-servers/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://sellyourskins.com/blog/is-skin-changer-bannable/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://cheatstore.net/deadlock/triggerbot": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://umbrella-dota.com/en/scripts/invoker/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+      },
+      "https://umbrella-dota.com/en/scripts/meepo/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+      },
+      "https://umbrella-dota.com/en/features/dodger/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+      },
+      "https://www.ciroscript.com/dota": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+      },
+      "https://cheater.fun/deadlock_cheats/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://en.exloader.net/tree/games/deadlock/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://octarine.fun/en/deadlock/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://cheater.fun/cs2-hacks/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://cheater.fun/cheats_for_dota2_download_hacks_free/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://en.exloader.net/tree/modifications/sdk2changer/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://en.exloader.net/tree/modifications/d2jsr/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://scope.gg/grenade-predictor/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. The page includes legacy-looking tickrate/map wording; do not assume every detail describes the current CS2 version."
+      },
+      "https://csnades.gg/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified."
+      },
+      "https://ivsofte.biz/en/blog/best-deadlock-cheats/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. Reseller recommendations and anti-cheat/evasion assertions are not independent factual evidence."
+      },
+      "https://madchad.net/best-deadlock-cheats-2026/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified."
+      },
+      "https://deadlockcheats.net/blog": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. The comparison uses an own-product column and unnamed generic rivals, with no inspected test protocol."
+      },
+      "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence. Own-product comparison contains unsupported rival capability, price, ban-rate, support and patch-speed assertions. The inspected copy does not establish a verifiable test protocol."
+      },
+      "https://dota2cheat.net/blog/dota2-cheats-vs-ghostware-features-pricing/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+      },
+      "https://ivsofte.biz/en/compare/dota-2-hacks/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observed redirect to /en/games/dota-2-hacks/ returns an access-restricted login screen. Preserve the HTTP capture but exclude its words, links and metadata from the competitor-comparison corpus; no access attempt was made.",
+        "exclude_from_onpage_analysis": true
+      },
+      "https://overplus.gg/en": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+      },
+      "https://metaskins.gg/en": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence. Multi-game landing includes product cards; a risk-free slogan is an unverified marketing claim, not evidence of safety."
+      },
+      "https://distort.wtf/features/cs2-grenade-helper": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+      }
+    },
+    "id": "cs2-skin-changer",
+    "game": "cs2",
+    "language": "en",
+    "primary_query": "cs2 skin changer",
+    "title": "CS2 skin changers: appearance is not inventory ownership",
+    "reader_job": "Find out what changes visually and what happens to item ownership.",
+    "intent": "informational",
+    "scope": "third_party_software",
+    "page_type": "explanatory_guide",
+    "publication_action": "update_article",
+    "primary_site": "cheatsgaming.com",
+    "grouping_basis": "editorial_hypothesis_pending_serp_overlap_validation",
+    "original_value": "Follow one cosmetic through local appearance, what others see, and inventory ownership; flag unverified behavior.",
+    "semantic_terms": [
+      "cosmetic appearance",
+      "inventory ownership",
+      "Steam inventory",
+      "local rendering",
+      "trade",
+      "workshop"
+    ],
+    "competitor_urls": [
+      "https://anyx.gg/",
+      "https://cheatix.to/information/counter-strike-2/best-cheats",
+      "https://cs2-cheats.com/",
+      "https://cs2hacks.net/",
+      "https://cs2hacks.net/compare-cs2-cheats",
+      "https://en.exloader.net/",
+      "https://en.exloader.net/tree/modifications/sdk2changer/",
+      "https://insanitycheats.com/",
+      "https://lethality.io/cs2-cheats/",
+      "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+      "https://undetek.com/",
+      "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable",
+      "https://xplay.gg/blog/cs2-skinchanger-how-it-works-and-how-to-access-it-on-our-servers/"
+    ],
+    "outline": [
+      "What the reader wants to change: appearance, server cosmetics or owned items",
+      "Can other players see the change? State the specific context and evidence",
+      "Compare documented functions using the same criteria",
+      "Inventory ownership and trading are separate questions",
+      "What is confirmed, vendor-stated or unknown",
+      "FAQ"
+    ],
+    "anchor_guidance": [
+      "Use a descriptive contextual link to the cs2 feature hub when it helps the next reader question",
+      "Use the brand name for a vendor reference; do not disguise promotional links as independent recommendations",
+      "Use the raw URL only when identifying a destination is useful; avoid filler anchors such as click here",
+      "No required exact/partial/branded/naked percentages; inbound backlink ratios remain unmeasured"
+    ],
+    "evidence_needed": [
+      "Inspect the live comparison before editing and preserve its reader job",
+      "Verify current visibility claims with first-party product/server documentation; older forum labels may refer to CS:GO",
+      "Do not infer inventory ownership or universal invisibility from a cosmetic feature name",
+      "Obtain volume before prioritizing by measured demand"
+    ],
+    "comparison_contract": null,
+    "existing_url": "https://cheatsgaming.com/games/cs2/top-skinchangers-for-cs2-best-skinchangers-33549b88abea",
+    "cannibalization_note": "Existing live URL matches the subject. Improve or differentiate it; do not publish a second generic guide.",
+    "priority": "P1",
+    "priority_basis": "Editorial usefulness, feature specificity and existing coverage; NOT search volume or ranking difficulty",
+    "research_state": "unvalidated",
+    "suggested_questions": [],
+    "editorial_status": "brief_not_a_verified_product_claim",
+    "serp_mismatch": "The broad query mixes product selection, a server-cosmetic guide, a trading tool, risk discussions and software/video results. The visibility question returns three discussions and three guides plus a repository issue. Only the Xplay URL overlaps. Keep these as distinct reader questions within the existing comparison update, not a validated synonym cluster or an automatic new URL.",
+    "update_scope": "Preserve the existing comparison's purchasing job. Add a concise visibility/ownership section and distinguish client tools, server cosmetics and actual item trading. Re-audit current product claims before changing any ranking or recommendation.",
+    "intent_matched_urls": [],
+    "usage_phrases": [
+      "skin changer",
+      "skin changers",
+      "client",
+      "inventory"
+    ],
+    "corpus_note": "Risk guides were found for the narrower visibility question. They are supplementary observations, not the broad query's comparison-page norm. Xplay was blocked by ordinary HTTP; its snippet does not supply body counts.",
+    "reviewed_semantic_terms": [
+      {
+        "term": "skin changer",
+        "usage_note": "Separate cosmetic appearance from ownership, transferability and what others see."
+      },
+      {
+        "term": "inventory changer",
+        "usage_note": "A product label, not proof that transferable items have been acquired."
+      },
+      {
+        "term": "inventory",
+        "usage_note": "Distinguish a local display from an account-owned item."
+      },
+      {
+        "term": "cosmetic",
+        "usage_note": "Use for appearance; do not equate cosmetic-only marketing with a safety guarantee."
+      },
+      {
+        "term": "client-side",
+        "usage_note": "Use only when the source states the display scope; do not generalize across products."
+      },
+      {
+        "term": "trade",
+        "usage_note": "Treat transferability as a separate question requiring direct evidence."
+      }
+    ],
+    "semantic_review": {
+      "reviewed_at": "2026-09-21",
+      "basis": "Editorial relevance to the reader job, checked against the retained corpus at build time. Zero matching documents remains explicitly unobserved.",
+      "not_a_quota": true
+    },
+    "keywords": [
+      {
+        "query": "cs2 skin changer",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://anyx.gg/",
+          "https://undetek.com/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "26ff85d8774eba4a9167",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "head_or_mid_tail_phrase",
+        "serp_samples": 1,
+        "page_type_evidence": {
+          "counts": {
+            "product_selection_discussion": 1,
+            "server_cosmetic_feature_guide": 1,
+            "skin_trading_tool": 1,
+            "ban_risk_discussion": 1,
+            "software_release_forum": 1,
+            "product_page": 1
+          },
+          "sample_results": 6,
+          "samples": [
+            {
+              "method": "browser_dom",
+              "captured_at": "2026-09-21T06:06:02.835Z",
+              "country_requested": "US",
+              "source_file": "raw/google-cosmetic-information-intents.json",
+              "counts": {
+                "product_selection_discussion": 1,
+                "server_cosmetic_feature_guide": 1,
+                "skin_trading_tool": 1,
+                "ban_risk_discussion": 1,
+                "software_release_forum": 1,
+                "product_page": 1
+              },
+              "unique_nonvideo_results": 6
+            }
+          ],
+          "decision": "observed_mix",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer vs real skins",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://anyx.gg/",
+          "https://undetek.com/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [
+          "vs"
+        ],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "236a57d886051b0adecf",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "can other players see skin changer cs2",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://anyx.gg/",
+          "https://undetek.com/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "b3f44453ee5eff18e9ae",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 1,
+        "page_type_evidence": {
+          "counts": {
+            "visibility_discussion": 1,
+            "visibility_discussion_legacy": 2,
+            "risk_guide": 2,
+            "software_issue_discussion": 1,
+            "server_cosmetic_feature_guide": 1
+          },
+          "sample_results": 7,
+          "samples": [
+            {
+              "method": "browser_dom",
+              "captured_at": "2026-09-21T06:06:36.001Z",
+              "country_requested": "US",
+              "source_file": "raw/google-cosmetic-information-intents.json",
+              "counts": {
+                "visibility_discussion": 1,
+                "visibility_discussion_legacy": 2,
+                "risk_guide": 2,
+                "software_issue_discussion": 1,
+                "server_cosmetic_feature_guide": 1
+              },
+              "unique_nonvideo_results": 7
+            }
+          ],
+          "decision": "observed_mix",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer inventory",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://anyx.gg/",
+          "https://undetek.com/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "7de57c7dfcdd5ac1ed49",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer vs workshop",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://anyx.gg/",
+          "https://undetek.com/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [
+          "vs"
+        ],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "06733b4abcd8631c2c45",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer vs inventory changer",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "search_facets": [
+          "vs"
+        ],
+        "id": "d15c6a6fdaf3c59e1ea5",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer bannable",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "search_facets": [],
+        "id": "8deb4dc99c32eb26390a",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      }
+    ],
+    "measured_query_count": 0,
+    "validated_query_subsets": [],
+    "article_target": {
+      "query": "cs2 skin changer",
+      "volume": null,
+      "metric": null,
+      "frequency_band": "unknown",
+      "page_type_evidence": {
+        "counts": {
+          "product_selection_discussion": 1,
+          "server_cosmetic_feature_guide": 1,
+          "skin_trading_tool": 1,
+          "ban_risk_discussion": 1,
+          "software_release_forum": 1,
+          "product_page": 1
+        },
+        "sample_results": 6,
+        "samples": [
+          {
+            "method": "browser_dom",
+            "captured_at": "2026-09-21T06:06:02.835Z",
+            "country_requested": "US",
+            "source_file": "raw/google-cosmetic-information-intents.json",
+            "counts": {
+              "product_selection_discussion": 1,
+              "server_cosmetic_feature_guide": 1,
+              "skin_trading_tool": 1,
+              "ban_risk_discussion": 1,
+              "software_release_forum": 1,
+              "product_page": 1
+            },
+            "unique_nonvideo_results": 6
+          }
+        ],
+        "decision": "observed_mix",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    "sampled_pages": 7,
+    "term_usage": {
+      "query": "cs2 skin changer",
+      "pages": [
+        {
+          "url": "https://anyx.gg/",
+          "words": 119,
+          "body_exact": 0,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "words": 2124,
+          "body_exact": 0,
+          "page_type": "comparison_overview",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://cs2-cheats.com/",
+          "words": 887,
+          "body_exact": 0,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "body_fallback_review_needed"
+        },
+        {
+          "url": "https://en.exloader.net/",
+          "words": 1432,
+          "body_exact": 0,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "body_fallback_review_needed"
+        },
+        {
+          "url": "https://en.exloader.net/tree/modifications/sdk2changer/",
+          "words": 194,
+          "body_exact": 0,
+          "page_type": "software_access_landing",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "reviewed_content_selector"
+        },
+        {
+          "url": "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+          "words": 398,
+          "body_exact": 1,
+          "page_type": "risk_guide",
+          "exact_per_1000_words": 2.513,
+          "title_exact": 1,
+          "description_exact": 0,
+          "h1_exact": 1,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 1,
+          "capture_notes": [],
+          "extraction": "reviewed_content_selector"
+        },
+        {
+          "url": "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable",
+          "words": 321,
+          "body_exact": 1,
+          "page_type": "risk_guide",
+          "exact_per_1000_words": 3.115,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "reviewed_content_selector"
+        }
+      ],
+      "by_page_type": {
+        "commercial_page_provisional": {
+          "body_exact": {
+            "n": 3,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 3,
+            "min": 119,
+            "median": 887,
+            "max": 1432,
+            "q1": null,
+            "q3": null
+          }
+        },
+        "comparison_overview": {
+          "body_exact": {
+            "n": 1,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 2124,
+            "median": 2124,
+            "max": 2124,
+            "q1": null,
+            "q3": null
+          }
+        },
+        "risk_guide": {
+          "body_exact": {
+            "n": 2,
+            "min": 1,
+            "median": 1.0,
+            "max": 1,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 2,
+            "min": 321,
+            "median": 359.5,
+            "max": 398,
+            "q1": null,
+            "q3": null
+          }
+        },
+        "software_access_landing": {
+          "body_exact": {
+            "n": 1,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 194,
+            "median": 194,
+            "max": 194,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 7,
+        "min": 0,
+        "median": 0,
+        "max": 1,
+        "q1": 0.0,
+        "q3": 0.5
+      },
+      "words_distribution": {
+        "n": 7,
+        "min": 119,
+        "median": 398,
+        "max": 2124,
+        "q1": 257.5,
+        "q3": 1159.5
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    "intent_matched_term_usage": [
+      {
+        "query": "cs2 skin changer",
+        "pages": [],
+        "by_page_type": {},
+        "body_exact_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "skin changer",
+        "pages": [],
+        "by_page_type": {},
+        "body_exact_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "skin changers",
+        "pages": [],
+        "by_page_type": {},
+        "body_exact_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "client",
+        "pages": [],
+        "by_page_type": {},
+        "body_exact_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "inventory",
+        "pages": [],
+        "by_page_type": {},
+        "body_exact_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 0,
+          "min": null,
+          "median": null,
+          "max": null,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      }
+    ],
+    "reviewed_related_terms": [
+      {
+        "term": "skin changer",
+        "usage_note": "Separate cosmetic appearance from ownership, transferability and what others see.",
+        "sources": [
+          "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "https://en.exloader.net/tree/modifications/sdk2changer/",
+          "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+          "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable"
+        ],
+        "document_frequency": 4,
+        "observations": [
+          {
+            "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+            "body_exact": 1,
+            "page_type": "comparison_overview"
+          },
+          {
+            "url": "https://en.exloader.net/tree/modifications/sdk2changer/",
+            "body_exact": 1,
+            "page_type": "software_access_landing"
+          },
+          {
+            "url": "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+            "body_exact": 5,
+            "page_type": "risk_guide"
+          },
+          {
+            "url": "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable",
+            "body_exact": 1,
+            "page_type": "risk_guide"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "inventory changer",
+        "usage_note": "A product label, not proof that transferable items have been acquired.",
+        "sources": [],
+        "document_frequency": 0,
+        "observations": [],
+        "origin": "editorial_concept_not_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "inventory",
+        "usage_note": "Distinguish a local display from an account-owned item.",
+        "sources": [
+          "https://en.exloader.net/tree/modifications/sdk2changer/",
+          "https://sellyourskins.com/blog/is-skin-changer-bannable/"
+        ],
+        "document_frequency": 2,
+        "observations": [
+          {
+            "url": "https://en.exloader.net/tree/modifications/sdk2changer/",
+            "body_exact": 1,
+            "page_type": "software_access_landing"
+          },
+          {
+            "url": "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+            "body_exact": 2,
+            "page_type": "risk_guide"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "cosmetic",
+        "usage_note": "Use for appearance; do not equate cosmetic-only marketing with a safety guarantee.",
+        "sources": [],
+        "document_frequency": 0,
+        "observations": [],
+        "origin": "editorial_concept_not_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "client-side",
+        "usage_note": "Use only when the source states the display scope; do not generalize across products.",
+        "sources": [
+          "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable"
+        ],
+        "document_frequency": 1,
+        "observations": [
+          {
+            "url": "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable",
+            "body_exact": 1,
+            "page_type": "risk_guide"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "trade",
+        "usage_note": "Treat transferability as a separate question requiring direct evidence.",
+        "sources": [
+          "https://sellyourskins.com/blog/is-skin-changer-bannable/"
+        ],
+        "document_frequency": 1,
+        "observations": [
+          {
+            "url": "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+            "body_exact": 3,
+            "page_type": "risk_guide"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      }
+    ],
+    "publication_gate": "requires_original_content_and_editorial_review",
+    "supporting_sections": [],
+    "non_article_queries": [
+      {
+        "query": "cs2 skin changer free",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [
+          "free"
+        ],
+        "id": "c98614c26b2c2ca912a1",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "free cs2 skin changer",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [
+          "free"
+        ],
+        "id": "63af212d378a5e4a5ed1",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer free download",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [
+          "free",
+          "download"
+        ],
+        "id": "8bbb39a7e347f1ffa8ed",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 1,
+        "page_type_evidence": {
+          "counts": {
+            "repository_provisional": 1,
+            "product_provisional": 3,
+            "forum_provisional": 1,
+            "category_provisional": 1,
+            "software_release_provisional": 1
+          },
+          "sample_results": 7,
+          "samples": [
+            {
+              "method": "browser_dom",
+              "captured_at": "2026-09-21T06:36:18.769Z",
+              "country_requested": "US",
+              "source_file": "raw/google-acquisition-observations.json",
+              "counts": {
+                "repository_provisional": 1,
+                "product_provisional": 3,
+                "forum_provisional": 1,
+                "category_provisional": 1,
+                "software_release_provisional": 1
+              },
+              "unique_nonvideo_results": 7
+            }
+          ],
+          "decision": "observed_mix",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skinchanger",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "observed",
+        "sources": [
+          "https://en.exloader.net/tree/modifications/sdk2changer/"
+        ],
+        "discovery_note": "Exact normalized phrase found in captured publisher title, description or selected body; publisher wording is not demand, accuracy or availability evidence.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [],
+        "id": "36794de98effdc3da77b",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "head_or_mid_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skinchanger free",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [
+          "free"
+        ],
+        "id": "122e9359c26786ea3b3d",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "head_or_mid_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 inventory changer",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [],
+        "id": "d9046597d69ab918d57b",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "head_or_mid_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 knife changer",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [],
+        "id": "3cb6c964f20d52212c31",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "head_or_mid_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 glove changer",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [],
+        "id": "995f48bad37e9f3d1cbb",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "head_or_mid_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer server",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "ambiguous_research",
+        "recommended_page_type": "intent_review",
+        "search_facets": [],
+        "id": "0ce31e2a27a9b8a1b4b8",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer mod",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [],
+        "id": "7f96d6536578be95c662",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer reddit",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "community_research",
+        "recommended_page_type": "discussion_or_navigation",
+        "search_facets": [
+          "reddit"
+        ],
+        "id": "a1e18f243cc682a225e8",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer github",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "community_research",
+        "recommended_page_type": "discussion_or_navigation",
+        "search_facets": [
+          "github"
+        ],
+        "id": "dbd529b7aa95e421e6f9",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer unknowncheats",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "community_research",
+        "recommended_page_type": "discussion_or_navigation",
+        "search_facets": [],
+        "id": "035d766a4286a2c23797",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer source",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "restricted_operational",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "implementation_research",
+        "recommended_page_type": "research_only_no_operational_article",
+        "search_facets": [],
+        "id": "5ada6a75be8d3ddc75ab",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer open source",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "restricted_operational",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "implementation_research",
+        "recommended_page_type": "research_only_no_operational_article",
+        "search_facets": [],
+        "id": "986d7e40984acbb6e8f7",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "cs2 skin changer plugin",
+        "game": "cs2",
+        "language": "en",
+        "cluster_id": "cs2-skin-changer",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "observed",
+        "sources": [
+          "https://www.google.com/search?q=cs2+skin+changer&hl=en&gl=us&pws=0"
+        ],
+        "discovery_note": "Visible non-history autocomplete label; signed-in session, location unknown. No volume inferred. See raw/google-acquisition-observations.json.",
+        "query_role": "ambiguous_research",
+        "recommended_page_type": "intent_review",
+        "search_facets": [],
+        "id": "c57d1c680dc2cce95519",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      }
+    ],
+    "related_terms": [
+      {
+        "term": "skin changer",
+        "usage_note": "Separate cosmetic appearance from ownership, transferability and what others see.",
+        "sources": [
+          "https://cheatix.to/information/counter-strike-2/best-cheats",
+          "https://en.exloader.net/tree/modifications/sdk2changer/",
+          "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+          "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable"
+        ],
+        "document_frequency": 4,
+        "observations": [
+          {
+            "url": "https://cheatix.to/information/counter-strike-2/best-cheats",
+            "body_exact": 1,
+            "page_type": "comparison_overview"
+          },
+          {
+            "url": "https://en.exloader.net/tree/modifications/sdk2changer/",
+            "body_exact": 1,
+            "page_type": "software_access_landing"
+          },
+          {
+            "url": "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+            "body_exact": 5,
+            "page_type": "risk_guide"
+          },
+          {
+            "url": "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable",
+            "body_exact": 1,
+            "page_type": "risk_guide"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "inventory changer",
+        "usage_note": "A product label, not proof that transferable items have been acquired.",
+        "sources": [],
+        "document_frequency": 0,
+        "observations": [],
+        "origin": "editorial_concept_not_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "inventory",
+        "usage_note": "Distinguish a local display from an account-owned item.",
+        "sources": [
+          "https://en.exloader.net/tree/modifications/sdk2changer/",
+          "https://sellyourskins.com/blog/is-skin-changer-bannable/"
+        ],
+        "document_frequency": 2,
+        "observations": [
+          {
+            "url": "https://en.exloader.net/tree/modifications/sdk2changer/",
+            "body_exact": 1,
+            "page_type": "software_access_landing"
+          },
+          {
+            "url": "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+            "body_exact": 2,
+            "page_type": "risk_guide"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "cosmetic",
+        "usage_note": "Use for appearance; do not equate cosmetic-only marketing with a safety guarantee.",
+        "sources": [],
+        "document_frequency": 0,
+        "observations": [],
+        "origin": "editorial_concept_not_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "client-side",
+        "usage_note": "Use only when the source states the display scope; do not generalize across products.",
+        "sources": [
+          "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable"
+        ],
+        "document_frequency": 1,
+        "observations": [
+          {
+            "url": "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable",
+            "body_exact": 1,
+            "page_type": "risk_guide"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "trade",
+        "usage_note": "Treat transferability as a separate question requiring direct evidence.",
+        "sources": [
+          "https://sellyourskins.com/blog/is-skin-changer-bannable/"
+        ],
+        "document_frequency": 1,
+        "observations": [
+          {
+            "url": "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+            "body_exact": 3,
+            "page_type": "risk_guide"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      }
+    ],
+    "anchor_summary": {
+      "editorial_internal": {
+        "n": 94,
+        "counts": {
+          "descriptive": 90,
+          "branded": 2,
+          "generic": 1,
+          "image_or_empty": 1
+        }
+      },
+      "editorial_outbound": {
+        "n": 14,
+        "counts": {
+          "descriptive": 9,
+          "branded": 1,
+          "image_or_empty": 3,
+          "naked_url": 1
+        }
+      },
+      "navigation_internal": {
+        "n": 315,
+        "counts": {
+          "image_or_empty": 19,
+          "descriptive": 294,
+          "naked_url": 2
+        }
+      },
+      "navigation_outbound": {
+        "n": 21,
+        "counts": {
+          "image_or_empty": 8,
+          "descriptive": 13
+        }
+      },
+      "other_internal": {
+        "n": 109,
+        "counts": {
+          "descriptive": 72,
+          "image_or_empty": 33,
+          "naked_url": 1,
+          "branded": 2,
+          "generic": 1
+        }
+      },
+      "other_outbound": {
+        "n": 24,
+        "counts": {
+          "descriptive": 11,
+          "image_or_empty": 12,
+          "naked_url": 1
+        }
+      }
+    },
+    "rules": [
+      "Answer the reader job before background. Match the page type.",
+      "Use short concrete examples and explain tradeoffs. Remove repeated conclusions and filler.",
+      "No invented testing, quotations, user experiences, rankings, prices or safety promises.",
+      "Exact phrase use is descriptive evidence, never a density target. Use variants when natural.",
+      "Related terms are reviewed vocabulary with usage notes and observed-source labels. Unobserved concepts are not competitor evidence; no term is mandatory. Raw co-occurrence output is not a writing checklist.",
+      "Original value must be delivered, not merely promised. Do not clone a rival outline.",
+      "Supporting sections belong inside this page; do not duplicate their entire outline or FAQ as separate articles.",
+      "non_article_queries are routing context, not phrases to insert into this article. A download/free access request needs an actual verified offer; do not relabel a paid offer as free.",
+      "Vendor comparisons need a dated source for each cell/claim and a visible commercial disclosure.",
+      "For third-party cheat topics, use high-level terminology and evaluation only; no operational evasion or cheat implementation. Legitimate practice/custom-lobby references may include verified built-in command syntax within the stated supported context.",
+      "A direct answer should stand alone and identify entities clearly; no mandatory chunk size or llms.txt."
+    ]
+  },
+  "evidence": [
+    {
+      "source": "https://cheatix.to/information/counter-strike-2/best-cheats",
+      "heading": "CS2 Hacks & Cheats: Aimbot, ESP, Triggerbot, Radar & More | Cheatix",
+      "excerpt": "delay, hitbox selection, weapon filters, visibility checks, and how independently the feature can be configured. 04 Skin changer Compare configuration depth, compatibility, setup requirements, and current maintenance notes for this feature across active CS2 listings. 05 External cheats Product type affects installation, available controls, overlay behavior, and maintenance. Confirm how the current Counter-Strike 2 build is delivered and launched. 06 Internal cheats Product type affects installation, available controls, overlay behavior,",
+      "captured_at": "2026-09-21T04:15:42.433420+00:00",
+      "capture_file": "research\\seo-20260921\\pages\\0344412e151469ac5741.json",
+      "evidence_type": "publisher_statement_not_independent_test",
+      "extraction": "semantic_main"
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

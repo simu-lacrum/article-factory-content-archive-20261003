@@ -1,0 +1,37 @@
+{
+  "topic": {
+    "id": "deadlock-trial",
+    "game": "deadlock",
+    "language": "en",
+    "title": "Free Deadlock Cheats vs Trial: What Is Real?",
+    "main_query": "free deadlock cheats",
+    "reader_job": "Separate a permanent free offer, a limited trial and a paid subscription using verifiable current terms",
+    "publication_action": "new_article"
+  },
+  "research_contract": {
+    "study_id": "seo-20260921",
+    "id": "deadlock-trial",
+    "primary_query": "free deadlock cheats",
+    "reader_job": "Separate a permanent free offer, a limited trial and a paid subscription using verifiable current terms",
+    "publication_gate": "requires_original_content_and_editorial_review",
+    "reviewed_semantic_terms": [
+      "deadlock cheat free trial",
+      "free vs paid Deadlock cheats",
+      "Deadlock cheat subscription"
+    ]
+  },
+  "evidence": [
+    {
+      "source": "https://cluster.center/en/deadlock",
+      "heading": "Cluster Deadlock public product page",
+      "excerpt": "Current public page lists the Deadlock product, plan selector, Windows requirements and feature categories. Captured 2026-09-26. Vendor statements are not independent tests.",
+      "captured_at": "2026-09-26",
+      "evidence_type": "publisher_statement_not_independent_test"
+    }
+  ],
+  "strict_rules": [
+    "No external links in public copy except Cluster",
+    "No anti-cheat bypass, evasion or implementation instructions",
+    "No unsupported guarantees, prices beyond dated page wording or personal tests"
+  ]
+}

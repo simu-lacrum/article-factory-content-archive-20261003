@@ -1,0 +1,1756 @@
+{
+  "topic": {
+    "id": 1253,
+    "game": "dota2",
+    "language": "en",
+    "title": "Melonity, Umbrella and Octarine: compare documented features",
+    "source_kind": "seo_research",
+    "source_ref": "dota2-comparison",
+    "cluster": "dota2-comparison",
+    "main_query": "dota 2 cheats comparison",
+    "score": 200.0,
+    "volume_words": "Cover the reader job completely; no SEO word-count target",
+    "outline_json": "[\"Which reader requirements matter\", \"Hero features and general features compared separately\", \"Access terms and support documentation\", \"Strengths, unknowns and unsuitable cases\", \"Method and commercial disclosure\", \"FAQ\"]",
+    "ad_integration": "Contextual Melonity mention with disclosure when commercial",
+    "evidence_json": "[\"Compare concrete requirements across Dota 2 products.\", \"Use symmetric dated criteria and source every claim; disclose the Melonity relationship and avoid invented testing.\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-09-26 16:28:56"
+  },
+  "research_contract": {
+    "study_id": "seo-20260921",
+    "captured_at": "2026-09-21",
+    "market": {
+      "country": "US",
+      "engine": "google",
+      "language": "en",
+      "secondary_market": "GB"
+    },
+    "source_policies": {
+      "https://cswatch.gg/blog/cs2-cheat-types-explained": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reason": "Contains unsupported anti-cheat effectiveness/safety claims and overconfident behavioral detection statements. Analyze layout and wording, not product truth.",
+        "reviewed_at": "2026-09-21"
+      },
+      "https://steamreport.net/blog/cs2-cheating-types-explained": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reason": "Commercial reporting-service article makes unsupported report-priority and ban-effectiveness claims. Analyze layout and wording, not product truth.",
+        "reviewed_at": "2026-09-21"
+      },
+      "https://umbrella-dota.com/en/features/maphack/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Page mixes feature labels with unverified hidden-information, safety and evasion claims plus setup instructions. Retain for on-page analysis; do not automatically feed these passages to the writer."
+      },
+      "https://dota2tool.vercel.app/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Useful example of the manual-timer reader job, not an authoritative source for current game timings or third-party ESP functionality."
+      },
+      "https://dotasense.com/guides/roshan-timer": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Gameplay/timer page observed in broad timer SERP. It does not substantiate ESP or other third-party information features."
+      },
+      "https://xplay.gg/blog/cs2-skinchanger-how-it-works-and-how-to-access-it-on-our-servers/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://sellyourskins.com/blog/is-skin-changer-bannable/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://cheatstore.net/deadlock/triggerbot": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Search-intent and on-page evidence only. Current efficacy, safety, ownership, detection and mechanics claims were not independently verified; do not feed them automatically into article facts."
+      },
+      "https://umbrella-dota.com/en/scripts/invoker/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+      },
+      "https://umbrella-dota.com/en/scripts/meepo/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+      },
+      "https://umbrella-dota.com/en/features/dodger/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+      },
+      "https://www.ciroscript.com/dota": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for search intent and keyword usage only. Hero pages reuse a template and include unverified numerical game statistics; the feature page includes unverified reaction/effectiveness/safety claims and setup instructions. Do not import these as article facts."
+      },
+      "https://cheater.fun/deadlock_cheats/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://en.exloader.net/tree/games/deadlock/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://octarine.fun/en/deadlock/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://cheater.fun/cs2-hacks/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://cheater.fun/cheats_for_dota2_download_hacks_free/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://en.exloader.net/tree/modifications/sdk2changer/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://en.exloader.net/tree/modifications/d2jsr/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Acquisition-intent and copy analysis only. Downloads, ownership, current access terms, safety and efficacy not verified. No automatic adoption of catalog claims."
+      },
+      "https://scope.gg/grenade-predictor/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. The page includes legacy-looking tickrate/map wording; do not assume every detail describes the current CS2 version."
+      },
+      "https://csnades.gg/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified."
+      },
+      "https://ivsofte.biz/en/blog/best-deadlock-cheats/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. Reseller recommendations and anti-cheat/evasion assertions are not independent factual evidence."
+      },
+      "https://madchad.net/best-deadlock-cheats-2026/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified."
+      },
+      "https://deadlockcheats.net/blog": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Retain for format and phrase analysis. Check first-party scope separately before using product/tool details; performance, safety, testing and rankings are unverified. The comparison uses an own-product column and unnamed generic rivals, with no inspected test protocol."
+      },
+      "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence. Own-product comparison contains unsupported rival capability, price, ban-rate, support and patch-speed assertions. The inspected copy does not establish a verifiable test protocol."
+      },
+      "https://dota2cheat.net/blog/dota2-cheats-vs-ghostware-features-pricing/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+      },
+      "https://ivsofte.biz/en/compare/dota-2-hacks/": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observed redirect to /en/games/dota-2-hacks/ returns an access-restricted login screen. Preserve the HTTP capture but exclude its words, links and metadata from the competitor-comparison corpus; no access attempt was made.",
+        "exclude_from_onpage_analysis": true
+      },
+      "https://overplus.gg/en": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+      },
+      "https://metaskins.gg/en": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence. Multi-game landing includes product cards; a risk-free slogan is an unverified marketing claim, not evidence of safety."
+      },
+      "https://distort.wtf/features/cs2-grenade-helper": {
+        "role": "competitor_onpage_analysis_only",
+        "exclude_from_fact_evidence": true,
+        "reviewed_at": "2026-09-21",
+        "reason": "Observe copy, page format, phrase placement and links only. Advertised capabilities, access conditions, safety, tests and rankings are not independently verified. No operational steps enter the article evidence."
+      }
+    },
+    "id": "dota2-comparison",
+    "game": "dota2",
+    "language": "en",
+    "primary_query": "dota 2 cheats comparison",
+    "title": "Melonity, Umbrella and Octarine: compare documented features",
+    "reader_job": "Compare concrete requirements across Dota 2 products.",
+    "intent": "commercial_investigation",
+    "scope": "third_party_software",
+    "page_type": "comparison",
+    "publication_action": "update_article",
+    "primary_site": "cheatsgaming.com",
+    "grouping_basis": "editorial_hypothesis_pending_serp_overlap_validation",
+    "original_value": "Use symmetric dated criteria and source every claim; disclose the Melonity relationship and avoid invented testing.",
+    "semantic_terms": [
+      "hero coverage",
+      "feature scope",
+      "trial",
+      "support",
+      "current version",
+      "commercial interest"
+    ],
+    "competitor_urls": [
+      "https://dota2cheat.net/blog/dota2-cheats-vs-ghostware-features-pricing/",
+      "https://dota2cheat.net/guides",
+      "https://dotacheats.com/",
+      "https://dotacheats.com/blog/dota-2-cheats-features-guide",
+      "https://ivsofte.biz/en/compare/dota-2-hacks/",
+      "https://octarine.cc/",
+      "https://uc.zone/en/dota2",
+      "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+      "https://umbrella-dota.com/en/scripts/"
+    ],
+    "outline": [
+      "Which reader requirements matter",
+      "Hero features and general features compared separately",
+      "Access terms and support documentation",
+      "Strengths, unknowns and unsuitable cases",
+      "Method and commercial disclosure",
+      "FAQ"
+    ],
+    "anchor_guidance": [
+      "Use a descriptive contextual link to the dota2 feature hub when it helps the next reader question",
+      "Use the brand name for a vendor reference; do not disguise promotional links as independent recommendations",
+      "Use the raw URL only when identifying a destination is useful; avoid filler anchors such as click here",
+      "No required exact/partial/branded/naked percentages; inbound backlink ratios remain unmeasured"
+    ],
+    "evidence_needed": [
+      "Verify each current feature claim on a dated vendor page",
+      "Check existing owned-site coverage before making a new URL",
+      "Collect a dedicated US SERP and real search-volume data before scheduling by demand"
+    ],
+    "comparison_contract": {
+      "axes": [
+        "documented feature scope",
+        "supported game/version",
+        "access terms",
+        "support channel",
+        "status timestamp",
+        "unknowns"
+      ],
+      "claim_fields": [
+        "subject",
+        "claim",
+        "source_url",
+        "checked_at",
+        "evidence_type",
+        "confidence"
+      ],
+      "unknown_value": "not publicly confirmed",
+      "disclosure_required": true
+    },
+    "existing_url": "https://cheatsgaming.com/games/dota-2/melonity-vs-umbrella-dota-2-cheats",
+    "cannibalization_note": "Existing live URL matches the subject. Improve or differentiate it; do not publish a second generic guide.",
+    "priority": "P2",
+    "priority_basis": "Editorial usefulness, feature specificity and existing coverage; NOT search volume or ranking difficulty",
+    "research_state": "unvalidated",
+    "suggested_questions": [],
+    "editorial_status": "brief_not_a_verified_product_claim",
+    "serp_mismatch": "The comparison query includes three commercial comparisons, a potentially owned external publication, discussions, a command reference and video. Update the existing named comparison using symmetric dated criteria. Vendor/reseller comparisons are not independent testing, and the mrkhertz publication is excluded from independent competitor evidence until ownership is resolved.",
+    "intent_matched_urls": [
+      "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+      "https://dota2cheat.net/blog/dota2-cheats-vs-ghostware-features-pricing/",
+      "https://ivsofte.biz/en/compare/dota-2-hacks/"
+    ],
+    "usage_phrases": [
+      "dota 2 cheats",
+      "dota2 cheats",
+      "Melonity",
+      "Umbrella",
+      "Octarine",
+      "comparison"
+    ],
+    "corpus_note": "Three commercial comparison URLs observed in the exact target-query sample. Capture availability and extraction quality determine which actually enter the count corpus. No test protocol is inferred from titles.",
+    "reviewed_semantic_terms": [
+      {
+        "term": "Melonity",
+        "usage_note": "Mapped Dota 2 product; attribute its statements and disclose commercial context when applicable."
+      },
+      {
+        "term": "Umbrella",
+        "usage_note": "A competitor to compare by symmetric documented criteria, without invented testing."
+      },
+      {
+        "term": "Octarine",
+        "usage_note": "Use the current first-party feature/offer source; unavailable information stays unknown."
+      },
+      {
+        "term": "hero scripts",
+        "usage_note": "Identify the hero and advertised automation scope; no implementation or outcome promise."
+      },
+      {
+        "term": "free trial",
+        "usage_note": "State a verified duration and restrictions; never present it as permanent free access."
+      },
+      {
+        "term": "support",
+        "usage_note": "Compare a documented channel or policy; do not invent response-time experience."
+      },
+      {
+        "term": "pricing",
+        "usage_note": "Use a dated first-party offer and disclose what period/currency it covers."
+      }
+    ],
+    "semantic_review": {
+      "reviewed_at": "2026-09-21",
+      "basis": "Editorial relevance to the reader job, checked against the retained corpus at build time. Zero matching documents remains explicitly unobserved.",
+      "not_a_quota": true
+    },
+    "keywords": [
+      {
+        "query": "dota 2 cheats comparison",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "commercial_investigation",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "241d02bfc7a94afb5556",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 1,
+        "page_type_evidence": {
+          "counts": {
+            "discussion_provisional": 2,
+            "commercial_comparison_provisional": 3,
+            "reference_provisional": 1,
+            "comparison_ownership_unverified_provisional": 1
+          },
+          "sample_results": 7,
+          "samples": [
+            {
+              "method": "browser_dom",
+              "captured_at": "2026-09-21T07:22:49.403Z",
+              "country_requested": "US",
+              "source_file": "raw/google-final-target-observations.json",
+              "counts": {
+                "discussion_provisional": 2,
+                "commercial_comparison_provisional": 3,
+                "reference_provisional": 1,
+                "comparison_ownership_unverified_provisional": 1
+              },
+              "unique_nonvideo_results": 7
+            }
+          ],
+          "decision": "observed_mix",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "melonity vs umbrella",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "commercial_investigation",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [
+          "vs"
+        ],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "450fba55be1378e06fed",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "head_or_mid_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "melonity vs octarine",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "commercial_investigation",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [
+          "vs"
+        ],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "1d8a899b3db0860ffc45",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "head_or_mid_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "dota 2 scripts comparison",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "commercial_investigation",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "1bc5f15b89ecc5e1dc21",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "dota 2 cheat review checklist",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "commercial_investigation",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "discovery_note": "Writer-proposed search phrase based on the topic; demand unverified",
+        "search_facets": [],
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "id": "5a43b9e100028d5d7f84",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "free vs paid dota 2 cheats",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "search_facets": [
+          "free",
+          "paid",
+          "vs"
+        ],
+        "id": "82fd08dbeba4dc1f3820",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "dota 2 free cheat vs trial",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "search_facets": [
+          "free",
+          "trial",
+          "vs"
+        ],
+        "id": "4c3c0de2a8e85506399a",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "dota 2 cheat free version limitations",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "informational",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "article_candidate",
+        "recommended_page_type": "article_or_section",
+        "search_facets": [
+          "free"
+        ],
+        "id": "5dfd1313fd1dadaea317",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      }
+    ],
+    "measured_query_count": 0,
+    "validated_query_subsets": [],
+    "article_target": {
+      "query": "dota 2 cheats comparison",
+      "volume": null,
+      "metric": null,
+      "frequency_band": "unknown",
+      "page_type_evidence": {
+        "counts": {
+          "discussion_provisional": 2,
+          "commercial_comparison_provisional": 3,
+          "reference_provisional": 1,
+          "comparison_ownership_unverified_provisional": 1
+        },
+        "sample_results": 7,
+        "samples": [
+          {
+            "method": "browser_dom",
+            "captured_at": "2026-09-21T07:22:49.403Z",
+            "country_requested": "US",
+            "source_file": "raw/google-final-target-observations.json",
+            "counts": {
+              "discussion_provisional": 2,
+              "commercial_comparison_provisional": 3,
+              "reference_provisional": 1,
+              "comparison_ownership_unverified_provisional": 1
+            },
+            "unique_nonvideo_results": 7
+          }
+        ],
+        "decision": "observed_mix",
+        "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+      }
+    },
+    "sampled_pages": 6,
+    "term_usage": {
+      "query": "dota 2 cheats comparison",
+      "pages": [
+        {
+          "url": "https://dota2cheat.net/guides/",
+          "words": 147,
+          "body_exact": 0,
+          "page_type": "guide_index",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://dotacheats.com/",
+          "words": 1361,
+          "body_exact": 0,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+          "words": 1000,
+          "body_exact": 0,
+          "page_type": "guide_or_article",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://uc.zone/en/dota2",
+          "words": 945,
+          "body_exact": 0,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "body_fallback_review_needed"
+        },
+        {
+          "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+          "words": 852,
+          "body_exact": 0,
+          "page_type": "commercial_comparison",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        },
+        {
+          "url": "https://umbrella-dota.com/en/scripts/",
+          "words": 425,
+          "body_exact": 0,
+          "page_type": "commercial_page_provisional",
+          "exact_per_1000_words": 0.0,
+          "title_exact": 0,
+          "description_exact": 0,
+          "h1_exact": 0,
+          "h2_h3_exact": 0,
+          "intro_100_words_exact": 0,
+          "capture_notes": [],
+          "extraction": "semantic_main"
+        }
+      ],
+      "by_page_type": {
+        "commercial_comparison": {
+          "body_exact": {
+            "n": 1,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 852,
+            "median": 852,
+            "max": 852,
+            "q1": null,
+            "q3": null
+          }
+        },
+        "commercial_page_provisional": {
+          "body_exact": {
+            "n": 3,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 3,
+            "min": 425,
+            "median": 945,
+            "max": 1361,
+            "q1": null,
+            "q3": null
+          }
+        },
+        "guide_index": {
+          "body_exact": {
+            "n": 1,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 147,
+            "median": 147,
+            "max": 147,
+            "q1": null,
+            "q3": null
+          }
+        },
+        "guide_or_article": {
+          "body_exact": {
+            "n": 1,
+            "min": 0,
+            "median": 0,
+            "max": 0,
+            "q1": null,
+            "q3": null
+          },
+          "words": {
+            "n": 1,
+            "min": 1000,
+            "median": 1000,
+            "max": 1000,
+            "q1": null,
+            "q3": null
+          }
+        }
+      },
+      "body_exact_distribution": {
+        "n": 6,
+        "min": 0,
+        "median": 0.0,
+        "max": 0,
+        "q1": 0.0,
+        "q3": 0.0
+      },
+      "words_distribution": {
+        "n": 6,
+        "min": 147,
+        "median": 898.5,
+        "max": 1361,
+        "q1": 531.75,
+        "q3": 986.25
+      },
+      "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+    },
+    "intent_matched_term_usage": [
+      {
+        "query": "dota 2 cheats comparison",
+        "pages": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "words": 852,
+            "body_exact": 0,
+            "page_type": "commercial_comparison",
+            "exact_per_1000_words": 0.0,
+            "title_exact": 0,
+            "description_exact": 0,
+            "h1_exact": 0,
+            "h2_h3_exact": 0,
+            "intro_100_words_exact": 0,
+            "capture_notes": [],
+            "extraction": "semantic_main"
+          }
+        ],
+        "by_page_type": {
+          "commercial_comparison": {
+            "body_exact": {
+              "n": 1,
+              "min": 0,
+              "median": 0,
+              "max": 0,
+              "q1": null,
+              "q3": null
+            },
+            "words": {
+              "n": 1,
+              "min": 852,
+              "median": 852,
+              "max": 852,
+              "q1": null,
+              "q3": null
+            }
+          }
+        },
+        "body_exact_distribution": {
+          "n": 1,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 1,
+          "min": 852,
+          "median": 852,
+          "max": 852,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "dota 2 cheats",
+        "pages": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "words": 852,
+            "body_exact": 0,
+            "page_type": "commercial_comparison",
+            "exact_per_1000_words": 0.0,
+            "title_exact": 1,
+            "description_exact": 0,
+            "h1_exact": 0,
+            "h2_h3_exact": 0,
+            "intro_100_words_exact": 0,
+            "capture_notes": [],
+            "extraction": "semantic_main"
+          }
+        ],
+        "by_page_type": {
+          "commercial_comparison": {
+            "body_exact": {
+              "n": 1,
+              "min": 0,
+              "median": 0,
+              "max": 0,
+              "q1": null,
+              "q3": null
+            },
+            "words": {
+              "n": 1,
+              "min": 852,
+              "median": 852,
+              "max": 852,
+              "q1": null,
+              "q3": null
+            }
+          }
+        },
+        "body_exact_distribution": {
+          "n": 1,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 1,
+          "min": 852,
+          "median": 852,
+          "max": 852,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "dota2 cheats",
+        "pages": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "words": 852,
+            "body_exact": 0,
+            "page_type": "commercial_comparison",
+            "exact_per_1000_words": 0.0,
+            "title_exact": 0,
+            "description_exact": 0,
+            "h1_exact": 0,
+            "h2_h3_exact": 0,
+            "intro_100_words_exact": 0,
+            "capture_notes": [],
+            "extraction": "semantic_main"
+          }
+        ],
+        "by_page_type": {
+          "commercial_comparison": {
+            "body_exact": {
+              "n": 1,
+              "min": 0,
+              "median": 0,
+              "max": 0,
+              "q1": null,
+              "q3": null
+            },
+            "words": {
+              "n": 1,
+              "min": 852,
+              "median": 852,
+              "max": 852,
+              "q1": null,
+              "q3": null
+            }
+          }
+        },
+        "body_exact_distribution": {
+          "n": 1,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 1,
+          "min": 852,
+          "median": 852,
+          "max": 852,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "Melonity",
+        "pages": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "words": 852,
+            "body_exact": 15,
+            "page_type": "commercial_comparison",
+            "exact_per_1000_words": 17.606,
+            "title_exact": 1,
+            "description_exact": 1,
+            "h1_exact": 1,
+            "h2_h3_exact": 0,
+            "intro_100_words_exact": 2,
+            "capture_notes": [],
+            "extraction": "semantic_main"
+          }
+        ],
+        "by_page_type": {
+          "commercial_comparison": {
+            "body_exact": {
+              "n": 1,
+              "min": 15,
+              "median": 15,
+              "max": 15,
+              "q1": null,
+              "q3": null
+            },
+            "words": {
+              "n": 1,
+              "min": 852,
+              "median": 852,
+              "max": 852,
+              "q1": null,
+              "q3": null
+            }
+          }
+        },
+        "body_exact_distribution": {
+          "n": 1,
+          "min": 15,
+          "median": 15,
+          "max": 15,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 1,
+          "min": 852,
+          "median": 852,
+          "max": 852,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "Umbrella",
+        "pages": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "words": 852,
+            "body_exact": 18,
+            "page_type": "commercial_comparison",
+            "exact_per_1000_words": 21.127,
+            "title_exact": 1,
+            "description_exact": 1,
+            "h1_exact": 1,
+            "h2_h3_exact": 0,
+            "intro_100_words_exact": 2,
+            "capture_notes": [],
+            "extraction": "semantic_main"
+          }
+        ],
+        "by_page_type": {
+          "commercial_comparison": {
+            "body_exact": {
+              "n": 1,
+              "min": 18,
+              "median": 18,
+              "max": 18,
+              "q1": null,
+              "q3": null
+            },
+            "words": {
+              "n": 1,
+              "min": 852,
+              "median": 852,
+              "max": 852,
+              "q1": null,
+              "q3": null
+            }
+          }
+        },
+        "body_exact_distribution": {
+          "n": 1,
+          "min": 18,
+          "median": 18,
+          "max": 18,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 1,
+          "min": 852,
+          "median": 852,
+          "max": 852,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "Octarine",
+        "pages": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "words": 852,
+            "body_exact": 0,
+            "page_type": "commercial_comparison",
+            "exact_per_1000_words": 0.0,
+            "title_exact": 0,
+            "description_exact": 0,
+            "h1_exact": 0,
+            "h2_h3_exact": 0,
+            "intro_100_words_exact": 0,
+            "capture_notes": [],
+            "extraction": "semantic_main"
+          }
+        ],
+        "by_page_type": {
+          "commercial_comparison": {
+            "body_exact": {
+              "n": 1,
+              "min": 0,
+              "median": 0,
+              "max": 0,
+              "q1": null,
+              "q3": null
+            },
+            "words": {
+              "n": 1,
+              "min": 852,
+              "median": 852,
+              "max": 852,
+              "q1": null,
+              "q3": null
+            }
+          }
+        },
+        "body_exact_distribution": {
+          "n": 1,
+          "min": 0,
+          "median": 0,
+          "max": 0,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 1,
+          "min": 852,
+          "median": 852,
+          "max": 852,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      },
+      {
+        "query": "comparison",
+        "pages": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "words": 852,
+            "body_exact": 1,
+            "page_type": "commercial_comparison",
+            "exact_per_1000_words": 1.174,
+            "title_exact": 0,
+            "description_exact": 1,
+            "h1_exact": 1,
+            "h2_h3_exact": 1,
+            "intro_100_words_exact": 1,
+            "capture_notes": [],
+            "extraction": "semantic_main"
+          }
+        ],
+        "by_page_type": {
+          "commercial_comparison": {
+            "body_exact": {
+              "n": 1,
+              "min": 1,
+              "median": 1,
+              "max": 1,
+              "q1": null,
+              "q3": null
+            },
+            "words": {
+              "n": 1,
+              "min": 852,
+              "median": 852,
+              "max": 852,
+              "q1": null,
+              "q3": null
+            }
+          }
+        },
+        "body_exact_distribution": {
+          "n": 1,
+          "min": 1,
+          "median": 1,
+          "max": 1,
+          "q1": null,
+          "q3": null
+        },
+        "words_distribution": {
+          "n": 1,
+          "min": 852,
+          "median": 852,
+          "max": 852,
+          "q1": null,
+          "q3": null
+        },
+        "interpretation": "Observed usage in this sampled corpus, not a ranking factor or writing quota. Use by_page_type; the overall distribution may mix page types."
+      }
+    ],
+    "reviewed_related_terms": [
+      {
+        "term": "Melonity",
+        "usage_note": "Mapped Dota 2 product; attribute its statements and disclose commercial context when applicable.",
+        "sources": [
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/"
+        ],
+        "document_frequency": 1,
+        "observations": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 15,
+            "page_type": "commercial_comparison"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "Umbrella",
+        "usage_note": "A competitor to compare by symmetric documented criteria, without invented testing.",
+        "sources": [
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "document_frequency": 3,
+        "observations": [
+          {
+            "url": "https://uc.zone/en/dota2",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 18,
+            "page_type": "commercial_comparison"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/scripts/",
+            "body_exact": 4,
+            "page_type": "commercial_page_provisional"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "Octarine",
+        "usage_note": "Use the current first-party feature/offer source; unavailable information stays unknown.",
+        "sources": [],
+        "document_frequency": 0,
+        "observations": [],
+        "origin": "editorial_concept_not_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "hero scripts",
+        "usage_note": "Identify the hero and advertised automation scope; no implementation or outcome promise.",
+        "sources": [
+          "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "document_frequency": 3,
+        "observations": [
+          {
+            "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+            "body_exact": 2,
+            "page_type": "guide_or_article"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 1,
+            "page_type": "commercial_comparison"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/scripts/",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "free trial",
+        "usage_note": "State a verified duration and restrictions; never present it as permanent free access.",
+        "sources": [
+          "https://uc.zone/en/dota2"
+        ],
+        "document_frequency": 1,
+        "observations": [
+          {
+            "url": "https://uc.zone/en/dota2",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "support",
+        "usage_note": "Compare a documented channel or policy; do not invent response-time experience.",
+        "sources": [
+          "https://dota2cheat.net/guides/",
+          "https://dotacheats.com/",
+          "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/"
+        ],
+        "document_frequency": 5,
+        "observations": [
+          {
+            "url": "https://dota2cheat.net/guides/",
+            "body_exact": 1,
+            "page_type": "guide_index"
+          },
+          {
+            "url": "https://dotacheats.com/",
+            "body_exact": 11,
+            "page_type": "commercial_page_provisional"
+          },
+          {
+            "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+            "body_exact": 1,
+            "page_type": "guide_or_article"
+          },
+          {
+            "url": "https://uc.zone/en/dota2",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 5,
+            "page_type": "commercial_comparison"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "pricing",
+        "usage_note": "Use a dated first-party offer and disclose what period/currency it covers.",
+        "sources": [
+          "https://dota2cheat.net/guides/",
+          "https://dotacheats.com/",
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/"
+        ],
+        "document_frequency": 3,
+        "observations": [
+          {
+            "url": "https://dota2cheat.net/guides/",
+            "body_exact": 1,
+            "page_type": "guide_index"
+          },
+          {
+            "url": "https://dotacheats.com/",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 1,
+            "page_type": "commercial_comparison"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      }
+    ],
+    "publication_gate": "requires_original_content_and_editorial_review",
+    "supporting_sections": [],
+    "non_article_queries": [
+      {
+        "query": "dota 2 cheats free trial",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [
+          "free",
+          "trial"
+        ],
+        "id": "7fa512c10831b15ae3a1",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "dota 2 script free trial",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [
+          "free",
+          "trial"
+        ],
+        "id": "df5e3d9a53f0f01f6c85",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      },
+      {
+        "query": "dota 2 cheat subscription",
+        "game": "dota2",
+        "language": "en",
+        "cluster_id": "dota2-comparison",
+        "intent": "transactional",
+        "scope": "third_party_software",
+        "discovery": "editorial_expansion",
+        "sources": [],
+        "discovery_note": "Manually proposed variant; demand and synonym grouping remain unverified.",
+        "query_role": "product_access",
+        "recommended_page_type": "verified_product_or_category",
+        "search_facets": [],
+        "id": "04fe02a5a233262a80b7",
+        "volume": null,
+        "metric": null,
+        "metric_candidates": [],
+        "frequency_band": "unknown",
+        "specificity": "long_tail_phrase",
+        "serp_samples": 0,
+        "page_type_evidence": {
+          "counts": {},
+          "sample_results": 0,
+          "samples": [],
+          "decision": "manual_review",
+          "note": "Read each sample separately: the overall counts may repeat URLs across dates and providers. Mixed intents may require separate pages; a product SERP is not automatically an article target."
+        }
+      }
+    ],
+    "related_terms": [
+      {
+        "term": "Melonity",
+        "usage_note": "Mapped Dota 2 product; attribute its statements and disclose commercial context when applicable.",
+        "sources": [
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/"
+        ],
+        "document_frequency": 1,
+        "observations": [
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 15,
+            "page_type": "commercial_comparison"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "Umbrella",
+        "usage_note": "A competitor to compare by symmetric documented criteria, without invented testing.",
+        "sources": [
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "document_frequency": 3,
+        "observations": [
+          {
+            "url": "https://uc.zone/en/dota2",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 18,
+            "page_type": "commercial_comparison"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/scripts/",
+            "body_exact": 4,
+            "page_type": "commercial_page_provisional"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "Octarine",
+        "usage_note": "Use the current first-party feature/offer source; unavailable information stays unknown.",
+        "sources": [],
+        "document_frequency": 0,
+        "observations": [],
+        "origin": "editorial_concept_not_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "hero scripts",
+        "usage_note": "Identify the hero and advertised automation scope; no implementation or outcome promise.",
+        "sources": [
+          "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+          "https://umbrella-dota.com/en/scripts/"
+        ],
+        "document_frequency": 3,
+        "observations": [
+          {
+            "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+            "body_exact": 2,
+            "page_type": "guide_or_article"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 1,
+            "page_type": "commercial_comparison"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/scripts/",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "free trial",
+        "usage_note": "State a verified duration and restrictions; never present it as permanent free access.",
+        "sources": [
+          "https://uc.zone/en/dota2"
+        ],
+        "document_frequency": 1,
+        "observations": [
+          {
+            "url": "https://uc.zone/en/dota2",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "support",
+        "usage_note": "Compare a documented channel or policy; do not invent response-time experience.",
+        "sources": [
+          "https://dota2cheat.net/guides/",
+          "https://dotacheats.com/",
+          "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+          "https://uc.zone/en/dota2",
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/"
+        ],
+        "document_frequency": 5,
+        "observations": [
+          {
+            "url": "https://dota2cheat.net/guides/",
+            "body_exact": 1,
+            "page_type": "guide_index"
+          },
+          {
+            "url": "https://dotacheats.com/",
+            "body_exact": 11,
+            "page_type": "commercial_page_provisional"
+          },
+          {
+            "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+            "body_exact": 1,
+            "page_type": "guide_or_article"
+          },
+          {
+            "url": "https://uc.zone/en/dota2",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 5,
+            "page_type": "commercial_comparison"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      },
+      {
+        "term": "pricing",
+        "usage_note": "Use a dated first-party offer and disclose what period/currency it covers.",
+        "sources": [
+          "https://dota2cheat.net/guides/",
+          "https://dotacheats.com/",
+          "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/"
+        ],
+        "document_frequency": 3,
+        "observations": [
+          {
+            "url": "https://dota2cheat.net/guides/",
+            "body_exact": 1,
+            "page_type": "guide_index"
+          },
+          {
+            "url": "https://dotacheats.com/",
+            "body_exact": 1,
+            "page_type": "commercial_page_provisional"
+          },
+          {
+            "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+            "body_exact": 1,
+            "page_type": "commercial_comparison"
+          }
+        ],
+        "origin": "reviewed_vocabulary_observed_in_sample",
+        "evidence_scope": "Occurrence in selected main text only; not search volume, a required phrase or a verified product capability. An optional reviewed source list limits ambiguous terms to the relevant context."
+      }
+    ],
+    "anchor_summary": {
+      "editorial_internal": {
+        "n": 85,
+        "counts": {
+          "descriptive": 80,
+          "image_or_empty": 3,
+          "branded": 2
+        }
+      },
+      "editorial_outbound": {
+        "n": 6,
+        "counts": {
+          "descriptive": 2,
+          "image_or_empty": 4
+        }
+      },
+      "navigation_internal": {
+        "n": 146,
+        "counts": {
+          "descriptive": 143,
+          "branded": 3
+        }
+      },
+      "navigation_outbound": {
+        "n": 18,
+        "counts": {
+          "descriptive": 18
+        }
+      },
+      "other_internal": {
+        "n": 7,
+        "counts": {
+          "descriptive": 3,
+          "branded": 3,
+          "naked_url": 1
+        }
+      },
+      "other_outbound": {
+        "n": 0,
+        "counts": {}
+      }
+    },
+    "rules": [
+      "Answer the reader job before background. Match the page type.",
+      "Use short concrete examples and explain tradeoffs. Remove repeated conclusions and filler.",
+      "No invented testing, quotations, user experiences, rankings, prices or safety promises.",
+      "Exact phrase use is descriptive evidence, never a density target. Use variants when natural.",
+      "Related terms are reviewed vocabulary with usage notes and observed-source labels. Unobserved concepts are not competitor evidence; no term is mandatory. Raw co-occurrence output is not a writing checklist.",
+      "Original value must be delivered, not merely promised. Do not clone a rival outline.",
+      "Supporting sections belong inside this page; do not duplicate their entire outline or FAQ as separate articles.",
+      "non_article_queries are routing context, not phrases to insert into this article. A download/free access request needs an actual verified offer; do not relabel a paid offer as free.",
+      "Vendor comparisons need a dated source for each cell/claim and a visible commercial disclosure.",
+      "For third-party cheat topics, use high-level terminology and evaluation only; no operational evasion or cheat implementation. Legitimate practice/custom-lobby references may include verified built-in command syntax within the stated supported context.",
+      "A direct answer should stand alone and identify entities clearly; no mandatory chunk size or llms.txt."
+    ]
+  },
+  "evidence": [
+    {
+      "source": "https://melonity.gg/en",
+      "heading": "Melonity - Cheats & Scripts for Dota 2: Try for free",
+      "excerpt": "NEW Dota 2 English Sign in Create account Melonity V2: Cheats and Scripts for Dota 2 We've reimagined our cheat and created the best solution on the market. Try for Free 7 days free and 20% off your first monthly subscription More than 500+ functions Hero scripts for any situation Our core Dota 2 script functionality—automating everything! Your browser does not support the video tag. Shadow Find Presses ZXC and makes combos better than any “ghoul“ Invoker Automatic Sunstrike and Complex Casts Meepo Controls clones and automates complex combos Arc Warden Each of your clones plays better than any ally. Sky Mage Automates even the most complex combos on a character Pudge Forget about missing hooks, the enemy won't run",
+      "captured_at": "2026-09-21T04:27:03.507299+00:00",
+      "capture_file": "research\\seo-20260921\\pages\\e3abd997a45dd09bc85f.json",
+      "evidence_type": "publisher_statement_not_independent_test",
+      "extraction": "body_fallback_review_needed"
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

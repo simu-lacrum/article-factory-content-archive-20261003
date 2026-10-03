@@ -1,0 +1,14 @@
+{
+  "article_id": "CM-014",
+  "retrieved_at": "2026-09-08",
+  "method": "Public first-party pages only; no download, account, checkout, or product test.",
+  "evidence": [
+    {"url": "https://melonity.gg/en", "kind": "official product page", "observed": ["Dota-led presentation", "named hero-script examples", "500-plus-function claim", "7-, 30-, and 90-day plan cards", "7-day new-account trial wording"], "limits": "Counts are vendor-defined and not comparable across providers."},
+    {"url": "https://melonity.gg/en/dota2/changelog/3-dark-carnival-script-improvements-and-a-new-vbe", "kind": "official dated changelog", "observed": ["Dota update dated 04.07.2026", "20 listed changes"], "limits": "Dated publication is not independent product testing."},
+    {"url": "https://octarine.cc/en/", "kind": "official home and catalog", "observed": ["Dota 2, Deadlock, and CS2 cards", "Minecraft marked coming soon", "one-subscription-for-all-games wording", "1-, 7-, and 30-day plan structure", "try-free wording"], "limits": "Prices and access wording vary by locale and page."},
+    {"url": "https://octarine.cc/en/dota2/", "kind": "official Dota product page", "observed": ["Dota product page", "feature-category examples", "same multi-game subscription wording", "try-free wording"], "limits": "Marketing examples and benchmarks are vendor claims."},
+    {"url": "https://docs.octarine.cc/en/", "kind": "official public documentation", "observed": ["Public documentation index", "open-source script, SDK wrapper, and API sections"], "limits": "Documentation visibility does not prove usability or current Dota compatibility."},
+    {"url": "https://octarine.cc/en/blog/getting-started/", "kind": "official guide dated 16.06.2026", "observed": ["Guide says Dota 2 requires an active subscription", "Guide says CS2 and Deadlock are currently free"], "limits": "This conflicts with broad try-free wording on marketing pages."},
+    {"url": "https://octarine.cc/en/blog/big-update/", "kind": "official update dated 25.08.2026", "observed": ["Cross-game update announcement", "staged rollout wording", "new client and interface description"], "limits": "The post said Deadlock was first and did not by itself prove the Dota rollout state on retrieval day."}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "evidence": [
+    {
+      "source": "https://deadlockhacks.com/guides/deadlock-cheats-download-find-the-real-source",
+      "claim": "A download button is not proof of provenance. The useful question is whether the page, account flow, support channel, and publisher identity form one traceable chain."
+    },
+    {
+      "source": "https://deadlockhacks.com/images/editorial/deadlock-cheats-download-cover.webp",
+      "claim": "Deadlock download-source editorial cover from the source page"
+    }
+  ],
+  "image": "https://deadlockhacks.com/images/editorial/deadlock-cheats-download-cover.webp",
+  "facts": "A download button is not proof of provenance. The useful question is whether the page, account flow, support channel, and publisher identity form one traceable chain.",
+  "checks": [
+    "publisher identity",
+    "same-domain navigation",
+    "clear version or date context",
+    "no pressure to use an unexplained mirror"
+  ]
+}

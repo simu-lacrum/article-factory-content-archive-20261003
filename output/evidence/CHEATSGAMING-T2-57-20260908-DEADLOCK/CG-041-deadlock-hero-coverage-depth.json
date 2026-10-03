@@ -1,0 +1,20 @@
+{
+  "evidence": [
+    {
+      "source": "output/briefs/CHEATSGAMING-T2-57-20260908/02-DEADLOCK-BRIEFS.md",
+      "role": "article brief and query intent"
+    },
+    {
+      "source": "output/briefs/CHEATSGAMING-T2-57-20260908/04-VISUAL-PROMPTS.md",
+      "role": "visual sequence and art direction"
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "role": "documented Deadlock product taxonomy"
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "role": "canonical prompt contract"
+    }
+  ]
+}

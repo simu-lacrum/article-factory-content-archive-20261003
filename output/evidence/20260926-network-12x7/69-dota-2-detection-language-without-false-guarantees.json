@@ -1,0 +1,20 @@
+{
+  "evidence": [
+    {
+      "source": "https://dota2cheat.com/guides/dota-2-cheat-detection",
+      "claim": "Detection status is time-sensitive and difficult to prove from a screenshot or seller statement. Risk-aware writing names uncertainty instead of promising that a product is safe or undetected."
+    },
+    {
+      "source": "https://dota2cheat.com/assets/dota2/dota2-61351f7b75d211cb6ad99902.webp",
+      "claim": "Dota 2 detection-guide artwork from the source page"
+    }
+  ],
+  "image": "https://dota2cheat.com/assets/dota2/dota2-61351f7b75d211cb6ad99902.webp",
+  "facts": "Detection status is time-sensitive and difficult to prove from a screenshot or seller statement. Risk-aware writing names uncertainty instead of promising that a product is safe or undetected.",
+  "checks": [
+    "date and source of the claim",
+    "difference between observation and promise",
+    "account and device risk kept visible",
+    "no bypass or evasion instructions"
+  ]
+}

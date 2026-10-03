@@ -1,0 +1,13 @@
+{
+  "topic": "Cluster vs Octarine CS2",
+  "retrieved_at": "2026-09-08T18:13:41+03:00",
+  "method": "Public official pages only; conflicting access language preserved rather than resolved by inference.",
+  "evidence": [
+    {"source": "https://cluster.center/en/cs2", "status": 200, "facts": ["Game-specific CS2 page", "Aimbot, TriggerBot, ESP and HUD", "Windows 10/11", "Duration selectors, trial claim and Telegram support"]},
+    {"source": "https://octarine.cc/en/cs2/", "status": 200, "facts": ["Page says Free to use for now", "Same page includes a one-subscription-for-all-games pricing component", "Support and subscription-freeze benefits shown", "CS2 feature summary"]},
+    {"source": "https://octarine.cc/en/", "status": 200, "facts": ["Multi-game catalog for Dota 2, Deadlock and CS2", "Homepage pricing language says one subscription for all games"]},
+    {"source": "https://octarine.cc/en/blog/getting-started/", "published": "2026-06-16", "facts": ["Guide says CS2 and Deadlock are currently free while Dota 2 requires a subscription", "Support route mentioned"]},
+    {"source": "https://octarine.cc/en/blog/cs2-skin-changer-july-2026/", "published": "2026-07-29", "facts": ["Dated CS2 update evidence"]},
+    {"source": "https://docs.octarine.cc/en/docs/cs2/functionality/settings/", "facts": ["Detailed public CS2 documentation and configuration-management descriptions"]}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "topic": {"id": 23, "game": "cs2", "language": "ru", "title": "Приватный чит для CS2: как читать страницу продукта", "main_query": "приватный чит для CS2", "risk_level": "restricted"},
+  "evidence": [
+    {"source": "knowledge/agent_memory/sources/cluster-substack-targets-20260909-links/cs2.md", "heading": "Cluster CS2", "excerpt": "Страница перечисляет Aimbot, TriggerBot, ESP и HUD."},
+    {"source": "knowledge/agent_memory/sources/cluster-substack-targets-20260909-links/cs2.md", "heading": "Системные требования", "excerpt": "Указаны Windows 10/11 64-bit и процессоры Intel и AMD."},
+    {"source": "https://store.steampowered.com/online_conduct/Steam?l=russian", "heading": "Steam Online Conduct", "excerpt": "Steam относит запуск чит-программ к запрещённому поведению."},
+    {"source": "https://store.steampowered.com/subscriber_agreement/?l=russian", "heading": "Online Conduct, Cheating and Process Tampering", "excerpt": "Соглашение допускает ограничение или прекращение доступа за читы и автоматизацию."}
+  ],
+  "strict_rules": ["Explain features only at a high level.", "No settings or evasion advice.", "No safety guarantees.", "No markdown tables."]
+}

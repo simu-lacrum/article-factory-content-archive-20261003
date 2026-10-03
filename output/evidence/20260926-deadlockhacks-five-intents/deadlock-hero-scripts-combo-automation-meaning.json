@@ -1,0 +1,44 @@
+{
+  "topic": {
+    "id": "deadlock-combos",
+    "game": "deadlock",
+    "language": "en",
+    "title": "Deadlock Hero Scripts: What Combo Automation Means",
+    "main_query": "deadlock hero scripts",
+    "reader_job": "Understand what a hero script or combo label claims to automate without mistaking a strategy guide for a product specification",
+    "publication_action": "new_article"
+  },
+  "research_contract": {
+    "study_id": "seo-20260921",
+    "id": "deadlock-combos",
+    "primary_query": "deadlock hero scripts",
+    "reader_job": "Understand what a hero script or combo label claims to automate without mistaking a strategy guide for a product specification",
+    "publication_gate": "requires_original_content_and_editorial_review",
+    "reviewed_semantic_terms": [
+      "deadlock auto combo meaning",
+      "Deadlock combo automation",
+      "Deadlock hero combo"
+    ]
+  },
+  "evidence": [
+    {
+      "source": "https://cluster.center/en/deadlock",
+      "heading": "Cluster Deadlock public product page",
+      "excerpt": "Current public page lists the Deadlock product, plan selector, Windows requirements and feature categories. Captured 2026-09-26. Vendor statements are not independent tests.",
+      "captured_at": "2026-09-26",
+      "evidence_type": "publisher_statement_not_independent_test"
+    },
+    {
+      "source": "reviewed competitor feature pages in seo-20260921",
+      "heading": "Feature-label comparison",
+      "excerpt": "Competitor wording was used to distinguish aim FOV, camera FOV and combo labels. It is not linked in the public article and is not treated as independent performance evidence.",
+      "captured_at": "2026-09-21",
+      "evidence_type": "competitor_onpage_analysis_only"
+    }
+  ],
+  "strict_rules": [
+    "No external links in public copy except Cluster",
+    "No anti-cheat bypass, evasion or implementation instructions",
+    "No unsupported guarantees, prices beyond dated page wording or personal tests"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-09-08",
+  "evidence": [
+    {"publisher":"Cluster","url":"https://cluster.center/en/deadlock","access":"HTTP 200; normal-browser verified; self-canonical","observed":["Product page lists 7, 30, 90 and 180 day choices","Three-day new-account trial is stated","Windows 10/11 64-bit and Intel/AMD are stated","Telegram support route is linked","Product categories include aim, visual information, hero combinations, parry, souls, humanizer, FOV and dodger"],"limits":["Protection wording is a vendor claim","No dated public Deadlock changelog was found during the check","The page says users should weigh the risks"]},
+    {"publisher":"Octarine","url":"https://octarinecore.cc/en/deadlock/","access":"HTTP 200; normal-browser verified","observed":["Game-specific product page with aim, hero, visual and reaction categories","Page says one subscription covers all games","Page links public blog, cloud configs, social support routes and an API host"],"limits":["Do not use numeric prices because current pages and the June guide describe access differently","The API host closed the browser connection during this check"]},
+    {"publisher":"Octarine","url":"https://octarinecore.cc/en/blog/","access":"HTTP 200; normal-browser verified","observed":["Latest visible post is BIG UPDATE dated August 25, 2026","The post says the update covers all games and was initially available in Deadlock","It names concrete interface, preview, theme and notification changes"]},
+    {"publisher":"Octarine","url":"https://octarinecore.cc/en/cloud-configs/","access":"HTTP 200 in current web index","observed":["Public explainer claims configs sync across devices and can be shared by code or gallery"],"limits":["Cloud behavior was not independently tested"]},
+    {"publisher":"Octarine","url":"https://octarinecore.cc/en/blog/getting-started/","access":"HTTP 200 in current web index","observed":["Guide dated June 16, 2026 says Deadlock and CS2 were free at that time while Dota 2 required a subscription"],"limits":["This conflicts with broader current pricing language and is not current checkout proof"]}
+  ]
+}

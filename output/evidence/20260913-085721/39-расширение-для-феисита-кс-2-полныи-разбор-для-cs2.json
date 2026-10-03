@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 469,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Расширение для фейсита кс 2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13800",
+    "cluster": "Ранг / ММР / Буст / Faceit",
+    "main_query": "расширение для фейсита кс 2",
+    "score": 58.37672804128334,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"расширение для фейсита кс 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Ранг / ММР / Буст / Faceit\", \"расширение для фейсита кс 2\", \"расширение для фейсита кс 2\", \"топ 1 фейсита кс 2\", \"что нужно для фейсита кс 2\", \"уровень фейсита по эло кс 2\", \"уровни фейсита по эло кс 2\", \"сколько авг нормально для фейсита в кс 2\", \"радар для фейсита кс 2\", \"сколько нужно часов в кс 2 для фейсита\"]",
+    "risk_level": "restricted",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable sources:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- User-provided feature list in the 2026-06-27 goal.\n\nNot usable as factual source:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "3A.6.4. Уровни античитов — для context",
+      "excerpt": "#### 3A.6.4. Уровни античитов — для context Чтобы пользователь понимал почему VAC «слабее» некоторых других: | Анти-чит | Уровень | Игры | Уязвимости | | --- | --- | --- | --- | | **VAC** | User-mode (Ring 3) | CS2, Dota 2, TF2 | Не видит kernel-level cheats; wave-based bans | | **EAC** (Easy Anti-Cheat) | Kernel + user | Apex, Fortnite, Rust | Видит почти всё; обходится только DMA/external | | **BattlEye** | Kernel | PUBG, R6, Tarkov | Сильный, но обходится | | **Vanguard** | Ring-0 + early boot | Valorant | Самый жёсткий — загружается до Windows; у Dota нет аналога | | **FACEIT AC** | Kernel | CS2 (FACEIT) | Обходится только DMA | | **VACnet** | Server ML | CS2 (только) | Behavioral analysis — ловит даже undetected cheats | | **Ricochet** | Kernel + ML | Call of Duty | Server-side ML | > **Контентный edge:** Для Dota 2 Valve **сознательно не делает kernel anti-cheat** (как Vanguard). Причины: privacy concerns (kernel anti-cheat имеет полный доступ к ПК пользователя — фотки, документы), кросс-платформенность (Linux/Mac),..."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "4.7. Камера",
+      "excerpt": "### 4.7. Камера\n\nКанонические режимы:\n\n- фронтальная предметная симметрия;\n- три четверти на уровне объекта;\n- высокий трехчетвертной/изометрический ракурс;\n- строго top-down для натюрморта или карты процесса;\n- extreme close crop для массивного hardware hero.\n\nЛинза и перспектива описываются функционально. Для предмета — 50–85 mm equivalent, умеренная глубина резкости, отсутствие широкоугольной деформации. Для изометрической системы — 35–50 mm equivalent и глубокий фокус. Для top-down — ортогональная или почти ортогональная перспектива."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/tier2-target-links-2026-08-05/deadlock.md",
+      "heading": "Автоматизация для любой игровой ситуации",
+      "excerpt": "## Автоматизация для любой игровой ситуации\n\nНаш основной функционал читов на Deadlock, который автоматизирует все!"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d.md",
+      "heading": "How does VAC work?",
+      "excerpt": "### How does VAC work? There are two main types of anti-cheats in games: server-side and client-side, the latter having several levels of access. VAC has a client module that is responsible for checking the integrity of game files, as well as a server module that checks what orders you send to the server with mouse clicks, etc. There are a whole bunch of such checks, which cannot be listed here. There are also kernel anti-cheats that run directly in the BIOS, such as Vanguard or Faceit. These are often cited as the best anti-cheats, but their design is also their biggest drawback. Unlike VAC, which only monitors the game itself, these anti-cheats have full access to the files on your computer. This means that Vanguard, for example, could potentially access your data if it wanted to. There are no documented cases of this happening, but there are warning signs. Moreover, similar anti-cheats have learned to bypass the hypervisor, and teams from Riot and Faceit are currently working on this issue. Press enter or click to view image in full..."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Four software layers",
+      "excerpt": "### Four software layers To understand why this matters, it helps to separate anti-cheats by the level where they operate. At the basic user-mode level, an anti-cheat watches the game process, checks files, looks for known signatures, and verifies that the client behaves normally. VAC belongs mostly to this category, although Valve also combines it with server-side systems. At the server level, the game can analyze what the player sends during a match: movement, inputs, aim behavior, reaction timing, damage, target switching, and other gameplay signals. This is extremely important in Valve games because even if something is hidden on the client, the server still receives the result of the player’s actions. At the behavioral-analysis level, systems can compare player behavior against what real players usually do. If someone reacts too perfectly, aims too mechanically, switches targets too fast, or repeats actions with robotic timing, that pattern can become suspicious. At the kernel or early-boot level, anti-cheats like Vanguard sit much deeper in the operating system. They can see more, but they also create more privacy and compatibility concerns. VAC..."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Four software layers",
+      "excerpt": "### Four software layers To understand why this matters, it helps to separate anti-cheats by the level where they operate. At the basic user-mode level, an anti-cheat watches the game process, checks files, looks for known signatures, and verifies that the client behaves normally. VAC belongs mostly to this category, although Valve also combines it with server-side systems. At the server level, the game can analyze what the player sends during a match: movement, inputs, aim behavior, reaction timing, damage, target switching, and other gameplay signals. This is extremely important in Valve games because even if something is hidden on the client, the server still receives the result of the player’s actions. At the behavioral-analysis level, systems can compare player behavior against what real players usually do. If someone reacts too perfectly, aims too mechanically, switches targets too fast, or repeats actions with robotic timing, that pattern can become suspicious. At the kernel or early-boot level, anti-cheats like Vanguard sit much deeper in the operating system. They can see more, but they also create more privacy and compatibility concerns. VAC..."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

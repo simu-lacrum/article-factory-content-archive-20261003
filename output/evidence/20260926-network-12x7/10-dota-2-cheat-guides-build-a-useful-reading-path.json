@@ -1,0 +1,20 @@
+{
+  "evidence": [
+    {
+      "source": "https://dota2cheat.com/guides",
+      "claim": "An archive is more useful when it distinguishes evergreen terminology from pages that need rechecking after a patch or product change."
+    },
+    {
+      "source": "https://dota2cheat.com/assets/dota2-hero.webp",
+      "claim": "Dota 2 guides archive artwork from the source page"
+    }
+  ],
+  "image": "https://dota2cheat.com/assets/dota2-hero.webp",
+  "facts": "An archive is more useful when it distinguishes evergreen terminology from pages that need rechecking after a patch or product change.",
+  "checks": [
+    "clear article roles",
+    "review or update context",
+    "links that move toward primary sources",
+    "no duplicate headlines hiding different claims"
+  ]
+}

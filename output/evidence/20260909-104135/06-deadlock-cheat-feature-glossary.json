@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 20,
+    "game": "deadlock",
+    "language": "en",
+    "title": "Deadlock Cheat Feature Glossary",
+    "source_kind": "curated_topic_seed",
+    "source_ref": "knowledge/topic_seeds/deadlock-cs2-cluster-center.json",
+    "cluster": "Deadlock cluster.center: feature glossary",
+    "main_query": "deadlock cheat features",
+    "score": 90.0,
+    "volume_words": "1,800-2,600 words",
+    "outline_json": "[\"Deadlock cheat terminology\", \"Aimbot feature categories\", \"ESP feature categories\", \"Misc features and customization\", \"How cluster.center organizes these features\", \"FAQ\"]",
+    "ad_integration": "Native cluster.center glossary CTA",
+    "evidence_json": "[\"knowledge/agent_memory/products/deadlock-cluster-center-internal.md\", \"knowledge/agent_memory/products/product-map.md\"]",
+    "risk_level": "restricted",
+    "status": "new",
+    "created_at": "2026-07-23 14:43:02"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Published Topic Memory",
+      "excerpt": "## Published Topic Memory\n\nThe direct ranking/listicle topic is already published:\n\n- `Top Cheats for Deadlock. The Best Deadlock Hack`.\n\nDo not repeat direct angles such as:\n\n- top cheats for Deadlock\n- best Deadlock hack\n- Deadlock hack ranking\n\nAllowed adjacent angles:\n\n- Deadlock aimbot settings explained.\n- Deadlock ESP explained.\n- Deadlock FOV changer and visibility features.\n- Deadlock auto parry and movement assistance.\n- Deadlock cheat feature glossary.\n- Deadlock cluster.center feature overview."
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- Use these features as factual local product memory for Deadlock articles.\n- Prefer high-level descriptions such as \"aim-assistance modes\", \"ESP visual layers\", \"FOV and world-color customization\", \"auto dash jump\", and \"auto parry\".\n- Do not write installation steps, bypass steps, anti-cheat evasion steps, or low-level technical implementation.\n- Suggested adjacent article angles:\n  - Deadlock ESP explained.\n  - Deadlock aimbot settings explained at a high level.\n  - Deadlock FOV and visibility features.\n  - Deadlock auto parry and movement assistance.\n  - Deadlock cheat feature glossary."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Published And Duplicate Topic Memory",
+      "excerpt": "## Published And Duplicate Topic Memory\n\nDirect topics already covered by imported sources:\n\n- `Top Cheats for CS2. The Best Hack`.\n- `Best CS2 Hack`.\n- `Cluster CS2 External review`.\n- `Обзор функционала чита Cluster для CS2`.\n\nAllowed adjacent angles:\n\n- CS2 Aimbot settings explained.\n- CS2 TriggerBot settings explained.\n- CS2 ESP and visual indicators explained.\n- CS2 External feature glossary.\n- CS2 Bomb Timer, Spectator List, and Keybinds explained.\n- CS2 Chams and visuals in external cheats."
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "Deadlock cluster.center Internal Feature Memory",
+      "excerpt": "# Deadlock cluster.center Internal Feature Memory\n\nThis file stores user-provided internal product memory for future Deadlock SEO articles. Treat it as local source memory for high-level feature descriptions. Do not turn it into operational bypass, exploit, or anti-cheat evasion guidance."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "Easing and Anti Frog",
+      "excerpt": "### Easing and Anti Frog\n\nEasing is about how aim movement feels over time. It is the difference between a flat correction and one that changes speed along the way.\n\nThe local Deadlock memory lists these easing modes:\n\n*   Easing in-out.\n*   Static.\n*   Decreases when aiming.\n*   Easing out-back.\n\nStatic sounds like the most direct behavior: consistent movement without much curve. Easing in-out suggests a softer start and finish. Decreases when aiming suggests the assistance can become less aggressive as aim settles. Easing out-back sounds like a stylized movement curve. The exact math is not needed here, and guessing it would be wrong. What matters for a reader is the intent: easing gives the tool a feel, not just a strength value.\n\nThe special option listed in local memory is anti frog. The source does not explain it in detail, so it should be described carefully: anti frog is a named special option in the Deadlock aimbot category. It belongs in the glossary, but this article should not invent a deeper explanation beyond the local feature memory."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Deadlock Internal Feature Memory",
+      "excerpt": "## Deadlock Internal Feature Memory"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924.md",
+      "heading": "Deadlock Auto-Parry Cheat: How It Works, Features &Download",
+      "excerpt": "## Deadlock Auto-Parry Cheat: How It Works, Features &Download\n\nGood afternoon, everyone. I’m sure you’re here because you’re interested in auto-parrying melee attacks in Deadlock. In this article, I’ll explain not only where you can download a good cheat with this feature, but also what else is available in Deadlock cheats, and so on."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock.md",
+      "heading": "Deadlock Cheats, Hacks & Feature Guides",
+      "excerpt": "# Deadlock Cheats, Hacks & Feature Guides\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://cheatsgaming.com/games/deadlock\n\nTitle: Deadlock Cheats, Hacks & Feature Guides\n\nURL Source: https://cheatsgaming.com/games/deadlock\n\nMarkdown Content:\nDEADLOCK 5 FOCUSED GUIDES / PAGE 1\n\nCHEATS & HACKS / GUIDES + REVIEWS\n\nExplore Deadlock cheats and hacks, including Auto-Parry, FOV Changer, aimbot, ESP, hero combos, updates and product comparisons\n\nDEADLOCK / CHEATS & HACKS GUIDES 5 GUIDES"
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "Product",
+      "excerpt": "## Product\n\n- Product / brand for Deadlock articles: `cluster.center`.\n- Game: Deadlock.\n- Product angle: feature-rich Deadlock game-assistance product."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

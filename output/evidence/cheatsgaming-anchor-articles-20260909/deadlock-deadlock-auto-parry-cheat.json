@@ -1,0 +1,38 @@
+{
+  "topic": {
+    "id": "ANCHOR-19",
+    "title": "Deadlock Auto-Parry Review: Better Evidence",
+    "game": "deadlock",
+    "language": "en",
+    "risk_level": "restricted-safe",
+    "target_anchor": "Deadlock Auto-Parry cheat",
+    "target_url": "https://cheatsgaming.com/games/deadlock/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924.md",
+      "heading": "Target page and link context",
+      "excerpt": "The target page establishes the page topic and the commercial phrase family used for contextual anchor selection."
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "Mapped cluster.center product memory",
+      "excerpt": "Product descriptions are limited to high-level, attributed feature categories and exclude safety guarantees or operational implementation."
+    },
+    {
+      "source": "output/briefs/CHEATSGAMING-T2-57-20260908/02-DEADLOCK-BRIEFS.md",
+      "heading": "Brief for deadlock-parry",
+      "excerpt": "The brief defines a distinct adjacent search intent, counterexample, factual boundary, and exact contextual backlink sentence."
+    },
+    {
+      "source": "output/deliverables/cheatsgaming-anchor-articles-20260909/SERP-AND-ANCHOR-ANALYSIS.md",
+      "heading": "SERP lexical consensus and anchor diversification",
+      "excerpt": "The anchor is drawn from repeated live SERP wording while varying comparison, ranking, overview, guide, and review formulations across the three placements."
+    }
+  ],
+  "strict_rules": [
+    "No operational installation, injection, bypass, evasion, or detection-avoidance guidance.",
+    "No current safety, price, trial, or availability guarantee unless freshly verified and attributed.",
+    "Keep the exact target anchor natural and use it once in the contextual backlink."
+  ]
+}

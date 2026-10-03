@@ -1,0 +1,20 @@
+{
+  "evidence": [
+    {
+      "source": "https://cheatsgaming.com/games/deadlock/deadlock-souls-aimbot",
+      "claim": "A settings image can show labels and layout at one moment. It does not prove all Souls interactions, every patch, or a safe account outcome."
+    },
+    {
+      "source": "https://cheatsgaming.com/images/articles/deadlock-souls-aimbot/cluster-souls-aimbot-settings.webp",
+      "claim": "Deadlock Souls aimbot settings image from the source article"
+    }
+  ],
+  "image": "https://cheatsgaming.com/images/articles/deadlock-souls-aimbot/cluster-souls-aimbot-settings.webp",
+  "facts": "A settings image can show labels and layout at one moment. It does not prove all Souls interactions, every patch, or a safe account outcome.",
+  "checks": [
+    "feature scope and hero context",
+    "what is visible versus inferred",
+    "maintenance and support signals",
+    "no operational deployment advice"
+  ]
+}

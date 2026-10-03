@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 395,
+    "game": "cs2",
+    "language": "ru",
+    "title": "Оптимизация для кс2: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13757",
+    "cluster": "FPS / Оптимизация",
+    "main_query": "оптимизация для кс2",
+    "score": 56.25601386795118,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"оптимизация для кс2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"FPS / Оптимизация\", \"оптимизация для кс2\", \"оптимизация для кс2\", \"оптимизация пк для кс2\", \"команды для оптимизации кс2\", \"оптимизация cs 2\", \"cs 2 оптимизация\", \"оптимизация кс2 для слабых пк\", \"оптимизация пк под кс2\", \"плагины для сервера кс2\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable sources:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- User-provided feature list in the 2026-06-27 goal.\n\nNot usable as factual source:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/1414.md` materialized as a YouGame 429 / anti-bot script page. Do not use it as factual product evidence unless real forum text is later provided."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/tier2-links-2026-08-05/топ-4-читов-для-deadlock-сравнение-функционала-цен-и-защиты-от-банов-8a3062388f8f.md",
+      "heading": "3 Место: Octarine — Надежный средний класс",
+      "excerpt": "## 3 Место: Octarine — Надежный средний класс\n\nPress enter or click to view image in full size\n\n![Image 13](https://miro.medium.com/v2/resize:fit:700/0*hfA7Z92HiuUIu2sZ.jpeg)\n\n**Octarine** занимает третью позицию. Это проверенный временем софт, который предлагает сбалансированный набор функций для тех, кому не нужны сложные комбо-скрипты.\n\n*   **Функционал:** Обычный Aimbot с настраиваемой плавностью, базовый ESP (боксы, скелеты, полоски HP), автоматическое добивание душ на линии и простой визуал-ченджер.\n*   **Защита от бана:** Хорошая оптимизация и регулярные обновления под патчи игры, однако защита уступает алгоритмам лидеров списка при крупных проверках.\n*   **Цена:** Среднебюджетная категория — около **800–1100 рублей за месяц**."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "4.7. Камера",
+      "excerpt": "### 4.7. Камера\n\nКанонические режимы:\n\n- фронтальная предметная симметрия;\n- три четверти на уровне объекта;\n- высокий трехчетвертной/изометрический ракурс;\n- строго top-down для натюрморта или карты процесса;\n- extreme close crop для массивного hardware hero.\n\nЛинза и перспектива описываются функционально. Для предмета — 50–85 mm equivalent, умеренная глубина резкости, отсутствие широкоугольной деформации. Для изометрической системы — 35–50 mm equivalent и глубокий фокус. Для top-down — ортогональная или почти ортогональная перспектива."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/tier2-target-links-2026-08-05/deadlock.md",
+      "heading": "Автоматизация для любой игровой ситуации",
+      "excerpt": "## Автоматизация для любой игровой ситуации\n\nНаш основной функционал читов на Deadlock, который автоматизирует все!"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cheatsgaming-t2-12-20260910-links/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "What features do modern cheats have?",
+      "excerpt": "## What features do modern cheats have?\n\nThere have always been very few cheats for Deadlock, and now, in fact, there’s only one left — [**Cluster (link active)**](https://cluster.center/en/deadlock) — which I’ve been using almost since the game’s release.\n\nThis is due to the complexity of creating them. While a simple aimbot is enough for FPS games, Deadlock requires a customized approach because of the huge number of mechanics on top of the FPS gameplay.\n\nI won’t go into details, but I’ll give a general overview of the current capabilities. A little later, I’ll dedicate an entire article to the functionality of cheats in Deadlock."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8.md",
+      "heading": "What features do modern cheats have?",
+      "excerpt": "## What features do modern cheats have?\n\nThere have always been very few cheats for Deadlock, and now, in fact, there’s only one left — [**Cluster (link active)**](https://cluster.center/en/deadlock) — which I’ve been using almost since the game’s release.\n\nThis is due to the complexity of creating them. While a simple aimbot is enough for FPS games, Deadlock requires a customized approach because of the huge number of mechanics on top of the FPS gameplay.\n\nI won’t go into details, but I’ll give a general overview of the current capabilities. A little later, I’ll dedicate an entire article to the functionality of cheats in Deadlock."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

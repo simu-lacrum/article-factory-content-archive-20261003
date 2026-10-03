@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-09-08",
+  "evidence": [
+    {"publisher":"Cluster","url":"https://cluster.center/en/deadlock","access":"HTTP 200; normal-browser verified; self-canonical","latest_dated_update":null,"observed":["Current product page and support link are public"],"limit":"No dated public Deadlock changelog was found"},
+    {"publisher":"Octarine","url":"https://octarinecore.cc/en/blog/big-update/","access":"HTTP 200; normal-browser verified through blog index","latest_dated_update":"2026-08-25","observed":["Update #88 names concrete interface, preview, theme and notification changes and says Deadlock received the new version first"],"limit":"API documentation host closed the browser connection during this check"},
+    {"publisher":"Melonity","url":"https://melonity.gg/en/deadlock/changelog/6-update-6","access":"HTTP 200; normal-browser verified","latest_dated_update":"2026-09-02","observed":["Update No. 6 reports 24 changes across several named categories and includes concrete user-visible fixes"],"limit":"Vendor change notes do not independently prove present compatibility or account outcomes"},
+    {"publisher":"Umbrella","url":"https://uc.zone/en/deadlock","access":"HTTP 200; normal-browser verified","latest_dated_update":null,"observed":["Current product page, trial wording, live-chat widget and cloud/API claims are public"],"limit":"No dated public Deadlock log was found; docs button did not open a separate route"},
+    {"publisher":"Predator Systems","url":"https://predator.systems/threads/patch-note-21-07-26.2669/","access":"Automated request returned 403; normal browser loaded the page","latest_dated_update":"2026-07-21","observed":["Latest visible Deadlock forum note says updated for the latest game version and explains subscription-time handling"],"limit":"The note is dated but low-detail and does not prove present compatibility"},
+    {"publisher":"Cluster","url":"https://t.me/cluster_cheats_support_bot","access":"Linked from the public product page","observed":["Direct support route is visible"],"limit":"Response quality and hours were not tested"},
+    {"publisher":"Melonity","url":"https://melonity.gg/en/deadlock","access":"HTTP 200; normal-browser verified","observed":["Public page links Telegram and VK support and states daily 08:00-00:00 MSK hours"],"limit":"Service level was not tested"}
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 474,
+    "game": "cs2",
+    "language": "ru",
+    "title": "При запуске кс 2 черный экран но звук есть: полный разбор для CS2",
+    "source_kind": "semantic_csv",
+    "source_ref": "13801",
+    "cluster": "Звук / Sound",
+    "main_query": "при запуске кс 2 черный экран но звук есть",
+    "score": 58.27307844956164,
+    "volume_words": "8,000-12,000 знаков",
+    "outline_json": "[\"What users mean by \\\"при запуске кс 2 черный экран но звук есть\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Нативная реклама / SEO-контент",
+    "evidence_json": "[\"Звук / Sound\", \"при запуске кс 2 черный экран но звук есть\", \"при запуске кс 2 черный экран но звук есть\", \"что делать если при запуске кс 2 черный экран но есть звуки\", \"что делать если в кс 2 черный экран но звуки есть\", \"почему при запуске кс 2 черный экран а звук есть\", \"черный экран в кс 2 при запуске а звук есть\", \"что делать если при заходе в кс 2 черный экран но звук есть\", \"при заходе в кс 2 черный экран а звук есть\", \"почему в кс 2 черный экран при запуске а звук есть\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-09-10 05:23:36"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.5. Референс №5 — плоский экран загрузки",
+      "excerpt": "### 3.5. Референс №5 — плоский экран загрузки\n\n- Формат: 1024 × 1280, вертикаль 4:5.\n- Палитра: лавандовый около 86%, почти белый около 5%, черный около 1%.\n- Композиция: огромный черный текст сверху и слева, белая округлая информационная плашка, крупный трехмерный индикатор загрузки снизу.\n- Плотность: минимум объектов, много активного одноцветного поля.\n- Что переносить: предельную графическую ясность, один знак в качестве героя и уверенное пустое пространство."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.7. Референс №7 и дубль №11 — телефон на руле",
+      "excerpt": "### 3.7. Референс №7 и дубль №11 — телефон на руле\n\n- Формат: 720 × 1280, вертикаль 9:16.\n- Палитра: светлый холодный серый около 48%, кислотный желтый около 21%, почти черный около 19%.\n- Композиция: фронтальный телефон в держателе на руле; крупный черный заголовок сверху; желтая поясняющая плашка.\n- Объект: предельно узнаваемый hardware hero, снятый прямо и почти симметрично.\n- UI: высококонтрастный желтый экран с крупной пиктограммой.\n- Что переносить: фронтальную точность, связку «реальный предмет + лаконичный UI», сильный контраст и один функциональный акцент.\n- Повтор в наборе повышает вес этого приема: центральный hardware hero и кислотная интерфейсная плоскость особенно важны."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "8.3. Технический разбор системы",
+      "excerpt": "### 8.3. Технический разбор системы\n\nИспользовать:\n\n- матовое стекло и частично видимый механизм;\n- прозрачный корпус с крупными функциональными блоками;\n- миниатюрный хаб/конвейер;\n- физическую консоль с одним графиком;\n- проектор или сортировочную машину."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cluster-ru-t2-15-20260910-links/deadlock.md",
+      "heading": "Функционал",
+      "excerpt": "## Функционал\n\n*   ### Aimbot\n\nНастраиваемая помощь при наведении на противников. Доступные параметры могут включать область прицеливания, угол захвата и плавность движения.\n\n*   ### ESP\n\nВыводит на экран настраиваемую информацию о противниках и других поддерживаемых игровых объектах.\n\n*   ### Combo\n\nВыполняет настроенные последовательности способностей и атак для поддерживаемых героев. Доступность комбинаций зависит от текущей версии игры и продукта.\n\n*   ### Humanizer\n\nНастраивает скорость, плавность и характер работы поддерживаемых функций прицеливания. Функция не гарантирует отсутствие обнаружения.\n\n*   ### Auto Parry\n\nАвтоматизирует выбор момента для парирования поддерживаемых атак ближнего боя. Результат может зависеть от задержки соединения и обновлений игры.\n\n*   ### Anti Parry\n\nИзменяет тайминги поддерживаемых атак и комбинаций, делая момент парирования менее предсказуемым для противника.\n\n*   ### Souls Aimbot\n\nПомогает наводиться на Souls и взаимодействовать с ними более стабильно.\n\n*   ### FOV Changer\n\nПозволяет изменять поддерживаемое значение угла обзора для более широкого или узкого отображения игрового пространства.\n\n*   ### Dodger\n\nАвтоматическое уклонение от способностей противников."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cluster-substack-targets-20260909-links/deadlock.md",
+      "heading": "Функционал",
+      "excerpt": "## Функционал\n\n*   ### Aimbot\n\nНастраиваемая помощь при наведении на противников. Доступные параметры могут включать область прицеливания, угол захвата и плавность движения.\n\n*   ### ESP\n\nВыводит на экран настраиваемую информацию о противниках и других поддерживаемых игровых объектах.\n\n*   ### Combo\n\nВыполняет настроенные последовательности способностей и атак для поддерживаемых героев. Доступность комбинаций зависит от текущей версии игры и продукта.\n\n*   ### Humanizer\n\nНастраивает скорость, плавность и характер работы поддерживаемых функций прицеливания. Функция не гарантирует отсутствие обнаружения.\n\n*   ### Auto Parry\n\nАвтоматизирует выбор момента для парирования поддерживаемых атак ближнего боя. Результат может зависеть от задержки соединения и обновлений игры.\n\n*   ### Anti Parry\n\nИзменяет тайминги поддерживаемых атак и комбинаций, делая момент парирования менее предсказуемым для противника.\n\n*   ### Souls Aimbot\n\nПомогает наводиться на Souls и взаимодействовать с ними более стабильно.\n\n*   ### FOV Changer\n\nПозволяет изменять поддерживаемое значение угла обзора для более широкого или узкого отображения игрового пространства.\n\n*   ### Dodger\n\nАвтоматическое уклонение от способностей противников."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.10. Референс №10 и дубль №12 — черный робот на красном поле",
+      "excerpt": "### 3.10. Референс №10 и дубль №12 — черный робот на красном поле\n\n- Формат: 1024 × 1280, вертикаль 4:5.\n- Палитра: яркий красно-оранжевый около 50%, средний серый около 19%, темный серый около 15%.\n- Композиция: огромный матово-черный робот фронтально обрезан краями и занимает нижние две трети.\n- Иерархия: короткий белый заголовок сверху; больше почти ничего нет.\n- Эмоция: уверенность, масштаб, технологическая неизбежность.\n- Что переносить: экстремальный масштаб одного объекта, обрезку как прием, двухцветную решительность и отсутствие декоративного шума.\n- Повтор в наборе повышает вес приема «один объект, плоский интенсивный фон, очень крупный кроп»."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "3.6. Референс №6 — желтый аудиоприбор",
+      "excerpt": "### 3.6. Референс №6 — желтый аудиоприбор\n\n- Формат: 720 × 1280, вертикаль 9:16.\n- Палитра: молочно-белый около 67%, горчично-желтый около 11%, светло-желтый около 7%, черный около 3%.\n- Объект: вымышленный ретро-аудиоприбор и динамик-солнце, связанные витым кабелем.\n- Типографика: крупный черный заголовок сверху; объект занимает нижнюю половину.\n- Материалы: мягкий пластик, округлые кромки, слегка игрушечный, но дорогой промышленный дизайн.\n- Что переносить: функциональную сюрреалистичность — объект невозможен буквально, но выглядит так, будто мог быть серийным продуктом."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/how-to-install-cs2-aimbot-wallhack-for-free-d88e11b39100.md",
+      "heading": "ESP or wallhack",
+      "excerpt": "### ESP or wallhack\n\nIt basically renders enemies through walls, but it also has a ton of other uses, such as displaying HP, weapons, whether a player has a bomb or a defuse kit, how much time is left until the bomb defuses, what items they’ve purchased, and so on.\n\nCluster also offers a sound-ESP — it’s like a wh, if you want to play completely legit. It displays footsteps, which lets you justify how you knew the enemy’s location, even if you didn’t actually hear their footsteps.\n\n![Image 6: How to install CS2 aimbot & wallhack for free? — image 6](https://cheatsgaming.com/media/medium/4ed1ceb083d35a8439977af3.png)![Image 7: ESP(chams) and Sound ESP in Cluster CS2 cheat](https://cheatsgaming.com/media/medium/3c5a5d23a4c97500ea800864.png)\n\nESP(chams) and Sound ESP in Cluster CS2 cheat\n\n**Miscellaneous**\n\nJust the features that don’t fit into other categories. There are tons of useful little things here, such as\n\n1.   Displaying your keybinds so you can keep an eye on them\n2.   Showing your spectators (who are watching you)\n3.   A bomb timer\n\nAnd much more — there are plenty of useful features."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "ESP",
+      "excerpt": "## ESP\n\nCategory: visual awareness.\n\nElements:\n\n- Box.\n- Name.\n- Health and HealthBar.\n- AmmoBar.\n- Weapon and Weapon icon.\n- Blind.\n- Zoom.\n- Reload.\n- Bomb.\n- Defuse.\n- Ping.\n- Chams.\n- Skeleton.\n- Only visible.\n\nSource-confirmed emphasis:\n\n- The Medium overview explicitly discusses Box, Name, Skeleton, Chams, HealthBar, AmmoBar, Blind, Zoom, Reload, Weapon, Weapon icon, Bomb, Defuse, Sound ESP, and World ESP.\n- Ping and Only visible are present in the user-provided menu list; explain them as high-level menu items unless another source is later added."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-aimbot-wallhack-for-free-d88e11b39100.md",
+      "heading": "ESP or wallhack",
+      "excerpt": "### ESP or wallhack\n\nIt basically renders enemies through walls, but it also has a ton of other uses, such as displaying HP, weapons, whether a player has a bomb or a defuse kit, how much time is left until the bomb defuses, what items they’ve purchased, and so on.\n\nCluster also offers a sound-ESP — it’s like a wh, if you want to play completely legit. It displays footsteps, which lets you justify how you knew the enemy’s location, even if you didn’t actually hear their footsteps.\n\n**Miscellaneous**\n\nJust the features that don’t fit into other categories. There are tons of useful little things here, such as\n\n1.   Displaying your keybinds so you can keep an eye on them\n2.   Showing your spectators (who are watching you)\n3.   A bomb timer\n\nAnd much more — there are plenty of useful features."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}
