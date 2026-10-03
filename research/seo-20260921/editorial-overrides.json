@@ -1,0 +1,444 @@
+{
+  "cs2-external": {
+    "title": "CS2 external cheats: what the label does—and does not—tell you",
+    "reader_job": "Decide which claims about an external product can actually be checked.",
+    "original_value": "Separate architecture, advertised features and operational status in a claim-by-claim checklist.",
+    "outline": [
+      "What 'external' describes",
+      "Why the same label can cover different feature sets",
+      "A dated status claim is different from an architecture claim",
+      "Questions a useful review must answer",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-triggerbot": {
+    "title": "CS2 triggerbot vs aimbot: what changes?",
+    "reader_job": "Understand whether the advertised feature aims, fires, or does both.",
+    "original_value": "Use a crosshair-on-target example to separate aiming from firing without implementation steps.",
+    "outline": [
+      "The difference in one aiming situation",
+      "Triggerbot, aimbot and aim-assist labels",
+      "What a feature list still needs to clarify",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-esp": {
+    "title": "CS2 ESP, wallhack and radar: three labels worth separating",
+    "reader_job": "Know what information a visual feature claims to display.",
+    "original_value": "Compare on-screen labels, through-surface visibility claims and map-based information using annotated public examples.",
+    "outline": [
+      "Which information is displayed",
+      "Where it appears: screen versus map",
+      "Why 'ESP included' is not a complete feature description",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-aimbot": {
+    "title": "CS2 aim assist, aimbot and legitbot: why names are not specifications",
+    "reader_job": "Interpret aiming-feature descriptions without assuming identical behavior.",
+    "original_value": "Build an action vocabulary from dated descriptions; contrast it with the separate firing question.",
+    "outline": [
+      "What part of aiming is being described",
+      "Why 'legitbot' needs an explanation",
+      "Aiming assistance versus automated firing",
+      "What footage can and cannot establish",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-skin-changer": {
+    "title": "CS2 skin changers: appearance is not inventory ownership",
+    "reader_job": "Find out what changes visually and what happens to item ownership.",
+    "original_value": "Follow one cosmetic through local appearance, what others see, and inventory ownership; flag unverified behavior.",
+    "outline": [
+      "Local appearance and owned items",
+      "Can other players see the change?",
+      "Inventory, trading and market claims",
+      "Check the claim before comparing products",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-free-paid": {
+    "title": "Free vs paid CS2 cheats: compare the actual terms",
+    "reader_job": "Compare access limits and support without equating price with safety.",
+    "original_value": "Use dated access, trial, renewal and feature evidence; preserve unknowns instead of manufacturing a winner.",
+    "outline": [
+      "Free version, trial and subscription are different offers",
+      "Compare documented limits and update information",
+      "Where support and refund terms are stated",
+      "What price cannot tell you",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-comparison": {
+    "title": "Comparing CS2 cheats without pretending every product was tested",
+    "reader_job": "Evaluate a shortlist using evidence appropriate to each claim.",
+    "original_value": "A transparent comparison of public documentation with dates, strengths, unknowns and commercial disclosure.",
+    "outline": [
+      "Who the comparison is for",
+      "The same criteria applied to every product",
+      "Documented differences that change a decision",
+      "What requires a real test",
+      "Sources and commercial disclosure",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-grenade-helper": {
+    "title": "CS2 grenade helpers vs lineup guides: what is being offered?",
+    "reader_job": "Distinguish a learning reference from a claimed assistance feature.",
+    "original_value": "Classify public examples as reference content, visual prediction or claimed automation without explaining execution.",
+    "outline": [
+      "A lineup reference and a software feature are different things",
+      "What 'prediction' adds to the description",
+      "When a screenshot is not enough evidence",
+      "Which comparison belongs in a separate guide",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-status": {
+    "title": "What a CS2 cheat status page actually tells you",
+    "reader_job": "Interpret updating, unavailable and detected labels without assuming a guarantee.",
+    "original_value": "Annotate a timestamped status example and separate current publisher statements from historical events.",
+    "outline": [
+      "Read the timestamp before the badge",
+      "Labels that need a vendor definition",
+      "Status history versus a current claim",
+      "What the page cannot promise",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-commands": {
+    "title": "CS2 cheat commands vs third-party software",
+    "reader_job": "Find the right kind of resource for a practice-command question.",
+    "original_value": "A clear intent split with current official or maintained command references, not software-download recommendations.",
+    "outline": [
+      "Why the word 'cheat' appears in console references",
+      "Practice/server context and third-party software",
+      "How to recognize an outdated command reference",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-scripts": {
+    "title": "Dota 2 scripts, macros and bots are different things",
+    "reader_job": "Identify which kind of script a search result is describing.",
+    "original_value": "Compare third-party automation, input macros and documented community bots using three distinct examples.",
+    "outline": [
+      "Three meanings hiding behind 'scripts'",
+      "Hero automation versus an input sequence",
+      "Community bots have a different job",
+      "Read the feature, not just the label",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-invoker": {
+    "title": "Invoker scripts: spell selection, sequences and targeting are different claims",
+    "reader_job": "Understand exactly what an Invoker feature description claims to automate.",
+    "original_value": "Break the advertised feature into choices and actions; avoid a step-by-step combo or setup guide.",
+    "outline": [
+      "What does the feature select?",
+      "A sequence is not the same as target selection",
+      "Which claims are actually documented",
+      "When this belongs inside the broader scripts guide",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-meepo": {
+    "title": "Meepo scripts vs control groups: what is being automated?",
+    "reader_job": "Distinguish ordinary unit management from claimed automation.",
+    "original_value": "Compare a manual unit-management task with the vendor's named automated actions at a conceptual level.",
+    "outline": [
+      "Managing multiple units",
+      "Control groups and third-party scripts",
+      "Which actions a public description names",
+      "Why one generic 'combo' label is insufficient",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-maphack": {
+    "title": "Dota 2 maphack claims: visibility, tracking and missing information",
+    "reader_job": "Understand what a map-information claim does and does not establish.",
+    "original_value": "A source-labeled breakdown of fog-of-war, event tracking and overlays; no assertion that all hidden information is available.",
+    "outline": [
+      "What information is actually claimed",
+      "Event tracking is not the same as full vision",
+      "What a screenshot leaves unknown",
+      "Questions to ask of a feature list",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-ward-tracker": {
+    "title": "Ward tracker, ward timer or warding guide? Start with the intent",
+    "reader_job": "Find out whether the reader wants placement advice, expiry tracking or a claimed cheat feature.",
+    "original_value": "Explain the observed SERP mismatch and require qualified-query validation before a standalone cheat article.",
+    "outline": [
+      "Three different jobs behind 'ward tracker'",
+      "Known information versus claimed enemy information",
+      "Which page should answer each question",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-roshan": {
+    "title": "Roshan timer vs Roshan ESP: time and information are different",
+    "reader_job": "Understand whether a feature estimates a time window or claims to display object information.",
+    "original_value": "Use a hypothetical timeline with no invented patch timings; annotate what each cited source actually promises.",
+    "outline": [
+      "A timer answers 'when'",
+      "An overlay answers 'what information'",
+      "Where timing uncertainty enters",
+      "Check patch-sensitive details before publishing",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-teleport": {
+    "title": "Dota 2 teleport preview: what exactly is being previewed?",
+    "reader_job": "Know which teleport event and information the feature description refers to.",
+    "original_value": "Separate an event notice, destination claim and visual preview using explicit publisher wording.",
+    "outline": [
+      "Which teleport event is named",
+      "Notice, destination and preview are separate claims",
+      "What the available description does not establish",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-auto-dodge": {
+    "title": "Dota 2 auto dodge: a feature name is not a coverage list",
+    "reader_job": "Understand the difference between detection, response and supported situations.",
+    "original_value": "Compare named supported cases and unknown cases, without timings, settings or evasion instructions.",
+    "outline": [
+      "What counts as a dodge in the description",
+      "A detected event and an automated response",
+      "Why a short clip cannot establish complete coverage",
+      "Missing information worth asking about",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-skin-changer": {
+    "title": "Dota 2 cosmetic changers: appearance, ownership and visibility",
+    "reader_job": "Separate a visual modification from owning an item.",
+    "original_value": "Track the same cosmetic through local display, other players' view and inventory claims.",
+    "outline": [
+      "What changes on screen",
+      "What remains an inventory question",
+      "What others see needs its own evidence",
+      "Reading cosmetic claims carefully",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-comparison": {
+    "title": "Melonity, Umbrella and Octarine: compare documented features",
+    "reader_job": "Compare concrete requirements across Dota 2 products.",
+    "original_value": "Use symmetric dated criteria and source every claim; disclose the Melonity relationship and avoid invented testing.",
+    "outline": [
+      "Which reader requirements matter",
+      "Hero features and general features compared separately",
+      "Access terms and support documentation",
+      "Strengths, unknowns and unsuitable cases",
+      "Method and commercial disclosure",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-auto-last-hit": {
+    "title": "Auto last-hit vs auto deny: related labels, different tasks",
+    "reader_job": "Understand which farming action a description is claiming.",
+    "original_value": "Separate target type, decision and action at a conceptual level; use no automation setup or timing recipe.",
+    "outline": [
+      "Last hits and denies are different objectives",
+      "What the automation description actually covers",
+      "Why 'farming script' can mean more than one feature",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-commands": {
+    "title": "Dota 2 lobby cheats vs scripts: choose the right reference",
+    "reader_job": "Find official/custom-lobby command information without confusing it with third-party automation.",
+    "original_value": "Route practice-command questions to maintained references and explain the context in which commands apply.",
+    "outline": [
+      "Lobby commands and third-party scripts",
+      "Why 'cheat code' searches produce mixed results",
+      "How to check whether a command reference is current",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-auto-parry": {
+    "title": "Is there a parry cheat in Deadlock? What auto-parry claims mean",
+    "reader_job": "Understand what the advertised automation claims and why a single parry is not proof.",
+    "original_value": "Answer the observed question, separate game mechanics from vendor claims, and avoid accusing players from one clip.",
+    "outline": [
+      "The direct answer and its limits",
+      "Manual parry versus a claimed automated response",
+      "What a clip can and cannot prove",
+      "What feature descriptions leave unspecified",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-souls": {
+    "title": "Deadlock soul aimbot, soul triggerbot and soul ESP: what changes?",
+    "reader_job": "Separate target choice, aiming, firing and displayed soul information.",
+    "original_value": "Use the same soul-orb situation to compare advertised actions across named descriptions.",
+    "outline": [
+      "The target is a soul orb",
+      "Aiming and firing are separate actions",
+      "Information overlays do something else",
+      "Why vendor labels need checking",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-esp": {
+    "title": "Deadlock ESP vs radar: what information appears where?",
+    "reader_job": "Interpret a visibility feature list.",
+    "original_value": "Separate world overlays, map displays and named tracked objects using source-attributed examples.",
+    "outline": [
+      "What is being tracked",
+      "Where the information is displayed",
+      "Why 'visibility' alone tells you too little",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-aimbot": {
+    "title": "Deadlock player aimbot vs soul aimbot",
+    "reader_job": "Understand why an aiming feature's target matters.",
+    "original_value": "Compare player-target and soul-target descriptions; treat projectile prediction as a separate claim, not a universal behavior.",
+    "outline": [
+      "Player targets and soul targets",
+      "Aim assistance and projectile claims",
+      "The boundaries of the available evidence",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-fov": {
+    "title": "Deadlock camera FOV vs aim FOV: the same acronym, different questions",
+    "reader_job": "Know whether a page concerns the view or the aiming selection area.",
+    "original_value": "Illustrate two distinct concepts and explain why their numbers are not directly comparable.",
+    "outline": [
+      "Camera field of view",
+      "The aiming area a product calls FOV",
+      "Why the two values cannot be compared directly",
+      "Which existing page should answer each question",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-combos": {
+    "title": "Deadlock hero combo scripts: a sequence is not a strategy",
+    "reader_job": "Understand which hero actions a combo feature claims to automate.",
+    "original_value": "Separate action sequence, target choice and conditional behavior without publishing a combat script.",
+    "outline": [
+      "What a combo label actually covers",
+      "Targeting and conditions need separate evidence",
+      "When a hero-specific page has enough original substance",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-dodger": {
+    "title": "Deadlock dodger features: what does the description cover?",
+    "reader_job": "Evaluate the scope of a claimed dodge feature.",
+    "original_value": "Compare documented inputs and response categories; leave unsupported ability coverage unknown.",
+    "outline": [
+      "Event detection and response",
+      "Named coverage versus broad marketing claims",
+      "What would count as useful evidence",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-comparison": {
+    "title": "Deadlock cheat comparisons: start with the feature you need to understand",
+    "reader_job": "Compare documentation for soul features, parry, visibility and aiming.",
+    "original_value": "Provide a dated feature taxonomy with vendor-specific wording and explicit unknowns; disclose Cluster affiliation.",
+    "outline": [
+      "Compare target and action, not feature count",
+      "Soul features and parry described separately",
+      "Access, updates and support evidence",
+      "Documented differences and unknowns",
+      "Method and commercial disclosure",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-trial": {
+    "title": "Free Deadlock cheats, trials and subscriptions: compare the terms",
+    "reader_job": "Understand the difference between free access, a timed trial and a subscription.",
+    "original_value": "Read dated offer terms and identify what is limited, recurring or not publicly confirmed.",
+    "outline": [
+      "Three access models",
+      "Feature limits and duration",
+      "Renewals, refunds and support",
+      "Why a free offer says nothing about safety",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-commands": {
+    "title": "Deadlock console commands: don't mix the games or the intent",
+    "reader_job": "Find Valve Deadlock command references rather than unrelated older games or third-party tools.",
+    "original_value": "Separate the game entity and sandbox/command intent before directing the reader to maintained references.",
+    "outline": [
+      "Which Deadlock game?",
+      "Console references and third-party software",
+      "Check dates and supported context",
+      "FAQ"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "cs2-hub": {
+    "title": "CS2 cheats: features, comparisons and practice-command references",
+    "reader_job": "Choose the right next page for a specific question.",
+    "original_value": "A compact navigation hub organized by reader task with no repeated keyword blocks.",
+    "outline": [
+      "Understand a feature",
+      "Compare documented products",
+      "Find practice-command references"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "dota2-hub": {
+    "title": "Dota 2 cheats: scripts, information features and lobby commands",
+    "reader_job": "Distinguish three different intents before following a link.",
+    "original_value": "A route to hero features, vision claims, comparisons and legitimate lobby references.",
+    "outline": [
+      "Scripts and hero automation terminology",
+      "Information and cosmetic features",
+      "Product comparisons",
+      "Lobby command references"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  },
+  "deadlock-hub": {
+    "title": "Deadlock cheats: soul features, parry and comparisons",
+    "reader_job": "Navigate from an unfamiliar feature name to a useful explanation.",
+    "original_value": "Populate existing empty sections with distinct sourced answers rather than empty category variants.",
+    "outline": [
+      "Soul features and aiming",
+      "Parry, visibility and other named features",
+      "Documented comparisons",
+      "Console-command references"
+    ],
+    "editorial_status": "brief_not_a_verified_product_claim"
+  }
+}

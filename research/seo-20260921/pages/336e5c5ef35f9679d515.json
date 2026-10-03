@@ -1,0 +1,523 @@
+{
+  "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+  "canonical": "https://steamreport.net/blog/cs2-cheating-types-explained",
+  "language": "en",
+  "title": "CS2 Cheating Types: How to Detect & Report Hackers (Aimbot, Wallhack, ESP) | SteamReport.net",
+  "description": "Identify CS2 cheat types fast: aimbot, wallhack, triggerbot, spinbot, and ESP. Learn the evidence patterns to report suspected hackers in Counter-Strike 2 with higher review value.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "CS2 Cheating Types: How to Detect & Report Hackers (Aimbot, Wallhack, ESP)"
+    },
+    {
+      "level": 2,
+      "text": "Aimbot"
+    },
+    {
+      "level": 2,
+      "text": "Wallhack (WH)"
+    },
+    {
+      "level": 2,
+      "text": "Triggerbot"
+    },
+    {
+      "level": 2,
+      "text": "Spinbot"
+    },
+    {
+      "level": 2,
+      "text": "ESP (Extra-Sensory Perception)"
+    },
+    {
+      "level": 2,
+      "text": "Griefing (Also Reportable)"
+    },
+    {
+      "level": 2,
+      "text": "How to Write a Report That Helps"
+    },
+    {
+      "level": 2,
+      "text": "Key Takeaways"
+    },
+    {
+      "level": 2,
+      "text": "Read Next in This Cluster"
+    },
+    {
+      "level": 2,
+      "text": "FAQ: CS2 Hacks & How to Report Them"
+    }
+  ],
+  "document_h1": [
+    "CS2 Cheating Types: How to Detect & Report Hackers (Aimbot, Wallhack, ESP)"
+  ],
+  "text": "CS2 Cheating Types: How to Detect & Report Hackers (Aimbot, Wallhack, ESP) Direct answer: The most common CS2 hacks are aimbot (auto-aim assistance), wallhack (ESP/seeing through walls), triggerbot (auto-fire), spinbot (rage hacking), and radar hack. When you report a cheater in CS2, identifying the specific cheat type helps Valve's anti-cheat system and Overwatch reviewers act faster. This guide shows you exactly how to detect each hack type and report hackers with evidence that leads to VAC bans. Why knowing cheat types matters: Generic reports saying \"hacker\" or \"cheater\" get low priority. When you report someone in CS2 with specifics—\"aimbot in rounds 5-10, perfect headshot tracking through smoke\"—reviewers know exactly what to verify. This increases ban rates and makes the Steam report system more effective. By SteamReport Team · 2026-02-10 · 6 min read · Updated August 2026 · Back to Blog Aimbot What it does: Automatically aims at opponents, sometimes locking onto heads with inhuman precision. Ranges from “rage” mode (obvious instant snapping) to “legit” mode (subtle aim correction that’s harder to detect). What to look for: Unnatural crosshair snapping between targets. Aim that instantly locks to head level through direction changes. Consistent headshot percentage that seems too perfect across many rounds. In demos, the crosshair may visibly “jump” to a target rather than smoothly tracking. How to report it: Note the specific rounds where you saw snapping. Mention if it happened on multiple targets in rapid succession. “Rounds 4, 7, and 11: crosshair snapped to head level on peek, three consecutive one-taps with no visible adjustment” is far more useful than “aimbot.” Wallhack (WH) What it does: Reveals player positions through walls and solid surfaces. The cheater sees outlines, boxes, or other visual indicators showing where opponents are, even when they shouldn’t have any information. What to look for: Pre-aiming at positions where enemies are, before any visual or audio cue. Consistently avoiding areas where enemies hold positions without checking. Tracking heads through walls (visible in demos). Rotating to cover an angle only when an enemy is actually there. How to report it: Reference specific rounds and timestamps. “Round 8: player pre-aimed connector from B-site before any teammate gave info, enemy was holding that exact angle” gives reviewers something concrete to verify in the demo. Triggerbot What it does: Automatically fires when the crosshair passes over an enemy. Unlike aimbot, it doesn’t move the crosshair—it only fires at the instant of alignment. Often used with wallhack for devastating effect. What to look for: Shots that fire at the exact frame of crosshair alignment with no human reaction delay. Consistent instant-fire patterns when peeking corners. In demos, watch for zero-delay shots that a human player couldn’t consistently reproduce. Spinbot What it does: The player’s model spins rapidly (often at server tick rate) while still landing perfect shots. This is usually combined with aimbot and anti-aim (making their hitbox harder to hit). It’s a “rage hack”—blatant and not trying to hide. What to look for: Player model spinning in circles at extreme speed. The player is still getting kills despite appearing to look in random directions. This is the most obvious cheat type and is rarely mistaken for legitimate play. ESP (Extra-Sensory Perception) What it does: Overlays additional information on screen: enemy positions, health bars, weapon loadout, bomb location, and more. It’s like wallhack but with richer data. The player sees a full tactical display that normal gameplay doesn’t provide. What to look for: Decision-making that consistently reflects information the player shouldn’t have. Buying exactly the right utility for what the enemy is doing. Always knowing whether to force-buy or save based on enemy economy. ESP users often have “perfect reads” too often to be coincidence. Griefing (Also Reportable) Griefing isn’t external cheat software, but it’s still a reportable offense that degrades the match experience. Common forms: intentional team damage or team-killing, blocking teammates in doorways, deliberately giving away team positions in chat, AFK farming, and abuse of the vote-kick system. When reporting griefing, specify what the player did and in which rounds. “Player team-flashed B rush in rounds 3, 6, and 9, then went AFK in spawn from round 12 onward” is actionable. How to Write a Report That Helps Be specific: Name the cheat type you suspect and describe the behavior. Give round numbers: Reviewers need to know where to look in the demo. Note patterns: A single suspicious moment could be luck. Repeated patterns across rounds are stronger signal. Avoid labels without context: “Cheater” alone tells a reviewer nothing. “Possible aimbot, consistent head-snapping in rounds 5–10” tells them exactly what to check. Include the player’s identity: Use their SteamID64 or profile URL so the report targets the correct account. Ready to file a report? Use the reporting tool . For more on writing effective reports, see: How to Report CS2 Players . Key Takeaways aimbot detection wallhack detection triggerbot behavior Read Next in This Cluster How to spot AI-assisted cheating in CS2 How to separate smurf behavior from cheating Why ban waves do not immediately clean lobbies FAQ: CS2 Hacks & How to Report Them What are the most common CS2 hacks and cheats? The most common CS2 hacks are aimbot (auto-aim assistance), wallhack/ESP (seeing players through walls), triggerbot (auto-fire when crosshair is on target), spinbot (rapid spinning with perfect aim), radar hack (mini-map ESP), and bhop scripts (bunny hop automation). How can I tell if someone is cheating in CS2? Look for patterns across multiple rounds: unnatural crosshair snapping (aimbot), pre-aiming positions with no intel (wallhack), instant shots with zero reaction time (triggerbot), or tracking heads through walls in demos. One suspicious moment isn't enough—cheaters show consistent inhuman patterns. How do I report a hacker in Counter-Strike 2? To report a hacker in CS2, identify the cheat type (aimbot, wallhack, etc.), note specific round numbers where hacking occurred, get their Steam profile URL, and submit a detailed report through Steam or SteamReport.net with match timestamps and evidence. Should I report griefing or only cheating? Both are valid report reasons. Griefing (team damage, blocking, AFK abuse) degrades match quality and should be reported with specific details about what happened and when.",
+  "words": 1064,
+  "links": [
+    {
+      "text": "Steam Report .net",
+      "url": "https://steamreport.net/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Report",
+      "url": "https://steamreport.net/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Stats",
+      "url": "https://steamreport.net/stats",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog",
+      "url": "https://steamreport.net/blog",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://steamreport.net/faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "English EN",
+      "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Español Spanish ES",
+      "url": "https://steamreport.net/es/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Deutsch German DE",
+      "url": "https://steamreport.net/de/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Français French FR",
+      "url": "https://steamreport.net/fr/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Bahasa Melayu Malay MS",
+      "url": "https://steamreport.net/ms/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Português (Brasil) Brazilian Portuguese PT-BR",
+      "url": "https://steamreport.net/pt-br/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Italiano Italian IT",
+      "url": "https://steamreport.net/it/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Svenska Swedish SV-SE",
+      "url": "https://steamreport.net/sv-se/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Ελληνικά Greek EL-GR",
+      "url": "https://steamreport.net/el-gr/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Русский Russian RU-RU",
+      "url": "https://steamreport.net/ru-ru/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "日本語 Japanese JA-JP",
+      "url": "https://steamreport.net/ja-jp/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "简体中文 Chinese (Simplified) ZH-CN",
+      "url": "https://steamreport.net/zh-cn/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "繁體中文 Chinese (Traditional) ZH-TW",
+      "url": "https://steamreport.net/zh-tw/blog/cs2-cheating-types-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://steamreport.net/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog",
+      "url": "https://steamreport.net/blog",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "SteamReport Team",
+      "url": "https://steamreport.net/blog/authors/steamreport-team",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Back to Blog",
+      "url": "https://steamreport.net/blog",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "SteamID64 or profile URL",
+      "url": "https://steamreport.net/blog/steamid-formats-explained",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "reporting tool",
+      "url": "https://steamreport.net/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to Report CS2 Players",
+      "url": "https://steamreport.net/blog/how-to-report-cs2-players",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to spot AI-assisted cheating in CS2",
+      "url": "https://steamreport.net/blog/cs2-ai-cheats-detection-2026",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to separate smurf behavior from cheating",
+      "url": "https://steamreport.net/blog/closet-cheater-or-smurf",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Why ban waves do not immediately clean lobbies",
+      "url": "https://steamreport.net/blog/cs2-ban-wave-january-2026",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "SteamReport.net",
+      "url": "https://steamreport.net/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "naked_url",
+      "rel": []
+    },
+    {
+      "text": "Red Trust Factor 2026",
+      "url": "https://steamreport.net/blog/red-trust-factor-2026",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Closet Cheater or Smurf?",
+      "url": "https://steamreport.net/blog/closet-cheater-or-smurf",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Jan 2026 Ban Wave",
+      "url": "https://steamreport.net/blog/cs2-ban-wave-january-2026",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Account Reputation Check",
+      "url": "https://steamreport.net/blog/steam-account-reputation-check",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to report CS2 players",
+      "url": "https://steamreport.net/blog/how-to-report-cs2-players",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Check VAC ban status",
+      "url": "https://steamreport.net/blog/how-to-check-vac-ban-status",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "What happens after you report",
+      "url": "https://steamreport.net/blog/what-happens-after-reporting-cs2",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Report tool",
+      "url": "https://steamreport.net/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Stats tool",
+      "url": "https://steamreport.net/stats",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "SteamID formats",
+      "url": "https://steamreport.net/blog/steamid-formats-explained",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Understanding CS2 stats",
+      "url": "https://steamreport.net/blog/understanding-cs2-stats",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://steamreport.net/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Report",
+      "url": "https://steamreport.net/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Stats",
+      "url": "https://steamreport.net/stats",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog",
+      "url": "https://steamreport.net/blog",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://steamreport.net/faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Steam Store",
+      "url": "https://steampowered.com/store",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Steam Community",
+      "url": "https://steampowered.com/community",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Steam Support",
+      "url": "https://help.steampowered.com",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Community Rules",
+      "url": "https://steamcommunity.com/gamerules",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "CS2 News",
+      "url": "https://store.steampowered.com/news/category/?appids=230450",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "About Us",
+      "url": "https://steamreport.net/about",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contact",
+      "url": "https://steamreport.net/contact",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://steamreport.net/privacy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Terms & Conditions",
+      "url": "https://steamreport.net/terms",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://steamreport.net/privacy",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "702c6e2a630e0719f8a013f8812617a67c4b7e851177b565403c6c93543f52ee",
+  "captured_at": "2026-09-21T05:30:13.186914+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+  "http_status": 200,
+  "raw_file": "raw/336e5c5ef35f9679d515.html"
+}

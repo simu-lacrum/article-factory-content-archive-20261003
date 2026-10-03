@@ -1,0 +1,41 @@
+[
+  {
+    "cluster_ids": [
+      "cs2-triggerbot",
+      "cs2-aimbot",
+      "cs2-esp"
+    ],
+    "source": "https://cluster.center/en/cs2",
+    "heading": "Cluster CS2 official feature descriptions",
+    "excerpt": "The official page separately describes Aimbot as aim assistance and TriggerBot as automatic firing when targeting conditions are met. It lists ESP as an information overlay. These are vendor descriptions, not independent test results.",
+    "captured_at": "2026-09-21",
+    "collection_method": "web_tool_page_open",
+    "evidence_type": "publisher_statement_not_independent_test",
+    "limitation": "Direct HTML fetch failed TLS; web tool rendered the public feature descriptions. No body-word-count metrics derived from this excerpt."
+  },
+  {
+    "cluster_ids": [
+      "dota2-scripts"
+    ],
+    "source": "https://www.dota2.com/700/other/?l=thai",
+    "heading": "Valve Dota 2 7.00: community-authored bots",
+    "excerpt": "Valve's 7.00 announcement introduced a scripting API for community-authored Dota bots and Workshop distribution. This is historical first-party evidence that bot scripting has an official context; it does not establish permission for third-party gameplay automation.",
+    "captured_at": "2026-09-21",
+    "collection_method": "web_tool_search_index",
+    "evidence_type": "historical_first_party_announcement",
+    "limitation": "The indexed page contains the English community-bots section under a Thai locale. Do not describe its old UI instructions as current."
+  },
+  {
+    "cluster_ids": [
+      "dota2-scripts",
+      "dota2-auto-last-hit"
+    ],
+    "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=531587903",
+    "heading": "Last Hit Exercises: author's Workshop description",
+    "excerpt": "The Workshop listing labels Last Hit Exercises a custom game. The author describes practising last hitting and tracking missed hits in a controlled environment. This is an example of a training task, not a product claim that it plays for the user.",
+    "captured_at": "2026-09-21",
+    "collection_method": "web_tool_page_open",
+    "evidence_type": "historical_first_party_workshop_description",
+    "limitation": "The listing shows a 2017 update date. Current compatibility, availability and operation were not tested. Generic hidden Steam notices in parsed HTML were not treated as a verified removed-item state."
+  }
+]

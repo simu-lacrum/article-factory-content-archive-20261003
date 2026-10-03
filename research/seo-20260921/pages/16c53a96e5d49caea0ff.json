@@ -1,0 +1,302 @@
+{
+  "url": "https://distort.wtf/features/cs2-grenade-helper",
+  "canonical": "https://distort.wtf/features/cs2-grenade-helper",
+  "language": "en",
+  "title": "CS2 Grenade Helper and Nade Lineup Guide | Distort",
+  "description": "Compare Distort CS2 grenade helper and nade lineup support for Mirage, Dust2, Ancient, Anubis, Inferno, Overpass, Vertigo, utility practice, and External setup.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "CS2 Grenade Helper and Nade Lineup Guide"
+    },
+    {
+      "level": 2,
+      "text": "What matters for this feature"
+    },
+    {
+      "level": 3,
+      "text": "Utility assistance"
+    },
+    {
+      "level": 3,
+      "text": "Maps and support context"
+    },
+    {
+      "level": 3,
+      "text": "Where it fits"
+    },
+    {
+      "level": 2,
+      "text": "Check the whole setup, not just the feature name"
+    },
+    {
+      "level": 2,
+      "text": "CS2 External"
+    },
+    {
+      "level": 2,
+      "text": "Compare nearby features"
+    },
+    {
+      "level": 2,
+      "text": "Read the buyer scenario next"
+    },
+    {
+      "level": 2,
+      "text": "Common questions"
+    },
+    {
+      "level": 3,
+      "text": "Which Distort product should I compare for a CS2 grenade helper?"
+    },
+    {
+      "level": 3,
+      "text": "Where can I check grenade-helper setup guidance?"
+    }
+  ],
+  "document_h1": [
+    "CS2 Grenade Helper and Nade Lineup Guide"
+  ],
+  "text": "CS2 grenade helper CS2 Grenade Helper and Nade Lineup Guide CS2 grenade helper belongs with Distort CS2 External because utility lineups usually sit beside radar, ESP, bhop, and a conservative setup. The public FAQ covers grenade-helper setup, while the CS2 External page stays current for product details. View CS2 External View pricing Guide What matters for this feature 01 Utility assistance Use this guide when you care about saved lineup context, map-specific throws, smoke practice, and whether the feature fits Premier or main-account style play. 02 Maps and support context Distort publishes grenade-helper FAQ material and public nade data, which gives users a clearer place to check Mirage, Dust2, Ancient, Anubis, Inferno, Overpass, and Vertigo support. 03 Where it fits Read this with the radar, ESP, bhop, and configs guides if you want the full External picture before checkout. Before checkout Check the whole setup, not just the feature name A feature can sound right and still be the wrong product fit. Compare how it works with related tools, whether External or Internal is the better match, and what the current product page says about pricing, loader access, and support. Best fit CS2 External Setup help FAQ and dashboard support Pricing Check live product cards Before buying Compare related features Product fit CS2 External Use this guide to orient yourself, then open the live product page for availability, subscription cards, loader instructions, and post-purchase support. Open product page Related feature pages Compare nearby features CS2 Radar and Web Radar Guide CS2 Bhop Feature Guide CS2 Configs and Settings Guide CS2 ESP Feature Guide Related use cases Read the buyer scenario next CS2 Premier Matchmaking Cheat Setup CS2 Cheats for Main Accounts FAQ Common questions Which Distort product should I compare for a CS2 grenade helper? Compare CS2 External first because grenade-helper support belongs with the external-first utility, radar, ESP, and movement feature set. Where can I check grenade-helper setup guidance? Use the Distort FAQ and the signed-in support flow after purchase for current setup guidance.",
+  "words": 344,
+  "links": [
+    {
+      "text": "",
+      "url": "https://distort.wtf/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://distort.wtf/#home",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Games",
+      "url": "https://distort.wtf/#games",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Features",
+      "url": "https://distort.wtf/#features",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://distort.wtf/faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Forum",
+      "url": "https://distort.wtf/forum",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "View CS2 External",
+      "url": "https://distort.wtf/cs2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "View pricing",
+      "url": "https://distort.wtf/pricing",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Open product page",
+      "url": "https://distort.wtf/cs2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Radar and Web Radar Guide",
+      "url": "https://distort.wtf/features/cs2-radar",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Bhop Feature Guide",
+      "url": "https://distort.wtf/features/cs2-bhop",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Configs and Settings Guide",
+      "url": "https://distort.wtf/features/cs2-configs",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 ESP Feature Guide",
+      "url": "https://distort.wtf/features/cs2-esp",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Premier Matchmaking Cheat Setup",
+      "url": "https://distort.wtf/use-cases/premier-matchmaking",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Cheats for Main Accounts",
+      "url": "https://distort.wtf/use-cases/main-accounts",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://distort.wtf/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://distort.wtf/discord",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://distort.wtf/telegram",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://distort.wtf/terms",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://distort.wtf/privacy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Refund Policy",
+      "url": "https://distort.wtf/refund",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://distort.wtf/contact",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Forum",
+      "url": "https://distort.wtf/forum",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://distort.wtf/faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Resellers",
+      "url": "https://distort.wtf/resellers",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Discord",
+      "url": "https://distort.wtf/discord",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Radar",
+      "url": "https://webradar.distort.wtf/",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Elitepvpers",
+      "url": "https://www.elitepvpers.com/forum/counter-strike-trading/5243822-distort-wtf-cs2-external-aim-esp-trigger-bhop-more-undetected-secure.html",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "d5371753c41c698ca11cf834338360cdd059cecfb2d80afee31269adcb44a3e2",
+  "captured_at": "2026-09-21T07:29:21.699611+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://distort.wtf/features/cs2-grenade-helper",
+  "http_status": 200,
+  "raw_file": "raw\\16c53a96e5d49caea0ff.html"
+}

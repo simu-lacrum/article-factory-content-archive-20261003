@@ -1,0 +1,210 @@
+{
+  "provider": "semrush_public_keyword_checker",
+  "method": "manually_transcribed_visible_browser_results",
+  "selected_database": "US",
+  "engine": "google",
+  "period_basis": "capture_month",
+  "period": "2026-09",
+  "measurement_window_end": null,
+  "volume_basis": "provider_estimated_rolling_12_month_average",
+  "match_type": "provider_unspecified",
+  "notes": [
+    "Visible interface displayed United States and db=us for every lookup.",
+    "No reporting month or SERP collection date was shown. Collection month is not a measurement month.",
+    "Five queries used the tool's five daily lookups; no limit bypass attempted.",
+    "Related-query volumes are shown in the same selected US context, not independent lookups.",
+    "Global distribution supplied two GB values, stored separately.",
+    "K values are rounded display conversions, not greater numerical precision.",
+    "SERP ranks are provider-reported historical/undated positions, not current browser-verified Google ranks.",
+    "The CS2 report repeats the same PCGamesN URL at positions 8 and 9; preserve raw rows and deduplicate in analysis.",
+    "No-data SERPs and N/A difficulty stay missing, not zero."
+  ],
+  "captures": [
+    {
+      "query": "deadlock cheats",
+      "game": "deadlock",
+      "captured_at": "2026-09-21T04:51:37.884Z",
+      "volume": 720,
+      "difficulty": 13,
+      "provider_intent": "informational",
+      "gb_volume": 70,
+      "results": [
+        "https://www.elitepvpers.com/forum/deadlock-trading/",
+        "https://www.unknowncheats.me/forum/deadlock/",
+        "https://www.reddit.com/r/DeadlockTheGame/comments/1oixl3s/deadlock_has_an_actual_problem_with_cheaters/",
+        "https://medium.com/@mrkhertz/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e",
+        "https://www.youtube.com/watch?v=TLRFfFZI9Lg",
+        "https://undetek.com/product/deadlock-cheat/",
+        "https://deadlock.wiki/Console_commands",
+        "https://www.youtube.com/watch?v=4g_h1xutT2c",
+        "https://steamcommunity.com/app/1422450/discussions/0/591782690120988721/",
+        "https://davoonline.com/phpBB3/viewtopic.php?t=11669"
+      ],
+      "related": [
+        [
+          "deadlock cheat death",
+          1000,
+          4,
+          "exclude_ambiguous_game_mechanic"
+        ],
+        [
+          "deadlock cheat",
+          720,
+          10,
+          "deadlock-hub"
+        ],
+        [
+          "is there a parry cheat in deadlock",
+          590,
+          22,
+          "deadlock-auto-parry"
+        ]
+      ],
+      "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=deadlock+cheats"
+    },
+    {
+      "query": "cs2 cheats",
+      "game": "cs2",
+      "captured_at": "2026-09-21T04:52:47.706Z",
+      "volume": 880,
+      "difficulty": 42,
+      "provider_intent": "informational",
+      "gb_volume": 3600,
+      "gb_volume_display": "3.6K",
+      "results": [
+        "https://anyx.gg/",
+        "https://www.youtube.com/watch?v=QSVxyw6Cntw",
+        "https://www.reddit.com/r/counterstrike2/comments/1938hr4/educational_use_only_all_cs2_cheats_ranked/",
+        "https://medium.com/@mrkhertz/top-cheats-for-cs2-the-best-hack-cfab8351f70b",
+        "https://www.unknowncheats.me/forum/counter-strike-2-a/",
+        "https://www.youtube.com/watch?v=H7f3_C9MzO0",
+        "https://undetek.com/",
+        "https://www.pcgamesn.com/counter-strike-2/console-commands",
+        "https://www.pcgamesn.com/counter-strike-2/console-commands",
+        "https://en.exloader.net/"
+      ],
+      "related": [
+        [
+          "cs2 cheat",
+          4400,
+          42,
+          "cs2-hub"
+        ],
+        [
+          "free cs2 cheats",
+          3600,
+          31,
+          "cs2-free-paid"
+        ],
+        [
+          "midnight cs2 cheat",
+          2900,
+          19,
+          "cs2-comparison"
+        ]
+      ],
+      "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=cs2+cheats"
+    },
+    {
+      "query": "dota 2 cheats",
+      "game": "dota2",
+      "captured_at": "2026-09-21T04:53:14.821Z",
+      "volume": 210,
+      "difficulty": 37,
+      "provider_intent": "informational_commercial",
+      "results": [
+        "https://dota2.fandom.com/wiki/Cheats",
+        "https://www.reddit.com/r/DotA2/comments/1qmhw65/cheats_in_dota/",
+        "https://medium.com/@mrkhertz/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=139655890&searchtext=Doom",
+        "https://melonity.gg/en",
+        "https://github.com/LWSS/McDota",
+        "https://gamefaqs.gamespot.com/pc/610657-dota-2/cheats",
+        "https://www.dota2.com/newsentry/3677788723152833273",
+        "https://www.liveabout.com/dota-2-cheats-pc-811805",
+        "https://www.elitepvpers.com/forum/dota/"
+      ],
+      "related": [
+        [
+          "cheat dota 2",
+          210,
+          0,
+          "dota2-hub"
+        ],
+        [
+          "valve anti cheat was unable to verify dota 2",
+          50,
+          33,
+          "exclude_client_troubleshooting_separate_intent"
+        ],
+        [
+          "cheat code dota 2",
+          20,
+          0,
+          "dota2-commands"
+        ]
+      ],
+      "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=dota+2+cheats"
+    },
+    {
+      "query": "dota 2 scripts",
+      "game": "dota2",
+      "captured_at": "2026-09-21T04:53:50.789Z",
+      "volume": 20,
+      "difficulty": null,
+      "provider_intent": null,
+      "results": [],
+      "related": [
+        [
+          "best bot script dota 2",
+          20,
+          0,
+          "exclude_community_bots_separate_intent"
+        ],
+        [
+          "best dota 2 bot script",
+          20,
+          0,
+          "exclude_community_bots_separate_intent"
+        ],
+        [
+          "bot script dota 2",
+          20,
+          0,
+          "exclude_community_bots_separate_intent"
+        ]
+      ],
+      "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=dota+2+scripts"
+    },
+    {
+      "query": "cs2 triggerbot",
+      "game": "cs2",
+      "captured_at": "2026-09-21T04:54:26.807Z",
+      "volume": 20,
+      "difficulty": null,
+      "provider_intent": null,
+      "results": [],
+      "related": [
+        [
+          "cs2 triggerbot ahk",
+          40,
+          0,
+          "exclude_operational_implementation"
+        ],
+        [
+          "triggerbot cs2",
+          30,
+          0,
+          "cs2-triggerbot"
+        ],
+        [
+          "cs2 ahk triggerbot",
+          20,
+          0,
+          "exclude_operational_implementation"
+        ]
+      ],
+      "source_url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=us&keyword=cs2+triggerbot"
+    }
+  ]
+}

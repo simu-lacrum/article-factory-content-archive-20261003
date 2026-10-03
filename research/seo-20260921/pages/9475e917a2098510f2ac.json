@@ -1,0 +1,878 @@
+{
+  "url": "https://en.exloader.net/",
+  "canonical": "https://en.exloader.net",
+  "language": "en",
+  "title": "ExLoader | Best free cheats and hacks for CS2 and other games",
+  "description": "ExLoader - unified library of game modifications. This app will help you download mods, neuronets, bots and cheats and hacks for games including wh, trigger, skinchanger and aim!",
+  "headings": [
+    {
+      "level": 4,
+      "text": "We have collected your favourite modifications in a single library"
+    },
+    {
+      "level": 1,
+      "text": "ExLoader - unified library of game modifications."
+    },
+    {
+      "level": 3,
+      "text": "Wanted to find cheats and hacks for cs2 or some other game? Consider yourself lucky!"
+    },
+    {
+      "level": 3,
+      "text": "Supported games"
+    },
+    {
+      "level": 2,
+      "text": "CS 2"
+    },
+    {
+      "level": 2,
+      "text": "Roblox"
+    },
+    {
+      "level": 2,
+      "text": "CS GO"
+    },
+    {
+      "level": 2,
+      "text": "Minecraft"
+    },
+    {
+      "level": 2,
+      "text": "Rust Pirate"
+    },
+    {
+      "level": 2,
+      "text": "CS 1.6"
+    },
+    {
+      "level": 2,
+      "text": "Standoff 2"
+    },
+    {
+      "level": 2,
+      "text": "CS:Source"
+    },
+    {
+      "level": 2,
+      "text": "GTA 5"
+    },
+    {
+      "level": 2,
+      "text": "Apex Legends"
+    },
+    {
+      "level": 2,
+      "text": "Deadlock"
+    },
+    {
+      "level": 2,
+      "text": "Dota 2"
+    },
+    {
+      "level": 2,
+      "text": "Among Us"
+    },
+    {
+      "level": 2,
+      "text": "Phasmophobia"
+    },
+    {
+      "level": 2,
+      "text": "MECCHA CHAMELEON"
+    },
+    {
+      "level": 2,
+      "text": "Garry's Mod"
+    },
+    {
+      "level": 2,
+      "text": "TF2"
+    },
+    {
+      "level": 2,
+      "text": "Brawl Stars"
+    },
+    {
+      "level": 2,
+      "text": "Geometry Dash"
+    },
+    {
+      "level": 2,
+      "text": "Left 4 Dead 2"
+    },
+    {
+      "level": 2,
+      "text": "Blood Strike"
+    },
+    {
+      "level": 2,
+      "text": "Palworld"
+    },
+    {
+      "level": 2,
+      "text": "Clash Of Clans"
+    },
+    {
+      "level": 2,
+      "text": "Lethal Company"
+    },
+    {
+      "level": 2,
+      "text": "Battlefield 4"
+    },
+    {
+      "level": 2,
+      "text": "Warframe"
+    },
+    {
+      "level": 2,
+      "text": "Toca Boca"
+    },
+    {
+      "level": 2,
+      "text": "CoD: Black Ops I"
+    },
+    {
+      "level": 2,
+      "text": "HL2: Deathmatch"
+    },
+    {
+      "level": 2,
+      "text": "Borderlands 3"
+    },
+    {
+      "level": 2,
+      "text": "Genshin Impact"
+    },
+    {
+      "level": 2,
+      "text": "Fortnite"
+    },
+    {
+      "level": 2,
+      "text": "Valorant"
+    },
+    {
+      "level": 2,
+      "text": "Unturned"
+    },
+    {
+      "level": 2,
+      "text": "Battlefield 1"
+    },
+    {
+      "level": 2,
+      "text": "SCP: SL"
+    },
+    {
+      "level": 2,
+      "text": "Outlast Trials"
+    },
+    {
+      "level": 2,
+      "text": "Tarkov"
+    },
+    {
+      "level": 2,
+      "text": "ARC Raiders"
+    },
+    {
+      "level": 2,
+      "text": "Battlefield™ 6"
+    },
+    {
+      "level": 2,
+      "text": "Delta Force"
+    },
+    {
+      "level": 2,
+      "text": "War Thunder"
+    },
+    {
+      "level": 2,
+      "text": "The Division 2"
+    },
+    {
+      "level": 3,
+      "text": "Latest updates"
+    },
+    {
+      "level": 2,
+      "text": "Osiris v2 - Free internal CS2 cheat with Fullscreen ESP"
+    },
+    {
+      "level": 2,
+      "text": "ZHook - Best free legit cheat for CSS (CS:Source) | (x64)"
+    },
+    {
+      "level": 2,
+      "text": "PhasmoMenu - Download free cheat for Phasmophobia"
+    },
+    {
+      "level": 2,
+      "text": "Undetected free Asthmaphobia hack FREE"
+    },
+    {
+      "level": 2,
+      "text": "Meteor - Aim assist, No Fall, Crystal aura modmenu for Minecraft | 1.17.1 - 26.2"
+    },
+    {
+      "level": 2,
+      "text": "Minify - Models & texture patcher for Dota 2"
+    },
+    {
+      "level": 2,
+      "text": "MayrrX64 - Free internal Garry's Mod HvH cheat | BETA: x86-x64"
+    },
+    {
+      "level": 2,
+      "text": "XIPEX - Free cheat for Palworld (Steam + Gamepass)"
+    },
+    {
+      "level": 2,
+      "text": "YimMenu - GodMode, Noclip, Freecam hacked-client for GTA5 | YimMenuV2 + FSL, - YimMenuV2"
+    },
+    {
+      "level": 3,
+      "text": "Which types of cheats or hacks exist in ExLoader"
+    },
+    {
+      "level": 3,
+      "text": "Can i be banned?"
+    },
+    {
+      "level": 3,
+      "text": "How to install and use ExLoader?"
+    },
+    {
+      "level": 3,
+      "text": "Are there any viruses in hacks/cheats from your loader?"
+    },
+    {
+      "level": 3,
+      "text": "Which button opens cheat's or hack's menu?"
+    },
+    {
+      "level": 3,
+      "text": "Where can i get an injector to launch this cheat or hack?"
+    },
+    {
+      "level": 3,
+      "text": "Cheats and hacks and what is their purpose ?"
+    }
+  ],
+  "document_h1": [
+    "ExLoader - unified library of game modifications."
+  ],
+  "text": "Advertising enquiries Games Contacts Developers Adding your modification to our library Contacts Agreement English English Українська Polski Deutsch Italiano Türkçe Español 中文 Português العربية Français हिन्दी O'zbekcha Қазақша Română Tiếng Việt Čeština Bahasa Indonesia Монгол 한국어 Русский Download More than 290 modifications We have collected your favourite modifications in a single library ExLoader - unified library of game modifications. Our application will help you to download mods, neuronets, bots and cheats and hacks for CS2 and other games, including wh, trigger, aim, skinchanger and all this for free, without any viruses. Our application will help you to download mods, neuronets, bots and cheats and hacks for CS2 and other games, including wh, trigger, aim, skinchanger and all this for free, without any viruses. Wanted to find cheats and hacks for cs2 or some other game? Consider yourself lucky! Download It's free. We support only x64-bit and ARM64 Windows 10, Windows 11 and higher and Android 6+. ExLoader is NOT available for x64-bit Windows 7 and Windows 8.1, old Windows versions are not supported! ExLoader 4.6 3318457 Supported games CS 2 Mods: 33 Roblox Mods: 27 CS GO Mods: 67 Minecraft Mods: 23 Rust Pirate Mods: 11 CS 1.6 Mods: 8 Standoff 2 Mods: 6 CS:Source Mods: 10 GTA 5 Mods: 5 Apex Legends Mods: 3 Deadlock Mods: 2 Dota 2 Mods: 4 Among Us Mods: 9 Phasmophobia Mods: 4 MECCHA CHAMELEON Mods: 2 Garry's Mod Mods: 13 TF2 Mods: 11 Brawl Stars Mods: 2 Geometry Dash Mods: 6 Left 4 Dead 2 Mods: 6 Blood Strike Mods: 1 Palworld Mods: 4 Clash Of Clans Mods: 1 Lethal Company Mods: 6 Battlefield 4 Mods: 3 Warframe Mods: 3 Toca Boca Mods: 1 CoD: Black Ops I Mods: 1 HL2: Deathmatch Mods: 2 Borderlands 3 Mods: 1 Genshin Impact Mods: 4 Fortnite Mods: 2 Valorant Mods: 2 Unturned Mods: 2 Battlefield 1 Mods: 3 SCP: SL Mods: 1 Outlast Trials Mods: 1 Tarkov Mods: 2 ARC Raiders Mods: 2 Battlefield™ 6 Mods: 2 Delta Force Mods: 2 War Thunder Mods: 2 The Division 2 Mods: 3 Latest updates Osiris v2 danielkrupinski Osiris v2 - Free internal CS2 cheat with Fullscreen ESP 4.8 CS 2 cheat from the creators of the legendary Osiris is now fully integrated int… 🕒 Updated: 20 September 2026 13M 1M 2K danielkrupinski ZHook shakro ZHook - Best free legit cheat for CSS (CS:Source) | (x64) 4.8 Designed purely for legit play in Counter-Strike Source, ZHook delivers a polish… 🕒 Updated: 19 September 2026 240 189 3 shakro PhasmoMenu PappyG PhasmoMenu - Download free cheat for Phasmophobia 4.6 Cheat-Engine based Menu for Phasmophobia. Constantly updated, undetected, lacks… 🕒 Updated: 19 September 2026 331K 61K 369 PappyG Asthmaphobia ismokeloud Undetected free Asthmaphobia hack FREE 4.4 Updated version of a well-known hack for Phasmophobia called Asthmaphobia. Unfor… 🕒 Updated: 19 September 2026 149K 32K 171 ismokeloud Meteor MineGame159 Meteor - Aim assist, No Fall, Crystal aura modmenu for Minecraft | 1.17.1 - 26.2 4.7 The Fabric client contains around 170 different features, many of which are desi… 🕒 Updated: 19 September 2026 425K 153K 282 MineGame159 Minify Robbyz512 Minify - Models & texture patcher for Dota 2 4.2 Dota2 Mod Patcher & Toolkit for everyone to use mods easily. Requires some setup… 🕒 Updated: 19 September 2026 56K 30K 33 Robbyz512 MayrrX64 Somik9 MayrrX64 - Free internal Garry's Mod HvH cheat | BETA: x86-x64 4.7 mayrrX64 is an internal cheat for Garry's Mod on the x64 branch covering aimbot… 🕒 Updated: 17 September 2026 17K 4K 31 Somik9 XIPEX meankidd XIPEX - Free cheat for Palworld (Steam + Gamepass) 4.6 One of the most loaded Palworld cheats out there — XIPEX is an internal menu for… 🕒 Updated: 17 September 2026 5K 1K 7 meankidd YimMenuV2 (Enhanced) YimMenu YimMenu - GodMode, Noclip, Freecam hacked-client for GTA5 | YimMenuV2 + FSL, - YimMenuV2 4.6 A mod menu base for Grand Theft Auto V. Strictly for educational purposes. YimMe… 🕒 Updated: 16 September 2026 895K 142K 1K YimMenu Which types of cheats or hacks exist in ExLoader Generally, there are three types of cheats and hacks for each game: \"External\", \"Internal\" and neural networks. No injector is required to launch an External cheat/hack, they are opened as a separate process and read game's memory to draw the so-called WH (ESP). Sometimes such mods can simulate keyboard buttons or mouse buttons pressing to handle such functions as aimbot, trigger, bunnyhop, grenades helper or movement recorder. In rare cases, external cheats and hacks can change process' memory, for example, to replace skins (the so-called skinchanger). Internal modifications are special DLL libraries that are injected into the game. Such cheats and hacks are characterized by smoother operation, the presence of extensive features, as well as the increased risk of getting banned if mod's developer did not protect his cheat/hack from the basic anti-cheat system. Neural networks are something else, they do not interact with the memory of the game, but only analyze the image from the monitor, in order to recognize opponents for aim or automatic shooting purposes, as well as, in rare cases, for an automatic movement on the map. Such applications require a non-weak PC, however, are incredibly safe to use. In the ExLoader library you can find a huge amount of both Internal and External modifications with all features like WH, Aimbot, SkinChanger, movement recorder, grenades helper, etc. Can i be banned? If the game for which you want to download cheats and hacks uses VAC anti-cheat system, then bans statistics for using each specific modifications for this game is available on the modification's card. If the game uses other anti-cheats (like ESEA, EAC, FaceIT, BattleEye, Vanguard, MRAC, etc.) our app will automatically inform you about all possible risks before launching a free cheat or hack! How to install and use ExLoader? To get started, download our official installer using the big button at the top of this page. Open the downloaded file, choose the path where ExLoader will be installed and click continue. After that, the installation process will begin, which usually takes from 10 to 20 seconds, depending on the speed of your internet connection. Upon completion of this process, you will be prompted to open the ExLoader, in which you need to log in using mail or your Google account, no passwords need to be entered! Once you do that, you can choose a game to which you want to launch a modification, and you'll be navigated into the cheats or hacks library for this game. Then you can choose which mod you like the most and click the launch button! Are there any viruses in hacks/cheats from your loader? On the page of each modification from our application, you can find information about whether it was checked for the virus threats absence by an independent representative. In addition, we try evaluating all modifications carefully before their adding to our library! So if you are looking for a virus-free cheat/hack, then you definitely can choose ExLoader. Which button opens cheat's or hack's menu? All information related to the modification menu opening key and additional actions that might be necessary to be done (if any) will be shown in the ExLoader itself. Just read what is written in the application and you will get answers to all your questions. Where can i get an injector to launch this cheat or hack? Many people use Ghost Injector, Extreme Injector, GHInjector, Vac-Bypass Injector, Kirin, etc. to launch common cheats and hacks with the .DLL extension, but in our case there is no need to download any additional software, ExLoader installs all modifications by itself, without any third-party software! Cheats and hacks and what is their purpose ? Not all people are willing to spend dozens of hours of their lives to train the skill of playing a game. Except moreover, games are simply crowded with a huge number of cheaters. Somebody wants to enjoy an ordinary evening game with a pack of crisps with Coca-Cola, somebody wants to increase his rank. In no case do we encourage anyone to download cheats, this is the choice of each of you. If you're tired and if you want to try something new, we can only provide you with a convenient tool for getting such an experience. Everything else is up to you! 2018-2026 © ExLoader. All rights reserved. Designed and developed by SwiftSoft LLC. DMCA / Copyright inquiries: [email protected] Switch to English language? Yes No",
+  "words": 1432,
+  "links": [
+    {
+      "text": "",
+      "url": "https://en.exloader.net/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Advertising enquiries",
+      "url": "https://en.exloader.net/advertise-with-us/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Games",
+      "url": "https://en.exloader.net/#games",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contacts",
+      "url": "https://en.exloader.net/#contacts",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contacts",
+      "url": "https://en.exloader.net/#contacts",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Agreement",
+      "url": "https://en.exloader.net/end_user_license_agreement/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS 2",
+      "url": "https://en.exloader.net/tree/games/cs2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Roblox",
+      "url": "https://en.exloader.net/tree/games/roblox/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS GO",
+      "url": "https://en.exloader.net/tree/games/csgo/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Minecraft",
+      "url": "https://en.exloader.net/tree/games/minecraft/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Rust Pirate",
+      "url": "https://en.exloader.net/tree/games/rust/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS 1.6",
+      "url": "https://en.exloader.net/tree/games/cs16/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Standoff 2",
+      "url": "https://en.exloader.net/tree/games/standoff2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS:Source",
+      "url": "https://en.exloader.net/tree/games/cssource/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "GTA 5",
+      "url": "https://en.exloader.net/tree/games/gta5/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Apex Legends",
+      "url": "https://en.exloader.net/tree/games/apex/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Deadlock",
+      "url": "https://en.exloader.net/tree/games/deadlock/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2",
+      "url": "https://en.exloader.net/tree/games/dota2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Among Us",
+      "url": "https://en.exloader.net/tree/games/amongus/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Phasmophobia",
+      "url": "https://en.exloader.net/tree/games/phasmophobia/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "MECCHA CHAMELEON",
+      "url": "https://en.exloader.net/tree/games/mecchachameleon/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Garry's Mod",
+      "url": "https://en.exloader.net/tree/games/garrysmod/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "TF2",
+      "url": "https://en.exloader.net/tree/games/tf2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Brawl Stars",
+      "url": "https://en.exloader.net/tree/games/brawlstars/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Geometry Dash",
+      "url": "https://en.exloader.net/tree/games/geometrydash/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Left 4 Dead 2",
+      "url": "https://en.exloader.net/tree/games/l4d2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blood Strike",
+      "url": "https://en.exloader.net/tree/games/bloodstrike/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Palworld",
+      "url": "https://en.exloader.net/tree/games/palworld/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Clash Of Clans",
+      "url": "https://en.exloader.net/tree/games/clashofclans/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lethal Company",
+      "url": "https://en.exloader.net/tree/games/lethalcompany/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Battlefield 4",
+      "url": "https://en.exloader.net/tree/games/bf4/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Warframe",
+      "url": "https://en.exloader.net/tree/games/warframe/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Toca Boca",
+      "url": "https://en.exloader.net/tree/games/tocaboca/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CoD: Black Ops I",
+      "url": "https://en.exloader.net/tree/games/codbo1/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "HL2: Deathmatch",
+      "url": "https://en.exloader.net/tree/games/hl2dm/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Borderlands 3",
+      "url": "https://en.exloader.net/tree/games/bdlands3/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Genshin Impact",
+      "url": "https://en.exloader.net/tree/games/genshin/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Fortnite",
+      "url": "https://en.exloader.net/tree/games/fortnite/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Valorant",
+      "url": "https://en.exloader.net/tree/games/valorant/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Unturned",
+      "url": "https://en.exloader.net/tree/games/unturned/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Battlefield 1",
+      "url": "https://en.exloader.net/tree/games/bf1/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "SCP: SL",
+      "url": "https://en.exloader.net/tree/games/scpsl/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Outlast Trials",
+      "url": "https://en.exloader.net/tree/games/outlasttrials/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Tarkov",
+      "url": "https://en.exloader.net/tree/games/tarkov/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "ARC Raiders",
+      "url": "https://en.exloader.net/tree/games/arcraiders/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Battlefield™ 6",
+      "url": "https://en.exloader.net/tree/games/bf6/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Delta Force",
+      "url": "https://en.exloader.net/tree/games/deltaforce/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "War Thunder",
+      "url": "https://en.exloader.net/tree/games/warthunder/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "The Division 2",
+      "url": "https://en.exloader.net/tree/games/division2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Osiris v2 - Free internal CS2 cheat with Fullscreen ESP",
+      "url": "https://en.exloader.net/tree/modifications/osiris-v2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "danielkrupinski",
+      "url": "https://github.com/danielkrupinski/Osiris",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "ZHook - Best free legit cheat for CSS (CS:Source) | (x64)",
+      "url": "https://en.exloader.net/tree/modifications/zhook/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "shakro",
+      "url": "https://www.unknowncheats.me/forum/members/1525682.html",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "PhasmoMenu - Download free cheat for Phasmophobia",
+      "url": "https://en.exloader.net/tree/modifications/phasmomenu/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "PappyG",
+      "url": "https://www.unknowncheats.me/forum/members/2798212.html",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "Undetected free Asthmaphobia hack FREE",
+      "url": "https://en.exloader.net/tree/modifications/asthmaphobia/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "ismokeloud",
+      "url": "https://www.unknowncheats.me/forum/members/3417852.html",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "Meteor - Aim assist, No Fall, Crystal aura modmenu for Minecraft | 1.17.1 - 26.2",
+      "url": "https://en.exloader.net/tree/modifications/meteor/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Minify - Models & texture patcher for Dota 2",
+      "url": "https://en.exloader.net/tree/modifications/minify/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Robbyz512",
+      "url": "https://github.com/robbyz512",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "MayrrX64 - Free internal Garry's Mod HvH cheat | BETA: x86-x64",
+      "url": "https://en.exloader.net/tree/modifications/mayrrx64/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "XIPEX - Free cheat for Palworld (Steam + Gamepass)",
+      "url": "https://en.exloader.net/tree/modifications/xipex/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "meankidd",
+      "url": "https://www.unknowncheats.me/forum/members/904901.html",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "YimMenu - GodMode, Noclip, Freecam hacked-client for GTA5 | YimMenuV2 + FSL, - YimMenuV2",
+      "url": "https://en.exloader.net/tree/modifications/yimmenu/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "User agreement and privacy policy",
+      "url": "https://en.exloader.net/end_user_license_agreement/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "Discord support",
+      "url": "https://t.me/swiftsoft_support",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://en.exloader.net/cdn-cgi/l/email-protection#5c3439302c1c2f2b353a282f333a287230303f",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Our Discord channel",
+      "url": "https://t.me/exloader",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "Advertising enquiries",
+      "url": "https://en.exloader.net/advertise-with-us/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "SwiftSoft LLC.",
+      "url": "https://swiftsoft.llc",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "naked_url",
+      "rel": [
+        "noopener",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://en.exloader.net/cdn-cgi/l/email-protection",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "body_fallback_review_needed",
+  "extraction_rule": null,
+  "sha256": "959e5bdc207e5e04806e7164b714f88cdd01de815ecd393fc5339195b8f85c0c",
+  "captured_at": "2026-09-21T04:27:03.714036+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://en.exloader.net/",
+  "http_status": 200,
+  "raw_file": "raw\\9475e917a2098510f2ac.html"
+}

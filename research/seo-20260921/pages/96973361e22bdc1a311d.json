@@ -1,0 +1,272 @@
+{
+  "url": "https://umbrella-dota.com/en/scripts/invoker/",
+  "canonical": "https://umbrella-dota.com/en/scripts/invoker/",
+  "language": "en",
+  "title": "Invoker in Dota 2 — guide, Umbrella scripts, win rate by rank",
+  "description": "Invoker (Intelligence, ranged): 53.4% win rate and 63k picks. 11 Umbrella scripts for auto-combo and prediction. Build, counters, FAQ.",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Invoker win rate by rank"
+    },
+    {
+      "level": 2,
+      "text": "Umbrella scripts for Invoker"
+    },
+    {
+      "level": 2,
+      "text": "Key Invoker combos"
+    },
+    {
+      "level": 2,
+      "text": "Invoker item build"
+    },
+    {
+      "level": 2,
+      "text": "Invoker counter-picks"
+    },
+    {
+      "level": 2,
+      "text": "Invoker FAQ"
+    }
+  ],
+  "document_h1": [
+    "Invoker in Dota 2 — guide & Umbrella scripts"
+  ],
+  "text": "Invoker win rate by rank Invoker's base win rate is 53.4% across all ranks. The skill-bracket spread shows how much the hero scales with MMR: Herald 51.6% Guardian 52.1% Crusader 52.6% Archon 53.1% Legend 53.6% Ancient 54.1% Divine 54.6% Immortal 55.1% Pro scene: 63k picks on Dotabuff, 11% ban rate in high ranks. A sharply inflated win rate reflects the current meta. Umbrella scripts for Invoker The main goal is to automate farm and focus in a fight. Umbrella scripts bind complex chains to one key, lead by target coordinates, and cast finishers the moment a kill is guaranteed. All 11 scripts are included in every plan . i Update — September 15, 2026: A new version of the script: combo slots expand to 12, a \"Hold Range\" slider appeared, enemy escapes are taken into account, Tornado with Eul’s Scepter was rewritten, as were the Auto-Sunstrike timings on enemy teleports. Full change list . 01 Quas-Wex-Exort Invoke auto sequences quas wex exort for the desired spell M4 02 Sun Strike Prediction predicts sun strike coordinates on a low-hp target M5 03 Cataclysm Combo chains tornado, emp, alacrity and sun strike auto 04 Auto Last-Hit last-hits creeps on the perfect frame, accounting for attack speed and armor V 05 Kill Stealer auto-casts the finisher on enemy HP, accounting for magic resist O 06 Combo Builder ability + item chain in one click, up to 12 steps M4 07 Dodger dodges skillshots via Blink, BKB, Eul or Manta K 08 Item Auto-Use auto-casts Magic Wand, Glimmer, Lotus on trigger events auto 09 Skill Bind instant ability cast at the cursor with no delay Q-R 10 Spell Steal Tracker shows which strongest abilities enemies have auto 11 Smart Push Notifier enemy ult timers and an ally ready-indicator auto Key Invoker combos Invoker plays as a carry (Pos 1). The main chains Umbrella automates: Burst combo: instant control + damage on one key via Combo Builder . Finish: auto-cast the ultimate when target HP drops below a computed threshold via Kill Stealer . Auto-farm: last-hit + deny via Last-Hit and wave block at the start via Crip Blocker . Evade: Blink, BKB or Eul on an incoming skillshot via Dodger . ★ A ready config for Invoker with binds for every script is on the CFG page. Import by code in one click via Cloud → Add By Code. Invoker item build Current meta build (OpenDota data): Starting: Tango, Mango × 2, Iron Branch × 2, Faerie Fire. Early: Bottle, Power Treads / Phase, Magic Wand. Core items: Aether Lens, Aghanim's Scepter, BKB. Late game: Octarine Core, Refresher Orb, Shiva's Guard. Item Auto-Use (an Umbrella module) casts Magic Wand at HP < 40%, BKB before an enemy magical initiation, Glimmer / Lotus on a targeted cast. An inventory slot frees up for what really matters. Invoker counter-picks Which heroes win and lose against Invoker (live OpenDota matchups): Type Heroes Invoker counters Ember Spirit · Earth Spirit · Nyx Assassin · Faceless Void · Axe Counters Invoker Faceless Void · Axe · Dragon Knight Synergizes with Skywrath Mage In the map hack you see dangerous heroes approaching in advance and can prepare a counter-initiation — e.g., BKB before the enemy enters combo range. Invoker FAQ Is Invoker hard to play? No, Invoker is a simple and strong hero in the current meta, holding above 53% across all ranks. Umbrella automates cast timing and finishing — the learning curve gets 2–3× faster. Which Umbrella scripts matter most for Invoker? Quas-Wex-Exort Invoke and Sun Strike Prediction are the two core ones. The first handles auto sequences quas wex exort for the desired spell, the second — predicts sun strike coordinates on a low-hp target. The full list of 11 scripts is in the \"Umbrella scripts\" section above. Which position should Invoker play? Invoker plays as a carry (Pos 1). Pos 1 — farm priority, the late game decides. Is it safe to use scripts on Invoker? Scripts are a gray area. Umbrella uses a spoofer for HWID masking and cloud configs to reduce the risk. More — \"Is cheating bannable\" . Where do I get a ready config for Invoker? A ready config with binds for all 11 scripts is on the Configs page. Import by code via Cloud → Add By Code.",
+  "words": 723,
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://umbrella-dota.com/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Scripts",
+      "url": "https://umbrella-dota.com/en/scripts/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Win rate by rank",
+      "url": "https://umbrella-dota.com/en/scripts/invoker/#wr",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Umbrella scripts",
+      "url": "https://umbrella-dota.com/en/scripts/invoker/#scripts",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "Key combos",
+      "url": "https://umbrella-dota.com/en/scripts/invoker/#combo",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Item build",
+      "url": "https://umbrella-dota.com/en/scripts/invoker/#build",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Counter-picks",
+      "url": "https://umbrella-dota.com/en/scripts/invoker/#counter",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://umbrella-dota.com/en/scripts/invoker/#faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "All 11 scripts are included in every plan",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Full change list",
+      "url": "https://umbrella-dota.com/en/updates/september-2026/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Combo Builder",
+      "url": "https://umbrella-dota.com/en/features/combo/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Kill Stealer",
+      "url": "https://umbrella-dota.com/en/features/killstealer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Last-Hit",
+      "url": "https://umbrella-dota.com/en/features/last-hit/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Crip Blocker",
+      "url": "https://umbrella-dota.com/en/features/crip-blocker/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dodger",
+      "url": "https://umbrella-dota.com/en/features/dodger/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CFG",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "map hack",
+      "url": "https://umbrella-dota.com/en/features/maphack/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "\"Is cheating bannable\"",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Configs",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "All 126 heroes",
+      "url": "https://umbrella-dota.com/en/scripts/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Invoker config",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Maphack",
+      "url": "https://umbrella-dota.com/en/features/maphack/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Is it bannable",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "CFG",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "3887fe69f39f5890a6cedbd7d7dc927fe7cdc3773c2bc536694996fbedeb956a",
+  "captured_at": "2026-09-21T06:24:40.203133+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://umbrella-dota.com/en/scripts/invoker/",
+  "http_status": 200,
+  "raw_file": "raw/96973361e22bdc1a311d.html"
+}

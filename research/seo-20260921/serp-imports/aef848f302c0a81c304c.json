@@ -1,0 +1,367 @@
+[
+  {
+    "query": "deadlock fov changer",
+    "game": "deadlock",
+    "captured_at": "2026-09-21T05:38:10.914Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-feature-intents.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Google footer reports Unknown - Can't determine location. gl=us is requested country only.",
+    "result_scope": "Linked h3 headings in #rso; partial browser sample excluding AI Overview and most video modules. Heading order is not an asserted organic rank.",
+    "results": [
+      {
+        "url": "https://www.reddit.com/r/DeadlockTheGame/comments/1t61e4k/fov_increase/",
+        "type": "forum",
+        "page_type": "camera_settings_discussion",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=iNzCItBZT-U",
+        "type": "video",
+        "page_type": "video",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=nC3cxbHcnYE",
+        "type": "video",
+        "page_type": "video",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "url": "https://www.tiktok.com/@ttvnsgow/video/7612061965724290335",
+        "type": "video",
+        "page_type": "video",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "url": "https://forums.playdeadlock.com/threads/increase-fov-option-to-120.122038/",
+        "type": "forum",
+        "page_type": "camera_settings_discussion",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "url": "https://gamebanana.com/mods/702851",
+        "type": "mod_listing",
+        "page_type": "camera_mod_listing",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=rXiOmahaV9k",
+        "type": "video",
+        "page_type": "video",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "url": "https://steamcommunity.com/app/1422450/discussions/0/591784375624957954/",
+        "type": "forum",
+        "page_type": "camera_settings_discussion",
+        "rank": null,
+        "observed_heading_order": 8
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=B2nX_vvS4uE",
+        "type": "video",
+        "page_type": "video",
+        "rank": null,
+        "observed_heading_order": 9
+      }
+    ]
+  },
+  {
+    "query": "dota 2 roshan timer",
+    "game": "dota2",
+    "captured_at": "2026-09-21T05:38:38.479Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-feature-intents.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Google footer reports Unknown - Can't determine location. gl=us is requested country only.",
+    "result_scope": "Linked h3 headings in #rso; partial browser sample excluding AI Overview and most video modules. Heading order is not an asserted organic rank.",
+    "results": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=188583748",
+        "type": "article",
+        "page_type": "historical_gameplay_guide",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "url": "https://www.reddit.com/r/DotA2/comments/1eeoyk3/please_tell_me_how_to_read_the_rosh_timer/",
+        "type": "forum",
+        "page_type": "gameplay_discussion",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "url": "https://dotasense.com/guides/roshan-timer",
+        "type": "article",
+        "page_type": "gameplay_guide_with_timer_product",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "url": "https://dota2tool.vercel.app/",
+        "type": "organic",
+        "page_type": "manual_timer_tool",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "url": "https://liquipedia.net/dota2/Roshan",
+        "type": "article",
+        "page_type": "gameplay_reference",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "url": "https://roshtimer.com/",
+        "type": "organic",
+        "page_type": "timer_tool",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "url": "https://dota2.fandom.com/wiki/Roshan",
+        "type": "article",
+        "page_type": "gameplay_reference",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "url": "https://www.facebook.com/fb-answers/roshan-spawn-timer-dota-2/",
+        "type": "social_aggregation",
+        "page_type": "social_answer_aggregation",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  },
+  {
+    "query": "dota 2 ward tracker cheat",
+    "game": "dota2",
+    "captured_at": "2026-09-21T05:39:02.138Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-feature-intents.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Google footer reports Unknown - Can't determine location. gl=us is requested country only.",
+    "result_scope": "Linked h3 headings in #rso; partial browser sample excluding AI Overview and most video modules. Heading order is not an asserted organic rank.",
+    "results": [
+      {
+        "url": "https://dota2.fandom.com/wiki/Cheats",
+        "type": "article",
+        "page_type": "practice_command_reference",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "url": "https://www.reddit.com/r/DotA2/comments/rymwy/cheat_commands_to_practice_warding/",
+        "type": "forum",
+        "page_type": "practice_command_discussion",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "url": "https://www.elitepvpers.com/forum/dota-trading/5354153-melonity-dota-2-script-auto-cast-maphack-ward-tracker-auto-dodge.html",
+        "type": "product",
+        "page_type": "marketplace_listing",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "url": "https://umbrella-dota.com/en/features/maphack/",
+        "type": "product",
+        "page_type": "product_feature_page",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "url": "https://github.com/AssuranceGrip/dota2-umbrella",
+        "type": "repository",
+        "page_type": "code_repository",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "url": "https://liquipedia.net/dota2/List_of_Console_Commands",
+        "type": "article",
+        "page_type": "practice_command_reference",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "url": "https://melonity.gg/en",
+        "type": "product",
+        "page_type": "owned_product_landing",
+        "rank": null,
+        "observed_heading_order": 7
+      }
+    ]
+  },
+  {
+    "query": "dota 2 roshan esp",
+    "game": "dota2",
+    "captured_at": "2026-09-21T05:39:31.081Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-feature-intents.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Google footer reports Unknown - Can't determine location. gl=us is requested country only.",
+    "result_scope": "Linked h3 headings in #rso; partial browser sample excluding AI Overview and most video modules. Heading order is not an asserted organic rank.",
+    "results": [
+      {
+        "url": "https://liquipedia.net/dota2/Roshan",
+        "type": "article",
+        "page_type": "gameplay_reference",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "url": "https://dota2.fandom.com/wiki/Roshan",
+        "type": "article",
+        "page_type": "gameplay_reference",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "url": "https://www.reddit.com/r/DotA2/comments/3gw4y7/why_is_roshan/",
+        "type": "forum",
+        "page_type": "gameplay_discussion",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "url": "https://spectateesports.live/glossary/roshan",
+        "type": "article",
+        "page_type": "gameplay_glossary",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "url": "https://thunderpick.io/blog/roshan-dota-2-guide",
+        "type": "article",
+        "page_type": "gameplay_guide",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "url": "https://www.hotspawn.com/dota2/news/ultimate-dota-2-roshan-guide",
+        "type": "article",
+        "page_type": "gameplay_guide",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=UqSad6d8VMo",
+        "type": "video",
+        "page_type": "video",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "url": "https://winio.ai/blog/articles/who-is-roshan-in-dota-2",
+        "type": "article",
+        "page_type": "gameplay_guide",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  },
+  {
+    "query": "deadlock aimbot fov",
+    "game": "deadlock",
+    "captured_at": "2026-09-21T05:40:14.534Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-feature-intents.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Google footer reports Unknown - Can't determine location. gl=us is requested country only.",
+    "result_scope": "Linked h3 headings in #rso; partial browser sample excluding AI Overview and most video modules. Heading order is not an asserted organic rank.",
+    "results": [
+      {
+        "url": "https://github.com/Deadlock-Aimbot-Tool",
+        "type": "repository",
+        "page_type": "code_repository",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "url": "https://tsuki.gg/scripts/deadlock/aimed-fov",
+        "type": "product",
+        "page_type": "public_script_description",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "url": "https://www.reddit.com/r/DeadlockTheGame/comments/1t61e4k/fov_increase/",
+        "type": "forum",
+        "page_type": "camera_settings_discussion",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "url": "https://steamcommunity.com/app/824270/discussions/0/603044859897900582/",
+        "type": "forum",
+        "page_type": "aim_trainer_settings_discussion",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "url": "https://github.com/Deadlock-Aimbot-i976/.github",
+        "type": "repository",
+        "page_type": "code_repository",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Fox75ItaZNs",
+        "type": "video",
+        "page_type": "video",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "url": "https://undetek.com/deadlock-cheats/",
+        "type": "product",
+        "page_type": "product_landing",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "url": "https://cheatstore.net/deadlock/aimbot",
+        "type": "product",
+        "page_type": "product_landing",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  }
+]

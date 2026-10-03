@@ -1,0 +1,509 @@
+{
+  "method_note": "Read-only browser DOM: linked h3 in #rso, visible question buttons and footer only. Account and private performance widgets were not retained. Partial results, not a guaranteed full organic top ten; schema, ad count and word counts cannot be inferred from this extraction.",
+  "snapshots": [
+    {
+      "query": "cs2 skin changer",
+      "game": "cs2",
+      "captured_at": "2026-09-21T06:06:02.835Z",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-cosmetic-information-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Google footer: Unknown - Can't determine location. gl=us is requested country only.",
+      "result_scope": "Linked h3 headings in #rso; partial sample excludes AI Overview and most video modules. Heading order is not an asserted organic rank.",
+      "visible_questions": [
+        "Is skin changer bannable in CS2?",
+        "What is the best skin changer for CS2?",
+        "How to change CS2 character skin?",
+        "Are skin changers bannable in rivals?"
+      ],
+      "results": [
+        {
+          "title": "Looking for safe client side skin changer. : r/cs2",
+          "url": "https://www.reddit.com/r/cs2/comments/1rh2ry1/looking_for_safe_client_side_skin_changer/",
+          "type": "forum",
+          "page_type": "product_selection_discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "CS2 Skinchanger: How It Works and How to Access It on ...",
+          "url": "https://xplay.gg/blog/cs2-skinchanger-how-it-works-and-how-to-access-it-on-our-servers/",
+          "type": "article",
+          "page_type": "server_cosmetic_feature_guide",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Skin Changer - Trade CS2 (CS:GO) Skins Safely & Free at ...",
+          "url": "https://farmskins.com/skinchanger",
+          "type": "product",
+          "page_type": "skin_trading_tool",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "*Warning to those using skin changer* :: Counter-Strike 2 ...",
+          "url": "https://steamcommunity.com/app/730/discussions/0/1696048879959535534/",
+          "type": "forum",
+          "page_type": "ban_risk_discussion",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "How to get BEST CS2 Skin Changer Download Tutorial 2026 ...",
+          "url": "https://www.youtube.com/watch?v=zKwklPX23-c",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "[Release] CS2 External Skin Changer + Source",
+          "url": "https://www.unknowncheats.me/forum/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html",
+          "type": "software_release",
+          "page_type": "software_release_forum",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "Skin Changer Cheats - Counter-Strike 2",
+          "url": "https://undetek.com/product/external-skin-changer/",
+          "type": "product",
+          "page_type": "product_page",
+          "rank": null,
+          "observed_heading_order": 7
+        }
+      ]
+    },
+    {
+      "query": "can other players see skin changer cs2",
+      "game": "cs2",
+      "captured_at": "2026-09-21T06:06:36.001Z",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-cosmetic-information-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Google footer: Unknown - Can't determine location. gl=us is requested country only.",
+      "result_scope": "Linked h3 headings in #rso; partial sample excludes AI Overview and most video modules. Heading order is not an asserted organic rank.",
+      "visible_questions": [
+        "Can I get banned for using a skin changer?",
+        "Can I get banned for using Skin Club?",
+        "Is there a CS2 skin changer?",
+        "Are skinchangers bannable in Valorant?"
+      ],
+      "results": [
+        {
+          "title": "Is there any skinchanger that other people can see too??",
+          "url": "https://www.reddit.com/r/csgo/comments/1kiwvl0/is_there_any_skinchanger_that_other_people_can/",
+          "type": "forum",
+          "page_type": "visibility_discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "Can skin changers be seen by others? :: Counter-Strike 2 ...",
+          "url": "https://steamcommunity.com/app/730/discussions/0/1636417554415367681/",
+          "type": "forum",
+          "page_type": "visibility_discussion_legacy",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Are CS2 Skin Changers Bannable? | Safe Or Not Explained",
+          "url": "https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable",
+          "type": "article",
+          "page_type": "risk_guide",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "Inventory Changer visible for other users · Issue #3529",
+          "url": "https://github.com/danielkrupinski/Osiris/issues/3529",
+          "type": "repository",
+          "page_type": "software_issue_discussion",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "Is Skin Changer Bannable? Why CS2 Skin ...",
+          "url": "https://sellyourskins.com/blog/is-skin-changer-bannable/",
+          "type": "article",
+          "page_type": "risk_guide",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "Are skins from skinchanger visible to other players?",
+          "url": "https://project-infinity.cloud/threads/are-skins-from-skinchanger-visible-to-other-players.26598/",
+          "type": "forum",
+          "page_type": "visibility_discussion_legacy",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "CS2 Skinchanger: How It Works and How to Access It on ...",
+          "url": "https://xplay.gg/blog/cs2-skinchanger-how-it-works-and-how-to-access-it-on-our-servers/",
+          "type": "article",
+          "page_type": "server_cosmetic_feature_guide",
+          "rank": null,
+          "observed_heading_order": 7
+        }
+      ]
+    },
+    {
+      "query": "cs2 radar vs esp",
+      "game": "cs2",
+      "captured_at": "2026-09-21T06:06:38.764Z",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-cosmetic-information-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Google footer: Unknown - Can't determine location. gl=us is requested country only.",
+      "result_scope": "Linked h3 headings in #rso; partial sample excludes AI Overview and most video modules. Heading order is not an asserted organic rank.",
+      "visible_questions": [
+        "What is radar CS2?",
+        "Are external cheats detectable in CS2?",
+        "What is the best radar command in CS2?",
+        "Can you make a CS2 radar square?"
+      ],
+      "results": [
+        {
+          "title": "CS2 Cheats Explained: Aim, ESP, Radar and Round ...",
+          "url": "https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/",
+          "type": "article",
+          "page_type": "commercial_feature_explainer_provisional",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "Only thing worse than obvious hackers are DECENT ...",
+          "url": "https://www.reddit.com/r/cs2/comments/18n3ufg/only_thing_worse_than_obvious_hackers_are_decent/",
+          "type": "forum",
+          "page_type": "cheating_discussion",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "MFers are cheating with radar/esp. CS2 is full of cheaters",
+          "url": "https://x.com/bibanator/status/1930356441426317758",
+          "type": "social",
+          "page_type": "social_post",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "[Release] Pro CS2 DMA - Esp & Aimbot & Web Radar",
+          "url": "https://www.unknowncheats.me/forum/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html",
+          "type": "software_release",
+          "page_type": "software_release_forum",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "Radar Hack in CS2: An Invisible Threat",
+          "url": "https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z",
+          "type": "article",
+          "page_type": "radar_explainer_provisional",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "Can i get banned by using simple radar?",
+          "url": "https://steamcommunity.com/app/730/discussions/0/4417550696872973353/",
+          "type": "forum",
+          "page_type": "ban_risk_discussion",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "Gaming of CS2 on Instagram: \"@cs2news posts CS2 ...",
+          "url": "https://www.instagram.com/reel/DbFKehTJFTh/",
+          "type": "video",
+          "page_type": "social_video",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "Radar hack | Anyx.gg - Undetected CS2 Cheats & Free ...",
+          "url": "https://anyx.gg/threads/radar-hack.1338/",
+          "type": "forum",
+          "page_type": "product_support_discussion",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    },
+    {
+      "query": "cs2 esp",
+      "game": "cs2",
+      "captured_at": "2026-09-21T06:06:51.575Z",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-cosmetic-information-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Google footer: Unknown - Can't determine location. gl=us is requested country only.",
+      "result_scope": "Linked h3 headings in #rso; partial sample excludes AI Overview and most video modules. Heading order is not an asserted organic rank.",
+      "visible_questions": [
+        "Is CS2 a GPU or CPU?",
+        "How to check CS2 cheater?",
+        "How to activate cheats in Counter-Strike 2?",
+        "Does CS2 have esports?"
+      ],
+      "results": [
+        {
+          "title": "IMXNOOBX/cs2-external-esp",
+          "url": "https://github.com/IMXNOOBX/cs2-external-esp",
+          "type": "repository",
+          "page_type": "code_repository",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "CS2 has free, built-in ESP (using demos!)",
+          "url": "https://www.reddit.com/r/cs2/comments/1p93qjh/cs2_has_free_builtin_esp_using_demos/",
+          "type": "forum",
+          "page_type": "demo_viewing_discussion",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Counter Strike 2 Basic External ESP in C# .NET! [ Tutorial ]",
+          "url": "https://www.youtube.com/watch?v=WJg3R296LMk",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "counter-strike-2",
+          "url": "https://github.com/topics/counter-strike-2",
+          "type": "repository",
+          "page_type": "repository_topic",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "[Release] Updated CS2 External ESP",
+          "url": "https://www.unknowncheats.me/forum/counter-strike-2-releases/721585-updated-cs2-external-esp.html",
+          "type": "software_release",
+          "page_type": "software_release_forum",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "How to Make CS2 ESP (ImGui C++)",
+          "url": "https://www.youtube.com/watch?v=0j1Rk-9jozM",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "cs2-esp · Topics",
+          "url": "https://gitlab.com/explore/projects/topics/cs2-esp?sort=masked_sort",
+          "type": "repository",
+          "page_type": "repository_topic",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "Download The Best Free CS2 ESP (Wallhack) - Cheater.fun",
+          "url": "https://cheater.fun/cs2-hacks/8398-download-free-hack-cs2-esp.html",
+          "type": "software_release",
+          "page_type": "software_download",
+          "rank": null,
+          "observed_heading_order": 8
+        },
+        {
+          "title": "CS2 Internal ESP",
+          "url": "https://devpost.com/software/cs2-internal-esp",
+          "type": "software_release",
+          "page_type": "software_project_showcase",
+          "rank": null,
+          "observed_heading_order": 9
+        }
+      ]
+    },
+    {
+      "query": "deadlock soul aimbot",
+      "game": "deadlock",
+      "captured_at": "2026-09-21T06:07:12.609Z",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-cosmetic-information-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Google footer: Unknown - Can't determine location. gl=us is requested country only.",
+      "result_scope": "Linked h3 headings in #rso; partial sample excludes AI Overview and most video modules. Heading order is not an asserted organic rank.",
+      "visible_questions": [],
+      "results": [
+        {
+          "title": "Bauzonangelo10/Deadlock-External-Aimbot-Souls",
+          "url": "https://github.com/Bauzonangelo10/Deadlock-External-Aimbot-Souls",
+          "type": "repository",
+          "page_type": "code_repository",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "Are You Noticing an Increase in Aimbotters?",
+          "url": "https://www.reddit.com/r/DeadlockTheGame/comments/1fngug2/are_you_noticing_an_increase_in_aimbotters/",
+          "type": "forum",
+          "page_type": "cheating_discussion",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Deadlock Hacks - Aimbot, ESP, Wallhack, Auto Parry",
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "type": "product",
+          "page_type": "product_feature_page",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "Deadlock Cheats: Aimbot, Auto Parry & Hero Combos | Cluster",
+          "url": "https://cluster.center/en/deadlock",
+          "type": "product",
+          "page_type": "owned_product_page",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "hmate9/deadunlock: Aimbot and ESP for Valve's Deadlock ...",
+          "url": "https://github.com/hmate9/deadunlock",
+          "type": "repository",
+          "page_type": "code_repository",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "Spectating A Hacking HAZE Player... | Deadlock",
+          "url": "https://www.youtube.com/watch?v=Q-AP7YMWAS8",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "Deadlock PC Cheat — Aimbot, Player & Soul ESP | MASON",
+          "url": "https://www.wesleymodstore.com/en/produto/deadlock-mason",
+          "type": "product",
+          "page_type": "reseller_product_page",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "Deadlock Hacks & Cheats",
+          "url": "https://www.unknowncheats.me/forum/deadlock/",
+          "type": "forum",
+          "page_type": "software_forum_category",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    },
+    {
+      "query": "deadlock soul triggerbot",
+      "game": "deadlock",
+      "captured_at": "2026-09-21T06:07:23.089Z",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-cosmetic-information-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Google footer: Unknown - Can't determine location. gl=us is requested country only.",
+      "result_scope": "Linked h3 headings in #rso; partial sample excludes AI Overview and most video modules. Heading order is not an asserted organic rank.",
+      "visible_questions": [],
+      "results": [
+        {
+          "title": "Deadlock Triggerbot with Instant Reaction Fire & Custom ...",
+          "url": "https://github.com/Deadlock-Triggerbot-yo697",
+          "type": "repository",
+          "page_type": "code_repository",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "Deadlock Hacks - Aimbot, ESP, Wallhack, Auto Parry",
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "type": "product",
+          "page_type": "product_feature_page",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Deadlock Cheats with Triggerbot",
+          "url": "https://cheatstore.net/deadlock/triggerbot",
+          "type": "product",
+          "page_type": "product_feature_landing",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "The Soul Secure mechanic needs a change. :: Deadlock ...",
+          "url": "https://steamcommunity.com/app/1422450/discussions/0/6404770789952169579/?l=norwegian&ctp=2",
+          "type": "forum",
+          "page_type": "gameplay_mechanic_discussion",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "Bots have 40+ soul than a player",
+          "url": "https://forums.playdeadlock.com/threads/bots-have-40-soul-than-a-player.162788/",
+          "type": "forum",
+          "page_type": "game_bot_discussion",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "Souls",
+          "url": "https://deadlock.wiki/Souls",
+          "type": "article",
+          "page_type": "gameplay_wiki",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "Duplicate Souls with Double Soaking In Deadlock",
+          "url": "https://www.youtube.com/watch?v=4-G7IoCrtGU",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "Deadlock Console Commands",
+          "url": "https://lockbuilds.com/deadlock-console-commands",
+          "type": "article",
+          "page_type": "command_reference",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    }
+  ]
+}

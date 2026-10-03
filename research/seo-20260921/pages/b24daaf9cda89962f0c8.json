@@ -1,0 +1,230 @@
+{
+  "url": "https://avalan.cc/features",
+  "canonical": "https://avalan.cc/features",
+  "language": "en",
+  "title": "Deadlock Hack Features | Avalanche",
+  "description": "Every Deadlock hack feature in one menu: silent aim, ESP, chams, hero scripts and a full Lua scripting API.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Powerful Deadlock Hack Features"
+    },
+    {
+      "level": 2,
+      "text": "See It In Action"
+    },
+    {
+      "level": 3,
+      "text": "Haze rage gameplay"
+    },
+    {
+      "level": 2,
+      "text": "Explore All Features"
+    },
+    {
+      "level": 2,
+      "text": "Deadlock hack modules"
+    },
+    {
+      "level": 3,
+      "text": "Aimbot & Targeting"
+    },
+    {
+      "level": 3,
+      "text": "Combat & Abilities"
+    },
+    {
+      "level": 3,
+      "text": "Visual ESP"
+    },
+    {
+      "level": 3,
+      "text": "Chams & World Visuals"
+    },
+    {
+      "level": 3,
+      "text": "Hero Scripts"
+    },
+    {
+      "level": 3,
+      "text": "Movement & Automation"
+    },
+    {
+      "level": 3,
+      "text": "Lua Scripting"
+    },
+    {
+      "level": 3,
+      "text": "Misc & Utility"
+    },
+    {
+      "level": 3,
+      "text": "Config & UI"
+    }
+  ],
+  "document_h1": [
+    "Powerful Deadlock Hack Features"
+  ],
+  "text": "Spec Sheet Powerful Deadlock Hack Features Every Deadlock hack module in one menu — aimbot and targeting, combat automation, ESP and chams, hero scripts, movement tech and a full Lua scripting engine. Systems 09 Modules 98 Demos 12 Coverage All plans Field Footage See It In Action Captured in live matches — the product exactly as it plays. Field Footage Rec 01 / 12 0:00 / 1:19 Paused Haze rage gameplay In the description server for playing together...\nВ описании сервер для совместной игры... YouTube 01 Haze rage gameplay YouTube 02 Wraith YouTube 03 Is Rem the New Carry? YouTube 04 𝚟𝚒𝚗𝚍𝚒𝚌𝚝𝚊 𝚑𝚒𝚐𝚑𝚕𝚒𝚐𝚑𝚝𝚜 𝚏𝚝. 𝙰𝚟𝚊𝚕𝚊𝚗𝚌𝚑𝚎 | 𝙳𝚎𝚊𝚍𝚕𝚘𝚌𝚔 𝚅𝚊𝚕𝚟ᵉ YouTube 05 vindicta highlights ft. Avalanche | Deadlock Valvᵉ YouTube 06 Best Heroes for Winning with Avalanche YouTube 07 Wraith YouTube 08 Lady Geist gameplay YouTube 09 Infernus legit YouTube 10 Deadlock Vindicta legit gameplay with cheat Veyra YouTube 11 Deadlock update! Gameplay with Veyra cheat! YouTube 12 Deadlock UPDATE Scroll for more Module Registry Explore All Features Every module that ships with Avalanche, indexed by system. Open a system and select a module to read its spec. Deadlock hack modules Aimbot & Targeting Silent Aim (PSilent) : Locks and fires on targets without ever moving your visible crosshair, spoofing only the camera position. Normal Aimbot : Classic visible aimbot that smoothly pulls your aim onto the best target. Aimbot Activation Key : Bind a hold or toggle key that arms the aimbot only when you want it. Targeting Cone (FOV) : Sets the on-screen angle within which enemies can be acquired. Target Priority : Choose how the best target is picked: minimal FOV, closest, lowest/highest HP, threat, or random. Aim Smoothing & Humanization : Frame-independent smoothing with organic drift, inertia, reaction delay, curved flicks, and stickiness for a natural feel. Hitbox Selection : Per-bone control over which body zones (head, neck, torso, arms, legs) are targeted. Headshot Limiter : Caps your headshot percentage and shows a live headshot-rate indicator. Hit Chance & No Spread : Only fires when hit probability is high enough, with an optional spread-removal assist. Distance-Scaled FOV : Automatically tightens the aim cone as targets get farther away. FOV Circle Display : Draws and styles the aim cone as a screen circle or a world ring at target distance, with color, fill, and thickness controls. Off-Screen Target Indicators : Points to targets outside your view and shows target distance. Target Ignore Filters : Skips unstoppable, invisible, out-of-sight, or zipline-protected targets so you only lock what matters. Backtrack : Fires at a target's recent past position so the server's lag-compensation rewind lands the shot. Target Lock : Holds your aim on a single chosen target instead of switching. Combat & Abilities Soul Triggerbot : Automatically fires the instant a soul orb is on your crosshair, with range and delay tuning. Ability Aim Assist : Auto-aims skill-shot abilities at the best target within their own cast range and cone. Item Aim Assist : Auto-targets aimed items with dedicated cone, range, priority, and ignore rules. Counter Spell : Automatically counters incoming enemy abilities. Anti-Parry : Prevents your melee from being parried by the enemy. Melee Faker : Fakes a melee attack to bait and cancel, including item-cancel options. Heavy Melee Assist : Automates the charged heavy-melee swing. Auto Parry : Parries incoming melee threats including heavy, light, Guardian, and Viscous puddle punch, timed to impact. Auto Dodge : Reactively dodges incoming threats with an escape or down-dash and auto-counterspells. Auto Active Reload : Hits the active-reload timing window automatically. Visual ESP Enemy ESP : Reveals enemy players through walls with fully configurable overlays. Ally ESP : Shows the same rich overlays for teammates. Info Elements : Toggle name, health number, health bar, hero icon, ability cooldowns, skeleton, and distance per player. Box Styles : Draw players with 2D, corner, or 3D boxes. Snaplines & View Lines : Draw a line to each player and show their aim direction. State Color Overrides : Recolor players when invisible, unstoppable, or using an ultimate. NPC & Trooper ESP : Show enemy/friendly troopers and neutral NPCs with names, health, and boxes. Soul ESP : Highlights soul orbs in a custom color. Objective & Object ESP : Marks breakables, jungle camps, power-ups, and enemy deployables (Venator traps, Graves skulls, McGinnis turrets). Camp Respawn Timers : Countdown for cleared T1/T2/T3 camps and Sinner's Sacrifice, on the minimap or in-world with color gradient. Power-Up Alarm : Early-warning alerts before power-ups spawn. Threat Warnings : Talon bird locator, in-flight Bebop hook grab-range warning, and in-burrow indicator. Footstep & Sound ESP : Visualizes enemy footsteps in the world and off-screen with directional arrows. Minimap Unlock : Reveals the full minimap and overlays camp timers on it. ESP Text & Icons : Controls ESP text size, image size, font, and drop shadow. Chams & World Visuals Player Chams : Render enemies and allies with solid, wireframe, or custom material styles, even through walls. Custom Chams Material : Author your own KV3 chams material for visible and occluded states. Glow / Outline : Outline or fill players with an HP-tinted glow of adjustable width. Nightmode : Darkens the whole world without dimming the HUD, with tint color and strength. World Modulation : Tints world geometry with a custom color. Fog Control : Toggles and adjusts world fog density. Skybox Changer : Swap or disable the skybox and set a custom sky color. Custom Lighting : Recolor world lighting and particles. Ambient Particles : Adds soft glowing orbs drifting across the map. Anti-Blind (Drifter Ult) : Blocks the screen blind from Drifter's Darkness ultimate. Hero Scripts Hero Script Engine : The single driver that powers per-hero ability automation across the roster. Hero Automation Library (42 Heroes) : Ready-made per-hero scripts covering the full roster: Abrams, Apollo, Bebop, Billy, Calico, Celeste, Doorman, Drifter, Dynamo, Fathom, Graves, Grey Talon, Haze, Holliday, Infernus, Ivy, Kelvin, Lady Geist, Lash, McGinnis, Mina, Mirage, Mo & Krill, Paige, Paradox, Pocket, Raven, Rem, Seven, Shiv, Silver, Sinclair, Trapper, Venator, Victor, Vindicta, Viscous, Vyper, Warden, Wraith, Wrecker, Yamato. Ability Combos & Item Chains : One-key combos that chain a hero's abilities and items in the right order. Auto-Cast Charged Skill-Shots : Automatically charges and releases charged skill-shots at the ideal moment. Head-Lock Shots : Locks aimed hitscan shots to the head while an empowering buff is live (e.g. Venator crossbow, Holliday Crackshot). Auto-Snipe (Vindicta) : Dedicated auto-snipe assist for Vindicta's Assassinate. Can-Kill Badge : Marks every enemy you can currently execute with a customizable ult badge. Script Aim & Targeting : Dedicated aim mode, reach, smoothing, and headshot settings for script and ability casts, separate from the gun aimbot. Per-Hero Overrides : Give any hero its own aim, targeting, and ignore rules instead of the global defaults. Hero Script Visuals : Toggle a hero's script rings, target/kill markers, and indicators. Movement & Automation Auto Wall Bounce / Corner Boost : Automatically executes corner boosts, with a real-corners-only filter and wall visualizer. Bunny Hop : Auto-jumps to keep your momentum chained. Auto Strafe : Steers your air movement for optimal strafe speed. Auto Wall Jump : Fires wall jumps at the right moment automatically. Slow Walk : Scales movement down for silent, precise positioning. Auto Slide : Holds a slide whenever one is available. Auto Dash-Jump : Triggers the dash-jump inside the game's own dash-jump window. Zipline Momentum : Conserves zipline speed and controls eject velocity. Movement Recorder : Records and replays movement paths with an on-screen path preview. Auto-Steer Assist : Experimental auto-steering toward the best bounce line. Lua Scripting AvaLua Script Engine : In-house Lua host for running custom user scripts with hot-reload. Script Marketplace : Browse, publish, and download community scripts in-client. Code Editor & Console : Built-in script editor with IntelliSense and a live console. Rendering & Menu API : Draw, Render, shader, ImGui, and menu-building bindings for custom overlays and UI. Game & Entity API : Read entities, game state, schema, traces, and prediction from script. Aim & Combat API : Script access to the aim engine, combat, combos, backtrack, and hero config. Input & Events API : Bind input, callbacks, hooks, and timers. Networking & Storage API : HTTP, WebSocket, JSON, protobuf, file, memory, and persistent storage bindings. ESP & Particle API : Script-driven ESP elements and particle effects. Panorama & FFI API : Interact with the game's Panorama UI and call native functions directly. Misc & Utility Streamer Mode : Hides names, teams, avatars, match ID, and other identifying info for safe streaming. Spectator List : On-screen panel showing who is spectating you, with hero portraits. Bind Island : A panel listing your active binds, hotkeys, and running hero scripts. Headshot Meter : HUD readout of your headshot rate with recent-shot history. Override FOV : Sets a custom camera field-of-view angle. Preserve Killfeed : Keeps the killfeed showing your own kills and assists. Watchlist Monitor : Flags and tracks specific players across matches. Disable Ping-on-Invis : Stops the game from pinging you when invisible. HUD Scale & Opacity : Global size and transparency controls for every on-screen panel. Config & UI Menu Hotkeys : Bind the menu open/close toggle and an instant panic-hide key. Menu Scale & Accent : Set the menu window size and primary accent color. Menu Font : Choose the menu's body typeface from curated faces. Language / Localization : Switch the menu language across 12 supported languages. Menu Animations & Sound : Smooth transitions, animated snow background, and hover/click sound volume. Render Quality : Anti-aliased lines and fills, plus ESP text shadow tuning. Cloud Config Sync : Cloud-first saving and loading of your settings, no local files required. Config Profiles : Save, load, and reset complete configuration profiles. Keybind Manager : Central store for all feature keybinds. Module Registry 09 systems · 98 modules 01 Aimbot & Targeting 15 modules 02 Combat & Abilities 10 modules 03 Visual ESP 15 modules 04 Chams & World Visuals 10 modules 05 Hero Scripts 10 modules 06 Movement & Automation 10 modules 07 Lua Scripting 10 modules 08 Misc & Utility 09 modules 09 Config & UI 09 modules Standby Select a module to read its spec.",
+  "words": 1640,
+  "links": [
+    {
+      "text": "",
+      "url": "https://avalan.cc/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://avalan.cc/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Features",
+      "url": "https://avalan.cc/features",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Developers",
+      "url": "https://avalan.cc/developers",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Pricing",
+      "url": "https://avalan.cc/pricing",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://avalan.cc/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Features",
+      "url": "https://avalan.cc/features",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Developers",
+      "url": "https://avalan.cc/developers",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Pricing",
+      "url": "https://avalan.cc/pricing",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.gg/qjmHx74nDZ",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Deadlock Cheats",
+      "url": "https://avalan.cc/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Deadlock Hack Features",
+      "url": "https://avalan.cc/features",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Cheat Pricing",
+      "url": "https://avalan.cc/pricing",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Guides",
+      "url": "https://avalan.cc/guides",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Developer API",
+      "url": "https://avalan.cc/developers",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Terms & Conditions",
+      "url": "https://avalan.cc/terms",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://avalan.cc/privacy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "ElitePvPers",
+      "url": "https://www.elitepvpers.com/",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    }
+  ],
+  "extraction": "body_fallback_review_needed",
+  "extraction_rule": null,
+  "sha256": "5d213628fcdf5ec143062fdb6c4e519b41425c0b5e22147a96992dd83949459b",
+  "captured_at": "2026-09-21T04:24:13.538645+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://avalan.cc/features",
+  "http_status": 200,
+  "raw_file": "raw\\b24daaf9cda89962f0c8.html"
+}

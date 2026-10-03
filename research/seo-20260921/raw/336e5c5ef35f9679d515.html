@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>/* Theme FOUC prevention */(function(){var t=localStorage.getItem('sr-theme');if(t&&['steam','midnight','ember','arctic','forest','crimson','original'].indexOf(t)!==-1)document.documentElement.dataset.theme=t;else document.documentElement.dataset.theme='arctic';})()</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <!-- HilltopAds -->
+<script async src="https://hilltopads.net/serve.js"></script>
+
+<!-- Google Analytics (gtag.js) - Deferred until after first interaction or 5s -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  
+  (function() {
+    var loaded = false;
+    var raw = localStorage.getItem('sr-cookie-consent');
+    var consent = null;
+    try { consent = JSON.parse(raw); } catch(e) {}
+    // Migrate old format
+    if (raw === 'all') consent = {analytics: true, advertising: true};
+    else if (raw === 'essential') consent = {analytics: false, advertising: false};
+
+    // Block GA if no consent or analytics disabled
+    if (!consent || !consent.analytics) {
+      window['ga-disable-G-R9F99YPR6M'] = true;
+    }
+    // Nothing to load if no consent yet — banner will handle it
+    if (!consent) return;
+    // Nothing to load if both are off
+    if (!consent.analytics && !consent.advertising) return;
+
+    function loadScripts() {
+      if (loaded) return;
+      loaded = true;
+      if (consent.analytics) {
+        gtag('js', new Date());
+        gtag('config', 'G-R9F99YPR6M', {anonymize_ip: true});
+        var s = document.createElement('script');
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-R9F99YPR6M';
+        s.async = true;
+        document.head.appendChild(s);
+      }
+      // Note: Ad scripts are loaded separately from GA.
+    }
+    
+    // Load on first user interaction (scroll, click, keydown) — zero impact on initial load
+    ['scroll','click','keydown','touchstart'].forEach(function(evt) {
+      document.addEventListener(evt, loadScripts, {once: true, passive: true});
+    });
+    // Fallback: load after 5s if no interaction
+    setTimeout(loadScripts, 5000);
+  })();
+</script>
+    <link rel="icon" href="/images/favicon.png">
+    
+    <title>CS2 Cheating Types: How to Detect &amp; Report Hackers (Aimbot, Wallhack, ESP) | SteamReport.net</title>
+    <meta name="description" content="Identify CS2 cheat types fast: aimbot, wallhack, triggerbot, spinbot, and ESP. Learn the evidence patterns to report suspected hackers in Counter-Strike 2 with higher review value.">
+    <link rel="canonical" href="https://steamreport.net/blog/cs2-cheating-types-explained">
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="SteamReport.net">
+    <meta property="og:title" content="CS2 Cheating Types: How to Detect &amp; Report Hackers (Aimbot, Wallhack, ESP) | SteamReport.net">
+    <meta property="og:description" content="Identify CS2 cheat types fast: aimbot, wallhack, triggerbot, spinbot, and ESP. Learn the evidence patterns to report suspected hackers in Counter-Strike 2 with higher review value.">
+    <meta property="og:url" content="https://steamreport.net/blog/cs2-cheating-types-explained">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="https://steamreport.net/images/og/og-report.webp">
+    <meta property="og:image:secure_url" content="https://steamreport.net/images/og/og-report.webp">
+    <meta property="og:image:type" content="image/webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="CS2 Cheating Types: How to Detect &amp; Report Hackers (Aimbot, Wallhack, ESP) - SteamReport.net">
+    <meta property="article:author" content="https://steamreport.net/blog/authors/steamreport-team">
+    <meta property="article:published_time" content="2026-02-10">
+    <meta property="article:modified_time" content="2026-08-05">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://steamreport.net/blog/cs2-cheating-types-explained">
+    <meta name="twitter:title" content="CS2 Cheating Types: How to Detect &amp; Report Hackers (Aimbot, Wallhack, ESP) | SteamReport.net">
+    <meta name="twitter:description" content="Identify CS2 cheat types fast: aimbot, wallhack, triggerbot, spinbot, and ESP. Learn the evidence patterns to report suspected hackers in Counter-Strike 2 with higher review value.">
+    <meta name="twitter:image" content="https://steamreport.net/images/og/og-report.webp">
+    <meta name="twitter:image:alt" content="CS2 Cheating Types: How to Detect &amp; Report Hackers (Aimbot, Wallhack, ESP) - SteamReport.net">
+    <meta name="keywords" content="aimbot detection, wallhack detection, triggerbot behavior, ESP indicators, cheat report taxonomy">
+    <link rel="alternate" hreflang="x-default" href="https://steamreport.net/blog/cs2-cheating-types-explained">
+    <link rel="alternate" hreflang="en" href="https://steamreport.net/blog/cs2-cheating-types-explained">
+    <meta name="googlebot" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+    <meta name="bingbot" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+    <meta name="content-language" content="en-US">
+    <link rel="alternate" type="application/rss+xml" title="SteamReport.net Blog" href="/blog/rss.xml">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://steamreport.net/#organization","name":"SteamReport.net","url":"https://steamreport.net/","description":"Real-time Steam player reporting system using the official Steam Web API. Reports are submitted directly to Steam through verified bot accounts.","email":"contact@steamreport.net","logo":{"@type":"ImageObject","url":"https://steamreport.net/images/favicon.png","width":512,"height":512},"contactPoint":[{"@type":"ContactPoint","contactType":"customer support","email":"contact@steamreport.net","url":"https://steamreport.net/contact","availableLanguage":"English"},{"@type":"ContactPoint","contactType":"technical support","email":"bugs@steamreport.net","url":"https://steamreport.net/contact","availableLanguage":"English"}],"knowsAbout":["Steam player reporting","CS2 cheater detection","VAC ban system","SteamID formats","Counter-Strike 2 statistics","Faceit and Leetify integration","Steam Web API","Trust Factor mechanics","CS2 anti-cheat systems"],"areaServed":{"@type":"Place","name":"Worldwide"},"contactPage":"https://steamreport.net/contact"},{"@type":"WebSite","@id":"https://steamreport.net/#website","url":"https://steamreport.net/","name":"SteamReport.net","publisher":{"@id":"https://steamreport.net/#organization"},"inLanguage":"en"},{"@type":"WebPage","@id":"https://steamreport.net/blog/cs2-cheating-types-explained#webpage","url":"https://steamreport.net/blog/cs2-cheating-types-explained","name":"CS2 Cheating Types: How to Detect & Report Hackers (Aimbot, Wallhack, ESP) | SteamReport.net","description":"Identify CS2 cheat types fast: aimbot, wallhack, triggerbot, spinbot, and ESP. Learn the evidence patterns to report suspected hackers in Counter-Strike 2 with higher review value.","isPartOf":{"@id":"https://steamreport.net/#website"},"about":[{"@id":"https://steamreport.net/#organization"},{"@type":"Thing","name":"aimbot detection"},{"@type":"Thing","name":"wallhack detection"},{"@type":"Thing","name":"triggerbot behavior"},{"@type":"Thing","name":"ESP indicators"},{"@type":"Thing","name":"cheat report taxonomy"}],"inLanguage":"en","keywords":"aimbot detection, wallhack detection, triggerbot behavior, ESP indicators, cheat report taxonomy","primaryImageOfPage":{"@type":"ImageObject","url":"https://steamreport.net/images/og/og-report.webp","caption":"CS2 Cheating Types: How to Detect & Report Hackers (Aimbot, Wallhack, ESP) - SteamReport.net"},"datePublished":"2026-02-10","dateModified":"2026-08-05","speakable":{"@type":"SpeakableSpecification","cssSelector":[".blog-intro",".blog-section-title",".blog-text"]}},{"@type":"Article","@id":"https://steamreport.net/blog/cs2-cheating-types-explained#article","headline":"CS2 Cheating Types: How to Detect & Report Hackers (Aimbot, Wallhack, ESP)","mainEntityOfPage":"https://steamreport.net/blog/cs2-cheating-types-explained","datePublished":"2026-02-10","dateModified":"2026-08-05","author":{"@type":"Person","@id":"https://steamreport.net/blog/authors/steamreport-team#author","name":"SteamReport Team","url":"https://steamreport.net/blog/authors/steamreport-team","jobTitle":"Site Maintainer & Technical Author","knowsAbout":["CS2 cheating types","Aimbot detection","Wallhack indicators","Steam player reporting","VAC system"]},"publisher":{"@id":"https://steamreport.net/#organization"},"inLanguage":"en","image":{"@type":"ImageObject","url":"https://steamreport.net/images/og/og-report.webp"},"keywords":"aimbot detection, wallhack detection, triggerbot behavior, ESP indicators, cheat report taxonomy"},{"@type":"HowTo","@id":"https://steamreport.net/blog/cs2-cheating-types-explained#howto","name":"How to identify and report cheating in CS2","step":[{"@type":"HowToStep","name":"Observe the suspicious behavior","text":"Note the specific rounds, timestamps, and what you saw (snapping aim, tracking through walls, impossible reaction times, spinning, etc.)."},{"@type":"HowToStep","name":"Distinguish cheat type from skill","text":"Consider whether the behavior is consistently inhuman across multiple rounds, not just one lucky shot. Patterns matter more than single moments."},{"@type":"HowToStep","name":"Collect context","text":"Note the match date/time, map, game mode, and specific round numbers. If possible, save a demo or clip."},{"@type":"HowToStep","name":"File a detailed report","text":"Use SteamReport.net or the in-game report system. Describe the behavior type and include your evidence references."}]},{"@type":"FAQPage","@id":"https://steamreport.net/blog/cs2-cheating-types-explained#faq","mainEntity":[{"@type":"Question","name":"What are the most common CS2 hacks and cheats?","acceptedAnswer":{"@type":"Answer","text":"The most common CS2 hacks are aimbot (auto-aim assistance), wallhack/ESP (seeing players through walls), triggerbot (auto-fire when crosshair is on target), spinbot (rapid spinning with perfect aim), radar hack (mini-map ESP), and bhop scripts (bunny hop automation)."}},{"@type":"Question","name":"How can I tell if someone is cheating in CS2?","acceptedAnswer":{"@type":"Answer","text":"Look for patterns across multiple rounds: unnatural crosshair snapping (aimbot), pre-aiming positions with no intel (wallhack), instant shots with zero reaction time (triggerbot), or tracking heads through walls in demos. One suspicious moment isn't enough—cheaters show consistent inhuman patterns."}},{"@type":"Question","name":"How do I report a hacker in Counter-Strike 2?","acceptedAnswer":{"@type":"Answer","text":"To report a hacker in CS2, identify the cheat type (aimbot, wallhack, etc.), note specific round numbers where hacking occurred, get their Steam profile URL, and submit a detailed report through Steam or SteamReport.net with match timestamps and evidence."}},{"@type":"Question","name":"Should I report griefing or only cheating?","acceptedAnswer":{"@type":"Answer","text":"Both are valid report reasons. Griefing (team damage, blocking, AFK abuse) degrades match quality and should be reported with specific details about what happened and when."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://steamreport.net/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://steamreport.net/blog"},{"@type":"ListItem","position":3,"name":"CS2 Cheating Types: How to Detect & Report Hackers (Aimbot, Wallhack, ESP)","item":"https://steamreport.net/blog/cs2-cheating-types-explained"}]}]}</script>
+    <!-- Font loading (non-blocking: preload + print-swap) -->
+    
+    
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Roboto+Mono:wght@400&display=swap" as="style">
+    <style type="text/css">@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Roboto Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/roboto-mono/5.2.9/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Roboto Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/roboto-mono/5.2.9/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Roboto Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/roboto-mono/5.2.9/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Roboto Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/roboto-mono/5.2.9/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Roboto Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/roboto-mono/5.2.9/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Roboto Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/roboto-mono/5.2.9/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}</style>
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Roboto+Mono:wght@400&display=swap"></noscript>
+
+    <!-- Inline Critical CSS (Above-the-fold: variables, navbar basics) -->
+    <style>
+        :root{--bg-900:#0a0e27;--bg-800:#141829;--bg-700:#1e2139;--bg-600:#282c45;--text-100:#e6e6e6;--text-200:#c7d5e0;--text-300:#8b98a8;--text-400:#6b7280;--text-500:#8d94a2;--text-600:#848e9c;--accent:#66c0f4;--accent-hover:#7dcbf7;--accent-dim:#5aafdb;--accent-glow:rgba(102,192,244,.2);--accent-glow-strong:rgba(102,192,244,.4);--green:#5ba32b;--green-glow:rgba(91,163,43,.2);--green-dim:#4a8723;--orange:#cf6a32;--purple:#8b7ec8;--purple-glow:rgba(139,126,200,.2);--red:#d94126;--red-glow:rgba(217,65,38,.2);--border:#2a2e3f;--border-light:#3a3e52;--shadow-sm:0 1px 3px rgba(0,0,0,.12);--shadow-md:0 4px 6px rgba(0,0,0,.16);--shadow-lg:0 10px 15px rgba(0,0,0,.2);--shadow-accent:0 4px 16px rgba(102,192,244,.25);--radius:8px;--radius-lg:12px}*,::before,::after{box-sizing:border-box;margin:0;padding:0}body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:var(--bg-900);color:var(--text-300);line-height:1.6;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden}.hidden{display:none!important}
+        .navbar{position:sticky;top:0;z-index:40;background:rgba(10,14,39,.95);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);transition:background .2s}.navbar-inner{max-width:1280px;margin:0 auto;padding:0 24px;height:56px;display:flex;align-items:center;justify-content:space-between}.nav-brand{display:flex;align-items:center;gap:8px;font-size:18px;font-weight:800;color:var(--text-100);text-decoration:none;transition:transform .2s}.nav-brand:hover{transform:scale(1.02)}.nav-brand svg{width:20px;height:20px;flex-shrink:0}.nav-brand span{color:var(--accent)}.net-suffix{color:var(--text-400);font-weight:600}.nav-links{display:flex;align-items:center;gap:6px}.nav-links a{padding:8px 16px;color:var(--text-400);text-decoration:none;font-size:13px;font-weight:600;border-radius:6px;transition:all .18s}.nav-links a:hover,.nav-links a.active{color:var(--text-100);background:rgba(102,192,244,.08)}.theme-toggle{background:transparent;border:1px solid var(--border);color:var(--text-400);width:36px;height:36px;border-radius:8px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}.theme-toggle:hover{border-color:var(--accent);color:var(--accent);background:rgba(102,192,244,.08)}
+    </style>
+
+    <!-- Preload non-critical CSS (non-blocking) -->
+    <link rel="stylesheet" href="/css/variables-base.min.css?v=b196">
+    <link rel="stylesheet" href="/css/navbar.min.css?v=b196">
+    <link rel="stylesheet" href="/css/layout.min.css?v=b196">
+    <link rel="stylesheet" href="/css/sidebar.min.css?v=b196">
+    <link rel="stylesheet" href="/css/blog.min.css?v=b196">
+    <link rel="stylesheet" href="/css/responsive.min.css?v=b196">
+    <noscript>
+        <link rel="stylesheet" href="/css/variables-base.min.css?v=b196">
+        <link rel="stylesheet" href="/css/navbar.min.css?v=b196">
+        <link rel="stylesheet" href="/css/layout.min.css?v=b196">
+        <link rel="stylesheet" href="/css/sidebar.min.css?v=b196">
+        <link rel="stylesheet" href="/css/blog.min.css?v=b196">
+        <link rel="stylesheet" href="/css/responsive.min.css?v=b196">
+    </noscript>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="navbar-inner">
+        <a href="/" class="nav-brand">
+            <svg viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            Steam<span>Report</span><span class="net-suffix">.net</span>
+        </a>
+        <button class="nav-hamburger" id="navHamburger" aria-label="Toggle navigation" aria-expanded="false">
+            <span></span><span></span><span></span>
+        </button>
+        <div class="nav-links" id="navLinks">
+            <a href="/">Report</a>
+            <a href="/stats">Stats</a>
+            <a href="/blog" class="active">Blog</a>
+            <a href="/faq">FAQ</a>
+                        <details class="locale-switcher nav-locale" data-locale-switcher>
+                <summary class="locale-switcher-toggle" aria-label="Language: English">
+                    <span class="locale-switcher-icon" aria-hidden="true">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="9"></circle>
+                            <path d="M3 12h18"></path>
+                            <path d="M12 3a14 14 0 0 1 0 18"></path>
+                            <path d="M12 3a14 14 0 0 0 0 18"></path>
+                        </svg>
+                    </span>
+                    <span class="locale-switcher-copy">
+                        <span class="locale-switcher-label">Language</span>
+                        <span class="locale-switcher-current">English</span>
+                    </span>
+                    <span class="locale-switcher-code">EN</span>
+                    <span class="locale-switcher-caret" aria-hidden="true">
+                        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M3.5 6.5 8 11l4.5-4.5"></path>
+                        </svg>
+                    </span>
+                </summary>
+                <div class="locale-switcher-menu" role="list">
+                                                                <a
+                        href="/blog/cs2-cheating-types-explained"
+                        class="locale-option active"
+                        lang="en"
+                         aria-current="true"                    >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">English</span>
+                                                    </span>
+                        <span class="locale-option-code">EN</span>
+                    </a>
+                                                                <a
+                        href="/es/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="es"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Español</span>
+                                                        <span class="locale-option-label">Spanish</span>
+                                                    </span>
+                        <span class="locale-option-code">ES</span>
+                    </a>
+                                                                <a
+                        href="/de/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="de"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Deutsch</span>
+                                                        <span class="locale-option-label">German</span>
+                                                    </span>
+                        <span class="locale-option-code">DE</span>
+                    </a>
+                                                                <a
+                        href="/fr/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="fr"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Français</span>
+                                                        <span class="locale-option-label">French</span>
+                                                    </span>
+                        <span class="locale-option-code">FR</span>
+                    </a>
+                                                                <a
+                        href="/ms/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="ms"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Bahasa Melayu</span>
+                                                        <span class="locale-option-label">Malay</span>
+                                                    </span>
+                        <span class="locale-option-code">MS</span>
+                    </a>
+                                                                <a
+                        href="/pt-br/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="pt-BR"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Português (Brasil)</span>
+                                                        <span class="locale-option-label">Brazilian Portuguese</span>
+                                                    </span>
+                        <span class="locale-option-code">PT-BR</span>
+                    </a>
+                                                                <a
+                        href="/it/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="it"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Italiano</span>
+                                                        <span class="locale-option-label">Italian</span>
+                                                    </span>
+                        <span class="locale-option-code">IT</span>
+                    </a>
+                                                                <a
+                        href="/sv-se/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="sv-SE"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Svenska</span>
+                                                        <span class="locale-option-label">Swedish</span>
+                                                    </span>
+                        <span class="locale-option-code">SV-SE</span>
+                    </a>
+                                                                <a
+                        href="/el-gr/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="el-GR"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Ελληνικά</span>
+                                                        <span class="locale-option-label">Greek</span>
+                                                    </span>
+                        <span class="locale-option-code">EL-GR</span>
+                    </a>
+                                                                <a
+                        href="/ru-ru/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="ru-RU"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">Русский</span>
+                                                        <span class="locale-option-label">Russian</span>
+                                                    </span>
+                        <span class="locale-option-code">RU-RU</span>
+                    </a>
+                                                                <a
+                        href="/ja-jp/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="ja-JP"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">日本語</span>
+                                                        <span class="locale-option-label">Japanese</span>
+                                                    </span>
+                        <span class="locale-option-code">JA-JP</span>
+                    </a>
+                                                                <a
+                        href="/zh-cn/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="zh-CN"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">简体中文</span>
+                                                        <span class="locale-option-label">Chinese (Simplified)</span>
+                                                    </span>
+                        <span class="locale-option-code">ZH-CN</span>
+                    </a>
+                                                                <a
+                        href="/zh-tw/blog/cs2-cheating-types-explained"
+                        class="locale-option"
+                        lang="zh-TW"
+                                            >
+                        <span class="locale-option-text">
+                            <span class="locale-option-native">繁體中文</span>
+                                                        <span class="locale-option-label">Chinese (Traditional)</span>
+                                                    </span>
+                        <span class="locale-option-code">ZH-TW</span>
+                    </a>
+                                    </div>
+            </details>
+                                    <button id="themeToggle" class="theme-toggle" title="Switch colour theme" aria-label="Switch colour theme">
+                <i data-feather="droplet"></i>
+            </button>
+        </div>
+    </div>
+</nav>
+<div class="nav-overlay" id="navOverlay"></div>
+<script>
+(function () {
+    var switchers = document.querySelectorAll('[data-locale-switcher]');
+    if (!switchers.length) return;
+
+    function closeAll(except) {
+        switchers.forEach(function (switcher) {
+            if (switcher !== except) {
+                switcher.removeAttribute('open');
+            }
+        });
+    }
+
+    document.addEventListener('click', function (event) {
+        switchers.forEach(function (switcher) {
+            if (!switcher.contains(event.target)) {
+                switcher.removeAttribute('open');
+            }
+        });
+    });
+
+    document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') {
+            closeAll();
+        }
+    });
+
+    switchers.forEach(function (switcher) {
+        var toggle = switcher.querySelector('summary');
+        if (!toggle) return;
+
+        toggle.addEventListener('click', function () {
+            window.setTimeout(function () {
+                if (switcher.hasAttribute('open')) {
+                    closeAll(switcher);
+                }
+            }, 0);
+        });
+    });
+})();
+</script>
+
+<section class="main-layout">
+    <main>
+        <article class="card blog-article">
+            <nav class="blog-breadcrumb" aria-label="Breadcrumb">
+                <a href="/">Home</a> <span>/</span> <a href="/blog">Blog</a> <span>/</span> <span>CS2 Cheating Types</span>
+            </nav>
+
+            <h1 class="blog-title">CS2 Cheating Types: How to Detect &amp; Report Hackers (Aimbot, Wallhack, ESP)</h1>
+
+            <div class="blog-intro">
+                <p><strong>Direct answer:</strong> The most common CS2 hacks are aimbot (auto-aim assistance), wallhack (ESP/seeing through walls), triggerbot (auto-fire), spinbot (rage hacking), and radar hack. When you report a cheater in CS2, identifying the specific cheat type helps Valve's anti-cheat system and Overwatch reviewers act faster. This guide shows you exactly how to detect each hack type and report hackers with evidence that leads to VAC bans.</p>
+                <p><strong>Why knowing cheat types matters:</strong> Generic reports saying "hacker" or "cheater" get low priority. When you report someone in CS2 with specifics—"aimbot in rounds 5-10, perfect headshot tracking through smoke"—reviewers know exactly what to verify. This increases ban rates and makes the Steam report system more effective.</p>
+            </div>
+
+<div class="blog-meta">
+                By <a href="/blog/authors/steamreport-team">SteamReport Team</a>
+                <span>&middot;</span>
+                <time datetime="2026-02-10">2026-02-10</time>
+                <span>&middot;</span>
+                <span class="blog-reading-time">6 min read</span>
+                <span>&middot;</span>
+                Updated August 2026
+                <span>&middot;</span>
+                <a href="/blog">Back to Blog</a>
+            </div>
+<div class="hilltopads-ad" data-hilltop-slot="102"></div>
+
+            <h2 class="blog-section-title">Aimbot</h2>
+            <p class="blog-text">
+                <strong>What it does:</strong> Automatically aims at opponents, sometimes locking onto heads with inhuman precision. Ranges from &ldquo;rage&rdquo; mode (obvious instant snapping) to &ldquo;legit&rdquo; mode (subtle aim correction that&rsquo;s harder to detect).
+            </p>
+            <p class="blog-text">
+                <strong>What to look for:</strong> Unnatural crosshair snapping between targets. Aim that instantly locks to head level through direction changes. Consistent headshot percentage that seems too perfect across many rounds. In demos, the crosshair may visibly &ldquo;jump&rdquo; to a target rather than smoothly tracking.
+            </p>
+            <p class="blog-text">
+                <strong>How to report it:</strong> Note the specific rounds where you saw snapping. Mention if it happened on multiple targets in rapid succession. &ldquo;Rounds 4, 7, and 11: crosshair snapped to head level on peek, three consecutive one-taps with no visible adjustment&rdquo; is far more useful than &ldquo;aimbot.&rdquo;
+            </p>
+
+            <h2 class="blog-section-title">Wallhack (WH)</h2>
+            <p class="blog-text">
+                <strong>What it does:</strong> Reveals player positions through walls and solid surfaces. The cheater sees outlines, boxes, or other visual indicators showing where opponents are, even when they shouldn&rsquo;t have any information.
+            </p>
+            <p class="blog-text">
+                <strong>What to look for:</strong> Pre-aiming at positions where enemies are, before any visual or audio cue. Consistently avoiding areas where enemies hold positions without checking. Tracking heads through walls (visible in demos). Rotating to cover an angle only when an enemy is actually there.
+            </p>
+            <p class="blog-text">
+                <strong>How to report it:</strong> Reference specific rounds and timestamps. &ldquo;Round 8: player pre-aimed connector from B-site before any teammate gave info, enemy was holding that exact angle&rdquo; gives reviewers something concrete to verify in the demo.
+            </p>
+
+            <h2 class="blog-section-title">Triggerbot</h2>
+            <p class="blog-text">
+                <strong>What it does:</strong> Automatically fires when the crosshair passes over an enemy. Unlike aimbot, it doesn&rsquo;t move the crosshair&mdash;it only fires at the instant of alignment. Often used with wallhack for devastating effect.
+            </p>
+            <p class="blog-text">
+                <strong>What to look for:</strong> Shots that fire at the exact frame of crosshair alignment with no human reaction delay. Consistent instant-fire patterns when peeking corners. In demos, watch for zero-delay shots that a human player couldn&rsquo;t consistently reproduce.
+            </p>
+
+            <h2 class="blog-section-title">Spinbot</h2>
+            <p class="blog-text">
+                <strong>What it does:</strong> The player&rsquo;s model spins rapidly (often at server tick rate) while still landing perfect shots. This is usually combined with aimbot and anti-aim (making their hitbox harder to hit). It&rsquo;s a &ldquo;rage hack&rdquo;&mdash;blatant and not trying to hide.
+            </p>
+            <p class="blog-text">
+                <strong>What to look for:</strong> Player model spinning in circles at extreme speed. The player is still getting kills despite appearing to look in random directions. This is the most obvious cheat type and is rarely mistaken for legitimate play.
+            </p>
+
+            <h2 class="blog-section-title">ESP (Extra-Sensory Perception)</h2>
+            <p class="blog-text">
+                <strong>What it does:</strong> Overlays additional information on screen: enemy positions, health bars, weapon loadout, bomb location, and more. It&rsquo;s like wallhack but with richer data. The player sees a full tactical display that normal gameplay doesn&rsquo;t provide.
+            </p>
+            <p class="blog-text">
+                <strong>What to look for:</strong> Decision-making that consistently reflects information the player shouldn&rsquo;t have. Buying exactly the right utility for what the enemy is doing. Always knowing whether to force-buy or save based on enemy economy. ESP users often have &ldquo;perfect reads&rdquo; too often to be coincidence.
+            </p>
+
+            <h2 class="blog-section-title">Griefing (Also Reportable)</h2>
+            <p class="blog-text">
+                Griefing isn&rsquo;t external cheat software, but it&rsquo;s still a reportable offense that degrades the match experience. Common forms: intentional team damage or team-killing, blocking teammates in doorways, deliberately giving away team positions in chat, AFK farming, and abuse of the vote-kick system.
+            </p>
+            <p class="blog-text">
+                When reporting griefing, specify what the player did and in which rounds. &ldquo;Player team-flashed B rush in rounds 3, 6, and 9, then went AFK in spawn from round 12 onward&rdquo; is actionable.
+            </p>
+
+            <h2 class="blog-section-title">How to Write a Report That Helps</h2>
+            <ul class="blog-list">
+                <li><strong>Be specific:</strong> Name the cheat type you suspect and describe the behavior.</li>
+                <li><strong>Give round numbers:</strong> Reviewers need to know where to look in the demo.</li>
+                <li><strong>Note patterns:</strong> A single suspicious moment could be luck. Repeated patterns across rounds are stronger signal.</li>
+                <li><strong>Avoid labels without context:</strong> &ldquo;Cheater&rdquo; alone tells a reviewer nothing. &ldquo;Possible aimbot, consistent head-snapping in rounds 5&ndash;10&rdquo; tells them exactly what to check.</li>
+                <li><strong>Include the player&rsquo;s identity:</strong> Use their <a href="/blog/steamid-formats-explained">SteamID64 or profile URL</a> so the report targets the correct account.</li>
+            </ul>
+            <p class="blog-text">
+                Ready to file a report? Use the <a href="/">reporting tool</a>. For more on writing effective reports, see: <a href="/blog/how-to-report-cs2-players">How to Report CS2 Players</a>.
+            </p>
+
+            <section class="blog-key-points" aria-label="Key takeaways">
+                <h2 class="blog-section-title">Key Takeaways</h2>
+                <ul class="blog-list">
+                <li>aimbot detection</li>
+                <li>wallhack detection</li>
+                <li>triggerbot behavior</li>
+                </ul>
+            </section>
+
+            <section class="blog-cluster-next" aria-label="Related cluster guides">
+                <h2 class="blog-section-title">Read Next in This Cluster</h2>
+                <ul class="blog-list">
+                <li><a href="/blog/cs2-ai-cheats-detection-2026">How to spot AI-assisted cheating in CS2</a></li>
+                <li><a href="/blog/closet-cheater-or-smurf">How to separate smurf behavior from cheating</a></li>
+                <li><a href="/blog/cs2-ban-wave-january-2026">Why ban waves do not immediately clean lobbies</a></li>
+                </ul>
+            </section>
+
+            <div class="blog-faq" id="faq">
+                <h2 class="blog-section-title">FAQ: CS2 Hacks & How to Report Them</h2>
+                <div class="blog-faq-item">
+                    <p class="blog-faq-q">What are the most common CS2 hacks and cheats?</p>
+                    <p class="blog-faq-a">The most common CS2 hacks are aimbot (auto-aim assistance), wallhack/ESP (seeing players through walls), triggerbot (auto-fire when crosshair is on target), spinbot (rapid spinning with perfect aim), radar hack (mini-map ESP), and bhop scripts (bunny hop automation).</p>
+                </div>
+                <div class="blog-faq-item">
+                    <p class="blog-faq-q">How can I tell if someone is cheating in CS2?</p>
+                    <p class="blog-faq-a">Look for patterns across multiple rounds: unnatural crosshair snapping (aimbot), pre-aiming positions with no intel (wallhack), instant shots with zero reaction time (triggerbot), or tracking heads through walls in demos. One suspicious moment isn't enough&mdash;cheaters show consistent inhuman patterns.</p>
+                </div>
+                <div class="blog-faq-item">
+                    <p class="blog-faq-q">How do I report a hacker in Counter-Strike 2?</p>
+                    <p class="blog-faq-a">To report a hacker in CS2, identify the cheat type (aimbot, wallhack, etc.), note specific round numbers where hacking occurred, get their Steam profile URL, and submit a detailed report through Steam or <a href="/">SteamReport.net</a> with match timestamps and evidence.</p>
+                </div>
+                <div class="blog-faq-item">
+                    <p class="blog-faq-q">Should I report griefing or only cheating?</p>
+                    <p class="blog-faq-a">Both are valid report reasons. Griefing (team damage, blocking, AFK abuse) degrades match quality and should be reported with specific details about what happened and when.</p>
+                </div>
+            </div>
+        </article>
+    </main>
+
+    <aside><div class="card"><div class="card-title">Related</div><div class="card-desc">More guides and tools.</div><div class="blog-sidebar-links"><a href="/blog/red-trust-factor-2026" class="blog-sidebar-link">Red Trust Factor 2026</a><a href="/blog/closet-cheater-or-smurf" class="blog-sidebar-link">Closet Cheater or Smurf?</a><a href="/blog/cs2-ban-wave-january-2026" class="blog-sidebar-link">Jan 2026 Ban Wave</a><a href="/blog/steam-account-reputation-check" class="blog-sidebar-link">Account Reputation Check</a><a href="/blog/how-to-report-cs2-players" class="blog-sidebar-link">How to report CS2 players</a><a href="/blog/how-to-check-vac-ban-status" class="blog-sidebar-link">Check VAC ban status</a><a href="/blog/what-happens-after-reporting-cs2" class="blog-sidebar-link">What happens after you report</a></div></div><div class="card blog-sidebar-tools-card"><div class="card-title">Tools</div><div class="blog-sidebar-links compact"><a href="/" class="blog-sidebar-link">Report tool</a><a href="/stats" class="blog-sidebar-link">Stats tool</a><a href="/blog/steamid-formats-explained" class="blog-sidebar-link">SteamID formats</a><a href="/blog/understanding-cs2-stats" class="blog-sidebar-link">Understanding CS2 stats</a></div></div><div class="hilltopads-ad" data-hilltop-slot="101"></div></aside></section>
+
+<footer class="site-footer">
+    <div class="footer-inner">
+        <!-- Column 1: About SteamReport -->
+        <div class="footer-col">
+            <div class="footer-brand">SteamReport</div>
+            <p class="footer-desc">Community player reporting tool for Steam games. Submit structured incident reports with evidence and context.</p>
+        </div>
+
+        <!-- Column 2: Quick Links -->
+        <div class="footer-col">
+            <div class="footer-title">Quick Links</div>
+            <nav class="footer-nav">
+                <a href="/">Home</a>
+                <a href="/">Report</a>
+                <a href="/stats">Stats</a>
+                <a href="/blog">Blog</a>
+                <a href="/faq">FAQ</a>
+            </nav>
+        </div>
+
+        <!-- Column 3: Steam Resources -->
+        <div class="footer-col">
+            <div class="footer-title">Steam Resources</div>
+            <nav class="footer-nav">
+                <a href="https://steampowered.com/store" target="_blank" rel="noopener noreferrer">Steam Store</a>
+                <a href="https://steampowered.com/community" target="_blank" rel="noopener noreferrer">Steam Community</a>
+                <a href="https://help.steampowered.com" target="_blank" rel="noopener noreferrer">Steam Support</a>
+                <a href="https://steamcommunity.com/gamerules" target="_blank" rel="noopener noreferrer">Community Rules</a>
+                <a href="https://store.steampowered.com/news/category/?appids=230450" target="_blank" rel="noopener noreferrer">CS2 News</a>
+            </nav>
+        </div>
+
+        <!-- Column 4: Info & Legal -->
+        <div class="footer-col">
+            <div class="footer-title">Info &amp; Legal</div>
+            <nav class="footer-nav">
+                <a href="/about">About Us</a>
+                <a href="/contact">Contact</a>
+                <a href="/privacy">Privacy Policy</a>
+                <a href="/terms">Terms &amp; Conditions</a>
+            </nav>
+            <p class="footer-legal" style="margin-top:10px">SteamReport.net is not affiliated with Valve Corporation or any game publisher.</p>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; 2026 SteamReport.net &middot; Not affiliated with Valve Corporation or any publisher · All rights reserved</p>
+        <p style="opacity: 0.5; font-size: 0.85em; margin-top: 0.5rem;">v1.0.0 (build 196) • 665b02a</p>
+    </div>
+</footer>
+
+<script src="/dist/sr-icons.min.js?v=b196" defer></script>
+<script src="/dist/sr-theme.min.js?v=b196" defer></script>
+<script>
+    window.addEventListener('DOMContentLoaded', function(){
+        if (window.feather) window.feather.replace();
+    });
+</script>
+<script>
+(function(){
+    var btn=document.getElementById('navHamburger'),
+        links=document.getElementById('navLinks'),
+        overlay=document.getElementById('navOverlay');
+    if(!btn)return;
+    function toggle(){
+        var open=btn.classList.toggle('open');
+        links.classList.toggle('open',open);
+        overlay.classList.toggle('open',open);
+        btn.setAttribute('aria-expanded',open);
+    }
+    btn.addEventListener('click',toggle);
+    overlay.addEventListener('click',toggle);
+    links.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){if(btn.classList.contains('open'))toggle();});});
+})();
+</script>
+<!-- GDPR Banner (bottom bar) -->
+<div id="gdprBanner" class="gdpr-banner" role="dialog" aria-label="Cookie consent" style="display:none">
+    <div class="gdpr-inner">
+        <p class="gdpr-text">We use essential cookies for site security and giveaway/referral fraud prevention, plus optional cookies for analytics and ads. You can choose which optional cookies to allow.</p>
+        <div class="gdpr-actions">
+            <button class="gdpr-btn gdpr-btn-accept" id="gdprAccept">Accept All</button>
+            <button class="gdpr-btn gdpr-btn-manage" id="gdprManage">Manage Preferences</button>
+        </div>
+    </div>
+</div>
+
+<!-- GDPR Preferences Modal -->
+<div id="gdprModal" class="gdpr-modal-overlay" style="display:none" role="dialog" aria-label="Cookie Preferences" aria-modal="true">
+    <div class="gdpr-modal">
+        <div class="gdpr-modal-header">
+            <h2 class="gdpr-modal-title">Cookie Preferences</h2>
+            <button class="gdpr-modal-close" id="gdprModalClose" aria-label="Close">&times;</button>
+        </div>
+        <div class="gdpr-modal-body">
+            <p class="gdpr-modal-desc">Choose which cookies you'd like to allow. Essential cookies cannot be disabled because they secure core features, including giveaway/referral anti-abuse checks. See our <a href="/privacy">Privacy Policy</a> for full details.</p>
+
+            <!-- Essential — always on -->
+            <div class="gdpr-category">
+                <div class="gdpr-category-header">
+                    <div class="gdpr-category-info">
+                        <span class="gdpr-category-name">Essential</span>
+                        <span class="gdpr-category-badge">Always Active</span>
+                    </div>
+                </div>
+                <p class="gdpr-category-desc">Session management, form security, giveaway/referral anti-abuse integrity, and theme preference. These cookies are necessary for the website to function and cannot be switched off.</p>
+            </div>
+
+            <!-- Analytics -->
+            <div class="gdpr-category">
+                <div class="gdpr-category-header">
+                    <div class="gdpr-category-info">
+                        <span class="gdpr-category-name">Analytics</span>
+                    </div>
+                    <label class="gdpr-toggle">
+                        <input type="checkbox" id="gdprAnalytics">
+                        <span class="gdpr-toggle-slider"></span>
+                    </label>
+                </div>
+                <p class="gdpr-category-desc">Google Analytics measures how you use the site so we can improve it. Collects anonymous page view and interaction data. IP addresses are anonymized.</p>
+            </div>
+
+            <!-- Advertising -->
+            <div class="gdpr-category">
+                <div class="gdpr-category-header">
+                    <div class="gdpr-category-info">
+                        <span class="gdpr-category-name">Advertising</span>
+                    </div>
+                    <label class="gdpr-toggle">
+                        <input type="checkbox" id="gdprAdvertising">
+                        <span class="gdpr-toggle-slider"></span>
+                    </label>
+                </div>
+                <p class="gdpr-category-desc">Advertising partners are currently disabled on SteamReport.net. This category is reserved if ads return later; choosing it does not load ad scripts today.</p>
+            </div>
+        </div>
+        <div class="gdpr-modal-footer">
+            <button class="gdpr-btn gdpr-btn-accept" id="gdprSavePrefs">Save Preferences</button>
+            <button class="gdpr-btn gdpr-btn-reject" id="gdprReject">Reject All</button>
+        </div>
+    </div>
+</div>
+
+<style>
+/* ── Banner ───────────────────────────────────────── */
+.gdpr-banner{position:fixed;bottom:0;left:0;right:0;z-index:9999;background:var(--bg-800,#141829);border-top:1px solid var(--border,#2a2e3f);box-shadow:0 -4px 20px rgba(0,0,0,.3);padding:16px 24px;font-family:inherit;animation:gdprSlide .3s ease}
+@keyframes gdprSlide{from{transform:translateY(100%)}to{transform:translateY(0)}}
+.gdpr-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;gap:20px;flex-wrap:wrap}
+.gdpr-text{flex:1;min-width:280px;font-size:13px;color:var(--text-300,#8b98a8);line-height:1.6;margin:0}
+.gdpr-text a{color:var(--accent,#5bbdcc);text-decoration:underline;text-underline-offset:2px}
+.gdpr-text a:hover{color:var(--accent-hover,#6ecad7)}
+.gdpr-actions{display:flex;gap:10px;flex-shrink:0}
+.gdpr-btn{padding:8px 18px;border:none;border-radius:6px;font-family:inherit;font-size:13px;font-weight:600;cursor:pointer;transition:all .18s;white-space:nowrap}
+.gdpr-btn-accept{background:var(--accent,#5bbdcc);color:var(--bg-900,#0a0e27)}
+.gdpr-btn-accept:hover{background:var(--accent-hover,#6ecad7)}
+.gdpr-btn-manage{background:var(--bg-700,#1a1f36);color:var(--text-200,#c8cdd5);border:1px solid var(--border,#2a2e3f)}
+.gdpr-btn-manage:hover{border-color:var(--accent,#5bbdcc);color:var(--text-100,#e6e6e6)}
+.gdpr-btn-reject{background:transparent;color:var(--text-300,#8b98a8);border:1px solid var(--border,#2a2e3f)}
+.gdpr-btn-reject:hover{border-color:var(--border-light,#3a3e52);color:var(--text-100,#e6e6e6)}
+@media(max-width:640px){.gdpr-inner{flex-direction:column;text-align:center}.gdpr-actions{width:100%;justify-content:center;flex-wrap:wrap}}
+
+/* ── Modal overlay ────────────────────────────────── */
+.gdpr-modal-overlay{position:fixed;inset:0;z-index:10000;background:rgba(0,0,0,.6);backdrop-filter:blur(4px);display:flex;align-items:center;justify-content:center;padding:20px;animation:gdprFade .2s ease}
+@keyframes gdprFade{from{opacity:0}to{opacity:1}}
+
+/* ── Modal ────────────────────────────────────────── */
+.gdpr-modal{background:var(--bg-800,#141829);border:1px solid var(--border,#2a2e3f);border-radius:12px;width:100%;max-width:520px;max-height:85vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,.5);animation:gdprModalIn .25s ease}
+@keyframes gdprModalIn{from{transform:translateY(20px);opacity:0}to{transform:translateY(0);opacity:1}}
+.gdpr-modal-header{display:flex;align-items:center;justify-content:space-between;padding:20px 24px 0;margin-bottom:4px}
+.gdpr-modal-title{font-size:18px;font-weight:700;color:var(--text-100,#e6e6e6);margin:0}
+.gdpr-modal-close{background:none;border:none;color:var(--text-300,#8b98a8);font-size:24px;cursor:pointer;padding:4px 8px;border-radius:6px;line-height:1;transition:all .15s}
+.gdpr-modal-close:hover{color:var(--text-100,#e6e6e6);background:var(--bg-700,#1a1f36)}
+.gdpr-modal-body{padding:16px 24px}
+.gdpr-modal-desc{font-size:13px;color:var(--text-300,#8b98a8);line-height:1.6;margin:0 0 20px}
+.gdpr-modal-desc a{color:var(--accent,#5bbdcc);text-decoration:underline;text-underline-offset:2px}
+.gdpr-modal-footer{display:flex;gap:10px;padding:16px 24px 20px;border-top:1px solid var(--border,#2a2e3f)}
+
+/* ── Category rows ────────────────────────────────── */
+.gdpr-category{padding:14px 0;border-bottom:1px solid var(--border,#2a2e3f)}
+.gdpr-category:last-child{border-bottom:none}
+.gdpr-category-header{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.gdpr-category-info{display:flex;align-items:center;gap:10px}
+.gdpr-category-name{font-size:14px;font-weight:600;color:var(--text-100,#e6e6e6)}
+.gdpr-category-badge{font-size:11px;font-weight:600;color:var(--accent,#5bbdcc);background:rgba(91,189,204,.1);padding:2px 8px;border-radius:4px}
+.gdpr-category-desc{font-size:12px;color:var(--text-400,#6b7585);line-height:1.5;margin:8px 0 0}
+
+/* ── Toggle switch ────────────────────────────────── */
+.gdpr-toggle{position:relative;display:inline-block;width:44px;height:24px;flex-shrink:0}
+.gdpr-toggle input{opacity:0;width:0;height:0}
+.gdpr-toggle-slider{position:absolute;cursor:pointer;inset:0;background:var(--bg-600,#252a40);border:1px solid var(--border,#2a2e3f);border-radius:24px;transition:all .2s}
+.gdpr-toggle-slider::before{content:'';position:absolute;height:18px;width:18px;left:2px;bottom:2px;background:var(--text-300,#8b98a8);border-radius:50%;transition:all .2s}
+.gdpr-toggle input:checked+.gdpr-toggle-slider{background:var(--accent,#5bbdcc);border-color:var(--accent,#5bbdcc)}
+.gdpr-toggle input:checked+.gdpr-toggle-slider::before{transform:translateX(20px);background:#fff}
+.gdpr-toggle input:focus-visible+.gdpr-toggle-slider{outline:2px solid var(--accent,#5bbdcc);outline-offset:2px}
+</style>
+
+<script>
+(function(){
+    var CONSENT_KEY = 'sr-cookie-consent';
+    var banner = document.getElementById('gdprBanner');
+    var modal = document.getElementById('gdprModal');
+    var analyticsToggle = document.getElementById('gdprAnalytics');
+    var advertisingToggle = document.getElementById('gdprAdvertising');
+
+    function getConsent() {
+        try { return JSON.parse(localStorage.getItem(CONSENT_KEY)); } catch(e) { return null; }
+    }
+
+    function setConsent(prefs) {
+        localStorage.setItem(CONSENT_KEY, JSON.stringify(prefs));
+    }
+
+    // Migrate old format ('all' / 'essential') to new JSON format
+    var raw = localStorage.getItem(CONSENT_KEY);
+    var consent = null;
+    if (raw === 'all') {
+        consent = {analytics: true, advertising: true};
+        setConsent(consent);
+    } else if (raw === 'essential') {
+        consent = {analytics: false, advertising: false};
+        setConsent(consent);
+    } else {
+        consent = getConsent();
+    }
+
+    // Show banner if no consent stored
+    if (!consent) {
+        banner.style.display = '';
+    } else {
+        applyConsent(consent);
+    }
+
+    // ── Banner buttons ──
+    document.getElementById('gdprAccept').addEventListener('click', function() {
+        var prefs = {analytics: true, advertising: true};
+        setConsent(prefs);
+        banner.style.display = 'none';
+        modal.style.display = 'none';
+        applyConsent(prefs);
+    });
+
+    document.getElementById('gdprManage').addEventListener('click', function() {
+        openModal();
+    });
+
+    // ── Modal buttons ──
+    document.getElementById('gdprSavePrefs').addEventListener('click', function() {
+        var prefs = {
+            analytics: analyticsToggle.checked,
+            advertising: advertisingToggle.checked
+        };
+        setConsent(prefs);
+        banner.style.display = 'none';
+        modal.style.display = 'none';
+        applyConsent(prefs);
+    });
+
+    document.getElementById('gdprModalClose').addEventListener('click', closeModal);
+
+    document.getElementById('gdprReject').addEventListener('click', function() {
+        var prefs = {analytics: false, advertising: false};
+        setConsent(prefs);
+        banner.style.display = 'none';
+        modal.style.display = 'none';
+        applyConsent(prefs);
+    });
+
+    // Close modal on overlay click
+    modal.addEventListener('click', function(e) {
+        if (e.target === modal) closeModal();
+    });
+
+    // Close modal on Escape
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && modal.style.display !== 'none') closeModal();
+    });
+
+    function openModal() {
+        // Pre-fill toggles from current consent or default off
+        var c = getConsent();
+        analyticsToggle.checked = c ? c.analytics : false;
+        advertisingToggle.checked = c ? c.advertising : false;
+        modal.style.display = '';
+    }
+
+    function closeModal() {
+        modal.style.display = 'none';
+    }
+
+    function applyConsent(prefs) {
+        if (prefs.analytics) {
+            enableGA();
+        } else {
+            disableGA();
+        }
+        if (prefs.advertising) {
+            enableAds();
+        }
+    }
+
+    function enableGA() {
+        window['ga-disable-G-R9F99YPR6M'] = false;
+        if (typeof gtag === 'function' && !window._srGaLoaded) {
+            window._srGaLoaded = true;
+            gtag('js', new Date());
+            gtag('config', 'G-R9F99YPR6M', {anonymize_ip: true});
+            var s = document.createElement('script');
+            s.src = 'https://www.googletagmanager.com/gtag/js?id=G-R9F99YPR6M';
+            s.async = true;
+            document.head.appendChild(s);
+        }
+    }
+
+    function enableAds() {
+        // AdSense disabled — footer monetization scripts removed; keep consent hook as no-op.
+        return;
+    }
+
+    function disableGA() {
+        window['ga-disable-G-R9F99YPR6M'] = true;
+        var cookies = document.cookie.split(';');
+        for (var i = 0; i < cookies.length; i++) {
+            var name = cookies[i].split('=')[0].trim();
+            if (name.indexOf('_ga') === 0 || name === '_gid') {
+                document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=.' + location.hostname;
+                document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/';
+            }
+        }
+    }
+})();
+</script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a3e6ad3268b1511b',t:'MTc4OTk2ODYxMg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"45ab9217397f43a19b0f48522fd5825f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+

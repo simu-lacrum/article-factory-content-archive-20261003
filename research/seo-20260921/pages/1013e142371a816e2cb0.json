@@ -1,0 +1,196 @@
+{
+  "url": "https://umbrella-dota.com/en/features/dodger/",
+  "canonical": "https://umbrella-dota.com/en/features/dodger/",
+  "language": "en",
+  "title": "Dodger for Dota 2 — Auto Skillshot Evasion in Umbrella | dodge script",
+  "description": "Dodger in Umbrella: automatic evasion of skillshots via Blink, BKB, Eul, Manta, Linken's. 0.1-second reaction — dodges Skewer and Hook faster than any human.",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Why manual dodging is hard to master"
+    },
+    {
+      "level": 2,
+      "text": "What the module does"
+    },
+    {
+      "level": 2,
+      "text": "Dodger settings in the menu"
+    },
+    {
+      "level": 2,
+      "text": "What the automation dodges"
+    },
+    {
+      "level": 2,
+      "text": "How to set up Dodger"
+    },
+    {
+      "level": 2,
+      "text": "Safety"
+    },
+    {
+      "level": 2,
+      "text": "FAQ"
+    }
+  ],
+  "document_h1": [
+    "Dodger — auto skillshot evasion"
+  ],
+  "text": "Why manual dodging is hard to master The average adult human visual reaction time is 200–250 milliseconds. That is the hard ceiling: by the time a signal travels from eye to motor cortex to fingers, hundreds of clock cycles have passed. For most players the real figure is higher due to attention, pattern recognition and decision-making. Skillshots like Hook or Sacred Arrow travel 0.3–0.7 seconds at a typical medium range. Mathematically the reaction window exists, but it is extremely narrow. Most players at Ancient and below statistically catch these projectiles regularly. Automation removes three constraints at once: it catches the projectile in one frame (3 milliseconds), calculates the trajectory perfectly via a mathematical model, and picks the optimal save from what is available in inventory. Reaction time is around 100 milliseconds — impossible to achieve by hand. What the module does A scanner constantly tracks moving projectiles and point-targeted casts from opponents. When a projectile is aimed at you — trajectory calculation and activation of the appropriate save happen milliseconds before impact: Blink sideways — exiting the flight cone, perfect against Hook and Skewer. BKB / Manta / Eul — immunity or dispel against point-targeted ults (Doom, Reaper's Scythe). Linken's / Lotus — passive saves triggered by priority order. Blink-out — for heroes with instant movement (Storm, AM, QoP) the cast instantly removes them from the impact zone. Priority engine — picks the save with the minimum resource cost. If a Blink dodge is possible, BKB is not spent. i Especially effective against Pudge, Mirana, Pangolier, Magnus, Earthshaker, Tiny — heroes with long snipe initiators. They waste their ult on nothing. Dodger settings in the menu In the Defense section Dodger has a flexible panel — you can tune it per spell and make the behavior less obvious: Dodger — the main toggle: auto-dodges enemy targeted projectiles and disables. Per-spell dodge list — enable or disable dodging for each spell individually, plus Enable All / Disable All buttons. Chance of Dodge — the trigger probability, so the reaction looks human instead of firing 100% of the time. Min Stacks To Dodge — the minimum number of stacks required before reacting (useful for stacking effects). Use Only One Dodge — dodges only once instead of chaining a series of evades. Dodge From Your Own Projectiles — also dodges your own projectiles if they are heading toward you. What the automation dodges 60+ skillshots are supported. Categories: Hook / Grab: Pudge Hook, Hoodwink Bushwhack, Pangolier Swashbuckle (combo), Magnus Skewer. Linear projectiles: Mirana Arrow, Pudge Hook, Drow Frost Arrow burst, Spirit Breaker Charge. AoE: Tiny Avalanche+Toss, Earthshaker Echo (escape), Tide Ravage (BKB). Point-targeted ults: Doom, Reaper's Scythe (BKB), Finger of Death (BKB), Laguna Blade (Linken's check). Channeling: Bane Fiend's Grip, Enigma Black Hole, Lion Hex (BKB/Manta). Invisible: Sun Strike (radar timer), Mirana Arrow without vision (via audio trigger). How to set up Dodger Launch Umbrella ( download ). In the cheat menu open Defense and activate Dodger . Choose which save items and abilities the module is allowed to use (by default all: BKB, Manta, Eul, Blink, Aphotic Shield, Lotus). Set the HP threshold — at what HP to activate BKB (we recommend 50%; below that — Manta or Blink). Configure a hero whitelist/blacklist: for example, always dodge Pudge Hook, ignore Drow Frost Arrow. Save the config. Safety Automatic evasion is one of the most visible modules: a perfect Blink 0.05 sec before a Hook in a replay looks suspicious. Protection: Spoofer — HWID masking. Reaction window — configurable. At 80ms the evade is perfect; at 180ms it looks like the reaction of a top-1000 player — more natural. Random misses — the system occasionally \"fails to react\" (5–10% of cases) so the statistics never show 100% dodge rate. Cloud config with no traces on disk. More detail — Do you get banned for cheats . FAQ Does it dodge Mirana Arrow at long range? Yes. Sacred Arrow is visible immediately after the cast (even without vision, via position-prediction). Reaction via Blink, BKB or self-Eul. What about projectiles under BKB immunity? The system automatically distinguishes physical and magical damage. If BKB is already active it does not activate a second one — it reacts with Manta or Blink instead. Will BKB be used on every Hook? No. The priority engine assesses risk: at 100% HP with no threatening enemy items — it ignores the Hook. At 20% HP under double initiation — BKB fires immediately. Is it compatible with Combo Builder? Yes, auto-evasion has priority over any active chain. If a Mirana Arrow is flying during your full burst — the cast is interrupted to save you (if HP is at risk).",
+  "words": 769,
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://umbrella-dota.com/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Features",
+      "url": "https://umbrella-dota.com/en/features/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "What the module does",
+      "url": "https://umbrella-dota.com/en/features/dodger/#what",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dodger settings",
+      "url": "https://umbrella-dota.com/en/features/dodger/#settings",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "What it dodges",
+      "url": "https://umbrella-dota.com/en/features/dodger/#list",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to set it up",
+      "url": "https://umbrella-dota.com/en/features/dodger/#how",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Safety",
+      "url": "https://umbrella-dota.com/en/features/dodger/#safe",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://umbrella-dota.com/en/features/dodger/#faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "download",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Do you get banned for cheats",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Choose a plan",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Maphack",
+      "url": "https://umbrella-dota.com/en/features/maphack/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Combo Builder",
+      "url": "https://umbrella-dota.com/en/features/combo/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Spoofer (anti-ban)",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Hero scripts",
+      "url": "https://umbrella-dota.com/en/scripts/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Ready configs",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "9922fc782bad09f2dd8a25f576169d8978beb469ca58d3e4b832cf4c01830c97",
+  "captured_at": "2026-09-21T06:24:40.184968+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://umbrella-dota.com/en/features/dodger/",
+  "http_status": 200,
+  "raw_file": "raw/1013e142371a816e2cb0.html"
+}

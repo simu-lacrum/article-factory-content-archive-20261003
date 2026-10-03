@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="csrf-token" content="IjZkMzliMzQzMDI4MjIyNjE5MmM5ZDYyYjE1MmY5MzM5NTRiNzkzNGUi.arDD8w.Xe2lduqD0iZOM8N24elknnTsdR4">
+    <meta name="description" content="Allows you to set a custom FOV for aimbot when aiming.">
+    
+    <meta name="robots" content="index, follow">
+
+    
+    <link rel="canonical" href="https://tsuki.gg/scripts/deadlock/aimed-fov">
+
+    
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="TSUKI">
+    <meta property="og:title" content="Aimed FOV - Deadlock External Lua Script - TSUKI">
+    <meta property="og:description" content="Allows you to set a custom FOV for aimbot when aiming.">
+    <meta property="og:image" content="https://tsuki.gg/static/img/Banner.gif">
+    <meta property="og:image:type" content="image/gif">
+    <meta property="og:image:width" content="1133">
+    <meta property="og:image:height" content="400">
+    <meta property="og:image:alt" content="TSUKI">
+    <meta property="og:url" content="https://tsuki.gg/scripts/deadlock/aimed-fov">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Aimed FOV - Deadlock External Lua Script - TSUKI">
+    <meta name="twitter:description" content="Allows you to set a custom FOV for aimbot when aiming.">
+<meta name="twitter:image" content="https://tsuki.gg/static/img/Banner.gif">
+
+    
+    <link rel="icon" type="image/svg+xml" href="/static/img/logo.svg?v=1786215606">
+    <title>Aimed FOV - Deadlock External Lua Script - TSUKI</title>
+    <script>
+        // Apply saved theme immediately to prevent flash
+        (function(){var t=localStorage.getItem('tsuki-theme');if(t==='light')document.documentElement.setAttribute('data-theme','light');})();
+        function toggleTheme(){
+            var el=document.documentElement;
+            var isLight=el.getAttribute('data-theme')==='light';
+            if(isLight){el.removeAttribute('data-theme');localStorage.setItem('tsuki-theme','dark');}
+            else{el.setAttribute('data-theme','light');localStorage.setItem('tsuki-theme','light');}
+        }
+    </script>
+    <style type="text/css">@font-face {font-family:'DM Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/dm-sans/5.2.8/latin/opsz/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/dm-sans/5.2.8/latin-ext/opsz/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/dm-sans/5.2.8/latin/opsz/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/dm-sans/5.2.8/latin-ext/opsz/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/dm-sans/5.2.8/latin-ext/opsz/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/dm-sans/5.2.8/latin/opsz/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/dm-sans/5.2.8/latin-ext/opsz/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/dm-sans/5.2.8/latin/opsz/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/dm-sans/5.2.8/latin/opsz/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'DM Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/dm-sans/5.2.8/latin-ext/opsz/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "TSUKI",
+        "url": "https://tsuki.gg",
+        "logo": "https://tsuki.gg/static/img/logo.png",
+        "sameAs": ["https://discord.gg/mina"]
+    }
+    </script>
+
+    
+<link rel="stylesheet" href="/static/css/shared.css?v=1788980843">
+<link rel="stylesheet" href="/static/css/scripts.css?v=1789838993">
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "SoftwareSourceCode",
+    "name": "Aimed FOV",
+    "description": "Allows you to set a custom FOV for aimbot when aiming.",
+    "programmingLanguage": "Lua",
+    "codeRepository": "https://tsuki.gg/scripts/deadlock/aimed-fov",
+    
+    "image": "https://tsuki.gg/scripts/deadlock/aimed-fov/thumbnail",
+    
+    "author": {
+        "@type": "Person",
+        "name": "tomo"
+    },
+    "dateCreated": "2026-05-30T00:51:50.653408",
+    "dateModified": "2026-06-28T22:23:01.278939",
+    "isPartOf": {
+        "@type": "SoftwareApplication",
+        "name": "Deadlock External"
+    }
+    
+}
+</script>
+
+    <style>
+        .flash-container { position: fixed; top: 68px; right: 1rem; z-index: 9999; display: flex; flex-direction: column; gap: 0.4rem; max-width: 380px; }
+        .flash-msg { padding: 0.6rem 1rem; border-radius: 8px; font-size: 0.78rem; font-weight: 500; font-family: 'DM Sans', sans-serif; display: flex; align-items: center; gap: 0.5rem; animation: flashIn 0.3s ease; cursor: pointer; }
+        .flash-msg.success { background: rgba(74,222,128,0.1); border: 1px solid rgba(74,222,128,0.2); color: #4ade80; }
+        .flash-msg.error { background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.2); color: #f87171; }
+        .flash-msg.info { background: rgba(104,105,255,0.1); border: 1px solid rgba(104,105,255,0.2); color: #7374ff; }
+        @keyframes flashIn { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* Theme toggle — always loaded regardless of page CSS */
+        .theme-toggle {
+            background: none; border: none; cursor: pointer;
+            color: var(--text-muted, #5a5a63); font-size: 1.05rem;
+            padding: 0.4rem 0.55rem; border-radius: 6px;
+            transition: color 0.15s, background 0.15s;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .theme-toggle:hover { color: var(--text-secondary, #8a8a92); background: rgba(104,105,255,0.06); }
+        .theme-toggle-light { display: none; }
+        .theme-toggle-dark  { display: inline; }
+        [data-theme="light"] .theme-toggle-light { display: inline; }
+        [data-theme="light"] .theme-toggle-dark  { display: none; }
+
+        /* Light mode essentials — loaded on every page */
+        [data-theme="light"] .nav-bar { background: #ffffff; }
+        [data-theme="light"] .nav-links a:hover { background: rgba(0,0,0,0.04); }
+        [data-theme="light"] .site-footer { border-top-color: #d8d8de; }
+
+        /* Community nav dropdown */
+        .nav-community-dd { position: relative; display: inline-flex; }
+        .nav-community-dd > a { display: flex; align-items: center; }
+        .nav-community-menu {
+            display: none; position: absolute; top: 100%; left: 0; min-width: 160px;
+            background: var(--bg-card, #151517); border: 1px solid var(--border-subtle, #1f1f23);
+            border-radius: 8px; padding: 0.35rem 0; margin-top: 0.4rem; z-index: 100;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+        }
+        .nav-community-dd.open .nav-community-menu { display: block; }
+        .nav-community-dd.open > a i { transform: rotate(180deg); }
+        .nav-community-menu a {
+            display: flex; align-items: center; gap: 0.5rem; padding: 0.45rem 0.85rem;
+            font-size: 0.8rem; color: var(--text-secondary, #8a8a92); text-decoration: none;
+        }
+        .nav-community-menu a:hover { background: rgba(255,255,255,0.04); color: var(--text-heading, #ededef); }
+        .nav-community-menu a i { font-size: 0.78rem; width: 1rem; text-align: center; }
+        [data-theme="light"] .nav-community-menu { background: #fff; box-shadow: 0 8px 30px rgba(0,0,0,0.1); }
+        /* Current page inside the dropdown. Blogs lives in this menu rather
+           than the top row, so the marker belongs here — one signal per
+           state, the same way the top-level active tab works. */
+        .nav-community-menu a.nav-dd-current { color: var(--text-heading, #ededef); }
+        .nav-community-menu a.nav-dd-current i { color: var(--accent, #7374ff); }
+    </style>
+</head>
+<body data-page="scripts">
+
+<!-- STARFIELD -->
+<div class="starfield" id="starfield"></div>
+<div class="star-cover"></div>
+
+<!-- FLASH MESSAGES -->
+
+
+
+
+<!-- NAV -->
+
+<div class="nav-bar">
+    <div class="nav-inner">
+        <a class="nav-brand" href="/"><img src="/static/img/logo.svg?v=1786215606" alt="TSUKI" style="height:32px;"> <span>TSUKI</span></a>
+        <button class="nav-hamburger" id="navHamburger" onclick="toggleMobileNav()" aria-label="Menu">
+            <i class="bi bi-list" id="navHamburgerIcon"></i>
+        </button>
+        <div class="nav-links" id="navLinks">
+            <!-- Main nav -->
+            <div class="nav-group nav-group-main">
+                <a href="/" onclick="closeMobileNav()">Home</a>
+                <a href="/products" onclick="closeMobileNav()">Products</a>
+                
+                <div class="nav-community-dd" id="communityDD">
+                    <a href="#" class="active" onclick="event.preventDefault();document.getElementById('communityDD').classList.toggle('open');">Community <i class="bi bi-chevron-down" style="font-size:0.6rem;margin-left:0.15rem;transition:transform 0.15s;"></i></a>
+                    <div class="nav-community-menu">
+                        <a href="/scripts/" class="nav-dd-current" onclick="closeMobileNav()"><i class="bi bi-file-earmark-code"></i> Scripts</a>
+                        <a href="/configs/" onclick="closeMobileNav()"><i class="bi bi-sliders"></i> Configs</a>
+                        <a href="/themes/" onclick="closeMobileNav()"><i class="bi bi-palette"></i> Menu Themes</a>
+                        <a href="/blog" onclick="closeMobileNav()"><i class="bi bi-journal-text"></i> Blogs</a>
+                    </div>
+                </div>
+                <a href="/status" onclick="closeMobileNav()">Status</a>
+            </div>
+
+            <!-- Right-side actions -->
+            <div class="nav-spacer"></div>
+
+            <div class="nav-group nav-group-secondary">
+                <a href="https://discord.gg/mina" target="_blank" rel="noopener" class="nav-icon" title="Discord"><i class="bi bi-discord"></i></a>
+                <button class="nav-icon theme-toggle" onclick="toggleTheme()" title="Toggle theme"><i class="bi bi-sun-fill theme-toggle-light"></i><i class="bi bi-moon-fill theme-toggle-dark"></i></button>
+            </div>
+
+            
+            <div class="nav-group nav-group-auth">
+                <a href="/login" class="nav-signin" onclick="closeMobileNav()">Sign In</a>
+                <a href="/register" class="nav-signup" onclick="closeMobileNav()">Sign Up</a>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<div style="height:58px;"></div>
+<script>
+function toggleMobileNav(){
+    var nl=document.getElementById('navLinks');
+    var ic=document.getElementById('navHamburgerIcon');
+    var nb=document.querySelector('.nav-bar');
+    var open=nl.classList.toggle('open');
+    ic.className=open?'bi bi-x-lg':'bi bi-list';
+    document.body.style.overflow=open?'hidden':'';
+    if(nb) nb.classList.toggle('menu-open',open);
+}
+function closeMobileNav(){
+    var nl=document.getElementById('navLinks');
+    var ic=document.getElementById('navHamburgerIcon');
+    var nb=document.querySelector('.nav-bar');
+    nl.classList.remove('open');
+    ic.className='bi bi-list';
+    document.body.style.overflow='';
+    if(nb) nb.classList.remove('menu-open');
+}
+</script>
+
+
+
+<div class="scripts-page">
+    
+    <a href="/scripts/deadlock"
+       class="scripts-back-link">
+        <i class="bi bi-arrow-left"></i>
+        Back to Deadlock External Scripts
+    </a>
+
+    
+
+    
+
+    <div class="script-detail-header">
+        
+        <div class="scripts-breadcrumb script-detail-breadcrumb">
+            <a href="/">Home</a><span class="sep">›</span>
+            <a href="/scripts/">Lua Script Library</a><span class="sep">›</span>
+            <a href="/scripts/deadlock">Deadlock External</a><span class="sep">›</span>
+            <span style="color: var(--text-secondary);">Aimed FOV</span>
+        </div>
+
+        <div class="script-detail-top">
+            <a class="script-detail-thumb"
+               href="/scripts/deadlock/aimed-fov/thumbnail?v=1782685381.278939"
+               target="_blank" rel="noopener" title="View full size">
+                <img src="/scripts/deadlock/aimed-fov/thumbnail?v=1782685381.278939"
+                     alt="Aimed FOV">
+            </a>
+            <div class="script-detail-info">
+                <h1 class="script-detail-title">Aimed FOV</h1>
+                <p class="script-detail-desc">Allows you to set a custom FOV for aimbot when aiming.</p>
+
+                
+                <div class="script-detail-tags">
+                    
+                    
+                    <a class="sys-badge sys-badge-api sys-badge-api-external"
+                       href="/scripts/deadlock?api=external"
+                       title="Runs on the external API. Works without the internal."><i class="bi bi-window"></i>External</a>
+                    
+                    
+                    
+                    
+                    <a class="tag-pill" href="/scripts/deadlock?tag=utility"
+                       title="Browse scripts tagged #utility">#utility</a>
+                    
+                    <a class="tag-pill" href="/scripts/deadlock?tag=aimbot"
+                       title="Browse scripts tagged #aimbot">#aimbot</a>
+                    
+                    <a class="tag-pill" href="/scripts/deadlock?tag=helper"
+                       title="Browse scripts tagged #helper">#helper</a>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="script-detail-meta">
+            <span class="script-row-author"><img class="author-av" src="/static/avatars/default.png?v=1776729721" alt="" width="18" height="18"> <a class="author-link" href="/scripts/author/tomo" title="All scripts by tomo">tomo</a></span>
+            <span><i class="bi bi-calendar-plus"></i> Uploaded May 30, 2026</span>
+            
+            <span><i class="bi bi-arrow-clockwise"></i> Updated Jun 28, 2026</span>
+            
+            <span><i class="bi bi-download"></i> 8 downloads</span>
+            <span><i class="bi bi-bell"></i> 4 subscribers</span>
+            <span><i class="bi bi-file-earmark"></i> 1.1 KiB</span>
+            
+            <span style="color:#f59e0b;">
+                <i class="bi bi-star-fill"></i> 5.0
+                <span style="color:var(--text-muted);">(1)</span>
+            </span>
+            
+        </div>
+
+        
+        <div class="script-detail-actions">
+            
+            <a href="/products/deadlock"
+               class="btn-script-primary btn-action-primary">
+                <i class="bi bi-bag"></i> Subscribe to Deadlock External
+            </a>
+            
+
+            
+            
+        </div>
+
+        
+        
+    </div>
+
+    
+</div>
+
+
+
+<!-- FOOTER -->
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-top">
+            <div class="footer-brand-col">
+                <a href="/" class="footer-logo">
+                    <img src="/static/img/logo.svg?v=1786215606" alt="TSUKI" style="height:20px;">
+                    <span>TSUKI</span>
+                </a>
+                <p class="footer-tagline">Undetected hacks for competitive games. Built for safety.</p>
+            </div>
+            <div class="footer-nav">
+                <div class="footer-nav-group">
+                    <div class="footer-nav-title">Navigation</div>
+                    <a href="/" class="footer-link">Home</a>
+                    <a href="/products" class="footer-link">Products</a>
+                    <a href="/status" class="footer-link">Status</a>
+                    
+                </div>
+                <div class="footer-nav-group">
+                    <div class="footer-nav-title">Support</div>
+                    <a href="/support" class="footer-link">Support</a>
+                    
+                    <a href="https://discord.gg/mina" target="_blank" rel="noopener" class="footer-link">Discord</a>
+                    <a href="https://www.elitepvpers.com/forum/deadlock-trading/5357986-tsuki-deadlock-external-humanized-aimbot-auto-parry-lua-scripts-vis-check.html" target="_blank" rel="noopener" class="footer-link">Find us on elitepvpers</a>
+                </div>
+                <div class="footer-nav-group">
+                    <div class="footer-nav-title">Legal</div>
+                    <a href="/terms" class="footer-link">Terms of Service</a>
+                    <a href="/privacy" class="footer-link">Privacy Policy</a>
+                    <a href="/refund" class="footer-link">Refund Policy</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="footer-copy">&copy; 2026 TSUKI. All rights reserved.</div>
+            <a href="https://discord.gg/mina" target="_blank" rel="noopener" class="footer-social" title="Discord"><i class="bi bi-discord"></i></a>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+<script>
+    // Canvas Starfield (HiDPI, theme-aware)
+    (function() {
+        const container = document.getElementById('starfield');
+        const canvas = document.createElement('canvas');
+        canvas.style.cssText = 'position:fixed;inset:0;width:100vw;height:100vh;';
+        container.appendChild(canvas);
+        const ctx = canvas.getContext('2d');
+
+        function resize() {
+            const dpr = window.devicePixelRatio || 1;
+            canvas.width = window.innerWidth * dpr;
+            canvas.height = window.innerHeight * dpr;
+            ctx.scale(dpr, dpr);
+        }
+        resize();
+        window.addEventListener('resize', resize);
+
+        const stars = [];
+        for (let i = 0; i < 120; i++) {
+            stars.push({
+                x: Math.random(),
+                y: Math.random(),
+                r: Math.random() < 0.85 ? Math.random() * 1.0 + 0.4 : Math.random() * 1.5 + 1.0,
+                phase: Math.random() * Math.PI * 2,
+                speed: Math.random() * 0.5 + 0.2,
+                min: Math.random() * 0.08 + 0.05,
+                max: Math.random() * 0.5 + 0.3,
+                blue: Math.random() < 0.2
+            });
+        }
+
+        function getStarColor() {
+            return getComputedStyle(document.documentElement).getPropertyValue('--star-color').trim() || '255,255,255';
+        }
+
+        function draw(t) {
+            const w = window.innerWidth;
+            const h = window.innerHeight;
+            const dpr = window.devicePixelRatio || 1;
+            const sc = getStarColor();
+            const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+            ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+            ctx.clearRect(0, 0, w, h);
+            for (const s of stars) {
+                const flicker = (Math.sin(t * 0.001 * s.speed + s.phase) + 1) / 2;
+                const opacity = s.min + flicker * (s.max - s.min);
+                ctx.beginPath();
+                ctx.arc(s.x * w, s.y * h, s.r, 0, Math.PI * 2);
+                if (s.blue) {
+                    const ac = isLight ? '74,76,222' : '104,105,255';
+                    ctx.fillStyle = `rgba(${ac},${opacity})`;
+                } else {
+                    ctx.fillStyle = `rgba(${sc},${opacity})`;
+                }
+                ctx.fill();
+            }
+            requestAnimationFrame(draw);
+        }
+        requestAnimationFrame(draw);
+    })();
+</script>
+<script>requestAnimationFrame(function(){document.body.classList.add('theme-ready');});
+// Close nav dropdown on click outside
+document.addEventListener('click',function(e){
+    var d=document.getElementById('navDropdown');if(d&&!d.contains(e.target))d.classList.remove('open');
+    var c=document.getElementById('communityDD');if(c&&!c.contains(e.target))c.classList.remove('open');
+});
+</script>
+
+
+
+
+
+</body>
+</html>

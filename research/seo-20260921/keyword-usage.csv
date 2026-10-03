@@ -1,0 +1,279 @@
+﻿cluster_id,corpus,query,url,page_type,words,body_exact,title_exact,description_exact,h1_exact,h2_h3_exact,intro_100_words_exact,extraction
+cs2-external,general_competitor_sample,cs2 external cheats,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-external,general_competitor_sample,cs2 external cheats,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,0,0,0,0,0,0,semantic_main
+cs2-external,general_competitor_sample,cs2 external cheats,https://cs2-cheats.com/,commercial_page_provisional,887,0,0,0,0,0,0,body_fallback_review_needed
+cs2-external,general_competitor_sample,cs2 external cheats,https://en.exloader.net/,commercial_page_provisional,1432,0,0,0,0,0,0,body_fallback_review_needed
+cs2-triggerbot,general_competitor_sample,cs2 triggerbot,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,general_competitor_sample,cs2 triggerbot,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,general_competitor_sample,cs2 triggerbot,https://cs2-cheats.com/,commercial_page_provisional,887,0,0,0,0,0,0,body_fallback_review_needed
+cs2-triggerbot,general_competitor_sample,cs2 triggerbot,https://cswatch.gg/blog/cs2-cheat-types-explained,guide_or_article,571,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,general_competitor_sample,cs2 triggerbot,https://en.exloader.net/,commercial_page_provisional,1432,0,0,0,0,0,0,body_fallback_review_needed
+cs2-triggerbot,general_competitor_sample,cs2 triggerbot,https://steamreport.net/blog/cs2-cheating-types-explained,guide_or_article,1064,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,intent_matched_sample,cs2 triggerbot,https://cswatch.gg/blog/cs2-cheat-types-explained,guide_or_article,571,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,intent_matched_sample,cs2 triggerbot,https://steamreport.net/blog/cs2-cheating-types-explained,guide_or_article,1064,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,intent_matched_sample,triggerbot vs aimbot cs2,https://cswatch.gg/blog/cs2-cheat-types-explained,guide_or_article,571,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,intent_matched_sample,triggerbot vs aimbot cs2,https://steamreport.net/blog/cs2-cheating-types-explained,guide_or_article,1064,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,intent_matched_sample,triggerbot,https://cswatch.gg/blog/cs2-cheat-types-explained,guide_or_article,571,2,1,0,1,1,1,semantic_main
+cs2-triggerbot,intent_matched_sample,triggerbot,https://steamreport.net/blog/cs2-cheating-types-explained,guide_or_article,1064,5,0,1,0,1,1,semantic_main
+cs2-triggerbot,intent_matched_sample,aimbot,https://cswatch.gg/blog/cs2-cheat-types-explained,guide_or_article,571,8,1,0,1,1,1,semantic_main
+cs2-triggerbot,intent_matched_sample,aimbot,https://steamreport.net/blog/cs2-cheating-types-explained,guide_or_article,1064,12,1,1,1,1,3,semantic_main
+cs2-triggerbot,intent_matched_sample,triggerbot vs aimbot,https://cswatch.gg/blog/cs2-cheat-types-explained,guide_or_article,571,0,0,0,0,0,0,semantic_main
+cs2-triggerbot,intent_matched_sample,triggerbot vs aimbot,https://steamreport.net/blog/cs2-cheating-types-explained,guide_or_article,1064,0,0,0,0,0,0,semantic_main
+cs2-esp,general_competitor_sample,cs2 esp,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-esp,general_competitor_sample,cs2 esp,https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/,commercial_feature_explainer,2011,3,0,0,0,1,0,reviewed_content_selector
+cs2-esp,general_competitor_sample,cs2 esp,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,1,0,0,0,0,0,semantic_main
+cs2-esp,general_competitor_sample,cs2 esp,https://cs2-cheats.com/,commercial_page_provisional,887,0,0,0,0,0,0,body_fallback_review_needed
+cs2-esp,general_competitor_sample,cs2 esp,https://en.exloader.net/,commercial_page_provisional,1432,0,0,0,0,0,0,body_fallback_review_needed
+cs2-esp,general_competitor_sample,cs2 esp,https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z,auto_translated_editorial_post,390,0,0,0,0,0,0,reviewed_content_selector
+cs2-esp,intent_matched_sample,cs2 esp,https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/,commercial_feature_explainer,2011,3,0,0,0,1,0,reviewed_content_selector
+cs2-esp,intent_matched_sample,cs2 esp,https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z,auto_translated_editorial_post,390,0,0,0,0,0,0,reviewed_content_selector
+cs2-esp,intent_matched_sample,cs2 radar vs esp,https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/,commercial_feature_explainer,2011,0,0,0,0,0,0,reviewed_content_selector
+cs2-esp,intent_matched_sample,cs2 radar vs esp,https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z,auto_translated_editorial_post,390,0,0,0,0,0,0,reviewed_content_selector
+cs2-esp,intent_matched_sample,radar,https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/,commercial_feature_explainer,2011,22,1,1,1,1,2,reviewed_content_selector
+cs2-esp,intent_matched_sample,radar,https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z,auto_translated_editorial_post,390,8,1,1,1,0,4,reviewed_content_selector
+cs2-esp,intent_matched_sample,ESP,https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/,commercial_feature_explainer,2011,20,1,1,1,2,2,reviewed_content_selector
+cs2-esp,intent_matched_sample,ESP,https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z,auto_translated_editorial_post,390,2,0,0,0,0,2,reviewed_content_selector
+cs2-esp,intent_matched_sample,wallhack,https://chamscheats.com/counter-strike-2-aimbot-esp-wallhack-undetected/,commercial_feature_explainer,2011,3,0,0,0,0,0,reviewed_content_selector
+cs2-esp,intent_matched_sample,wallhack,https://www.gamer.ru/en/p/radar-khak-v-cs2-nevidimaya-ugroza-BEWc3dHWwnc0Z,auto_translated_editorial_post,390,0,0,0,0,0,0,reviewed_content_selector
+cs2-aimbot,general_competitor_sample,cs2 aimbot,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-aimbot,general_competitor_sample,cs2 aimbot,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,0,0,0,0,0,0,semantic_main
+cs2-aimbot,general_competitor_sample,cs2 aimbot,https://cs2-cheats.com/,commercial_page_provisional,887,0,0,0,0,0,0,body_fallback_review_needed
+cs2-aimbot,general_competitor_sample,cs2 aimbot,https://en.exloader.net/,commercial_page_provisional,1432,0,0,0,0,0,0,body_fallback_review_needed
+cs2-skin-changer,general_competitor_sample,cs2 skin changer,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-skin-changer,general_competitor_sample,cs2 skin changer,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,0,0,0,0,0,0,semantic_main
+cs2-skin-changer,general_competitor_sample,cs2 skin changer,https://cs2-cheats.com/,commercial_page_provisional,887,0,0,0,0,0,0,body_fallback_review_needed
+cs2-skin-changer,general_competitor_sample,cs2 skin changer,https://en.exloader.net/,commercial_page_provisional,1432,0,0,0,0,0,0,body_fallback_review_needed
+cs2-skin-changer,general_competitor_sample,cs2 skin changer,https://en.exloader.net/tree/modifications/sdk2changer/,software_access_landing,194,0,0,0,0,0,0,reviewed_content_selector
+cs2-skin-changer,general_competitor_sample,cs2 skin changer,https://sellyourskins.com/blog/is-skin-changer-bannable/,risk_guide,398,1,1,0,1,0,1,reviewed_content_selector
+cs2-skin-changer,general_competitor_sample,cs2 skin changer,https://www.hotspawn.com/counter-strike/guide/are-cs2-skin-changers-bannable,risk_guide,321,1,0,0,0,0,0,reviewed_content_selector
+cs2-free-paid,general_competitor_sample,free vs paid cs2 cheats,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-free-paid,general_competitor_sample,free vs paid cs2 cheats,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,0,0,0,0,0,0,semantic_main
+cs2-comparison,general_competitor_sample,best cs2 cheats,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-comparison,general_competitor_sample,best cs2 cheats,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,0,0,0,0,0,0,semantic_main
+cs2-comparison,general_competitor_sample,best cs2 cheats,https://cs2-cheats.com/,commercial_page_provisional,887,2,0,0,1,0,2,body_fallback_review_needed
+cs2-comparison,general_competitor_sample,best cs2 cheats,https://en.exloader.net/,commercial_page_provisional,1432,0,0,0,0,0,0,body_fallback_review_needed
+cs2-grenade-helper,general_competitor_sample,cs2 grenade helper,https://anyx.gg/,commercial_page_provisional,119,2,0,0,0,1,2,semantic_main
+cs2-grenade-helper,general_competitor_sample,cs2 grenade helper,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,0,0,0,0,0,0,semantic_main
+cs2-grenade-helper,general_competitor_sample,cs2 grenade helper,https://csnades.gg/,lineup_reference_library,436,0,0,0,0,0,0,reviewed_content_selector
+cs2-grenade-helper,general_competitor_sample,cs2 grenade helper,https://distort.wtf/features/cs2-grenade-helper,product_feature,344,4,1,1,1,1,3,semantic_main
+cs2-grenade-helper,general_competitor_sample,cs2 grenade helper,https://scope.gg/grenade-predictor/,browser_tool,484,0,0,0,0,0,0,semantic_main
+cs2-status,general_competitor_sample,cs2 cheat status,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-status,general_competitor_sample,cs2 cheat status,https://cheatix.to/information/counter-strike-2/best-cheats,comparison_overview,2124,0,0,0,0,0,0,semantic_main
+cs2-commands,general_competitor_sample,cs2 cheat commands,https://totalcsgo.com/commands,command_reference,1137,0,0,0,0,0,0,semantic_main
+dota2-scripts,general_competitor_sample,dota 2 scripts,https://dota2cheat.net/guides/,guide_index,147,1,0,0,0,1,1,semantic_main
+dota2-scripts,general_competitor_sample,dota 2 scripts,https://dotacheats.com/,commercial_page_provisional,1361,1,1,0,0,0,0,semantic_main
+dota2-scripts,general_competitor_sample,dota 2 scripts,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-scripts,general_competitor_sample,dota 2 scripts,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-scripts,general_competitor_sample,dota 2 scripts,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-invoker,general_competitor_sample,invoker scripts dota 2,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-invoker,general_competitor_sample,invoker scripts dota 2,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-invoker,general_competitor_sample,invoker scripts dota 2,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-invoker,general_competitor_sample,invoker scripts dota 2,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-invoker,general_competitor_sample,invoker scripts dota 2,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-invoker,general_competitor_sample,invoker scripts dota 2,https://umbrella-dota.com/en/scripts/invoker/,hero_product_guide,723,0,0,0,0,0,0,semantic_main
+dota2-meepo,general_competitor_sample,meepo scripts dota 2,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-meepo,general_competitor_sample,meepo scripts dota 2,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-meepo,general_competitor_sample,meepo scripts dota 2,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-meepo,general_competitor_sample,meepo scripts dota 2,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-meepo,general_competitor_sample,meepo scripts dota 2,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-meepo,general_competitor_sample,meepo scripts dota 2,https://umbrella-dota.com/en/scripts/meepo/,hero_product_guide,642,0,0,0,0,0,0,semantic_main
+dota2-maphack,general_competitor_sample,dota 2 maphack,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-maphack,general_competitor_sample,dota 2 maphack,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-maphack,general_competitor_sample,dota 2 maphack,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-maphack,general_competitor_sample,dota 2 maphack,https://en.exloader.net/tree/modifications/d2jsr/,software_access_landing,273,0,0,0,0,0,0,reviewed_content_selector
+dota2-maphack,general_competitor_sample,dota 2 maphack,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-maphack,general_competitor_sample,dota 2 maphack,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,0,0,0,0,0,0,semantic_main
+dota2-maphack,general_competitor_sample,dota 2 maphack,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,general_competitor_sample,dota 2 ward tracker,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,general_competitor_sample,dota 2 ward tracker,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,general_competitor_sample,dota 2 ward tracker,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,general_competitor_sample,dota 2 ward tracker,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-ward-tracker,general_competitor_sample,dota 2 ward tracker,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,general_competitor_sample,dota 2 ward tracker,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,intent_matched_sample,dota 2 ward tracker,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,intent_matched_sample,dota 2 ward tracker cheat,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,intent_matched_sample,ward tracker,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,1,0,0,0,1,0,semantic_main
+dota2-ward-tracker,intent_matched_sample,enemy wards,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,1,0,0,0,0,0,semantic_main
+dota2-ward-tracker,intent_matched_sample,observer ward,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,0,0,0,0,0,0,semantic_main
+dota2-ward-tracker,intent_matched_sample,sentry ward,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,0,0,0,0,0,0,semantic_main
+dota2-roshan,general_competitor_sample,dota 2 roshan timer,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-roshan,general_competitor_sample,dota 2 roshan timer,https://dota2tool.vercel.app/,manual_timer_tool,641,0,0,0,0,0,0,semantic_main
+dota2-roshan,general_competitor_sample,dota 2 roshan timer,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-roshan,general_competitor_sample,dota 2 roshan timer,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-roshan,general_competitor_sample,dota 2 roshan timer,https://dotasense.com/guides/roshan-timer,gameplay_guide_with_timer_product,481,1,1,0,1,0,1,semantic_main
+dota2-roshan,general_competitor_sample,dota 2 roshan timer,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-roshan,general_competitor_sample,dota 2 roshan timer,https://umbrella-dota.com/en/features/maphack/,product_feature_page,820,0,0,0,0,0,0,semantic_main
+dota2-roshan,general_competitor_sample,dota 2 roshan timer,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-teleport,general_competitor_sample,dota 2 teleport preview,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-teleport,general_competitor_sample,dota 2 teleport preview,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-teleport,general_competitor_sample,dota 2 teleport preview,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-teleport,general_competitor_sample,dota 2 teleport preview,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-teleport,general_competitor_sample,dota 2 teleport preview,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-auto-dodge,general_competitor_sample,dota 2 auto dodge,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-auto-dodge,general_competitor_sample,dota 2 auto dodge,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-auto-dodge,general_competitor_sample,dota 2 auto dodge,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-auto-dodge,general_competitor_sample,dota 2 auto dodge,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-dodge,general_competitor_sample,dota 2 auto dodge,https://umbrella-dota.com/en/features/dodger/,product_feature_page,769,0,0,0,0,0,0,semantic_main
+dota2-auto-dodge,general_competitor_sample,dota 2 auto dodge,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-auto-dodge,intent_matched_sample,dota 2 auto dodge,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-dodge,intent_matched_sample,dota 2 auto dodge,https://umbrella-dota.com/en/features/dodger/,product_feature_page,769,0,0,0,0,0,0,semantic_main
+dota2-auto-dodge,intent_matched_sample,auto dodge,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-dodge,intent_matched_sample,auto dodge,https://umbrella-dota.com/en/features/dodger/,product_feature_page,769,0,0,0,0,0,0,semantic_main
+dota2-auto-dodge,intent_matched_sample,dodger,https://uc.zone/en/dota2,commercial_page_provisional,945,1,0,0,0,1,0,body_fallback_review_needed
+dota2-auto-dodge,intent_matched_sample,dodger,https://umbrella-dota.com/en/features/dodger/,product_feature_page,769,5,1,1,1,2,0,semantic_main
+dota2-auto-dodge,intent_matched_sample,skillshot,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-dodge,intent_matched_sample,skillshot,https://umbrella-dota.com/en/features/dodger/,product_feature_page,769,0,1,0,1,0,0,semantic_main
+dota2-skin-changer,general_competitor_sample,dota 2 skin changer,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-skin-changer,general_competitor_sample,dota 2 skin changer,https://dotacheats.com/,commercial_page_provisional,1361,1,0,0,0,0,0,semantic_main
+dota2-skin-changer,general_competitor_sample,dota 2 skin changer,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-skin-changer,general_competitor_sample,dota 2 skin changer,https://metaskins.gg/en,product,244,0,0,0,0,0,0,reviewed_content_selector
+dota2-skin-changer,general_competitor_sample,dota 2 skin changer,https://overplus.gg/en,product,241,0,0,0,0,0,0,reviewed_content_selector
+dota2-skin-changer,general_competitor_sample,dota 2 skin changer,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-skin-changer,general_competitor_sample,dota 2 skin changer,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-comparison,general_competitor_sample,dota 2 cheats comparison,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-comparison,general_competitor_sample,dota 2 cheats comparison,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-comparison,general_competitor_sample,dota 2 cheats comparison,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-comparison,general_competitor_sample,dota 2 cheats comparison,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-comparison,general_competitor_sample,dota 2 cheats comparison,https://umbrella-dota.com/en/blog/melonity-vs-umbrella/,commercial_comparison,852,0,0,0,0,0,0,semantic_main
+dota2-comparison,general_competitor_sample,dota 2 cheats comparison,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-comparison,intent_matched_sample,dota 2 cheats comparison,https://umbrella-dota.com/en/blog/melonity-vs-umbrella/,commercial_comparison,852,0,0,0,0,0,0,semantic_main
+dota2-comparison,intent_matched_sample,dota 2 cheats,https://umbrella-dota.com/en/blog/melonity-vs-umbrella/,commercial_comparison,852,0,1,0,0,0,0,semantic_main
+dota2-comparison,intent_matched_sample,dota2 cheats,https://umbrella-dota.com/en/blog/melonity-vs-umbrella/,commercial_comparison,852,0,0,0,0,0,0,semantic_main
+dota2-comparison,intent_matched_sample,Melonity,https://umbrella-dota.com/en/blog/melonity-vs-umbrella/,commercial_comparison,852,15,1,1,1,0,2,semantic_main
+dota2-comparison,intent_matched_sample,Umbrella,https://umbrella-dota.com/en/blog/melonity-vs-umbrella/,commercial_comparison,852,18,1,1,1,0,2,semantic_main
+dota2-comparison,intent_matched_sample,Octarine,https://umbrella-dota.com/en/blog/melonity-vs-umbrella/,commercial_comparison,852,0,0,0,0,0,0,semantic_main
+dota2-comparison,intent_matched_sample,comparison,https://umbrella-dota.com/en/blog/melonity-vs-umbrella/,commercial_comparison,852,1,0,1,1,1,1,semantic_main
+dota2-auto-last-hit,general_competitor_sample,dota 2 auto last hit,https://dota2cheat.net/guides/,guide_index,147,0,0,0,0,0,0,semantic_main
+dota2-auto-last-hit,general_competitor_sample,dota 2 auto last hit,https://dotacheats.com/,commercial_page_provisional,1361,0,0,0,0,0,0,semantic_main
+dota2-auto-last-hit,general_competitor_sample,dota 2 auto last hit,https://dotacheats.com/blog/dota-2-cheats-features-guide/,guide_or_article,1000,0,0,0,0,0,0,semantic_main
+dota2-auto-last-hit,general_competitor_sample,dota 2 auto last hit,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-last-hit,general_competitor_sample,dota 2 auto last hit,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-auto-last-hit,intent_matched_sample,dota 2 auto last hit,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-last-hit,intent_matched_sample,dota 2 auto last hit,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-auto-last-hit,intent_matched_sample,dota 2 last hit script,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-last-hit,intent_matched_sample,dota 2 last hit script,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-auto-last-hit,intent_matched_sample,last hit,https://uc.zone/en/dota2,commercial_page_provisional,945,1,0,1,0,1,0,body_fallback_review_needed
+dota2-auto-last-hit,intent_matched_sample,last hit,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,1,1,0,0,0,0,semantic_main
+dota2-auto-last-hit,intent_matched_sample,last hitting,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-last-hit,intent_matched_sample,last hitting,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+dota2-auto-last-hit,intent_matched_sample,auto deny,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-auto-last-hit,intent_matched_sample,auto deny,https://umbrella-dota.com/en/scripts/,commercial_page_provisional,425,0,0,0,0,0,0,semantic_main
+deadlock-auto-parry,general_competitor_sample,deadlock auto parry,https://avalan.cc/,commercial_page_provisional,1298,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-auto-parry,general_competitor_sample,deadlock auto parry,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-auto-parry,general_competitor_sample,deadlock auto parry,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-auto-parry,general_competitor_sample,deadlock auto parry,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,0,0,0,0,0,0,semantic_main
+deadlock-auto-parry,general_competitor_sample,deadlock auto parry,https://tsuki.gg/products/deadlock/features,commercial_page_provisional,1580,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-auto-parry,general_competitor_sample,deadlock auto parry,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,general_competitor_sample,deadlock souls aimbot,https://avalan.cc/,commercial_page_provisional,1298,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,general_competitor_sample,deadlock souls aimbot,https://avalan.cc/features,commercial_page_provisional,1640,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,general_competitor_sample,deadlock souls aimbot,https://cheatstore.net/deadlock/triggerbot,product_feature_landing,436,0,0,0,0,0,0,semantic_main
+deadlock-souls,general_competitor_sample,deadlock souls aimbot,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-souls,general_competitor_sample,deadlock souls aimbot,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,general_competitor_sample,deadlock souls aimbot,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,0,0,0,0,0,0,semantic_main
+deadlock-souls,general_competitor_sample,deadlock souls aimbot,https://tsuki.gg/products/deadlock/features,commercial_page_provisional,1580,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,general_competitor_sample,deadlock souls aimbot,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,intent_matched_sample,deadlock souls aimbot,https://tsuki.gg/products/deadlock/features,commercial_page_provisional,1580,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,intent_matched_sample,soul aimbot,https://tsuki.gg/products/deadlock/features,commercial_page_provisional,1580,1,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,intent_matched_sample,soul triggerbot,https://tsuki.gg/products/deadlock/features,commercial_page_provisional,1580,2,0,0,0,0,0,body_fallback_review_needed
+deadlock-souls,intent_matched_sample,soul ESP,https://tsuki.gg/products/deadlock/features,commercial_page_provisional,1580,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-esp,general_competitor_sample,deadlock esp,https://avalan.cc/,commercial_page_provisional,1298,3,0,0,0,1,0,body_fallback_review_needed
+deadlock-esp,general_competitor_sample,deadlock esp,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-esp,general_competitor_sample,deadlock esp,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-esp,general_competitor_sample,deadlock esp,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,1,0,0,0,0,0,semantic_main
+deadlock-esp,general_competitor_sample,deadlock esp,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-aimbot,general_competitor_sample,deadlock aimbot,https://avalan.cc/,commercial_page_provisional,1298,3,0,0,0,1,0,body_fallback_review_needed
+deadlock-aimbot,general_competitor_sample,deadlock aimbot,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-aimbot,general_competitor_sample,deadlock aimbot,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-aimbot,general_competitor_sample,deadlock aimbot,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,0,0,0,0,0,0,semantic_main
+deadlock-aimbot,general_competitor_sample,deadlock aimbot,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-fov,general_competitor_sample,deadlock fov changer,https://avalan.cc/,commercial_page_provisional,1298,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-fov,general_competitor_sample,deadlock fov changer,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-fov,general_competitor_sample,deadlock fov changer,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-fov,general_competitor_sample,deadlock fov changer,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,0,0,0,0,0,0,semantic_main
+deadlock-fov,general_competitor_sample,deadlock fov changer,https://tsuki.gg/scripts/deadlock/aimed-fov,public_script_description,67,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-fov,general_competitor_sample,deadlock fov changer,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-combos,general_competitor_sample,deadlock hero combos cheat,https://avalan.cc/,commercial_page_provisional,1298,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-combos,general_competitor_sample,deadlock hero combos cheat,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-combos,general_competitor_sample,deadlock hero combos cheat,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-combos,general_competitor_sample,deadlock hero combos cheat,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,0,0,0,0,0,0,semantic_main
+deadlock-combos,general_competitor_sample,deadlock hero combos cheat,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-dodger,general_competitor_sample,deadlock auto dodge cheat,https://avalan.cc/,commercial_page_provisional,1298,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-dodger,general_competitor_sample,deadlock auto dodge cheat,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-dodger,general_competitor_sample,deadlock auto dodge cheat,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-dodger,general_competitor_sample,deadlock auto dodge cheat,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,0,0,0,0,0,0,semantic_main
+deadlock-dodger,general_competitor_sample,deadlock auto dodge cheat,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-comparison,general_competitor_sample,deadlock cheats comparison,https://avalan.cc/,commercial_page_provisional,1298,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-comparison,general_competitor_sample,deadlock cheats comparison,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-comparison,general_competitor_sample,deadlock cheats comparison,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-comparison,general_competitor_sample,deadlock cheats comparison,https://deadlockcheats.net/blog,commercial_comparison,671,1,0,0,0,1,0,semantic_main
+deadlock-comparison,general_competitor_sample,deadlock cheats comparison,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,0,0,0,0,0,0,semantic_main
+deadlock-comparison,general_competitor_sample,deadlock cheats comparison,https://ivsofte.biz/en/blog/best-deadlock-cheats/,commercial_comparison,742,0,0,0,0,0,0,semantic_main
+deadlock-comparison,general_competitor_sample,deadlock cheats comparison,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-comparison,intent_matched_sample,deadlock cheats comparison,https://deadlockcheats.net/blog,commercial_comparison,671,1,0,0,0,1,0,semantic_main
+deadlock-comparison,intent_matched_sample,deadlock cheats comparison,https://ivsofte.biz/en/blog/best-deadlock-cheats/,commercial_comparison,742,0,0,0,0,0,0,semantic_main
+deadlock-comparison,intent_matched_sample,best deadlock cheats,https://deadlockcheats.net/blog,commercial_comparison,671,1,0,0,0,0,1,semantic_main
+deadlock-comparison,intent_matched_sample,best deadlock cheats,https://ivsofte.biz/en/blog/best-deadlock-cheats/,commercial_comparison,742,1,1,0,1,0,1,semantic_main
+deadlock-comparison,intent_matched_sample,deadlock cheats,https://deadlockcheats.net/blog,commercial_comparison,671,5,0,1,0,1,2,semantic_main
+deadlock-comparison,intent_matched_sample,deadlock cheats,https://ivsofte.biz/en/blog/best-deadlock-cheats/,commercial_comparison,742,5,1,0,1,1,2,semantic_main
+deadlock-comparison,intent_matched_sample,deadlock cheat,https://deadlockcheats.net/blog,commercial_comparison,671,14,1,1,1,3,4,semantic_main
+deadlock-comparison,intent_matched_sample,deadlock cheat,https://ivsofte.biz/en/blog/best-deadlock-cheats/,commercial_comparison,742,2,0,1,0,0,1,semantic_main
+deadlock-comparison,intent_matched_sample,comparison,https://deadlockcheats.net/blog,commercial_comparison,671,4,1,1,1,1,3,semantic_main
+deadlock-comparison,intent_matched_sample,comparison,https://ivsofte.biz/en/blog/best-deadlock-cheats/,commercial_comparison,742,2,1,0,1,1,1,semantic_main
+deadlock-trial,general_competitor_sample,free vs paid deadlock cheats,https://avalan.cc/,commercial_page_provisional,1298,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-trial,general_competitor_sample,free vs paid deadlock cheats,https://deadlock.io/en/mechanics/parry,guide_or_article,252,0,0,0,0,0,0,semantic_main
+deadlock-trial,general_competitor_sample,free vs paid deadlock cheats,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-trial,general_competitor_sample,free vs paid deadlock cheats,https://forgecheats.com/en/game/deadlock/,commercial_page_provisional,1976,0,0,0,0,0,0,semantic_main
+deadlock-trial,general_competitor_sample,free vs paid deadlock cheats,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-commands,general_competitor_sample,deadlock cheat commands,https://deadlock.wiki/Console_commands,command_reference,1500,0,0,0,0,0,0,body_fallback_review_needed
+cs2-hub,general_competitor_sample,cs2 cheats,https://anyx.gg/,commercial_page_provisional,119,0,1,0,1,0,0,semantic_main
+cs2-hub,general_competitor_sample,cs2 cheats,https://cheater.fun/cs2-hacks/,software_catalog,626,1,0,0,0,1,0,reviewed_content_selector
+cs2-hub,general_competitor_sample,cs2 cheats,https://cs2-cheats.com/,commercial_page_provisional,887,24,1,1,2,4,4,body_fallback_review_needed
+cs2-hub,general_competitor_sample,cs2 cheats,https://en.exloader.net/,commercial_page_provisional,1432,0,0,0,0,0,0,body_fallback_review_needed
+dota2-hub,general_competitor_sample,dota 2 cheats,https://uc.zone/en/dota2,commercial_page_provisional,945,0,1,0,0,0,0,body_fallback_review_needed
+deadlock-hub,general_competitor_sample,deadlock cheats,https://cheater.fun/deadlock_cheats/,software_catalog,91,1,0,0,1,0,1,reviewed_content_selector
+deadlock-hub,general_competitor_sample,deadlock cheats,https://ducks-services.com/store/category/145-deadlock/,commercial_page_provisional,32,0,1,0,0,0,0,semantic_main
+deadlock-hub,general_competitor_sample,deadlock cheats,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,1,0,0,0,0,body_fallback_review_needed
+deadlock-free-download,general_competitor_sample,free deadlock cheats,https://avalan.cc/,commercial_page_provisional,1298,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-free-download,general_competitor_sample,free deadlock cheats,https://cheater.fun/deadlock_cheats/,software_catalog,91,1,0,0,1,0,1,reviewed_content_selector
+deadlock-free-download,general_competitor_sample,free deadlock cheats,https://en.exloader.net/tree/games/deadlock/,software_catalog,287,0,0,0,0,0,0,reviewed_content_selector
+deadlock-free-download,general_competitor_sample,free deadlock cheats,https://octarine.fun/en/deadlock/,software_access_landing,510,0,1,0,0,0,0,semantic_main
+deadlock-free-download,general_competitor_sample,free deadlock cheats,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-free-download,intent_matched_sample,free deadlock cheats,https://cheater.fun/deadlock_cheats/,software_catalog,91,1,0,0,1,0,1,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,free deadlock cheats,https://en.exloader.net/tree/games/deadlock/,software_catalog,287,0,0,0,0,0,0,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,free deadlock cheats,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-free-download,intent_matched_sample,deadlock cheats,https://cheater.fun/deadlock_cheats/,software_catalog,91,1,0,0,1,0,1,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,deadlock cheats,https://en.exloader.net/tree/games/deadlock/,software_catalog,287,0,0,0,0,0,0,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,deadlock cheats,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,1,0,0,0,0,body_fallback_review_needed
+deadlock-free-download,intent_matched_sample,free download,https://cheater.fun/deadlock_cheats/,software_catalog,91,0,1,0,0,0,0,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,free download,https://en.exloader.net/tree/games/deadlock/,software_catalog,287,0,0,0,0,0,0,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,free download,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-free-download,intent_matched_sample,free trial,https://cheater.fun/deadlock_cheats/,software_catalog,91,0,0,0,0,0,0,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,free trial,https://en.exloader.net/tree/games/deadlock/,software_catalog,287,0,0,0,0,0,0,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,free trial,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+deadlock-free-download,intent_matched_sample,download,https://cheater.fun/deadlock_cheats/,software_catalog,91,3,1,1,0,0,3,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,download,https://en.exloader.net/tree/games/deadlock/,software_catalog,287,3,0,0,0,1,1,reviewed_content_selector
+deadlock-free-download,intent_matched_sample,download,https://uc.zone/en/deadlock,commercial_page_provisional,813,0,0,0,0,0,0,body_fallback_review_needed
+cs2-free-download,general_competitor_sample,free cs2 cheats,https://anyx.gg/,commercial_page_provisional,119,0,0,0,1,0,0,semantic_main
+cs2-free-download,general_competitor_sample,free cs2 cheats,https://cheater.fun/cs2-hacks/,software_catalog,626,0,0,0,0,0,0,reviewed_content_selector
+cs2-free-download,intent_matched_sample,free cs2 cheats,https://anyx.gg/,commercial_page_provisional,119,0,0,0,1,0,0,semantic_main
+cs2-free-download,intent_matched_sample,free cs2 cheats,https://cheater.fun/cs2-hacks/,software_catalog,626,0,0,0,0,0,0,reviewed_content_selector
+cs2-free-download,intent_matched_sample,cs2 cheats,https://anyx.gg/,commercial_page_provisional,119,0,1,0,1,0,0,semantic_main
+cs2-free-download,intent_matched_sample,cs2 cheats,https://cheater.fun/cs2-hacks/,software_catalog,626,1,0,0,0,1,0,reviewed_content_selector
+cs2-free-download,intent_matched_sample,free download,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-free-download,intent_matched_sample,free download,https://cheater.fun/cs2-hacks/,software_catalog,626,0,0,0,0,0,0,reviewed_content_selector
+cs2-free-download,intent_matched_sample,free trial,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-free-download,intent_matched_sample,free trial,https://cheater.fun/cs2-hacks/,software_catalog,626,0,0,0,0,0,0,reviewed_content_selector
+cs2-free-download,intent_matched_sample,download,https://anyx.gg/,commercial_page_provisional,119,0,0,0,0,0,0,semantic_main
+cs2-free-download,intent_matched_sample,download,https://cheater.fun/cs2-hacks/,software_catalog,626,11,1,1,0,0,1,reviewed_content_selector
+dota2-free-download,general_competitor_sample,free dota 2 cheats,https://cheater.fun/cheats_for_dota2_download_hacks_free/,software_catalog,171,1,0,0,1,0,1,reviewed_content_selector
+dota2-free-download,general_competitor_sample,free dota 2 cheats,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-free-download,intent_matched_sample,free dota 2 cheats,https://cheater.fun/cheats_for_dota2_download_hacks_free/,software_catalog,171,1,0,0,1,0,1,reviewed_content_selector
+dota2-free-download,intent_matched_sample,free dota 2 cheats,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-free-download,intent_matched_sample,dota 2 cheats,https://cheater.fun/cheats_for_dota2_download_hacks_free/,software_catalog,171,1,1,0,1,0,1,reviewed_content_selector
+dota2-free-download,intent_matched_sample,dota 2 cheats,https://uc.zone/en/dota2,commercial_page_provisional,945,0,1,0,0,0,0,body_fallback_review_needed
+dota2-free-download,intent_matched_sample,free download,https://cheater.fun/cheats_for_dota2_download_hacks_free/,software_catalog,171,0,0,0,0,0,0,reviewed_content_selector
+dota2-free-download,intent_matched_sample,free download,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed
+dota2-free-download,intent_matched_sample,free trial,https://cheater.fun/cheats_for_dota2_download_hacks_free/,software_catalog,171,0,0,0,0,0,0,reviewed_content_selector
+dota2-free-download,intent_matched_sample,free trial,https://uc.zone/en/dota2,commercial_page_provisional,945,1,0,0,0,0,0,body_fallback_review_needed
+dota2-free-download,intent_matched_sample,download,https://cheater.fun/cheats_for_dota2_download_hacks_free/,software_catalog,171,6,1,0,0,0,3,reviewed_content_selector
+dota2-free-download,intent_matched_sample,download,https://uc.zone/en/dota2,commercial_page_provisional,945,0,0,0,0,0,0,body_fallback_review_needed

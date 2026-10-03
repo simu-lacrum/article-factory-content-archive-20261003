@@ -1,0 +1,360 @@
+{
+  "url": "https://deadlock.io/en/mechanics/parry",
+  "canonical": "https://deadlock.io/en/mechanics/parry",
+  "language": "en",
+  "title": "Deadlock Parry: how it works, timings & guide | Deadlock.io",
+  "description": "Parrying is a timed defense against incoming melee attacks. A successful parry interrupts the attacker and creates an opening.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Parry"
+    },
+    {
+      "level": 2,
+      "text": "In practice"
+    },
+    {
+      "level": 4,
+      "text": "identity"
+    }
+  ],
+  "document_h1": [
+    "Parry"
+  ],
+  "text": "Combat · Combat · Also calledmelee parry, parry window, melee counter Parry Parrying is a timed defense against incoming melee attacks. A successful parry interrupts the attacker and creates an opening. Overview In practice React to the attack’s wind-up. Repeatedly pressing parry without an incoming attack can leave it unavailable when you need it. Update history 25 Minor Update - 05-28-2026 May 28, 2026 Parrying a trooper no longer resets your parry cooldown (however it won't end your parry early like a hero hit does) 05-27-2025 Update May 27, 2025 Melee 05-21-2025 Update May 21, 2025 Melee damage growth per boon reduced by 5% 05-19-2025 Update May 20, 2025 Quarters: Melee Resistance increased from 15% to 20% Melee Blank: Melee Resistance increased from +25% to +30% Fists: Melee damage reduced from 25% to 20% 04-17-2025 Update Apr 18, 2025 Guardians melee attempt range reduced from 6.1m to 5m Guardians melee damage range reduced from 8m to 7m Players can no longer Parry troopers Heavy Melee Cancel momentum is significantly reduced 04-04-2025 Update Apr 04, 2025 Fixed issues with denying melee soul orbs Data and API API identity id mechanic_parry slug parry category combat flowStage fighting aliases melee parry, parry window, melee counter, block, F key parry, parry knockdown, парирование, парри, окно парирования, контра мили sourcePath manual:mechanics/parry updatedAt 2026-09-20T22:00:00.000Z GET /api/v1/mechanics/parry.json Mechanics GET /api/v1/globals.json Game data",
+  "words": 252,
+  "links": [
+    {
+      "text": "deadlock .io",
+      "url": "https://deadlock.io/en",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "naked_url",
+      "rel": []
+    },
+    {
+      "text": "Heroes",
+      "url": "https://deadlock.io/en/heroes",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Items",
+      "url": "https://deadlock.io/en/items",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Mechanics",
+      "url": "https://deadlock.io/en/mechanics",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Patch notes",
+      "url": "https://deadlock.io/en/patches",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "News",
+      "url": "https://deadlock.io/en/news",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Articles",
+      "url": "https://deadlock.io/en/articles",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Leaderboard",
+      "url": "https://deadlock.io/en/leaderboard",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skins",
+      "url": "https://deadlock.io/en/skins",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://deadlock.io/en",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Mechanics",
+      "url": "https://deadlock.io/en/mechanics",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Rebuttal",
+      "url": "https://deadlock.io/en/items/rebuttal",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Melee Lifesteal",
+      "url": "https://deadlock.io/en/items/melee-lifesteal",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lifestrike",
+      "url": "https://deadlock.io/en/items/lifestrike",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Light & heavy melee",
+      "url": "https://deadlock.io/en/mechanics/light-and-heavy-melee",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Status effects & CC",
+      "url": "https://deadlock.io/en/mechanics/status-effects",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Shields & barriers",
+      "url": "https://deadlock.io/en/mechanics/shields-and-barriers",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Minor Update - 05-28-2026",
+      "url": "https://deadlock.io/en/patches/minor-update-05-28-2026-2026-05-28-1833968530888928",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "05-27-2025 Update",
+      "url": "https://deadlock.io/en/patches/05-27-2025-update-66453",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "05-21-2025 Update",
+      "url": "https://deadlock.io/en/patches/05-21-2025-update-65674",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "05-19-2025 Update",
+      "url": "https://deadlock.io/en/patches/05-19-2025-update-65381",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "04-17-2025 Update",
+      "url": "https://deadlock.io/en/patches/04-17-2025-update-61382",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "04-04-2025 Update",
+      "url": "https://deadlock.io/en/patches/04-04-2025-update-60284",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "GET /api/v1/mechanics/parry.json Mechanics",
+      "url": "https://deadlock.io/api/v1/mechanics/parry.json",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "GET /api/v1/globals.json Game data",
+      "url": "https://deadlock.io/api/v1/globals.json",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "deadlock .io",
+      "url": "https://deadlock.io/en",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "naked_url",
+      "rel": []
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://deadlock.io/cdn-cgi/l/email-protection#ff9c90918b9e9c8bbf9b9a9e9b93909c94d19690",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Heroes",
+      "url": "https://deadlock.io/en/heroes",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Items",
+      "url": "https://deadlock.io/en/items",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Mechanics",
+      "url": "https://deadlock.io/en/mechanics",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Patch notes",
+      "url": "https://deadlock.io/en/patches",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "News",
+      "url": "https://deadlock.io/en/news",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Articles",
+      "url": "https://deadlock.io/en/articles",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Leaderboard",
+      "url": "https://deadlock.io/en/leaderboard",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skins",
+      "url": "https://deadlock.io/en/skins",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "About",
+      "url": "https://deadlock.io/en/about",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Open API",
+      "url": "https://deadlock.io/api/v1/index.json",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": [
+        "nofollow"
+      ]
+    },
+    {
+      "text": "RSS feed",
+      "url": "https://deadlock.io/rss.xml",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": [
+        "nofollow"
+      ]
+    },
+    {
+      "text": "Privacy",
+      "url": "https://deadlock.io/en/privacy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Legal notice",
+      "url": "https://deadlock.io/en/about#legal",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "bd0b6a21aae2cc3d3a86041c9a4a717360e5fbc818fc06327f53ce22cb152482",
+  "captured_at": "2026-09-21T04:15:44.051794+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://deadlock.io/en/articles/mechanics/parry",
+  "http_status": 200,
+  "raw_file": "raw\\9bab15f69d498163d303.html"
+}

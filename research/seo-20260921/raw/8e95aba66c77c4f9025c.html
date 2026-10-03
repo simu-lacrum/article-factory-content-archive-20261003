@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html class="dark" lang="en" data-locale="en" data-ssr-locale="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#D03E5C" />
+    <meta name="referrer" content="no-referrer" />
+    <script type="2261dbc8665b0d637fd5571d-text/javascript">
+      (function () {
+        var storageKey = 'cs-language';
+        var supported = [
+          'en',
+          'sv',
+          'ar',
+          'ru',
+          'zh',
+          'pt',
+          'es',
+          'fr',
+          'de',
+          'ja',
+          'ko',
+        ];
+        var htmlLang = {
+          en: 'en',
+          sv: 'sv',
+          ar: 'ar',
+          ru: 'ru',
+          zh: 'zh-CN',
+          pt: 'pt',
+          es: 'es',
+          fr: 'fr',
+          de: 'de',
+          ja: 'ja',
+          ko: 'ko',
+        };
+
+        function normalize(value) {
+          if (!value) return null;
+          var normalized = String(value).toLowerCase();
+          if (normalized.indexOf('zh') === 0) return 'zh';
+          if (normalized.indexOf('pt') === 0) return 'pt';
+          if (normalized === 'german') return 'de';
+          if (normalized === 'japanese') return 'ja';
+          if (normalized === 'korean') return 'ko';
+          if (normalized === 'arabic') return 'ar';
+          if (normalized === 'russian') return 'ru';
+          if (normalized === 'swedish') return 'sv';
+          if (normalized === 'spanish') return 'es';
+          if (normalized === 'french') return 'fr';
+          if (normalized === 'english') return 'en';
+          var base = normalized.split(/[-_]/)[0];
+          return supported.indexOf(base) >= 0 ? base : null;
+        }
+
+        try {
+          var ssrLocale = normalize(document.documentElement.dataset.ssrLocale);
+          var storedLocale = normalize(window.localStorage.getItem(storageKey));
+          var locale =
+            storedLocale ||
+            ssrLocale ||
+            normalize((navigator.languages || [navigator.language])[0]) ||
+            'en';
+          document.documentElement.lang = htmlLang[locale] || 'en';
+          document.documentElement.dataset.locale = locale;
+        } catch (error) {}
+      })();
+    </script>
+    <style data-critical>
+      @font-face {
+        font-family: 'Inter';
+        src: url('/fonts/Inter-roman.var.woff2') format('woff2');
+        font-weight: 100 900;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: 'Inter';
+        src: url('/fonts/Inter-italic.var.woff2') format('woff2');
+        font-weight: 100 900;
+        font-style: italic;
+        font-display: swap;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      :root,
+      html {
+        min-height: 100%;
+        max-width: 100%;
+        scrollbar-gutter: stable;
+        overflow-x: clip;
+        background: #070707;
+        color-scheme: dark;
+        --site-navbar-height: 4rem;
+      }
+
+      body {
+        min-height: 100%;
+        max-width: 100%;
+        margin: 0;
+        overflow-x: clip;
+        background: #070707;
+        color: #fff;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system,
+          BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      }
+
+      img,
+      video,
+      canvas,
+      svg {
+        display: block;
+        max-width: 100%;
+      }
+
+      #root {
+        min-height: 100%;
+      }
+
+      #prerender[data-prerender] {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        width: 100%;
+        min-height: 100%;
+        pointer-events: none;
+      }
+
+      #prerender[data-prerender] + #root {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        min-height: 100%;
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      html[data-app-ready='true'] #prerender[data-prerender] {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+      }
+
+      html[data-app-ready='true'] #prerender[data-prerender] + #root {
+        position: relative;
+        inset: auto;
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+      }
+    </style>
+    
+
+    <link
+      rel="icon"
+      type="image/png"
+      href="/favicon-96x96.png?v=20260508"
+      sizes="96x96"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=20260508" />
+    <link rel="shortcut icon" href="/favicon.ico?v=20260508" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/apple-touch-icon.png?v=20260508"
+    />
+    <meta name="apple-mobile-web-app-title" content="CheatStore" />
+    <link rel="manifest" href="/site.webmanifest?v=20260508" />
+
+    <link rel="preconnect" href="https://api.cheatstore.net" crossorigin />
+    <link rel="preconnect" href="https://cdn.cheatstore.net" crossorigin />
+    <link rel="dns-prefetch" href="https://api.cheatstore.net" />
+    <link rel="dns-prefetch" href="https://cdn.cheatstore.net" />
+    <link
+      rel="preload"
+      href="/fonts/Inter-roman.var.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <title>Deadlock Cheats with Triggerbot | CheatStore</title>
+    <meta name="description" content="A triggerbot fires when your crosshair is on a target. That is the peek around a corner or a lane hold. This is the shop for Deadlock cheats with..." />
+    <meta name="application-name" content="CheatStore" />
+    <meta name="keywords" content="Deadlock Cheats with Triggerbot, Deadlock Deadlock Triggerbot, Deadlock Deadlock Triggerbot cheats, Deadlock Triggerbot cheats" />
+    <link rel="canonical" href="https://cheatstore.net/deadlock/triggerbot" />
+    <link rel="alternate" hreflang="en" href="https://cheatstore.net/deadlock/triggerbot" />
+    <link rel="alternate" hreflang="x-default" href="https://cheatstore.net/deadlock/triggerbot" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="CheatStore" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:title" content="Deadlock Cheats with Triggerbot | CheatStore" />
+    <meta property="og:description" content="A triggerbot fires when your crosshair is on a target. That is the peek around a corner or a lane hold. This is the shop for Deadlock cheats with..." />
+    <meta property="og:url" content="https://cheatstore.net/deadlock/triggerbot" />
+    <meta property="og:image" content="https://cheatstore.net/og.jpg" />
+    <meta property="og:image:secure_url" content="https://cheatstore.net/og.jpg" />
+    <meta property="og:image:alt" content="Deadlock Deadlock Triggerbot cheats on CheatStore" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:domain" content="cheatstore.net" />
+    <meta name="twitter:url" content="https://cheatstore.net/deadlock/triggerbot" />
+    <meta name="twitter:title" content="Deadlock Cheats with Triggerbot | CheatStore" />
+    <meta name="twitter:description" content="A triggerbot fires when your crosshair is on a target. That is the peek around a corner or a lane hold. This is the shop for Deadlock cheats with..." />
+    <meta name="twitter:image" content="https://cheatstore.net/og.jpg" />
+    <meta name="twitter:image:src" content="https://cheatstore.net/og.jpg" />
+    <meta name="twitter:image:alt" content="Deadlock Deadlock Triggerbot cheats on CheatStore" />
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+    <script id="__CS_RUNTIME_CONFIG__" type="2261dbc8665b0d637fd5571d-text/javascript">window.__CHEATSTORE_RUNTIME_CONFIG__={"apiUrl":"https://api.cheatstore.net"};</script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-DV3Srqjl.js">
+    <link rel="modulepreload" crossorigin href="/assets/app-seo-tdX-8Qg7.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-aria-CX_97LnD.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-motion-CnboCwQq.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-query-D-LhTDpz.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-nextui-nasyROP6.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-icons-BJrMhXQQ.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-Bp7_YauB.css">
+  </head>
+  <body>
+    <div id="prerender" data-prerender data-prerender-route="category-hub" data-prerender-handoff="true"><style data-seo-shell>
+  .seo-shell{min-height:100dvh;display:flex;flex-direction:column;background:#070707;color:#fff;font-family:'Inter',Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-synthesis:none}
+  .seo-shell>main{flex:1 0 auto}
+  .seo-only-heading{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+  .seo-link-directory{position:absolute!important;width:1px!important;height:1px!important;margin:-1px!important;padding:0!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+  .seo-skeleton{background:rgba(255,255,255,.06)}
+  .cs-navbar-glass{background:rgba(0,0,0,.55)!important;-webkit-backdrop-filter:blur(16px) saturate(150%)!important;backdrop-filter:blur(16px) saturate(150%)!important}
+  .seo-shell-navbar{position:sticky;top:0;z-index:30;display:flex;align-items:center;width:100%;height:var(--site-navbar-height);min-height:var(--site-navbar-height);max-height:var(--site-navbar-height);overflow:visible;color:#fff;box-shadow:none}
+  .seo-shell-navbar-inner{position:relative;display:flex;align-items:center;justify-content:space-between;width:100%;height:100%;max-width:80rem;margin:0 auto;padding:0 1rem}
+  .seo-shell-navbar-side{display:flex;height:100%;min-width:0;flex:1 1 0%;basis:0;align-items:center}
+  .seo-shell-navbar-side-start{justify-content:flex-start;gap:1rem}
+  .seo-shell-navbar-side-end{justify-content:flex-end;gap:.5rem}
+  .seo-shell-menu-button{display:inline-flex;height:2.5rem;width:2.5rem;align-items:center;justify-content:center;border:0;border-radius:.375rem;background:transparent;color:rgba(255,255,255,.9);padding:0}
+  .seo-shell-logo{display:none;color:inherit;text-decoration:none}
+  .seo-shell-logo-mark{display:block;height:3rem;margin-top:.75rem}
+  .seo-shell-primary-nav{position:absolute;left:50%;top:50%;display:none;transform:translate(-50%,-50%);align-items:center;gap:1.5rem;white-space:nowrap}
+  .seo-shell-primary-nav a{color:#fff;font-size:1rem;line-height:1.5rem;text-decoration:none;transition:color .2s ease}
+  .seo-shell-primary-nav a:hover{color:rgba(255,255,255,.7)}
+  .seo-shell-preview-link{display:inline-flex;align-items:center;gap:.25rem}
+  .seo-shell-preview-chevron{display:inline-flex;height:1rem;width:1rem;flex-shrink:0;align-items:center;justify-content:center;margin-top:.125rem;color:#71717a}
+  .seo-shell-preview-chevron svg,.seo-shell-language-chevron svg{display:block;height:1rem;width:1rem;flex-shrink:0}
+  .seo-shell-language{display:none}
+  .seo-shell-language-button{display:inline-flex;height:2.25rem;width:3.875rem;align-items:center;justify-content:center;border:0;border-radius:.375rem;background:transparent;color:rgba(255,255,255,.8);padding:0 .375rem}
+  .seo-shell-language-grid{display:grid;height:1.25rem;width:3.125rem;grid-template-columns:1.75rem 1rem;align-items:center;gap:.375rem}
+  .seo-shell-language-chevron{display:inline-flex;height:1rem;width:1rem;flex-shrink:0;align-items:center;justify-content:center;color:rgba(255,255,255,.45)}
+  .seo-shell-cart-button{position:relative;display:inline-flex;height:2.5rem;width:2.5rem;min-width:2.5rem;align-items:center;justify-content:center;overflow:visible;border:0;border-radius:9999px;background:transparent;color:#d4d4d8;padding:0}
+  .seo-shell-cart-button svg{display:block;height:1.25rem;width:1.25rem}
+  .seo-shell-menu-button svg{display:block;height:1.5rem;width:1.5rem}
+  .seo-shell-cart-badge{position:absolute;right:-.25rem;top:-.25rem;display:flex;height:1.25rem;min-width:1.25rem;align-items:center;justify-content:center;border-radius:9999px;border:1px solid rgba(255,255,255,.15);background:#D03E5C;padding:0 .25rem;color:#fff;font-size:10px;font-weight:700;line-height:1;box-shadow:0 1px 4px rgba(0,0,0,.35)}
+  .seo-shell-footer{position:relative;isolation:isolate;margin-top:auto;border-top:1px solid #1b1b1d;background:#030303;padding-bottom:env(safe-area-inset-bottom);color:#fff}
+  .seo-shell-footer-glow{position:absolute;inset:0;z-index:0;pointer-events:none;background:radial-gradient(55% 100% at 50% 0%,rgba(208,62,92,.06),transparent 72%)}
+  .seo-shell-footer-emblem{position:absolute;left:50%;top:0;z-index:2;height:2.75rem;width:2.75rem;transform:translate(-50%,-50%);pointer-events:none;color:#D03E5C}
+  .seo-shell-footer-emblem svg{position:absolute;display:block}
+  .seo-shell-footer-emblem-outer{inset:0;height:2.75rem;width:2.75rem;fill:rgba(208,62,92,.2);color:rgba(208,62,92,.05)}
+  .seo-shell-footer-emblem-inner{left:50%;top:50%;height:1.5rem;width:1.5rem;transform:translate(-50%,-50%);fill:rgba(208,62,92,.5);color:#D03E5C}
+  .seo-shell-footer-inner{position:relative;z-index:1;max-width:80rem;margin:0 auto;padding:0 1rem}
+  .seo-shell-footer-grid{display:grid;gap:2.5rem;padding:2.5rem 0 4.5625rem}
+  .seo-shell-footer-brand{max-width:28rem}
+  .seo-shell-footer-logo{display:inline-flex;align-items:center;gap:.75rem;color:inherit;text-decoration:none}
+  .seo-shell-footer-logo svg{width:27px;height:28px;margin:0}
+  .seo-shell-footer-name{font-size:1rem;font-weight:600;letter-spacing:-.02em;color:#fff}
+  .seo-shell-footer-description{max-width:24rem;margin:.75rem 0 0;color:rgba(255,255,255,.45);font-size:.875rem;line-height:1.5rem}
+  .seo-shell-footer-nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:2rem;row-gap:2.25rem}
+  .seo-shell-footer-nav h2{margin:0;color:rgba(255,255,255,.8);font-size:.75rem;font-weight:600;line-height:1rem;letter-spacing:.14em;text-transform:uppercase}
+  .seo-shell-footer-nav ul{display:flex;flex-direction:column;gap:.25rem;margin:.5rem 0 0;padding:0;list-style:none}
+  .seo-shell-footer-nav a{display:inline-flex;width:max-content;align-items:center;gap:.375rem;color:rgba(255,255,255,.55);font-size:.875rem;line-height:1.5rem;text-decoration:none;transition:color .2s ease}
+  .seo-shell-footer-nav a:hover{color:#fff}
+  .seo-shell-footer-copy{margin:0;padding-bottom:1rem;color:rgba(255,255,255,.3);font-size:.75rem;line-height:1rem}
+  .cs-shell-flag{display:none;height:1.25rem;width:1.75rem;flex-shrink:0;overflow:hidden;border-radius:3px}
+  .cs-shell-flag svg{display:block;height:100%;width:100%}
+  @media (min-width:640px){.seo-shell-menu-button{display:none}.seo-shell-primary-nav{display:flex}.seo-shell-language{display:flex}.seo-shell-navbar-side-end{gap:1rem}.seo-shell-footer-inner{padding-left:1.5rem;padding-right:1.5rem}.seo-shell-footer-grid{padding-top:3rem;padding-bottom:4.8125rem}.seo-shell-footer-nav{grid-template-columns:repeat(3,minmax(0,1fr))}}
+  @media (min-width:768px){.seo-shell-logo{display:flex;align-items:center}}
+  @media (min-width:1024px){.seo-shell-footer-inner{padding-left:2rem;padding-right:2rem}.seo-shell-footer-grid{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:5rem}}
+  html:not([data-locale]) .cs-shell-flag-en,html[data-locale='en'] .cs-shell-flag-en,html[data-locale='sv'] .cs-shell-flag-sv,html[data-locale='ar'] .cs-shell-flag-ar,html[data-locale='ru'] .cs-shell-flag-ru,html[data-locale='zh'] .cs-shell-flag-zh,html[data-locale='pt'] .cs-shell-flag-pt,html[data-locale='es'] .cs-shell-flag-es,html[data-locale='fr'] .cs-shell-flag-fr,html[data-locale='de'] .cs-shell-flag-de,html[data-locale='ja'] .cs-shell-flag-ja,html[data-locale='ko'] .cs-shell-flag-ko{display:inline-flex}
+</style><div class="seo-shell"><header class="seo-shell-navbar cs-navbar-glass dark">
+  <div class="seo-shell-navbar-inner">
+    <div class="seo-shell-navbar-side seo-shell-navbar-side-start">
+      <button class="seo-shell-menu-button" type="button" aria-label="Open menu"><svg viewBox="0 0 24 24" class="h-6 w-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+      <a class="seo-shell-logo" href="/" aria-label="CheatStore home"><span class="seo-shell-logo-mark"><svg id="uuid-a909ce5e-2bf2-412d-abca-6ac9038e7b9a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698.92 725.22" width="37" height="38" aria-hidden="true"><g id="uuid-a8ee102d-3172-4fa3-8daa-3282fb488955"><path d="m33.19,680.89l312.02-234.27c14.02,66.24,78.88,88.52,160.02,107.06,58.6,13.65,72.74,23.41,72.74,41.32v1.25c0,18.53-17.28,29.67-49.33,29.67-49.96,0-97.41-17.9-139.98-51.83l-66.62,79.51c52.97,47.58,125.84,71.62,202.34,71.62,104.8,0,174.54-52.46,174.54-140.61v-1.25c0-80.89-61.73-112.94-161.02-134.48-59.85-13.65-74.62-22.29-74.62-41.95v-1.25c0-15.4,14.15-27.8,43.2-27.8,38.19,0,81.38,14.78,120.83,42.58l59.85-84.52c-46.83-37.56-104.17-57.35-177.67-57.35-3.25,0-6.51,0-9.64.13-5.63.25-11.14.62-16.53,1.12l-140.49,125.22L33.19,680.89Z" fill="#E2E8F0"/><path d="m361.23,314.03l296.12-227.26L252.05,447.75c-9.39.88-19.16,1.38-29.42,1.38C99.29,449.13,0,354.72,0,225.75v-1.25C0,98.66,96.79,0,227.63,0c88.15,0,144.87,37.06,183.18,90.02l-90.03,69.74c-24.66-30.8-53.09-50.59-94.41-50.59-60.48,0-103.05,51.21-103.05,114.19v1.13c0,64.86,42.57,115.45,103.05,115.45,44.95,0,71.49-21.04,97.41-52.47l37.44,26.55Z" fill="#D03E5C"/></g></svg></span></a>
+    </div>
+    <nav class="seo-shell-primary-nav" aria-label="Primary">
+      <a class="seo-shell-preview-link" href="/store"><span>Store</span><span class="seo-shell-preview-chevron" aria-hidden="true"><svg viewBox="0 0 24 24" class="block h-4 w-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></span></a>
+      <a class="seo-shell-preview-link" href="/accounts"><span>Accounts</span><span class="seo-shell-preview-chevron" aria-hidden="true"><svg viewBox="0 0 24 24" class="block h-4 w-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></span></a>
+      <a href="/status">Status</a>
+      <a href="/blog">Blog</a>
+      <a href="/wiki">Wiki</a>
+      <a href="/support">Support</a>
+      <a href="/discord" target="_blank" rel="noopener noreferrer">Discord</a>
+    </nav>
+    <div class="seo-shell-navbar-side seo-shell-navbar-side-end">
+      <div class="seo-shell-language"><button class="seo-shell-language-button" type="button" aria-label="Language selector"><span class="seo-shell-language-grid"><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-en"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="20" fill="#B22234"/><rect y="1.54" width="28" height="1.54" fill="#fff"/><rect y="4.62" width="28" height="1.54" fill="#fff"/><rect y="7.7" width="28" height="1.54" fill="#fff"/><rect y="10.78" width="28" height="1.54" fill="#fff"/><rect y="13.86" width="28" height="1.54" fill="#fff"/><rect y="16.94" width="28" height="1.54" fill="#fff"/><rect width="11.8" height="10.77" fill="#3C3B6E"/><circle cx="1.05" cy="1.05" r=".22" fill="#fff"/><circle cx="2.9" cy="1.05" r=".22" fill="#fff"/><circle cx="4.75" cy="1.05" r=".22" fill="#fff"/><circle cx="6.6" cy="1.05" r=".22" fill="#fff"/><circle cx="8.45" cy="1.05" r=".22" fill="#fff"/><circle cx="10.3" cy="1.05" r=".22" fill="#fff"/><circle cx="1.97" cy="3" r=".22" fill="#fff"/><circle cx="3.82" cy="3" r=".22" fill="#fff"/><circle cx="5.67" cy="3" r=".22" fill="#fff"/><circle cx="7.52" cy="3" r=".22" fill="#fff"/><circle cx="9.37" cy="3" r=".22" fill="#fff"/><circle cx="11.22" cy="3" r=".22" fill="#fff"/><circle cx="1.05" cy="4.95" r=".22" fill="#fff"/><circle cx="2.9" cy="4.95" r=".22" fill="#fff"/><circle cx="4.75" cy="4.95" r=".22" fill="#fff"/><circle cx="6.6" cy="4.95" r=".22" fill="#fff"/><circle cx="8.45" cy="4.95" r=".22" fill="#fff"/><circle cx="10.3" cy="4.95" r=".22" fill="#fff"/><circle cx="1.97" cy="6.9" r=".22" fill="#fff"/><circle cx="3.82" cy="6.9" r=".22" fill="#fff"/><circle cx="5.67" cy="6.9" r=".22" fill="#fff"/><circle cx="7.52" cy="6.9" r=".22" fill="#fff"/><circle cx="9.37" cy="6.9" r=".22" fill="#fff"/><circle cx="11.22" cy="6.9" r=".22" fill="#fff"/><circle cx="1.05" cy="8.85" r=".22" fill="#fff"/><circle cx="2.9" cy="8.85" r=".22" fill="#fff"/><circle cx="4.75" cy="8.85" r=".22" fill="#fff"/><circle cx="6.6" cy="8.85" r=".22" fill="#fff"/><circle cx="8.45" cy="8.85" r=".22" fill="#fff"/><circle cx="10.3" cy="8.85" r=".22" fill="#fff"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-sv"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="20" fill="#006AA7"/><rect x="8" width="4" height="20" fill="#FECC00"/><rect y="8" width="28" height="4" fill="#FECC00"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-ar"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="20" fill="#0B7A3B"/><text x="14" y="13.5" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">AR</text></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-ru"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="20" fill="#fff"/><rect y="6.67" width="28" height="6.66" fill="#0039A6"/><rect y="13.33" width="28" height="6.67" fill="#D52B1E"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-zh"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="20" fill="#DE2910"/><path d="m5.2 2.3.65 2h2.1l-1.7 1.23.65 2-1.7-1.23-1.7 1.23.65-2-1.7-1.23h2.1z" fill="#FFDE00"/><path d="m10.2 2.2.55.75-.87.27zm2.1 2.3.14.92-.83-.42zm-.35 3.2-.55.75-.28-.87zm-2.1 2.1-.92.04.45-.82z" fill="#FFDE00"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-pt"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="11.2" height="20" fill="#046A38"/><rect x="11.2" width="16.8" height="20" fill="#DA291C"/><circle cx="11.2" cy="10" r="3.1" fill="#FFCD00"/><circle cx="11.2" cy="10" r="1.85" fill="#fff"/><path d="M9.85 8.7h2.7v1.35c0 1-.62 1.55-1.35 1.55s-1.35-.55-1.35-1.55z" fill="#DA291C"/><path d="M10.35 9.05h1.7v.95c0 .6-.38.92-.85.92s-.85-.32-.85-.92z" fill="#046A38"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-es"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="20" fill="#AA151B"/><rect y="5" width="28" height="10" fill="#F1BF00"/><rect x="7" y="8" width="2.2" height="3.8" rx=".4" fill="#AA151B"/><rect x="6.55" y="7.45" width="3.1" height=".7" rx=".25" fill="#AA151B"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-fr"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="9.34" height="20" fill="#002654"/><rect x="9.34" width="9.33" height="20" fill="#fff"/><rect x="18.67" width="9.33" height="20" fill="#CE1126"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-de"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="6.67" fill="#000"/><rect y="6.67" width="28" height="6.66" fill="#DD0000"/><rect y="13.33" width="28" height="6.67" fill="#FFCE00"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-ja"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="20" fill="#fff"/><circle cx="14" cy="10" r="4.2" fill="#BC002D"/></svg></span><span class="cs-shell-flag h-5 w-7 shrink-0 overflow-hidden rounded-[3px] cs-shell-flag-ko"><svg viewBox="0 0 28 20" aria-hidden="true" class="block h-full w-full"><rect width="28" height="20" fill="#fff"/><circle cx="14" cy="10" r="3.6" fill="#CD2E3A"/><path d="M10.4 10a3.6 3.6 0 0 0 7.2 0 1.8 1.8 0 0 0-3.6 0 1.8 1.8 0 0 1-3.6 0z" fill="#0047A0"/><g stroke="#111" stroke-width=".7"><path d="M6.1 4.6 8.9 3M6.8 5.8 9.6 4.2M18.4 15.8l2.8-1.6M19.1 17l2.8-1.6M19.1 3l2.8 1.6M18.4 4.2l2.8 1.6M6.8 14.2l2.8 1.6M6.1 15.4 8.9 17"/></g></svg></span><span class="seo-shell-language-chevron"><svg viewBox="0 0 24 24" class="block h-4 w-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></span></span></button></div>
+      <div><button class="seo-shell-cart-button" type="button" aria-label="Shopping cart 0"><svg viewBox="0 0 24 24" class="h-5 w-5" aria-hidden="true"><path fill="currentColor" d="M17 18c-1.11 0-2 .89-2 2a2 2 0 0 0 2 2a2 2 0 0 0 2-2a2 2 0 0 0-2-2M1 2v2h2l3.6 7.59l-1.36 2.45c-.15.28-.24.61-.24.96a2 2 0 0 0 2 2h12v-2H7.42a.25.25 0 0 1-.25-.25q0-.075.03-.12L8.1 13h7.45c.75 0 1.41-.42 1.75-1.03l3.58-6.47c.07-.16.12-.33.12-.5a1 1 0 0 0-1-1H5.21l-.94-2M7 18c-1.11 0-2 .89-2 2a2 2 0 0 0 2 2a2 2 0 0 0 2-2a2 2 0 0 0-2-2"/></svg><span class="seo-shell-cart-badge">0</span></button></div>
+    </div>
+  </div>
+</header><main class="dark relative flex-1 text-foreground cs-page-bg font-inter">
+  <div class="pointer-events-none absolute inset-x-0 top-0 z-0 h-[24rem] overflow-hidden" aria-hidden="true"></div>
+  <div class="relative z-10 mx-auto max-w-7xl px-4 pt-6 sm:px-6 lg:px-8"><nav class="flex items-center text-sm text-zinc-400" aria-label="Breadcrumb"><a class="hover:text-white transition-colors" href="/store">Store</a><span class="mx-2 text-zinc-600">/</span><a class="hover:text-white transition-colors" href="/deadlock">Deadlock</a><span class="mx-2 text-zinc-600">/</span><span class="text-zinc-300">Deadlock Triggerbot</span></nav></div>
+  <section class="relative z-10 flex min-h-[20rem] w-full flex-col items-center justify-start rounded-md px-4 pb-10 pt-12 antialiased sm:pb-12 sm:pt-14">
+    <div class="mx-auto w-full max-w-5xl">
+      <h1 class="relative z-10 mx-auto line-clamp-2 max-w-full break-words pb-1 text-center font-sans text-4xl font-bold leading-[1.12] text-transparent bg-clip-text bg-gradient-to-b from-primary/80 to-primary [overflow-wrap:anywhere] sm:text-6xl lg:text-7xl">Deadlock Cheats with Triggerbot</h1>
+      <div class="relative z-10 mx-auto mt-5 max-w-4xl"><div class="cs-description-copy relative text-left"><div class="cs-description-glow" aria-hidden="true"></div><div class="cs-description-line" aria-hidden="true"></div><div class="cs-description-text min-w-0 space-y-4 text-sm leading-7 text-zinc-300 sm:text-[15px] sm:leading-8"><p class="whitespace-pre-line">A triggerbot fires when your crosshair is on a target. That is the peek around a corner or a lane hold.</p>
+<p class="whitespace-pre-line">This is the shop for Deadlock cheats with triggerbot. You can buy some of the best Deadlock triggerbot cheats and hacks here, used by thousands of customers.</p>
+<p class="whitespace-pre-line">This is only paid cheats. Free hacks are very high risk and will likely get you banned. These listings are for PC. Console is not supported.</p></div></div></div>
+    </div>
+  </section>
+  <section class="relative z-10"><div class="relative !pt-0 pb-12 md:rounded-3xl lg:rounded-[1.5rem]"><div class="relative mx-auto max-w-[99rem] px-4 sm:px-6 lg:px-8"><div class="flex flex-col gap-4"><div class="mb-6 flex flex-col gap-3 lg:flex-row lg:items-end lg:gap-2" aria-hidden="true"><div class="flex h-8 items-center gap-2"><div class="seo-skeleton animate-pulse rounded-md h-3 w-3 rounded-full" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-4 w-16" aria-hidden="true"></div></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-full rounded-none lg:w-[200px]" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-full lg:ml-auto lg:w-[210px]" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-full rounded-none lg:max-w-xs" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-full rounded-none lg:max-w-[160px]" aria-hidden="true"></div></div><div class="grid grid-cols-1 gap-3 pb-8 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4"><div class="flex h-[260px] min-w-0 flex-col overflow-hidden rounded-md border border-white/[0.08] bg-[#050506]" aria-hidden="true"><div class="relative h-[194px] flex-none overflow-hidden"><div class="seo-skeleton animate-pulse rounded-md h-full w-full rounded-none" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md absolute left-2 top-2 h-7 w-24 rounded-[4px] bg-white/[0.08]" aria-hidden="true"></div></div><div class="flex min-h-[66px] flex-1 items-center gap-3 border-t border-white/[0.07] px-3 py-2"><div class="seo-skeleton animate-pulse rounded-md h-5 min-w-0 flex-1" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-16 shrink-0" aria-hidden="true"></div></div></div><div class="flex h-[260px] min-w-0 flex-col overflow-hidden rounded-md border border-white/[0.08] bg-[#050506]" aria-hidden="true"><div class="relative h-[194px] flex-none overflow-hidden"><div class="seo-skeleton animate-pulse rounded-md h-full w-full rounded-none" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md absolute left-2 top-2 h-7 w-24 rounded-[4px] bg-white/[0.08]" aria-hidden="true"></div></div><div class="flex min-h-[66px] flex-1 items-center gap-3 border-t border-white/[0.07] px-3 py-2"><div class="seo-skeleton animate-pulse rounded-md h-5 min-w-0 flex-1" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-16 shrink-0" aria-hidden="true"></div></div></div><div class="flex h-[260px] min-w-0 flex-col overflow-hidden rounded-md border border-white/[0.08] bg-[#050506]" aria-hidden="true"><div class="relative h-[194px] flex-none overflow-hidden"><div class="seo-skeleton animate-pulse rounded-md h-full w-full rounded-none" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md absolute left-2 top-2 h-7 w-24 rounded-[4px] bg-white/[0.08]" aria-hidden="true"></div></div><div class="flex min-h-[66px] flex-1 items-center gap-3 border-t border-white/[0.07] px-3 py-2"><div class="seo-skeleton animate-pulse rounded-md h-5 min-w-0 flex-1" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-16 shrink-0" aria-hidden="true"></div></div></div><div class="flex h-[260px] min-w-0 flex-col overflow-hidden rounded-md border border-white/[0.08] bg-[#050506]" aria-hidden="true"><div class="relative h-[194px] flex-none overflow-hidden"><div class="seo-skeleton animate-pulse rounded-md h-full w-full rounded-none" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md absolute left-2 top-2 h-7 w-24 rounded-[4px] bg-white/[0.08]" aria-hidden="true"></div></div><div class="flex min-h-[66px] flex-1 items-center gap-3 border-t border-white/[0.07] px-3 py-2"><div class="seo-skeleton animate-pulse rounded-md h-5 min-w-0 flex-1" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-16 shrink-0" aria-hidden="true"></div></div></div><div class="flex h-[260px] min-w-0 flex-col overflow-hidden rounded-md border border-white/[0.08] bg-[#050506]" aria-hidden="true"><div class="relative h-[194px] flex-none overflow-hidden"><div class="seo-skeleton animate-pulse rounded-md h-full w-full rounded-none" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md absolute left-2 top-2 h-7 w-24 rounded-[4px] bg-white/[0.08]" aria-hidden="true"></div></div><div class="flex min-h-[66px] flex-1 items-center gap-3 border-t border-white/[0.07] px-3 py-2"><div class="seo-skeleton animate-pulse rounded-md h-5 min-w-0 flex-1" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-16 shrink-0" aria-hidden="true"></div></div></div><div class="flex h-[260px] min-w-0 flex-col overflow-hidden rounded-md border border-white/[0.08] bg-[#050506]" aria-hidden="true"><div class="relative h-[194px] flex-none overflow-hidden"><div class="seo-skeleton animate-pulse rounded-md h-full w-full rounded-none" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md absolute left-2 top-2 h-7 w-24 rounded-[4px] bg-white/[0.08]" aria-hidden="true"></div></div><div class="flex min-h-[66px] flex-1 items-center gap-3 border-t border-white/[0.07] px-3 py-2"><div class="seo-skeleton animate-pulse rounded-md h-5 min-w-0 flex-1" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-16 shrink-0" aria-hidden="true"></div></div></div><div class="flex h-[260px] min-w-0 flex-col overflow-hidden rounded-md border border-white/[0.08] bg-[#050506]" aria-hidden="true"><div class="relative h-[194px] flex-none overflow-hidden"><div class="seo-skeleton animate-pulse rounded-md h-full w-full rounded-none" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md absolute left-2 top-2 h-7 w-24 rounded-[4px] bg-white/[0.08]" aria-hidden="true"></div></div><div class="flex min-h-[66px] flex-1 items-center gap-3 border-t border-white/[0.07] px-3 py-2"><div class="seo-skeleton animate-pulse rounded-md h-5 min-w-0 flex-1" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-16 shrink-0" aria-hidden="true"></div></div></div><div class="flex h-[260px] min-w-0 flex-col overflow-hidden rounded-md border border-white/[0.08] bg-[#050506]" aria-hidden="true"><div class="relative h-[194px] flex-none overflow-hidden"><div class="seo-skeleton animate-pulse rounded-md h-full w-full rounded-none" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md absolute left-2 top-2 h-7 w-24 rounded-[4px] bg-white/[0.08]" aria-hidden="true"></div></div><div class="flex min-h-[66px] flex-1 items-center gap-3 border-t border-white/[0.07] px-3 py-2"><div class="seo-skeleton animate-pulse rounded-md h-5 min-w-0 flex-1" aria-hidden="true"></div><div class="seo-skeleton animate-pulse rounded-md h-8 w-16 shrink-0" aria-hidden="true"></div></div></div></div></div><section class="seo-link-directory" aria-labelledby="seo-link-directory"><h2 id="seo-link-directory">Browse Deadlock</h2><ul><li><a class="block rounded-md border border-white/10 bg-white/[0.03] px-4 py-3 text-sm font-medium text-zinc-200 transition-colors hover:border-white/20 hover:text-white" href="/deadlock">All Deadlock products</a></li><li><a class="block rounded-md border border-white/10 bg-white/[0.03] px-4 py-3 text-sm font-medium text-zinc-200 transition-colors hover:border-white/20 hover:text-white" href="/store/product/foxyz-deadlock-cheat">Foxyz Deadlock Cheat</a></li></ul></section></div></div></section>
+  <div class="relative z-10 mx-auto -mt-8 max-w-7xl px-4 pb-16 sm:px-6 sm:pb-20 md:-mt-24 lg:px-8"><div class="mx-auto max-w-4xl"><div class="cs-description-copy relative text-left"><div class="cs-description-glow" aria-hidden="true"></div><div class="cs-description-line" aria-hidden="true"></div><div class="cs-description-text min-w-0 space-y-4 text-sm leading-7 text-zinc-300 sm:text-[15px] sm:leading-8"><h2>How to pick a Deadlock cheat with triggerbot</h2>
+<p class="whitespace-pre-line">First decide what kind of listing you need. One type shows up on this page:</p>
+<ul class="ml-6 list-disc space-y-1 marker:text-zinc-500"><li class="pl-1"><strong>Full cheat.</strong> Triggerbot plus the rest of the combat tools on one listing.</li></ul>
+<p class="whitespace-pre-line">This page is the triggerbot shop. The main Deadlock shop is one level up.</p>
+<h2>What to consider before buying a Deadlock cheat with triggerbot</h2>
+<ol class="ml-6 list-decimal space-y-1 marker:text-zinc-500"><li class="pl-1">It is good to get a new account so your main account does not get banned. There is Full Access Account (FA) and No Full Access (NFA). FA is the login and the email. NFA is login only, not the email. <a href="https://cheatstore.net/blog/nfa-vs-fa-accounts-explained">NFA vs FA accounts</a>.</li></ol>
+<ol class="ml-6 list-decimal space-y-1 marker:text-zinc-500"><li class="pl-1">A HWID spoofer protects your hardware ID from getting banned, so you can still play Deadlock on your computer on another account if you get banned. Deadlock runs VAC. If the listing does not include one, add it from the <a href="https://cheatstore.net/hwid-spoofer">HWID Spoofer</a> hub.</li></ol>
+<ol class="ml-6 list-decimal space-y-1 marker:text-zinc-500"><li class="pl-1">Check the product page before you buy. Each listing lists the Windows version and the other requirements it needs to run.</li></ol>
+<h2>Why you use triggerbot</h2>
+<p class="whitespace-pre-line">You do not miss the first shot on a peek. In Deadlock that is a lane, a jungle camp, or a soul urn fight. Meaning they peek, they drop.</p>
+<p class="whitespace-pre-line">Triggerbot fires. It does not move the aim. If you want the aim pulled to the player, use the aimbot filter.</p>
+<h2>FAQ</h2>
+<p class="whitespace-pre-line"><strong>What is triggerbot?</strong></p>
+<p class="whitespace-pre-line">A triggerbot fires when your crosshair is on a target. That is the peek around a corner or a lane hold.</p>
+<p class="whitespace-pre-line"><strong>Are these Deadlock triggerbot cheats undetected right now?</strong></p>
+<p class="whitespace-pre-line">The badge on each card is the live answer.</p>
+<p class="whitespace-pre-line"><strong>Do these work on a console?</strong></p>
+<p class="whitespace-pre-line">No. The cheats on this page are for PC.</p>
+<p class="whitespace-pre-line"><strong>Do I need a spoofer?</strong></p>
+<p class="whitespace-pre-line">Yes. Some listings already include one. If the listing does not, add a standalone from the <a href="https://cheatstore.net/hwid-spoofer">HWID Spoofer</a> hub.</p>
+<p class="whitespace-pre-line"><strong>Which Deadlock triggerbot cheat should I buy?</strong></p>
+<p class="whitespace-pre-line">This page is the triggerbot shop. Start with the full listing, then open the product page.</p>
+<p class="whitespace-pre-line"><strong>Is this a free Deadlock triggerbot trainer?</strong></p>
+<p class="whitespace-pre-line">No. This is a paid cheat and hack shop. The cards above are the paid listings.</p></div></div></div></div>
+</main><footer class="seo-shell-footer">
+  <div class="seo-shell-footer-glow" aria-hidden="true"></div>
+  <span class="seo-shell-footer-emblem" aria-hidden="true"><svg class="seo-shell-footer-emblem-outer" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15.362 5.214A8.252 8.252 0 0 1 12 21 8.25 8.25 0 0 1 6.038 7.047 8.287 8.287 0 0 0 9 9.601a8.983 8.983 0 0 1 3.361-6.867 8.21 8.21 0 0 0 3 2.48Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 18a3.75 3.75 0 0 0 .495-7.468 5.99 5.99 0 0 0-1.925 3.547 5.975 5.975 0 0 1-2.133-1.001A3.75 3.75 0 0 0 12 18Z"/></svg><svg class="seo-shell-footer-emblem-inner" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15.362 5.214A8.252 8.252 0 0 1 12 21 8.25 8.25 0 0 1 6.038 7.047 8.287 8.287 0 0 0 9 9.601a8.983 8.983 0 0 1 3.361-6.867 8.21 8.21 0 0 0 3 2.48Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 18a3.75 3.75 0 0 0 .495-7.468 5.99 5.99 0 0 0-1.925 3.547 5.975 5.975 0 0 1-2.133-1.001A3.75 3.75 0 0 0 12 18Z"/></svg></span>
+  <div class="seo-shell-footer-inner">
+    <div class="seo-shell-footer-grid">
+      <div class="seo-shell-footer-brand">
+        <a href="/" class="seo-shell-footer-logo" aria-label="CheatStore home"><svg id="uuid-a909ce5e-2bf2-412d-abca-6ac9038e7b9a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698.92 725.22" width="37" height="38" aria-hidden="true"><g id="uuid-a8ee102d-3172-4fa3-8daa-3282fb488955"><path d="m33.19,680.89l312.02-234.27c14.02,66.24,78.88,88.52,160.02,107.06,58.6,13.65,72.74,23.41,72.74,41.32v1.25c0,18.53-17.28,29.67-49.33,29.67-49.96,0-97.41-17.9-139.98-51.83l-66.62,79.51c52.97,47.58,125.84,71.62,202.34,71.62,104.8,0,174.54-52.46,174.54-140.61v-1.25c0-80.89-61.73-112.94-161.02-134.48-59.85-13.65-74.62-22.29-74.62-41.95v-1.25c0-15.4,14.15-27.8,43.2-27.8,38.19,0,81.38,14.78,120.83,42.58l59.85-84.52c-46.83-37.56-104.17-57.35-177.67-57.35-3.25,0-6.51,0-9.64.13-5.63.25-11.14.62-16.53,1.12l-140.49,125.22L33.19,680.89Z" fill="#E2E8F0"/><path d="m361.23,314.03l296.12-227.26L252.05,447.75c-9.39.88-19.16,1.38-29.42,1.38C99.29,449.13,0,354.72,0,225.75v-1.25C0,98.66,96.79,0,227.63,0c88.15,0,144.87,37.06,183.18,90.02l-90.03,69.74c-24.66-30.8-53.09-50.59-94.41-50.59-60.48,0-103.05,51.21-103.05,114.19v1.13c0,64.86,42.57,115.45,103.05,115.45,44.95,0,71.49-21.04,97.41-52.47l37.44,26.55Z" fill="#D03E5C"/></g></svg><span class="seo-shell-footer-name">CheatStore</span></a>
+        <p class="seo-shell-footer-description">Get the winning edge with powerful cheat software.</p>
+      </div>
+      <nav class="seo-shell-footer-nav" aria-label="Footer">
+        <div><h2>Store</h2><ul>
+          <li><a href="/store">Store</a></li>
+          <li><a href="/accounts">Accounts</a></li>
+          <li><a href="/blog">Blog</a></li>
+        </ul></div>
+        <div><h2>Support</h2><ul>
+          <li><a href="/status">Status</a></li>
+          <li><a href="/wiki">Wiki</a></li>
+          <li><a href="/discord">Discord ↗</a></li>
+        </ul></div>
+        <div><h2>Partners</h2><ul><li><a href="https://foxyz.net/">FoxyZ ↗</a></li></ul></div>
+      </nav>
+    </div>
+    <p class="seo-shell-footer-copy">&copy; 2026 CheatStore.net. All rights reserved.</p>
+  </div>
+</footer></div></div>
+    <div id="root"></div>
+      <script type="2261dbc8665b0d637fd5571d-text/javascript">
+      (function () {
+        var loaded = false;
+        var appReady = document.documentElement.dataset.appReady === 'true';
+        var reloadKey = 'cs-app-bootstrap-reload:v1';
+        var bootTimeout = 15000;
+        var noticeTimeout = 8000;
+        function dismissReloadNotice() {
+          var notice = document.getElementById('cs-app-load-failed');
+          if (notice && notice.parentNode) {
+            notice.parentNode.removeChild(notice);
+          }
+        }
+        function markAppReady() {
+          appReady = true;
+          window.clearTimeout(watchdog);
+          dismissReloadNotice();
+          try {
+            window.sessionStorage.removeItem(reloadKey);
+          } catch (error) {}
+        }
+        function showReloadNotice() {
+          if (document.getElementById('cs-app-load-failed')) return;
+          var notice = document.createElement('div');
+          notice.id = 'cs-app-load-failed';
+          notice.style.cssText = 'position:fixed;left:16px;right:16px;bottom:16px;z-index:2147483647;max-width:520px;margin:auto;padding:14px 16px;border:1px solid rgba(255,255,255,.14);border-radius:10px;background:rgba(5,5,6,.94);box-shadow:0 18px 52px rgba(0,0,0,.45);color:#fff;font:14px/1.45 Inter,system-ui,sans-serif;text-align:center';
+          notice.innerHTML = 'The app assets are taking too long to load. <button type="button" style="margin-left:10px;border:0;border-radius:6px;background:#D03E5C;color:#fff;padding:7px 10px;font:inherit;cursor:pointer">Reload</button>';
+          notice.querySelector('button').onclick = function () {
+            window.location.reload();
+          };
+          document.body.appendChild(notice);
+          window.setTimeout(dismissReloadNotice, noticeTimeout);
+        }
+        function handleBootstrapFailure() {
+          if (appReady || document.documentElement.dataset.appReady === 'true') return;
+          try {
+            if (!window.sessionStorage.getItem(reloadKey)) {
+              window.sessionStorage.setItem(reloadKey, String(Date.now()));
+              window.location.reload();
+              return;
+            }
+          } catch (error) {}
+          showReloadNotice();
+        }
+        var watchdog = window.setTimeout(handleBootstrapFailure, bootTimeout);
+        window.addEventListener('cs-app-ready', markAppReady, { once: true });
+        function loadApp() {
+          if (loaded) return;
+          loaded = true;
+          var modulePreloads = [];
+          for (var index = 0; index < modulePreloads.length; index += 1) {
+            var preload = document.createElement('link');
+            preload.rel = 'modulepreload';
+            preload.crossOrigin = '';
+            preload.href = modulePreloads[index];
+            document.head.appendChild(preload);
+          }
+          document.documentElement.dataset.appStylesheet = 'ready';
+          var script = document.createElement('script');
+          script.type = 'module';
+          script.crossOrigin = '';
+          script.src = "/assets/index-CDiFWjb6.js";
+          script.onerror = handleBootstrapFailure;
+          document.body.appendChild(script);
+        }
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', loadApp, { once: true });
+        } else {
+          loadApp();
+        }
+      })();
+    </script>
+  <foreignObject><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="2261dbc8665b0d637fd5571d-|49" defer></script></foreignObject><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a3e6e87f5ef1b192',t:'MTc4OTk3MTA0MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"d684851685ec4ce89f305bc15c932abc","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

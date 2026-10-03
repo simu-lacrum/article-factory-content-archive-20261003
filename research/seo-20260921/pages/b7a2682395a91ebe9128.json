@@ -1,0 +1,372 @@
+{
+  "url": "https://tsuki.gg/products/deadlock/features",
+  "canonical": "https://tsuki.gg/products/deadlock/features",
+  "language": "en",
+  "title": "Deadlock Hacks - Aimbot, ESP, Wallhack, Auto Parry - TSUKI",
+  "description": "Full feature list of TSUKI's Deadlock cheat. Aimbot, ESP, wallhack, triggerbot, auto parry, radar, vischeck, kernel driver, and Lua scripting API.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "TSUKI Deadlock External Full Feature List"
+    },
+    {
+      "level": 2,
+      "text": "Aimbot"
+    },
+    {
+      "level": 2,
+      "text": "Triggerbot"
+    },
+    {
+      "level": 2,
+      "text": "ESP & Visuals"
+    },
+    {
+      "level": 3,
+      "text": "Player ESP"
+    },
+    {
+      "level": 3,
+      "text": "World ESP"
+    },
+    {
+      "level": 2,
+      "text": "Timers & Notifications"
+    },
+    {
+      "level": 3,
+      "text": "Timers"
+    },
+    {
+      "level": 3,
+      "text": "Notification Alerts"
+    },
+    {
+      "level": 2,
+      "text": "Advanced Raycast Visibility Check"
+    },
+    {
+      "level": 2,
+      "text": "Auto Parry"
+    },
+    {
+      "level": 3,
+      "text": "Melee Parry"
+    },
+    {
+      "level": 3,
+      "text": "Counterspell Parry / Ability Parry"
+    },
+    {
+      "level": 2,
+      "text": "Automation"
+    },
+    {
+      "level": 2,
+      "text": "2D Radar"
+    },
+    {
+      "level": 2,
+      "text": "Internal Component"
+    },
+    {
+      "level": 3,
+      "text": "Aim"
+    },
+    {
+      "level": 3,
+      "text": "Movement"
+    },
+    {
+      "level": 3,
+      "text": "Player ESP"
+    },
+    {
+      "level": 3,
+      "text": "World Rendering and Lighting"
+    },
+    {
+      "level": 2,
+      "text": "Lua Scripting"
+    },
+    {
+      "level": 2,
+      "text": "Misc & Safety"
+    },
+    {
+      "level": 2,
+      "text": "External vs Internal"
+    }
+  ],
+  "document_h1": [
+    "TSUKI Deadlock External Full Feature List"
+  ],
+  "text": "TSUKI Home Products Community Scripts Configs Menu Themes Blogs Status Sign In Sign Up Home › Products › Deadlock External › Features TSUKI Deadlock External Full Feature List Full feature breakdown of the TSUKI Deadlock cheat. Aimbot, ESP, wallhack, triggerbot, auto parry, vischeck, radar, Lua scripting API, and more. external + internal Aimbot Aim Configs & Presets Adjustable Smoothing Tune how your aim moves onto a target, from instant snaps to buttery smooth tracking Smoothing factor / speed Smoothing curves: linear, ease-in, ease-out, ease-in-out Adjustable lock-on smoothing Sticky Aim Humanization Hitbox scatter Aim drift Reaction times RCS variance External Raycast Visibility Check Pixel perfect accuracy, does not touch the game memory Velocity Prediction Accounts for bullet travel time and target movement speed Bone Selection Target head, chest, neck, and other bones with configurable priorities Recoil Control System (RCS) Target Priority (Crosshair, Distance, Health) Max Lock Distance Soul Aimbot Trooper Aimbot Lock-on Tuning Lock-on smoothing, slowdown and duration Deadzone Scale FOV with zoom Priority bias and bone stickiness Low HP Priority Prefer the target closest to dying, with a threshold Vischeck Options Does not lock onto Haze Stealth, Metal Skin, Viscous Cube, or other invulnerable targets Walker Check Does not lock through walkers Aim Marker & FOV Circle Triggerbot Accurate Hitboxes Standard Mode Fires when your crosshair is on an enemy hitbox Magnet Mode Nudges aim onto the target before firing, with configurable FOV and smoothing Perfect for Vindicta execution snipes, Venator ultimate, and more Shot Delay Visibility Check Max Trigger Distance Soul Triggerbot Flicks onto souls and one-taps them with configurable delays, smoothing, and vischeck Deny and Secure Souls Separate behaviours for shooting enemy souls and securing your own Timing Pre-fire delay and pre-fire distance Minimum and maximum soul age Tap interval Post-lock delay and shot cooldown Target switch cooldown Tracking Lock-on stiffness, smoothing, slowdown and duration Continuous tracking Initial smoothing with its own duration and multiplier Bone stickiness Predicted Lead Ring and Ghost Trail See where the shot is going before it fires ESP & Visuals Player ESP Bounding Boxes (2D / Corner style) Skeletons Per-bone visibility coloring via full raycast vischeck. Separate enemy/friendly colors Health Bars Player Names / Hero Names / Distance Unsecured Souls & Level Display Ultimate ESP Ultimate Warning Ready Indicator Cooldown Timer Ability ESP Track every ability slot for each enemy hero with per-ability cooldowns Spectator ESP Know instantly when someone is watching you Healing Rite ESP See who has Healing Rite applied on them with a timer Sinclair Ultimate Copy ESP See which ultimate Sinclair has copied with a timer Invisible Stealth ESP Shows you who is invisible Soul Carrier ESP Net Worth ESP Shows the difference, with minimum ahead and behind thresholds K/D Ratio ESP Threshold to only show players worth worrying about Off-screen Indicators Style, distance, size, opacity, circle, fill and outline Head Circle Radius and thickness Customizable Visible / Invisible Colors Set separate colors for when enemies are visible vs behind walls, for every ESP feature World ESP Sinner's Sacrifice Soul Bags / Dropped Souls Filterable by minimum value and maximum distance Soul Urn Towers / Troopers / Monster Camps Separate friendly and enemy colors Midboss Health bar, health text, show only when damaged option Bridge Buff ESP See bridge buff locations and status. Warning notification and sound alert before spawn Sound ESP Sound events drawn in the world when enemy footsteps are heard Soul Orb ESP With a timer that shows when the soul is hittable or about to disappear Guided Owl ESP Timers & Notifications Every timer can draw on the world ESP, on the in-game minimap, or both. Alerts fire before a spawn so you can rotate in time rather than react to it. Timers Monster Camp Timers Respawn countdown on every jungle camp, on the camp itself or on the minimap Rift Timer Time until the next rift Sinner's Sacrifice Timer Soul Urn Timer Time until the urn returns Bridge Buff Timers Per-lane countdown on every bridge buff Notification Alerts Monster Camp Spawn Alerts Fires before the camp is back up Rift Alerts Bridge Buff Alerts Soul Urn Alerts Warns before the urn spawns, not after Configurable Lead Time, Volume and Duration Set how early each alert fires, or turn any of them off Advanced Raycast Visibility Check External Raycast Vischeck Confirms line of sight before engaging. Fully external, no memory writes Prevents suspicious through-wall shots Integrates with aimbot and all ESP features for visible/invisible color states Treats walkers, guardians, and towers as cover Auto Parry Melee Parry Heavy Melee Parry / Melee Charge Auto Parry With parry bait detection Light Melee Auto Parry / Light Attack Auto Parry Guardian Auto Parry Viscous Puddle Punch 100% consistency with configurable delay and press duration Ability Protection Never fires while you are casting an ability or your ultimate. Works with every auto parry Parry Rules Auto disable parry after going AFK Separate heavy and light parry chance Custom heavy timing windows, earliest and latest Require facing the attacker with an FOV cone Always parry point-blank with a distance Health conditions by percentage or absolute value Counterspell Parry / Ability Parry Auto Counterspell Parry for 40+ abilities including most ultimate abilities in Deadlock Automatically detects when you purchase Counterspell Fully configurable per-ability Item Parry Parries 13 items including Knockdown, Cursed Relic, Phantom Strike, and others Auto Riposte (Apollo) Automatically activates Apollo's riposte, works with or without Counterspell Automation Auto Sinner's Sacrifice Automatically melees the Sinner's Sacrifice on the correct beat / light Active Reload Presses reload at the active reload timing window 2D Radar Enemy and teammate positions Configurable position, size, scale, and shape Mini-map overlay with hero icons, rings and aim lines Lane overlay and visibility states Toggle mode, hold or toggle, with a configurable keybind World Entities on Radar Sinners, towers, and other map objectives Cloud Radar Start a local radar server, share it online, or expose it through a Cloudflare tunnel. View the radar on a second device or send it to a friend Internal Component Turn TSUKI into an internal Deadlock cheat by clicking \"Load Internal Component\" on the menu. All features listed above work without it. The internal is completely optional, for anyone who wants the extra features below. Aim pSilent / Silent Aim Bullets curve onto the target and your crosshair never moves. Customizable pSilent chance, and unlike normal silent aim it does not show up on demos. It works on abilities too Hybrid Magnet aim and pSilent together Backtrack Supports both the aimbot and triggerbot Unlock Minimap See everyone's hero icon on the in-game minimap No Recoil Mode Completely disables recoil and camera shake Anti-Frog Adjustable headshot threshold, with an accurate headshot tracker panel and limiter Movement Auto Strafer, Auto Bunnyhop, Auto Edge Boost, Auto Corner Boost, Auto Superglide, Auto Mantle Boost and Wall Jump Helper Every movement assist on one toggle each, with its own keybind Player ESP Player Glow Fill and shading are fully customizable. Supports health gradient fill, a separate occluded fill, and more Entity Glow (Sinners, Towers, Troopers) World Rendering and Lighting Skybox Customization Recolor the skybox or disable it entirely World Customization World tint, prop tint, advanced material customization, lighting / bloom control, and so much more Disable Drifter Darkness Disable Haze Stealth Camera FOV Change your camera FOV or aspect ratio Lua Scripting Lua 5.4 Engine Advanced sandboxed scripting engine with full freedom Community Script Library Browse, subscribe, and one-click install scripts from the Lua Script Library Lua Syncing Subscribe to scripts and they auto-download on launch. Author updates arrive automatically 20+ Dev Tools Particle ESP, event viewer, entity ESP, modifier states, and more Full Documentation Complete API reference at tsuki.gg/docs Lua Editor Write, save, reload and manage scripts inside the app. No external editor needed Item Use, Images and HTTP Use items from scripts, load and draw images and gradients, and make HTTP requests (opt-in per user) Dev Studio One panel for the 20+ dev tools: particle ESP, event viewer, entity ESP, modifier states and more Theme Studio Build and edit menu themes, then share them with a code Misc & Safety Spectator ESP Know instantly when someone is watching you Streamproof Hides from OBS Desktop Capture, Discord screenshare, Shadowplay, and other capture apps Custom Model Support Supports Deadlock Mod Manager Supports Custom Aspect Ratios Running a stretched resolution or a custom video config? ESP still lines up correctly Customizable Fonts & Render Settings Auto-Updating Full Configuration System Cloud config sharing with share codes. Browse or publish in the Config Library Menu Themes Advanced menu customization. Share with a code or browse the Menu Theme Library Customizable Keybinds Keybind any feature on the menu. Want to see teammates or minions only when you hold mouse5? Fully supported External vs Internal By default, TSUKI is a read-only external and extremely safe. The internal component is completely optional and comes included with the standard subscription. Feature External Internal Aimbot with humanization and prediction Included Included Triggerbot and soul triggerbot Included Included Player, world, and ability ESP Included Included 2D radar and Cloud Radar Included Included Auto parry (melee, counterspell, viscous) Included Included Lua scripting and the script library Included Included Visibility check Raycast Raycast or engine Aim mode Mouse Mouse, pSilent, hybrid pSilent / Silent Aim Not included Included Backtrack Not included Included Player / Entity Glow Not included Included World modulation Not included Included Ready to get started? View Product 1 / 6 Zoom",
+  "words": 1580,
+  "links": [
+    {
+      "text": "TSUKI",
+      "url": "https://tsuki.gg/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://tsuki.gg/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Products",
+      "url": "https://tsuki.gg/products",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Community",
+      "url": "https://tsuki.gg/products/deadlock/features",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Scripts",
+      "url": "https://tsuki.gg/scripts/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Configs",
+      "url": "https://tsuki.gg/configs/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Menu Themes",
+      "url": "https://tsuki.gg/themes/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blogs",
+      "url": "https://tsuki.gg/blog",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Status",
+      "url": "https://tsuki.gg/status",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://discord.gg/mina",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener"
+      ]
+    },
+    {
+      "text": "Sign In",
+      "url": "https://tsuki.gg/login",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Sign Up",
+      "url": "https://tsuki.gg/register",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://tsuki.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Products",
+      "url": "https://tsuki.gg/products",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Deadlock External",
+      "url": "https://tsuki.gg/products/deadlock",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lua Script Library",
+      "url": "https://tsuki.gg/scripts",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "tsuki.gg/docs",
+      "url": "https://tsuki.gg/docs/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "naked_url",
+      "rel": []
+    },
+    {
+      "text": "Config Library",
+      "url": "https://tsuki.gg/configs",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Menu Theme Library",
+      "url": "https://tsuki.gg/themes",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "View Product",
+      "url": "https://tsuki.gg/products/deadlock",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "TSUKI",
+      "url": "https://tsuki.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://tsuki.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Products",
+      "url": "https://tsuki.gg/products",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Status",
+      "url": "https://tsuki.gg/status",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Support",
+      "url": "https://tsuki.gg/support",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.gg/mina",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener"
+      ]
+    },
+    {
+      "text": "Find us on elitepvpers",
+      "url": "https://www.elitepvpers.com/forum/deadlock-trading/5357986-tsuki-deadlock-external-humanized-aimbot-auto-parry-lua-scripts-vis-check.html",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener"
+      ]
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://tsuki.gg/terms",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://tsuki.gg/privacy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Refund Policy",
+      "url": "https://tsuki.gg/refund",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://discord.gg/mina",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener"
+      ]
+    }
+  ],
+  "extraction": "body_fallback_review_needed",
+  "extraction_rule": null,
+  "sha256": "6d0440a61534fe7f8246e1e30bd6bb72f0f9530a1e128c688d27044149327ec4",
+  "captured_at": "2026-09-21T04:24:13.267350+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://tsuki.gg/products/deadlock/features",
+  "http_status": 200,
+  "raw_file": "raw\\b7a2682395a91ebe9128.html"
+}

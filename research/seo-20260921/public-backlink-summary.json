@@ -1,0 +1,112 @@
+{
+  "scope": "Manually selected public source pages; not a full profile, representative distribution or acquisition plan",
+  "checked_at": "2026-09-21T05:55:57.397026+00:00",
+  "candidate_pages": 11,
+  "page_status_counts": {
+    "links_confirmed": 5,
+    "unavailable": 6
+  },
+  "confirmed_unique_link_rows": 8,
+  "confirmed_source_hosts": [
+    "github.com",
+    "www.scam-detector.com",
+    "www.scamadviser.com"
+  ],
+  "targets": {
+    "avalan.cc": {
+      "links": 2,
+      "anchor_counts": {
+        "generic": 1,
+        "branded": 1
+      }
+    },
+    "octarine.cc": {
+      "links": 1,
+      "anchor_counts": {
+        "naked_url": 1
+      }
+    },
+    "uc.zone": {
+      "links": 5,
+      "anchor_counts": {
+        "naked_url": 5
+      }
+    }
+  },
+  "health_score": null,
+  "full_referring_domain_counts": null,
+  "limitations": [
+    "Search-selected sources are selection-biased.",
+    "No link found in static HTML does not prove historical removal or absence in JavaScript output.",
+    "403 pages and hidden-link placeholders are not confirmed incoming links.",
+    "A user complaint on a vendor-hosted issue tracker is not a statement or endorsement by that vendor.",
+    "Automated reputation reports do not establish product quality or the value of a backlink.",
+    "Exact counts classify this sample only; no optimal anchor percentages are inferred."
+  ],
+  "reciprocal_check": [
+    {
+      "target_host": "avalan.cc",
+      "inbound_source_hosts_checked": [
+        "www.scamadviser.com"
+      ],
+      "retained_pages": [
+        {
+          "url": "https://avalan.cc/features",
+          "captured_at": "2026-09-21T04:24:13.538645+00:00",
+          "sha256": "5d213628fcdf5ec143062fdb6c4e519b41425c0b5e22147a96992dd83949459b"
+        },
+        {
+          "url": "https://avalan.cc/",
+          "captured_at": "2026-09-21T04:15:43.074859+00:00",
+          "sha256": "c0720b278f11f3edd9237c9009869bcaba30c5e1aa8b0c6c46cd730df7a436ba"
+        }
+      ],
+      "matches": [],
+      "status": "not_found_in_sampled_html",
+      "limitation": "Sampled target pages only; no claim about the entire domain or link intent."
+    },
+    {
+      "target_host": "octarine.cc",
+      "inbound_source_hosts_checked": [
+        "github.com"
+      ],
+      "retained_pages": [
+        {
+          "url": "https://octarine.cc/ru/",
+          "captured_at": "2026-09-21T04:15:42.833606+00:00",
+          "sha256": "513732680ac5ffd88b3345f96193bbadba9a5412415f8aa3b353a2b9431ef1b5"
+        }
+      ],
+      "matches": [],
+      "status": "not_found_in_sampled_html",
+      "limitation": "Sampled target pages only; no claim about the entire domain or link intent."
+    },
+    {
+      "target_host": "uc.zone",
+      "inbound_source_hosts_checked": [
+        "github.com",
+        "www.scam-detector.com"
+      ],
+      "retained_pages": [
+        {
+          "url": "https://uc.zone/en/deadlock",
+          "captured_at": "2026-09-21T04:15:43.307833+00:00",
+          "sha256": "f30904562f0e79d29402d6e211ba9c290f4be78ff1f59f82e172cc63ab5618be"
+        },
+        {
+          "url": "https://uc.zone/en/dota2",
+          "captured_at": "2026-09-21T04:15:39.611143+00:00",
+          "sha256": "f8688ccbe5330ec3e3841cfb955ca1f44d30061f650fdd740fe471cd38fd6d7a"
+        }
+      ],
+      "matches": [],
+      "status": "not_found_in_sampled_html",
+      "limitation": "Sampled target pages only; no claim about the entire domain or link intent."
+    }
+  ],
+  "rel_counts": {
+    "nofollow": 6,
+    "no_nofollow_attribute_observed": 2
+  },
+  "confirmed_source_pages": 5
+}

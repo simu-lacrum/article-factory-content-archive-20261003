@@ -1,0 +1,439 @@
+{
+  "url": "https://scope.gg/grenade-predictor/",
+  "canonical": "https://scope.gg/grenade-predictor/",
+  "language": "en",
+  "title": "CS2 Grenade and Smokes tool | Learn and train grenades lineups and spots | SCOPE.GG",
+  "description": "This is a 2D interactive map that contains all the basic lineups (e.g. smokes). Choose a map, grenade type, tickrate, and click on the lineups to watch a short video on how to make a throw.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Increase your impact in CS2 with SCOPE.GG grenade tool"
+    },
+    {
+      "level": 2,
+      "text": "What is It?"
+    },
+    {
+      "level": 2,
+      "text": "Reasons to use grenade app"
+    },
+    {
+      "level": 3,
+      "text": "All competitive maps are available"
+    },
+    {
+      "level": 3,
+      "text": "All types of grenades"
+    },
+    {
+      "level": 3,
+      "text": "Learn grenade lineups for both tickrates"
+    },
+    {
+      "level": 3,
+      "text": "Oneway smokes"
+    },
+    {
+      "level": 2,
+      "text": "How to start practice smokes?"
+    },
+    {
+      "level": 2,
+      "text": "Essential grenades tips"
+    },
+    {
+      "level": 3,
+      "text": "Scope.gg grenade prediction short guide"
+    },
+    {
+      "level": 3,
+      "text": "CS2 grenade binds: everything you need to know"
+    },
+    {
+      "level": 3,
+      "text": "7 awesome & useful smokes"
+    }
+  ],
+  "document_h1": [
+    "Increase your impact in CS2 with SCOPE.GG grenade tool"
+  ],
+  "text": "Increase your impact in CS2 with SCOPE.GG grenade tool Find and practice all possible nade lineups, to have an advantage in every in-game situation Start now for free How it works What is It? Grenade tool is an interactive 2D tactical map with all possible grenade spots It shows the most common grenades, so you won't feel lost when you need to throw a grenade and make difference in every round. To use this tool you need either click or hover on grenade icon and watch the video guide. You can also copy position coordinates (setpos), and paste it into the game console to practice lineup Reasons to use grenade app MAPS & SIDES All competitive maps are available Do you want to climb ranked ladder in CS2? No problem, we have all maps (for both T and CT sides) that are played in competitive mode GRENADE TYPES All types of grenades It's no secret that grenade are one of the most important component that increase your skill, rank and impact in the match. That's why it's important to know all default grenades (especially flashbangs and smokes). Our grenade tool contains almost every grenade that you may need 64 & 128 TICKRATE GRENADES Learn grenade lineups for both tickrates Since grenade trajectory is different depending on the tickrate, players who plays both 64 and 128 tickrate will always have access to the right lineups In-game advantage Oneway smokes One-way smoke is a certain kind of smoke that allows you to see or kill a player without the risk of being noticed - the enemy simply cannot see you. This mechanic is one of the most useful and difficult to execute, but it also helps to achieve maximum advantage with low risk for the performer. Our tool contains a lot of oneways, which you can use and practice, to make difference in every round How to start practice smokes? Just click the button and use it for free. If you want advanced functionality you need to sign in. Start now What maps are available in your grenade tool? Our tool supports all competition maps with all grenades (smokes, flashbangs, HE): - Dust 2, - Mirage, - Inferno, - Cache, - Nuke, - Train, and others. Is your tool free? Yes! You don't need to pay or login. Just go to the tool and use it. Are your video guides on grenade throwing helpful? Many of our videos are no longer than 20 seconds. No unnecessary editing or music. Essential grenades tips If you're looking for more in-depth guides on the tool or basic grenades, check out our resources. Scope.gg grenade prediction short guide The way to find almost every nade in CS2 CS2 grenade binds: everything you need to know For those who want to learn basics at throwing grenade in CS2 7 awesome & useful smokes Improve your gameplay with new tricks",
+  "words": 484,
+  "links": [
+    {
+      "text": "",
+      "url": "https://scope.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://excorp.gg",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "CS2 profile checker",
+      "url": "https://scope.gg/cs2-profile-checker/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "clips",
+      "url": "https://scope.gg/clips",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Lineups",
+      "url": "https://scope.gg/grenade-predictor",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "tactical board",
+      "url": "https://app.scope.gg/strategy",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Comparing tool",
+      "url": "https://scope.gg/compare",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Faceit stats",
+      "url": "https://scope.gg/faceit-stats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "prematch analytics",
+      "url": "https://scope.gg/prematch",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Demo viewer",
+      "url": "https://scope.gg/replay",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Aim Stats",
+      "url": "https://scope.gg/headshot-stats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Dashboard",
+      "url": "https://scope.gg/cs2-dashboard/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 match history",
+      "url": "https://scope.gg/match-history/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "blog",
+      "url": "https://blog.scope.gg/",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Sign up",
+      "url": "https://app.scope.gg/signup",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Start now for free",
+      "url": "https://app.scope.gg/grenades",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How it works",
+      "url": "https://scope.gg/grenade-predictor/#how-it-works",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Start now",
+      "url": "https://app.scope.gg/grenades",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Scope.gg grenade prediction short guide The way to find almost every nade in CS2",
+      "url": "https://blog.scope.gg/grenade_prediction_guide/",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "CS2 grenade binds: everything you need to know For those who want to learn basics at throwing grenade in CS2",
+      "url": "https://blog.scope.gg/grenade_binds/",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "7 awesome & useful smokes Improve your gameplay with new tricks",
+      "url": "https://blog.scope.gg/7_awesome_useful_smokes/",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Feel the game",
+      "url": "https://scope.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://scope.gg/cdn-cgi/l/email-protection#4c3c2d3e3822293e3f24253c0c3f2f233c29622b2b",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://scope.gg/cdn-cgi/l/email-protection#780b0d0808170a0c380b1b17081d561f1f",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "guides",
+      "url": "https://scope.gg/guides/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "blog",
+      "url": "https://blog.scope.gg/",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "faq",
+      "url": "https://scope.gg/faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cookie Policy",
+      "url": "https://app.scope.gg/cookies",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "privacy policy",
+      "url": "https://app.scope.gg/privacy",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "terms of Use",
+      "url": "https://app.scope.gg/tos",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "grenade prediction",
+      "url": "https://app.scope.gg/grenades",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "tactical board",
+      "url": "https://app.scope.gg/strategy",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Comparing tool",
+      "url": "https://scope.gg/compare",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://scope.gg/cdn-cgi/l/email-protection#adddccdfd9c3c8dfdec5c4ddeddecec2ddc883caca",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://scope.gg/cdn-cgi/l/email-protection#b3c0c6c3c3dcc1c7f3c0d0dcc3d69dd4d4",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://excorp.gg",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/scope_gg",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "",
+      "url": "https://discord.com/invite/fPZkGHw",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCAJJOQv8ZEJEuMuM3d3qD4g",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Log in with Steam",
+      "url": "https://scope.gg/api/steamProfiles/auth?redirectUrl=https%3A%2F%2Fapp.scope.gg%2Fauth-process&backendUrl=https%3A%2F%2Fscope.gg%2Fapi",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Log in with FaceIt",
+      "url": "https://scope.gg/api/faceIt/auth?successRedirectUrl=https%3A%2F%2Fapp.scope.gg%2Fauth-process&failureRedirectUrl=https%3A%2F%2Fapp.scope.gg%2Fauth-process",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Create an account",
+      "url": "https://app.scope.gg/signup",
+      "placement": "other",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Log in with Steam",
+      "url": "https://scope.gg/api/steamProfiles/auth?redirectUrl=https%3A%2F%2Fapp.scope.gg%2Fauth-process&backendUrl=https%3A%2F%2Fscope.gg%2Fapi",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Log in with FaceIt",
+      "url": "https://scope.gg/api/faceIt/auth?successRedirectUrl=https%3A%2F%2Fapp.scope.gg%2Fauth-process&failureRedirectUrl=https%3A%2F%2Fapp.scope.gg%2Fauth-process",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "cc2e42324f1ffc51c9227ffc70bfa4e4abbf5878d8895e5fd6e87f475f7d3c68",
+  "captured_at": "2026-09-21T07:04:04.779941+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://scope.gg/grenade-predictor/",
+  "http_status": 200,
+  "raw_file": "raw\\d6b3d484a78990eb9d48.html"
+}

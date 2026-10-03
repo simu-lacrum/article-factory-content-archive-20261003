@@ -1,0 +1,177 @@
+{
+  "url": "https://overplus.gg/en",
+  "canonical": "https://overplus.gg/en",
+  "language": "en",
+  "title": "Overplus - Inventory Changer for Dota 2",
+  "description": "With Skin Changer overplus - All items will end up in your inventory. Skins, landscapes, emblems, weather, river and more. Get 7 Days Free.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "OVERPLUS"
+    },
+    {
+      "level": 2,
+      "text": "Upgrade"
+    },
+    {
+      "level": 2,
+      "text": "Enjoy the Game"
+    },
+    {
+      "level": 2,
+      "text": "Buy"
+    },
+    {
+      "level": 3,
+      "text": "days"
+    },
+    {
+      "level": 3,
+      "text": "days"
+    },
+    {
+      "level": 3,
+      "text": "days"
+    }
+  ],
+  "document_h1": [
+    "OVERPLUS"
+  ],
+  "text": "OVERPLUS All the items in your inventory, from cammons to unique items that are no longer available to the average player. As a bonus, you will get Dota Plus visual features and a pick stage analyzer with which you will always know about the enemy Techies spammer. Try out\n\nUpgrade\n\n1\n\nEnjoy the Game\n\nBuy days Dota Plus Dota+ visual features, with the exception of item recommendations. Meta Tracker A separate hero grid displaying the best picks for each of the lines. Also this option displays Pick-Rate and Win-Rate of aspects. Shop Builds Replaces the standard build with item recommendations based on stats from other matches, and displays the frequency of purchase of each item. days Dota Plus Dota+ visual features, with the exception of item recommendations. Meta Tracker A separate hero grid displaying the best picks for each of the lines. Also this option displays Pick-Rate and Win-Rate of aspects. Shop Builds Replaces the standard build with item recommendations based on stats from other matches, and displays the frequency of purchase of each item. days Dota Plus Dota+ visual features, with the exception of item recommendations. Meta Tracker A separate hero grid displaying the best picks for each of the lines. Also this option displays Pick-Rate and Win-Rate of aspects. Shop Builds Replaces the standard build with item recommendations based on stats from other matches, and displays the frequency of purchase of each item.",
+  "words": 241,
+  "links": [
+    {
+      "text": "",
+      "url": "https://overplus.gg/en",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Start",
+      "url": "https://overplus.gg/en#main",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Upgrade",
+      "url": "https://overplus.gg/en#upgrade",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Customize",
+      "url": "https://overplus.gg/en#customize",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Enjoy",
+      "url": "https://overplus.gg/en#enjoy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy",
+      "url": "https://overplus.gg/en#buy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Start",
+      "url": "https://overplus.gg/en#main",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Upgrade",
+      "url": "https://overplus.gg/en#upgrade",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Customize",
+      "url": "https://overplus.gg/en#customize",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Enjoy",
+      "url": "https://overplus.gg/en#enjoy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy",
+      "url": "https://overplus.gg/en#buy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://vk.com/spsvolvo",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCtJQU9aC-lYMmO2q-zFEVLQ/featured",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://t.me/overplus_gg",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://discord.gg/ZygdawvpDW",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": []
+    }
+  ],
+  "extraction": "reviewed_content_selector",
+  "extraction_rule": {
+    "content_selector": "section.hero, section.upgrade, section.inventory, section.enjoy, section.buy",
+    "expected_matches": 5,
+    "reviewed_at": "2026-09-21",
+    "reason": "Five disjoint landing-page sections. The nested inventory main contains only a counter and omits the actual hero, feature and offer copy."
+  },
+  "sha256": "8df2e1ae8ee3798611bf80fe885b5e9ad0a050aac6c9701d74e0ac4b40200e69",
+  "captured_at": "2026-09-21T07:29:21.911003+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://overplus.gg/en",
+  "http_status": 200,
+  "raw_file": "raw\\975a2ad389238feb0155.html"
+}

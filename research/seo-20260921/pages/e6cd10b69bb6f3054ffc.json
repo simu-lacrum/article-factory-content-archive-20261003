@@ -1,0 +1,712 @@
+{
+  "url": "https://totalcsgo.com/commands",
+  "canonical": "https://totalcsgo.com/commands",
+  "language": "en",
+  "title": "Complete CS2 Console Commands List (2026) | Total CS",
+  "description": "A complete, searchable list of all Counter-Strike 2 commands with detailed documentation, working examples, and an advanced search feature.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "CS2 Console Commands List"
+    },
+    {
+      "level": 2,
+      "text": "Commands List"
+    }
+  ],
+  "document_h1": [
+    "CS2 Console Commands List"
+  ],
+  "text": "Total CS CS2 Console Commands CS2 Console Commands List Below is Total CS' searchable list of all CS2 console commands . Each command in our database has detailed documentation, with help and argument explanation (hover over a command to view). Click on a command's name to visit its individual page, on which you can find more information including working examples and its default setting or value. Type the name of a command into the search box to instantly filter our entire database of commands. Toggle between different views by pressing the \"Card View\" and \"Table View\" buttons. If you are looking for a more specific selection of commands, you may prefer to sort by category. Updated for CS2: We've updated our list to include over 1,000 console commands that were added in CS2 . We're the only website that has a complete list of all Counter-Strike 2 commands with complete documentation and examples. CS:GO Commands are hidden from this list by default. If you're playing on CS:GO, check the \"Show CS:GO Commands\" box to show commands that exist in Counter-Strike: Global Offensive. FOV and Viewmodel Commands Bot Commands Crosshair Commands HUD Commands View All Categories How to Use CS:GO & CS2 Commands Collapse Enable the developer console: Go to Settings > Game Settings and set \"Enable Developer Console\" to \"Yes\". Press ` or ~ on your keyboard. Enter a command and hit ENTER on your keyboard to run it! Are you still stuck? More Help Collapse PROSPECT CASE CONTAINER · SERIES 03 ▮ WEAPON CASE ▮ TAP TO OPEN TREASURE CHEST OPEN TO WIN Commands List Card Table Show CS:GO Commands Command Description More Syntax bot_add This command adds a bot to your current game. If you specify a team (T or CT), the bot will be added to that team. You can also optionally specify a difficulty and a name (if there is an existing profile). Examples, Generator & More bot_add <T / CT> <Difficulty> <Name> Copy Command Name Copy Full bot_add_ct This console command adds a bot to the CT side. If the bot spawns dead, it will respawn at the start of the next round. You can optionally specify a difficulty and a name (if there is an existing profile). Examples, Generator & More bot_add_ct <Difficulty> <Name> Copy Command Name Copy Full bot_add_t This command adds a bot to the T side. If the bot spawns dead, it will respawn at the start of the next round. You can optionally specify a difficulty and a name (if there is an existing profile). Examples, Generator & More bot_add_t <Difficulty> <Name> Copy Command Name Copy Full cl_crosshairgap This console command will adjust the size of the gap in the middle of your crosshair. The smaller the value, the smaller the gap. Examples, Generator & More cl_crosshairgap <Gap> Copy Command Name Copy Full cl_crosshairsize This command controls the length and size of the 4 lines that make up a standard crosshair. Using a low value will give your crosshair very slight lines, and using a large value makes your crosshair have very long lines. Examples, Generator & More cl_crosshairsize <Size> Copy Command Name Copy Full cl_crosshairstyle This command sets the style of your crosshair such as its general shape and whether or not it opens up whenever your character moves around. Examples, Generator & More cl_crosshairstyle <Style> Copy Command Name Copy Full cl_crosshairthickness This console command customizes the thickness of your in game crosshair. Examples, Generator & More cl_crosshairthickness <Thickness> Copy Command Name Copy Full cl_hud_color This is the console command used to change and customize the color of your HUD (heads up display). It can be changed to a variety of colors, which we have listed examples for. Examples, Generator & More cl_hud_color <HUD Color> Copy Command Name Copy Full cl_hud_radar_scale This useful console command controls how much room in your HUD your radar takes up. You can choose to make it a smaller feature or larger than the default value. Examples, Generator & More cl_hud_radar_scale <Radar Scale> Copy Command Name Copy Full cl_radar_scale This command adjusts the scale of your radar, which affects how zoomed in or out the radar is . A lot of players use this command to zoom the radar out and have a complete view of the map. Examples, Generator & More cl_radar_scale <Radar Scale> Copy Command Name Copy Full cl_showfps This command produces a simple FPS (frames per second) count in the top left corner of your screen. Unlike the net_graph command, the only value shown is your FPS, which some players like for its simplicity. Examples, Generator & More cl_showfps <0 / 1> Copy Command Name Copy Full demo_pause This useful console command is used to pause the demo you're watching. Playback can be resumed with the command demo_resume. Examples, Generator & More demo_pause Copy Command Name Copy Full demo_resume This useful command is used to resume the demo you're watching, if you have previously paused it. To pause demos, use the command demo_pause. Examples, Generator & More demo_resume Copy Command Name Copy Full demo_timescale This command sets how quickly the demo is played. In other words, it can be used to fast forward through rounds you're not interested in watching. Examples, Generator & More demo_timescale <Playback speed> Copy Command Name Copy Full demo_togglepause Use this command when watching demos to toggle between being paused or not. The good thing about this command is then it will pause or play the demo, depending on if its running when the command is entered. Examples, Generator & More demo_togglepause Copy Command Name Copy Full game_mode This command can be used in conjunction with the game_type command to change the type of game you are playing (casual, deathmatch, etc). See argument information for help. Examples, Generator & More game_mode <Game Mode> Copy Command Name Copy Full game_type This command can be used with the game_mode command to change the game you are playing (e.g. arms race, competitive, etc). See argument information for combinations and help. Examples, Generator & More game_type <Game Type> Copy Command Name Copy Full give This command will give you the item with the specified item code. Find item codes on our give command list . Examples, Generator & More give <Weapon Code> Copy Command Name Copy Full hurtme This command will hurt your character with the specified amount of damage (1 = 1HP). Examples, Generator & More hurtme <Damage> Copy Command Name Copy Full mp_ignore_round_win_conditions This command can be used to enable and disable round win conditions. If round win conditions are disabled (ignored), then the conditions that would usually make a round end (e.g. bomb exploding, team being eliminated) will no longer make the round end - the round would last forever, until manually ended. By default, this command is disabled (meaning win conditions are not ignored). Examples, Generator & More mp_ignore_round_win_conditions <0 / 1> Copy Command Name Copy Full 1 2 3 4 5 ... 130",
+  "words": 1137,
+  "links": [
+    {
+      "text": "Wiki",
+      "url": "https://totalcsgo.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Commands",
+      "url": "https://totalcsgo.com/commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Ranks",
+      "url": "https://totalcsgo.com/ranks",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Callouts",
+      "url": "https://totalcsgo.com/callouts",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Launch Options",
+      "url": "https://totalcsgo.com/launch-options",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Crosshairs",
+      "url": "https://totalcsgo.com/crosshairs",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Codes",
+      "url": "https://totalcsgo.com/codes",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Binds",
+      "url": "https://totalcsgo.com/binds",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Guides",
+      "url": "https://totalcsgo.com/guides",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://totalcsgo.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Skins",
+      "url": "https://totalcsgo.com/skins",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "All Skins",
+      "url": "https://totalcsgo.com/skins",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skin Search",
+      "url": "https://totalcsgo.com/skins/finder",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skin Trading Sites",
+      "url": "https://totalcsgo.com/skins/skin-trading-sites",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Best Deals",
+      "url": "https://totalcsgo.com/skins/best-deals",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Giveaways",
+      "url": "https://totalcsgo.com/skins/giveaways",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skin Guides & News",
+      "url": "https://totalcsgo.com/skins/articles",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Total CS",
+      "url": "https://totalcsgo.com/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FOV and Viewmodel Commands",
+      "url": "https://totalcsgo.com/commands/categories/fov-and-viewmodel",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Bot Commands",
+      "url": "https://totalcsgo.com/commands/categories/bot",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Crosshair Commands",
+      "url": "https://totalcsgo.com/commands/categories/crosshair",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "HUD Commands",
+      "url": "https://totalcsgo.com/commands/categories/hud",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "View All Categories",
+      "url": "https://totalcsgo.com/commands/categories",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "More Help",
+      "url": "https://totalcsgo.com/guides/developer-console",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "bot_add",
+      "url": "https://totalcsgo.com/commands/botadd",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/botadd",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "bot_add_ct",
+      "url": "https://totalcsgo.com/commands/botaddct",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/botaddct",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "bot_add_t",
+      "url": "https://totalcsgo.com/commands/botaddt",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/botaddt",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cl_crosshairgap",
+      "url": "https://totalcsgo.com/commands/clcrosshairgap",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/clcrosshairgap",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cl_crosshairsize",
+      "url": "https://totalcsgo.com/commands/clcrosshairsize",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/clcrosshairsize",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cl_crosshairstyle",
+      "url": "https://totalcsgo.com/commands/clcrosshairstyle",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/clcrosshairstyle",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cl_crosshairthickness",
+      "url": "https://totalcsgo.com/commands/clcrosshairthickness",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/clcrosshairthickness",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cl_hud_color",
+      "url": "https://totalcsgo.com/commands/clhudcolor",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/clhudcolor",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cl_hud_radar_scale",
+      "url": "https://totalcsgo.com/commands/clhudradarscale",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/clhudradarscale",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cl_radar_scale",
+      "url": "https://totalcsgo.com/commands/clradarscale",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/clradarscale",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "cl_showfps",
+      "url": "https://totalcsgo.com/commands/clshowfps",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/clshowfps",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "demo_pause",
+      "url": "https://totalcsgo.com/commands/demopause",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/demopause",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "demo_resume",
+      "url": "https://totalcsgo.com/commands/demoresume",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/demoresume",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "demo_timescale",
+      "url": "https://totalcsgo.com/commands/demotimescale",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/demotimescale",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "demo_togglepause",
+      "url": "https://totalcsgo.com/commands/demotogglepause",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/demotogglepause",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "game_mode",
+      "url": "https://totalcsgo.com/commands/gamemode",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/gamemode",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "game_type",
+      "url": "https://totalcsgo.com/commands/gametype",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/gametype",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "give",
+      "url": "https://totalcsgo.com/commands/give",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "give command list",
+      "url": "https://totalcsgo.com/give-codes",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/give",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "hurtme",
+      "url": "https://totalcsgo.com/commands/hurtme",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/hurtme",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "mp_ignore_round_win_conditions",
+      "url": "https://totalcsgo.com/commands/mpignoreroundwinconditions",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Examples, Generator & More",
+      "url": "https://totalcsgo.com/commands/mpignoreroundwinconditions",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "1",
+      "url": "https://totalcsgo.com/commands",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "2",
+      "url": "https://totalcsgo.com/commands/2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "3",
+      "url": "https://totalcsgo.com/commands/3",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "4",
+      "url": "https://totalcsgo.com/commands/4",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "5",
+      "url": "https://totalcsgo.com/commands/5",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "130",
+      "url": "https://totalcsgo.com/commands/130",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://totalcsgo.com/commands/2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://totalcsgo.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "CS:GO & CS2 Skins",
+      "url": "https://totalcsgo.com/skins",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS:GO & CS2 Binds",
+      "url": "https://totalcsgo.com/binds",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Launch Options",
+      "url": "https://totalcsgo.com/launch-options",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS:GO & CS2 Callouts",
+      "url": "https://totalcsgo.com/callouts",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Console Commands",
+      "url": "https://totalcsgo.com/commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS:GO & CS2 Guides",
+      "url": "https://totalcsgo.com/guides",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 Leaderboards",
+      "url": "https://totalcsgo.com/ranks/premier",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Advertise",
+      "url": "https://totalcsgo.com/advertise",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "About Us",
+      "url": "https://totalcsgo.com/about",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://totalcsgo.com/privacy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://totalcsgo.com/contact",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dantoo",
+      "url": "https://dantoo.net",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "8b3e01c6ab683461a017fd37ed935fd0c6f53cb182d05ee3f462d87666560f0e",
+  "captured_at": "2026-09-21T04:15:39.551243+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://totalcsgo.com/commands",
+  "http_status": 200,
+  "raw_file": "raw\\e6cd10b69bb6f3054ffc.html"
+}

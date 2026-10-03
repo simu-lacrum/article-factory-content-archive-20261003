@@ -1,0 +1,165 @@
+[
+  {
+    "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/25629",
+    "target_url": "https://uc.zone/ru/dota2",
+    "observed_href": "https://uc.zone/ru/dota2",
+    "anchor": "https://uc.zone/ru/dota2",
+    "anchor_kind": "naked_url",
+    "target_keyword": "dota 2 cheats",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "user_complaint_on_public_issue_tracker",
+    "placement": "editorial",
+    "rel": [
+      "nofollow"
+    ],
+    "checked_at": "2026-09-21T05:55:45.194342+00:00",
+    "verification_status": "target_and_anchor_found",
+    "occurrences": 1,
+    "evidence_type": "verified_public_page_sample_not_provider_index"
+  },
+  {
+    "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/25629",
+    "target_url": "https://octarine.cc/p/home",
+    "observed_href": "https://octarine.cc/p/home",
+    "anchor": "https://octarine.cc/p/home",
+    "anchor_kind": "naked_url",
+    "target_keyword": "dota 2 cheats",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "user_complaint_on_public_issue_tracker",
+    "placement": "editorial",
+    "rel": [
+      "nofollow"
+    ],
+    "checked_at": "2026-09-21T05:55:45.194342+00:00",
+    "verification_status": "target_and_anchor_found",
+    "occurrences": 1,
+    "evidence_type": "verified_public_page_sample_not_provider_index"
+  },
+  {
+    "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/6892",
+    "target_url": "https://uc.zone/",
+    "observed_href": "https://uc.zone/",
+    "anchor": "https://uc.zone/",
+    "anchor_kind": "naked_url",
+    "target_keyword": "dota 2 cheats",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "user_complaint_on_public_issue_tracker",
+    "placement": "editorial",
+    "rel": [
+      "nofollow"
+    ],
+    "checked_at": "2026-09-21T05:55:45.195441+00:00",
+    "verification_status": "target_and_anchor_found",
+    "occurrences": 1,
+    "evidence_type": "verified_public_page_sample_not_provider_index"
+  },
+  {
+    "source_url": "https://github.com/Nerve11/uczone-docs-UmbrellaDota2",
+    "target_url": "https://uc.zone/ru/dota2",
+    "observed_href": "https://uc.zone/ru/dota2",
+    "anchor": "uc.zone/ru/dota2",
+    "anchor_kind": "naked_url",
+    "target_keyword": "dota 2 cheats",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "third_party_documentation_repository_readme",
+    "placement": "editorial",
+    "rel": [
+      "nofollow"
+    ],
+    "checked_at": "2026-09-21T05:55:45.196164+00:00",
+    "verification_status": "target_and_anchor_found",
+    "occurrences": 1,
+    "evidence_type": "verified_public_page_sample_not_provider_index"
+  },
+  {
+    "source_url": "https://github.com/Nerve11/uczone-docs-UmbrellaDota2",
+    "target_url": "https://uc.zone/ru/dota2",
+    "observed_href": "https://uc.zone/ru/dota2",
+    "anchor": "uc.zone",
+    "anchor_kind": "naked_url",
+    "target_keyword": "dota 2 cheats",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "third_party_documentation_repository_readme",
+    "placement": "editorial",
+    "rel": [
+      "nofollow"
+    ],
+    "checked_at": "2026-09-21T05:55:45.196164+00:00",
+    "verification_status": "target_and_anchor_found",
+    "occurrences": 1,
+    "evidence_type": "verified_public_page_sample_not_provider_index"
+  },
+  {
+    "source_url": "https://www.scamadviser.com/check-website/avalan.cc",
+    "target_url": "https://avalan.cc/",
+    "observed_href": "http://avalan.cc?utm_medium=Scamadviser.com&utm_campaign=Scamadviser.com",
+    "anchor": "VISIT",
+    "anchor_kind": "generic",
+    "target_keyword": "deadlock cheats",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "placement": "editorial",
+    "rel": [
+      "noopener",
+      "noreferrer"
+    ],
+    "checked_at": "2026-09-21T05:55:46.284764+00:00",
+    "verification_status": "target_and_anchor_found",
+    "occurrences": 1,
+    "evidence_type": "verified_public_page_sample_not_provider_index"
+  },
+  {
+    "source_url": "https://www.scamadviser.com/check-website/avalan.cc",
+    "target_url": "https://avalan.cc/",
+    "observed_href": "http://avalan.cc?utm_medium=Scamadviser.com&utm_campaign=Scamadviser.com",
+    "anchor": "VISIT avalan.cc",
+    "anchor_kind": "branded",
+    "target_keyword": "deadlock cheats",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "placement": "editorial",
+    "rel": [
+      "noopener",
+      "noreferrer"
+    ],
+    "checked_at": "2026-09-21T05:55:46.284764+00:00",
+    "verification_status": "target_and_anchor_found",
+    "occurrences": 1,
+    "evidence_type": "verified_public_page_sample_not_provider_index"
+  },
+  {
+    "source_url": "https://www.scam-detector.com/validator/uc-zone-review/",
+    "target_url": "https://uc.zone/",
+    "observed_href": "https://uc.zone",
+    "anchor": "uc.zone",
+    "anchor_kind": "naked_url",
+    "target_keyword": "",
+    "games": [
+      "dota2",
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "placement": "editorial",
+    "rel": [
+      "nofollow"
+    ],
+    "checked_at": "2026-09-21T05:55:47.602010+00:00",
+    "verification_status": "target_and_anchor_found",
+    "occurrences": 1,
+    "evidence_type": "verified_public_page_sample_not_provider_index"
+  }
+]

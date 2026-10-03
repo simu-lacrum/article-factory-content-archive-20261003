@@ -1,0 +1,354 @@
+{
+  "provider": "semrush_public_keyword_magic",
+  "country": "US",
+  "engine": "google",
+  "captured_at": "2026-09-21",
+  "period": "2026-09",
+  "period_basis": "capture_month",
+  "match_type": "provider_unspecified",
+  "volume_basis": "provider_estimated_rolling_12_month_average",
+  "source_url": "https://www.semrush.com/free-tools/keyword-tool/",
+  "source_method": "visible_free_report_transcription",
+  "selection": "First 15 unique displayed keywords per seed; duplicated DOM rows removed; no locked rows used.",
+  "country_evidence": "United States option was selected; report links contained db=us.",
+  "notes": [
+    "Broad match describes keyword discovery, not a Google Ads broad-match search-volume total.",
+    "Measurement window end not exposed; retrieval month is not report month.",
+    "Do not treat provider intent labels or KD as a replacement for SERP interpretation."
+  ],
+  "captures": [
+    {
+      "seed": "cs2 cheat",
+      "game": "cs2",
+      "rows": [
+        [
+          "cs2 cheat",
+          "IC",
+          "4.4K",
+          42,
+          "cs2-hub"
+        ],
+        [
+          "free cs2 cheats",
+          "I",
+          "3.6K",
+          31,
+          "cs2-free-paid"
+        ],
+        [
+          "midnight cs2 cheat",
+          "I",
+          "2.9K",
+          19,
+          "cs2-comparison"
+        ],
+        [
+          "best cs2 cheats",
+          "IC",
+          "2.4K",
+          10,
+          "cs2-comparison"
+        ],
+        [
+          "wilkl cheat engine for football manager cause cs2 ban",
+          "",
+          "1.9K",
+          0,
+          "exclude_cross_game_ban_query_needs_separate_validation"
+        ],
+        [
+          "will cheat engine for other game cause cs2 ban",
+          "",
+          "1.9K",
+          0,
+          "exclude_cross_game_ban_query_needs_separate_validation"
+        ],
+        [
+          "cs2 cheats free",
+          "I",
+          "1.3K",
+          23,
+          "cs2-free-paid"
+        ],
+        [
+          "fatality cs2 cheat",
+          "I",
+          "1.3K",
+          30,
+          "cs2-comparison"
+        ],
+        [
+          "free cs2 cheats reddit",
+          "NT",
+          "1.3K",
+          30,
+          "exclude_community_navigation_not_article_target"
+        ],
+        [
+          "cs2 dma cheat",
+          "I",
+          "1K",
+          24,
+          "exclude_architecture_query_needs_separate_intent_validation"
+        ],
+        [
+          "pellix cs2 cheat",
+          "NT",
+          "1K",
+          30,
+          "cs2-comparison"
+        ],
+        [
+          "cs2 anti cheat",
+          "I",
+          "880",
+          14,
+          "cs2-hub"
+        ],
+        [
+          "cs2 cheats",
+          "I",
+          "880",
+          42,
+          "cs2-hub"
+        ],
+        [
+          "cs2 free cheats",
+          "I",
+          "880",
+          34,
+          "cs2-free-paid"
+        ],
+        [
+          "orbit cs2 cheat",
+          "I",
+          "880",
+          15,
+          "cs2-comparison"
+        ]
+      ]
+    },
+    {
+      "seed": "dota 2 cheat",
+      "game": "dota2",
+      "rows": [
+        [
+          "cheat dota 2",
+          "",
+          "210",
+          0,
+          "dota2-hub"
+        ],
+        [
+          "dota 2 cheats",
+          "IC",
+          "210",
+          37,
+          "dota2-hub"
+        ],
+        [
+          "valve anti cheat was unable to verify dota 2",
+          "I",
+          "50",
+          33,
+          "exclude_client_troubleshooting_separate_intent"
+        ],
+        [
+          "cheat code dota 2",
+          "",
+          "20",
+          0,
+          "dota2-commands"
+        ],
+        [
+          "cheat dota 2 bot",
+          "",
+          "20",
+          0,
+          "dota2-commands"
+        ],
+        [
+          "cheat dota 2 gold",
+          "",
+          "20",
+          0,
+          "dota2-commands"
+        ],
+        [
+          "cheat dota 2 lobby",
+          "",
+          "20",
+          0,
+          "dota2-commands"
+        ],
+        [
+          "cheat engine dota 2",
+          "",
+          "20",
+          0,
+          "exclude_operational_or_ambiguous_tool_intent"
+        ],
+        [
+          "cheat lobby dota 2",
+          "",
+          "20",
+          0,
+          "dota2-commands"
+        ],
+        [
+          "cheat money dota 2",
+          "",
+          "20",
+          0,
+          "dota2-commands"
+        ],
+        [
+          "cheating in dota 2",
+          "",
+          "20",
+          0,
+          "dota2-hub"
+        ],
+        [
+          "cheats dota 2 lobby",
+          "",
+          "20",
+          0,
+          "dota2-commands"
+        ],
+        [
+          "cheats on dota 2",
+          "",
+          "20",
+          0,
+          "dota2-hub"
+        ],
+        [
+          "dota 2 anti cheat",
+          "",
+          "20",
+          0,
+          "dota2-hub"
+        ],
+        [
+          "dota 2 bot cheats",
+          "",
+          "20",
+          0,
+          "dota2-commands"
+        ]
+      ]
+    },
+    {
+      "seed": "deadlock cheat",
+      "game": "deadlock",
+      "rows": [
+        [
+          "deadlock cheat death",
+          "IT",
+          "1K",
+          4,
+          "exclude_ambiguous_game_mechanic"
+        ],
+        [
+          "deadlock cheat",
+          "I",
+          "720",
+          10,
+          "deadlock-hub"
+        ],
+        [
+          "deadlock cheats",
+          "I",
+          "720",
+          13,
+          "deadlock-hub"
+        ],
+        [
+          "is there a parry cheat in deadlock",
+          "IT",
+          "590",
+          22,
+          "deadlock-auto-parry"
+        ],
+        [
+          "cheat death deadlock",
+          "I",
+          "320",
+          2,
+          "exclude_ambiguous_game_mechanic"
+        ],
+        [
+          "deadlock cheat commands",
+          "I",
+          "320",
+          15,
+          "deadlock-commands"
+        ],
+        [
+          "deadlock auto parry cheat",
+          "",
+          "70",
+          0,
+          "deadlock-auto-parry"
+        ],
+        [
+          "ratchet and clank deadlocked cheats",
+          "I",
+          "70",
+          17,
+          "exclude_other_game"
+        ],
+        [
+          "ratchet deadlocked cheat codes",
+          "I",
+          "70",
+          12,
+          "exclude_other_game"
+        ],
+        [
+          "ratchet deadlocked cheats",
+          "I",
+          "70",
+          12,
+          "exclude_other_game"
+        ],
+        [
+          "deadlock cheat sheet",
+          "",
+          "50",
+          0,
+          "exclude_reference_sheet_ambiguous_intent"
+        ],
+        [
+          "deadlock frog cheater",
+          "IT",
+          "50",
+          20,
+          "deadlock-hub"
+        ],
+        [
+          "ratchet deadlocked ps2 cheats",
+          "I",
+          "50",
+          3,
+          "exclude_other_game"
+        ],
+        [
+          "battlestar galactica deadlock cheats",
+          "I",
+          "40",
+          9,
+          "exclude_other_game"
+        ],
+        [
+          "deadlock cheating problem",
+          "",
+          "40",
+          0,
+          "deadlock-hub"
+        ]
+      ]
+    }
+  ]
+}

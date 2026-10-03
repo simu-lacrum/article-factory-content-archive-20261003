@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- umbrella-head-injected -->
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#06060A">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://umbrella-dota.com/og-image.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Umbrella·Dota">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://umbrella-dota.com/og-image.png">
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   ym(109468064, "init", {clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109468064" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<base href="/">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dodger for Dota 2 — Auto Skillshot Evasion in Umbrella | dodge script</title>
+<meta name="description" content="Dodger in Umbrella: automatic evasion of skillshots via Blink, BKB, Eul, Manta, Linken's. 0.1-second reaction — dodges Skewer and Hook faster than any human.">
+<link rel="canonical" href="https://umbrella-dota.com/en/features/dodger/">
+<link rel="alternate" hreflang="ru" href="https://umbrella-dota.com/funkcii/dodger/">
+<link rel="alternate" hreflang="en" href="https://umbrella-dota.com/en/features/dodger/">
+<link rel="alternate" hreflang="zh" href="https://umbrella-dota.com/zh/features/dodger/">
+<link rel="alternate" hreflang="x-default" href="https://umbrella-dota.com/en/features/dodger/">
+<meta name="robots" content="index,follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/portal.css?v=2026091501">
+</head>
+<body>
+
+<header id="chrome-nav"></header>
+
+<section class="subpage-hero">
+  <div class="container">
+    <nav class="crumbs"><a href="/en/">Home</a><span class="sep">/</span><a href="/en/features/">Features</a><span class="sep">/</span><span class="current">Dodger</span></nav>
+    <span class="eyebrow">DEFENSE MODULE · 0.1-SECOND REACTION</span>
+    <h1>Dodger — <span class="accent">auto skillshot evasion</span></h1>
+    <p class="lead">This defensive module catches incoming skillshots — Pudge Hook, Magnus Skewer, Sun Strike, Mirana Sacred Arrow — and activates the appropriate save (Blink, BKB, Eul, Manta, Linken's). Reaction time: 0.1 seconds, several times faster than a human.</p>
+    <div class="tag-row">
+      <span class="t">dodger <b>dota 2</b></span>
+      <span class="t">auto evade</span>
+      <span class="t">auto blink hook</span>
+      <span class="t">auto bkb</span>
+      <span class="t">dodge skillshots</span>
+    </div>
+
+    <div class="demo-block">
+      <span class="corner tl"></span><span class="corner tr"></span><span class="corner bl"></span><span class="corner br"></span>
+      <span class="label">DEMO · INCOMING PROJECTILE ALERT</span>
+      <img data-magnify="1" data-lightbox="1" src="/assets/refs/menus/dodger.jpg" alt="Dodger — auto skillshot evasion" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:1">
+    </div>
+
+    <div class="screens-row" style="margin-top:14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px">
+      <div style="position:relative;aspect-ratio:16/10;background:#08040A;border:1px solid var(--hairline);overflow:hidden;clip-path:polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px))"><img src="/assets/refs/menus/dodger-panels.jpg" alt="" loading="lazy" style="width:100%;height:100%;object-fit:cover" data-lightbox="1"></div>
+      <div style="position:relative;aspect-ratio:16/10;background:#08040A;border:1px solid var(--hairline);overflow:hidden;clip-path:polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px))"><img src="/assets/refs/menus/avdis.jpg" alt="" loading="lazy" style="width:100%;height:100%;object-fit:cover" data-lightbox="1"></div>
+    </div></section>
+
+<section style="padding-top:48px">
+  <div class="container">
+    <div class="article-layout">
+
+      <aside class="toc">
+        <h5>In this article</h5>
+        <ol>
+          <li><a href="#what">What the module does</a></li>
+          <li><a href="#settings">Dodger settings</a></li>
+          <li><a href="#list">What it dodges</a></li>
+          <li><a href="#how">How to set it up</a></li>
+          <li><a href="#safe">Safety</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ol>
+      </aside>
+
+      <article class="article">
+        <section id="why">
+          <h2>Why manual dodging is hard to master</h2>
+          <p>The average adult human visual reaction time is 200–250 milliseconds. That is the hard ceiling: by the time a signal travels from eye to motor cortex to fingers, hundreds of clock cycles have passed. For most players the real figure is higher due to attention, pattern recognition and decision-making.</p>
+          <p>Skillshots like Hook or Sacred Arrow travel 0.3–0.7 seconds at a typical medium range. Mathematically the reaction window exists, but it is extremely narrow. Most players at Ancient and below statistically catch these projectiles regularly.</p>
+          <p>Automation removes three constraints at once: it catches the projectile in one frame (3 milliseconds), calculates the trajectory perfectly via a mathematical model, and picks the optimal save from what is available in inventory. Reaction time is around 100 milliseconds — impossible to achieve by hand.</p>
+        </section>
+
+        <section id="what">
+          <h2>What the module does</h2>
+          <p>A scanner constantly tracks moving projectiles and point-targeted casts from opponents. When a projectile is aimed at you — trajectory calculation and activation of the appropriate save happen milliseconds before impact:</p>
+          <ul>
+            <li><strong>Blink sideways</strong> — exiting the flight cone, perfect against Hook and Skewer.</li>
+            <li><strong>BKB / Manta / Eul</strong> — immunity or dispel against point-targeted ults (Doom, Reaper's Scythe).</li>
+            <li><strong>Linken's / Lotus</strong> — passive saves triggered by priority order.</li>
+            <li><strong>Blink-out</strong> — for heroes with instant movement (Storm, AM, QoP) the cast instantly removes them from the impact zone.</li>
+            <li><strong>Priority engine</strong> — picks the save with the minimum resource cost. If a Blink dodge is possible, BKB is not spent.</li>
+          </ul>
+          <div class="callout">
+            <span class="ico">i</span>
+            <p>Especially effective against Pudge, Mirana, Pangolier, Magnus, Earthshaker, Tiny — heroes with long snipe initiators. They waste their ult on nothing.</p>
+          </div>
+        </section>
+
+        <section id="settings">
+          <h2>Dodger settings in the menu</h2>
+          <p>In the Defense section Dodger has a flexible panel — you can tune it per spell and make the behavior less obvious:</p>
+          <ul>
+            <li><strong>Dodger</strong> — the main toggle: auto-dodges enemy targeted projectiles and disables.</li>
+            <li><strong>Per-spell dodge list</strong> — enable or disable dodging for each spell individually, plus Enable All / Disable All buttons.</li>
+            <li><strong>Chance of Dodge</strong> — the trigger probability, so the reaction looks human instead of firing 100% of the time.</li>
+            <li><strong>Min Stacks To Dodge</strong> — the minimum number of stacks required before reacting (useful for stacking effects).</li>
+            <li><strong>Use Only One Dodge</strong> — dodges only once instead of chaining a series of evades.</li>
+            <li><strong>Dodge From Your Own Projectiles</strong> — also dodges your own projectiles if they are heading toward you.</li>
+          </ul>
+        </section>
+
+        <section id="list">
+          <h2>What the automation dodges</h2>
+          <p>60+ skillshots are supported. Categories:</p>
+          <ul>
+            <li><strong>Hook / Grab:</strong> Pudge Hook, Hoodwink Bushwhack, Pangolier Swashbuckle (combo), Magnus Skewer.</li>
+            <li><strong>Linear projectiles:</strong> Mirana Arrow, Pudge Hook, Drow Frost Arrow burst, Spirit Breaker Charge.</li>
+            <li><strong>AoE:</strong> Tiny Avalanche+Toss, Earthshaker Echo (escape), Tide Ravage (BKB).</li>
+            <li><strong>Point-targeted ults:</strong> Doom, Reaper's Scythe (BKB), Finger of Death (BKB), Laguna Blade (Linken's check).</li>
+            <li><strong>Channeling:</strong> Bane Fiend's Grip, Enigma Black Hole, Lion Hex (BKB/Manta).</li>
+            <li><strong>Invisible:</strong> Sun Strike (radar timer), Mirana Arrow without vision (via audio trigger).</li>
+          </ul>
+        </section>
+
+        <section id="how">
+          <h2>How to set up Dodger</h2>
+          <ol>
+            <li>Launch Umbrella (<a href="/en/pricing/">download</a>).</li>
+            <li>In the cheat menu open <strong>Defense</strong> and activate <strong>Dodger</strong>.</li>
+            <li>Choose which save items and abilities the module is allowed to use (by default all: BKB, Manta, Eul, Blink, Aphotic Shield, Lotus).</li>
+            <li>Set the HP threshold — at what HP to activate BKB (we recommend 50%; below that — Manta or Blink).</li>
+            <li>Configure a hero whitelist/blacklist: for example, always dodge Pudge Hook, ignore Drow Frost Arrow.</li>
+            <li>Save the config.</li>
+          </ol>
+        </section>
+
+        <section id="safe">
+          <h2>Safety</h2>
+          <p>Automatic evasion is one of the most visible modules: a perfect Blink 0.05 sec before a Hook in a replay looks suspicious. Protection:</p>
+          <ul>
+            <li><a href="/en/features/spoofer/"><strong>Spoofer</strong></a> — HWID masking.</li>
+            <li><strong>Reaction window</strong> — configurable. At 80ms the evade is perfect; at 180ms it looks like the reaction of a top-1000 player — more natural.</li>
+            <li><strong>Random misses</strong> — the system occasionally "fails to react" (5–10% of cases) so the statistics never show 100% dodge rate.</li>
+            <li>Cloud config with no traces on disk.</li>
+          </ul>
+          <p>More detail — <a href="/en/blog/is-cheating-bannable/">Do you get banned for cheats</a>.</p>
+        </section>
+
+        <section id="faq">
+          <h2>FAQ</h2>
+          <div class="faq">
+            <details open>
+              <summary>Does it dodge Mirana Arrow at long range?</summary>
+              <p>Yes. Sacred Arrow is visible immediately after the cast (even without vision, via position-prediction). Reaction via Blink, BKB or self-Eul.</p>
+            </details>
+            <details>
+              <summary>What about projectiles under BKB immunity?</summary>
+              <p>The system automatically distinguishes physical and magical damage. If BKB is already active it does not activate a second one — it reacts with Manta or Blink instead.</p>
+            </details>
+            <details>
+              <summary>Will BKB be used on every Hook?</summary>
+              <p>No. The priority engine assesses risk: at 100% HP with no threatening enemy items — it ignores the Hook. At 20% HP under double initiation — BKB fires immediately.</p>
+            </details>
+            <details>
+              <summary>Is it compatible with Combo Builder?</summary>
+              <p>Yes, auto-evasion has priority over any active chain. If a Mirana Arrow is flying during your full burst — the cast is interrupted to save you (if HP is at risk).</p>
+            </details>
+          </div>
+        </section>
+      </article>
+
+      <aside class="related-sidebar">
+        <div class="related-buy">
+          <span class="eyebrow">DODGER + 31 MODULES</span>
+          <div class="from">from <span class="accent">$2.99</span></div>
+          <p>Dodger is in every Umbrella plan. Reaction window and save list are individually configurable.</p>
+          <a class="btn-cta" href="/en/pricing/">Choose a plan</a>
+          <ul class="quick">
+            <li>60+ skillshots</li>
+            <li>BKB / Manta / Blink / Eul</li>
+            <li>Priority engine</li>
+          </ul>
+        </div>
+
+        <div class="related-list">
+          <h5>Related features</h5>
+          <ul>
+            <li><a href="/en/features/maphack/">Maphack</a></li>
+            <li><a href="/en/features/combo/">Combo Builder</a></li>
+            <li><a href="/en/features/spoofer/">Spoofer (anti-ban)</a></li>
+            <li><a href="/en/scripts/">Hero scripts</a></li>
+            <li><a href="/en/config/">Ready configs</a></li>
+          </ul>
+        </div>
+      </aside>
+
+    </div>
+
+    <div class="bridge">
+      <div class="left">
+        <h3>Auto-evade Pudge Hook — <span class="accent">for $2.99</span></h3>
+        <p>Dodger catches the projectile 0.1 sec before impact. The Hook flies into thin air, Mirana Arrow sails past, Sun Strike hits empty ground.</p>
+      </div>
+      <div class="right">
+        <a class="btn-cta" href="/en/pricing/">Buy Umbrella</a>
+        <span class="price-hint">card / crypto payment · key in <b>10 seconds</b></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer id="chrome-footer"></footer>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+  {"@type":"BreadcrumbList","itemListElement":[
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://umbrella-dota.com/en/"},
+    {"@type":"ListItem","position":2,"name":"Features","item":"https://umbrella-dota.com/en/features/"},
+    {"@type":"ListItem","position":3,"name":"Dodger","item":"https://umbrella-dota.com/en/features/dodger/"}
+  ]},
+  {"@type":"HowTo","inLanguage":"en","name":"How to set up Dodger in Umbrella for Dota 2","step":[
+    {"@type":"HowToStep","name":"Open Defense","text":"Go to the Defense section in the cheat menu."},
+    {"@type":"HowToStep","name":"Activate Dodger","text":"Enable the module and select allowed save items."},
+    {"@type":"HowToStep","name":"Set HP threshold","text":"Specify the HP percentage for BKB activation."},
+    {"@type":"HowToStep","name":"Save config","text":"Save to cloud for the next session."}
+  ]},
+  {"@type":"FAQPage","mainEntity":[
+    {"@type":"Question","name":"Does it dodge Mirana Arrow at long range?","acceptedAnswer":{"@type":"Answer","text":"Yes, via position-prediction even without vision."}},
+    {"@type":"Question","name":"Does it use BKB on every Hook?","acceptedAnswer":{"@type":"Answer","text":"No. The priority engine assesses risk — at full HP it ignores the Hook."}},
+    {"@type":"Question","name":"Is it compatible with Combo Builder?","acceptedAnswer":{"@type":"Answer","text":"Yes, Dodger has priority — it will interrupt your cast for an evade when HP is at risk."}}
+  ]}
+]}
+</script>
+
+<script src="/assets/chrome.js?v=2026091501" defer></script>
+</body>
+</html>

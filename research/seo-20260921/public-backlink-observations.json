@@ -1,0 +1,369 @@
+[
+  {
+    "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/25629",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "user_complaint_on_public_issue_tracker",
+    "target_hosts": [
+      "uc.zone",
+      "octarine.cc"
+    ],
+    "discovery": "Web search for uc.zone Dota; publicly submitted issue, not a Valve statement",
+    "checked_at": "2026-09-21T05:55:45.194342+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "http_status": 200,
+    "final_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/25629",
+    "html_sha256": "8e11edd97a823d93e90baa36fb6a8e3a7925c8a93ff5af00d5d3a548033c98ba",
+    "links": [
+      {
+        "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/25629",
+        "target_url": "https://uc.zone/ru/dota2",
+        "observed_href": "https://uc.zone/ru/dota2",
+        "anchor": "https://uc.zone/ru/dota2",
+        "anchor_kind": "naked_url",
+        "target_keyword": "dota 2 cheats",
+        "games": [
+          "dota2"
+        ],
+        "source_context": "user_complaint_on_public_issue_tracker",
+        "placement": "editorial",
+        "rel": [
+          "nofollow"
+        ],
+        "checked_at": "2026-09-21T05:55:45.194342+00:00",
+        "verification_status": "target_and_anchor_found",
+        "occurrences": 1,
+        "evidence_type": "verified_public_page_sample_not_provider_index"
+      },
+      {
+        "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/25629",
+        "target_url": "https://octarine.cc/p/home",
+        "observed_href": "https://octarine.cc/p/home",
+        "anchor": "https://octarine.cc/p/home",
+        "anchor_kind": "naked_url",
+        "target_keyword": "dota 2 cheats",
+        "games": [
+          "dota2"
+        ],
+        "source_context": "user_complaint_on_public_issue_tracker",
+        "placement": "editorial",
+        "rel": [
+          "nofollow"
+        ],
+        "checked_at": "2026-09-21T05:55:45.194342+00:00",
+        "verification_status": "target_and_anchor_found",
+        "occurrences": 1,
+        "evidence_type": "verified_public_page_sample_not_provider_index"
+      }
+    ],
+    "status": "links_confirmed"
+  },
+  {
+    "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/6892",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "user_complaint_on_public_issue_tracker",
+    "target_hosts": [
+      "uc.zone",
+      "octarine.cc"
+    ],
+    "discovery": "Web search for uc.zone Dota; publicly submitted issue, not a Valve statement",
+    "checked_at": "2026-09-21T05:55:45.195441+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "http_status": 200,
+    "final_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/6892",
+    "html_sha256": "95977122e232cd48902e6142803392f8bfef3dbc81f5befb232d89e85243d614",
+    "links": [
+      {
+        "source_url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/6892",
+        "target_url": "https://uc.zone/",
+        "observed_href": "https://uc.zone/",
+        "anchor": "https://uc.zone/",
+        "anchor_kind": "naked_url",
+        "target_keyword": "dota 2 cheats",
+        "games": [
+          "dota2"
+        ],
+        "source_context": "user_complaint_on_public_issue_tracker",
+        "placement": "editorial",
+        "rel": [
+          "nofollow"
+        ],
+        "checked_at": "2026-09-21T05:55:45.195441+00:00",
+        "verification_status": "target_and_anchor_found",
+        "occurrences": 1,
+        "evidence_type": "verified_public_page_sample_not_provider_index"
+      }
+    ],
+    "status": "links_confirmed"
+  },
+  {
+    "source_url": "https://github.com/Nerve11/uczone-docs-UmbrellaDota2",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "third_party_documentation_repository_readme",
+    "target_hosts": [
+      "uc.zone"
+    ],
+    "discovery": "Web search for uc.zone Dota; inspect links only, do not run repository code",
+    "checked_at": "2026-09-21T05:55:45.196164+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "http_status": 200,
+    "final_url": "https://github.com/Nerve11/uczone-docs-UmbrellaDota2",
+    "html_sha256": "0f55c554c3e9b2eebd3aedcc1580f5b6af1add32f55b2cbbb58e910358610073",
+    "links": [
+      {
+        "source_url": "https://github.com/Nerve11/uczone-docs-UmbrellaDota2",
+        "target_url": "https://uc.zone/ru/dota2",
+        "observed_href": "https://uc.zone/ru/dota2",
+        "anchor": "uc.zone/ru/dota2",
+        "anchor_kind": "naked_url",
+        "target_keyword": "dota 2 cheats",
+        "games": [
+          "dota2"
+        ],
+        "source_context": "third_party_documentation_repository_readme",
+        "placement": "editorial",
+        "rel": [
+          "nofollow"
+        ],
+        "checked_at": "2026-09-21T05:55:45.196164+00:00",
+        "verification_status": "target_and_anchor_found",
+        "occurrences": 1,
+        "evidence_type": "verified_public_page_sample_not_provider_index"
+      },
+      {
+        "source_url": "https://github.com/Nerve11/uczone-docs-UmbrellaDota2",
+        "target_url": "https://uc.zone/ru/dota2",
+        "observed_href": "https://uc.zone/ru/dota2",
+        "anchor": "uc.zone",
+        "anchor_kind": "naked_url",
+        "target_keyword": "dota 2 cheats",
+        "games": [
+          "dota2"
+        ],
+        "source_context": "third_party_documentation_repository_readme",
+        "placement": "editorial",
+        "rel": [
+          "nofollow"
+        ],
+        "checked_at": "2026-09-21T05:55:45.196164+00:00",
+        "verification_status": "target_and_anchor_found",
+        "occurrences": 1,
+        "evidence_type": "verified_public_page_sample_not_provider_index"
+      }
+    ],
+    "status": "links_confirmed"
+  },
+  {
+    "source_url": "https://www.scamadviser.com/check-website/avalan.cc",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "target_hosts": [
+      "avalan.cc"
+    ],
+    "discovery": "Web search for Avalanche domain; report scores are outside this backlink analysis",
+    "checked_at": "2026-09-21T05:55:46.284764+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "http_status": 200,
+    "final_url": "https://www.scamadviser.com/check-website/avalan.cc",
+    "html_sha256": "18650bc35942b3bc04f1ca9c5658f572811df04829571b2677157318617e0f5d",
+    "links": [
+      {
+        "source_url": "https://www.scamadviser.com/check-website/avalan.cc",
+        "target_url": "https://avalan.cc/",
+        "observed_href": "http://avalan.cc?utm_medium=Scamadviser.com&utm_campaign=Scamadviser.com",
+        "anchor": "VISIT",
+        "anchor_kind": "generic",
+        "target_keyword": "deadlock cheats",
+        "games": [
+          "deadlock"
+        ],
+        "source_context": "automated_reputation_report",
+        "placement": "editorial",
+        "rel": [
+          "noopener",
+          "noreferrer"
+        ],
+        "checked_at": "2026-09-21T05:55:46.284764+00:00",
+        "verification_status": "target_and_anchor_found",
+        "occurrences": 1,
+        "evidence_type": "verified_public_page_sample_not_provider_index"
+      },
+      {
+        "source_url": "https://www.scamadviser.com/check-website/avalan.cc",
+        "target_url": "https://avalan.cc/",
+        "observed_href": "http://avalan.cc?utm_medium=Scamadviser.com&utm_campaign=Scamadviser.com",
+        "anchor": "VISIT avalan.cc",
+        "anchor_kind": "branded",
+        "target_keyword": "deadlock cheats",
+        "games": [
+          "deadlock"
+        ],
+        "source_context": "automated_reputation_report",
+        "placement": "editorial",
+        "rel": [
+          "noopener",
+          "noreferrer"
+        ],
+        "checked_at": "2026-09-21T05:55:46.284764+00:00",
+        "verification_status": "target_and_anchor_found",
+        "occurrences": 1,
+        "evidence_type": "verified_public_page_sample_not_provider_index"
+      }
+    ],
+    "status": "links_confirmed"
+  },
+  {
+    "source_url": "https://www.elitepvpers.com/forum/deadlock-trading/5357986-tsuki-deadlock-external-humanized-aimbot-auto-parry-lua-scripts-vis-check.html",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "seller_forum_post",
+    "target_hosts": [
+      "tsuki.gg"
+    ],
+    "discovery": "Public Deadlock trading index; cached article shows hidden-link placeholders, not target URLs",
+    "checked_at": "2026-09-21T05:55:46.381338+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "status": "unavailable",
+    "http_status": 403,
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "links": []
+  },
+  {
+    "source_url": "https://www.elitepvpers.com/forum/dota-trading/5262310-umbrella-dota2-best-cheat.html",
+    "games": [
+      "dota2"
+    ],
+    "source_context": "seller_forum_post",
+    "target_hosts": [
+      "uc.zone",
+      "umbrella-dota.com"
+    ],
+    "discovery": "Web search for Umbrella Dota",
+    "checked_at": "2026-09-21T05:55:46.697687+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "status": "unavailable",
+    "http_status": 403,
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "links": []
+  },
+  {
+    "source_url": "https://www.elitepvpers.com/forum/deadlock-trading/5254499-original-umbrella-heroscripts-psilent-autoparry-10-days-free-spoofer.html",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "seller_forum_post",
+    "target_hosts": [
+      "uc.zone",
+      "umbrella-dota.com"
+    ],
+    "discovery": "Public Deadlock trading index",
+    "checked_at": "2026-09-21T05:55:46.995671+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "status": "unavailable",
+    "http_status": 403,
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "links": []
+  },
+  {
+    "source_url": "https://live.paloaltonetworks.com/t5/virustotal/false-positive-generic-ml/m-p/1257924/highlight/true",
+    "games": [
+      "dota2",
+      "deadlock"
+    ],
+    "source_context": "user_submitted_vendor_detection_appeal",
+    "target_hosts": [
+      "uc.zone"
+    ],
+    "discovery": "Web search for uc.zone Dota; unverified user claims are not product-safety evidence",
+    "checked_at": "2026-09-21T05:55:47.257046+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "status": "unavailable",
+    "http_status": 403,
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "links": []
+  },
+  {
+    "source_url": "https://gridinsoft.com/online-virus-scanner/url/uc-zone",
+    "games": [
+      "dota2",
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "target_hosts": [
+      "uc.zone"
+    ],
+    "discovery": "Web search for uc.zone Dota; report scores are outside this backlink analysis",
+    "checked_at": "2026-09-21T05:55:47.290925+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "status": "unavailable",
+    "http_status": 403,
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "links": []
+  },
+  {
+    "source_url": "https://gridinsoft.com/online-virus-scanner/url/avalan-cc",
+    "games": [
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "target_hosts": [
+      "avalan.cc"
+    ],
+    "discovery": "Web search for Avalanche domain; report scores are outside this backlink analysis",
+    "checked_at": "2026-09-21T05:55:47.568327+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "status": "unavailable",
+    "http_status": 403,
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "links": []
+  },
+  {
+    "source_url": "https://www.scam-detector.com/validator/uc-zone-review/",
+    "games": [
+      "dota2",
+      "deadlock"
+    ],
+    "source_context": "automated_reputation_report",
+    "target_hosts": [
+      "uc.zone"
+    ],
+    "discovery": "Web search for uc.zone Dota; report scores are outside this backlink analysis",
+    "checked_at": "2026-09-21T05:55:47.602010+00:00",
+    "method": "ordinary_http_html_parse_no_js",
+    "http_status": 200,
+    "final_url": "https://www.scam-detector.com/validator/uc-zone-review/",
+    "html_sha256": "7be06f08349872b2f9de5c4ae3ba2cebc29d2ec9c88e2e5c4bc5631288ecf54a",
+    "links": [
+      {
+        "source_url": "https://www.scam-detector.com/validator/uc-zone-review/",
+        "target_url": "https://uc.zone/",
+        "observed_href": "https://uc.zone",
+        "anchor": "uc.zone",
+        "anchor_kind": "naked_url",
+        "target_keyword": "",
+        "games": [
+          "dota2",
+          "deadlock"
+        ],
+        "source_context": "automated_reputation_report",
+        "placement": "editorial",
+        "rel": [
+          "nofollow"
+        ],
+        "checked_at": "2026-09-21T05:55:47.602010+00:00",
+        "verification_status": "target_and_anchor_found",
+        "occurrences": 1,
+        "evidence_type": "verified_public_page_sample_not_provider_index"
+      }
+    ],
+    "status": "links_confirmed"
+  }
+]

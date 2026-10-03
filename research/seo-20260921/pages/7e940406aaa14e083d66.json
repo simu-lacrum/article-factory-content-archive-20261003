@@ -1,0 +1,391 @@
+{
+  "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+  "canonical": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+  "language": "en",
+  "title": "CS2 Cheats Explained: Aimbot, Triggerbot, Wallhack, Spinbot & More — CSWatch Blog | CSWatch",
+  "description": "A plain-English glossary of the cheats you'll actually run into in CS2 — what each one does, and the specific tell that gives it away on a demo.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "CS2 Cheats Explained: Aimbot, Triggerbot, Wallhack, Spinbot & More"
+    },
+    {
+      "level": 2,
+      "text": "Aimbot"
+    },
+    {
+      "level": 2,
+      "text": "Triggerbot"
+    },
+    {
+      "level": 2,
+      "text": "Wallhack / ESP"
+    },
+    {
+      "level": 2,
+      "text": "Spinbot"
+    },
+    {
+      "level": 2,
+      "text": "No-recoil / no-spread"
+    },
+    {
+      "level": 2,
+      "text": "Bunny-hop (bhop) scripts"
+    },
+    {
+      "level": 2,
+      "text": "Radar / sound hacks"
+    },
+    {
+      "level": 2,
+      "text": "The two that beat VAC"
+    },
+    {
+      "level": 2,
+      "text": "How to use this"
+    }
+  ],
+  "document_h1": [
+    "CS2 Cheats Explained: Aimbot, Triggerbot, Wallhack, Spinbot & More"
+  ],
+  "text": "← All posts ● cswatch / dispatches CS2 Cheats Explained: Aimbot, Triggerbot, Wallhack, Spinbot & More A plain-English glossary of the cheats you'll actually run into in CS2 — what each one does, and the specific tell that gives it away on a demo. CSWatch Media · 29 June 2026 · 6 min read guide cheat-detection reference \"He's hacking\" covers a dozen very different things. Knowing which cheat you're actually looking at makes you far better at spotting it — and at reporting it accurately. Here's a plain-English glossary of the CS2 cheats you'll actually run into, and how each one gives itself away. Aimbot Software that aims for the player. Blatant (\"rage\") aimbot snaps instantly to heads; subtle (\"legit\") aimbot only nudges the crosshair the last few degrees so it looks human. The tell isn't speed — it's consistency : the same micro-correction onto the head, kill after kill, often with a tiny snap at the exact moment of firing. Triggerbot A narrower cousin of aimbot: it auto-fires the instant the crosshair passes over an enemy. The player still moves their own aim, so it's subtle — but reaction times become impossibly perfect, especially on flick shots and through-smoke kills where a human couldn't time the click. Wallhack / ESP ESP (\"extra-sensory perception\") draws enemy positions, health, and gear through walls. It's about information , not aim. Tells: pre-aiming exact positions every round, tracking enemies through walls, never wasting time clearing empty angles, and committing to wallbangs with no audio reason. This is the most common — and most game-ruining — category. Spinbot The character spins rapidly, usually paired with a rage aimbot. It looks absurd because it is — spinning defeats some anti-aim/legit checks while the aimbot does the killing. Blatant and rare in Prime, but unmistakable on a demo. No-recoil / no-spread Scripts or hacks that cancel weapon recoil so long sprays stay pinned to one spot. The tell: a full AK or M4 spray that holds the head with zero pattern drift across the whole magazine — something even pros can't do perfectly every time. Bunny-hop (bhop) scripts Automate the frame-perfect jump timing needed to chain bhops, giving unnatural movement speed. Less about winning fights, more about traversal — but a clear sign the player is running scripts. Radar / sound hacks Subtler information cheats that surface enemy positions on the radar or pinpoint footsteps. Harder to catch on a single demo because the player can act on the info naturally — which is exactly why account history and repeated patterns matter more than any one round. The two that beat VAC Most of the above can be caught by Valve's systems eventually. Two categories largely don't: DMA cheats (a second PC reads game memory over PCIe) and AI aim assist (a separate machine \"watches\" the screen and feeds inputs). We go deep on why in how VAC detection actually works and anatomy of a modern CS2 cheat . How to use this When you watch a suspect's demo, name the category to yourself — \"this is ESP\" vs \"this is aimbot\" points you at different evidence (information vs. precision). And when you report them , naming the specific cheat helps reviewers find the right rounds fast. If you're not sure it's a cheat at all, start here — or just look the account up for ban history and existing reports.",
+  "words": 571,
+  "links": [
+    {
+      "text": "CS / WATCH",
+      "url": "https://cswatch.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://cswatch.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Profile",
+      "url": "https://cswatch.gg/account",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Shop",
+      "url": "https://cswatch.gg/shop",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Overwatch",
+      "url": "https://cswatch.gg/overwatch",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Highlights",
+      "url": "https://cswatch.gg/highlights",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "My Reports",
+      "url": "https://cswatch.gg/my-reports",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Flagged Players",
+      "url": "https://cswatch.gg/flagged",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Support Center",
+      "url": "https://cswatch.gg/contact",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Docs / API",
+      "url": "https://cswatch.gg/developers",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Roadmap",
+      "url": "https://cswatch.gg/roadmap",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Upgrade · Pro",
+      "url": "https://cswatch.gg/pricing",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://discord.gg/Q2UPTW8Vjf",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "",
+      "url": "https://steamcommunity.com/groups/cswatch",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "",
+      "url": "https://x.com/cswatchgg",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "",
+      "url": "https://youtube.com/@cswatchgg",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "",
+      "url": "https://reddit.com/r/cswatch",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "CS / WATCH",
+      "url": "https://cswatch.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://cswatch.gg/search",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Support",
+      "url": "https://cswatch.gg/pricing",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "← All posts",
+      "url": "https://cswatch.gg/blog",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "how VAC detection actually works",
+      "url": "https://cswatch.gg/blog/how-vac-detection-works-in-cs2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "anatomy of a modern CS2 cheat",
+      "url": "https://cswatch.gg/blog/anatomy-of-a-modern-cs2-cheat",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "report them",
+      "url": "https://cswatch.gg/blog/how-to-report-a-cheater-in-cs2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "start here",
+      "url": "https://cswatch.gg/blog/how-to-check-if-someone-is-cheating-cs2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "look the account up",
+      "url": "https://cswatch.gg/search",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CS2 cheater checker",
+      "url": "https://cswatch.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Check a player for cheating",
+      "url": "https://cswatch.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "About",
+      "url": "https://cswatch.gg/about",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Community",
+      "url": "https://cswatch.gg/community",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog",
+      "url": "https://cswatch.gg/blog",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How it works",
+      "url": "https://cswatch.gg/how-it-works",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://cswatch.gg/faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Leaderboard",
+      "url": "https://cswatch.gg/leaderboard",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Pricing",
+      "url": "https://cswatch.gg/pricing",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "API",
+      "url": "https://cswatch.gg/developers",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contact",
+      "url": "https://cswatch.gg/contact",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy",
+      "url": "https://cswatch.gg/privacy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Terms",
+      "url": "https://cswatch.gg/terms",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "2346fca891b181ca11bedd9ff827e2c08dc517bb79bf06c9daa00cc34ec297a4",
+  "captured_at": "2026-09-21T05:30:12.980144+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+  "http_status": 200,
+  "raw_file": "raw/7e940406aaa14e083d66.html"
+}

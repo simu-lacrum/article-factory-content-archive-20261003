@@ -1,0 +1,272 @@
+{
+  "url": "https://umbrella-dota.com/en/scripts/meepo/",
+  "canonical": "https://umbrella-dota.com/en/scripts/meepo/",
+  "language": "en",
+  "title": "Meepo in Dota 2 — guide, Umbrella scripts, win rate by rank",
+  "description": "Meepo (Agility, melee): 52.1% win rate and 4k picks. 8 Umbrella scripts for auto-combo and prediction. Build, counters, FAQ.",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Meepo win rate by rank"
+    },
+    {
+      "level": 2,
+      "text": "Umbrella scripts for Meepo"
+    },
+    {
+      "level": 2,
+      "text": "Key Meepo combos"
+    },
+    {
+      "level": 2,
+      "text": "Meepo item build"
+    },
+    {
+      "level": 2,
+      "text": "Meepo counter-picks"
+    },
+    {
+      "level": 2,
+      "text": "Meepo FAQ"
+    }
+  ],
+  "document_h1": [
+    "Meepo in Dota 2 — guide & Umbrella scripts"
+  ],
+  "text": "Meepo win rate by rank Meepo's base win rate is 52.1% across all ranks. The skill-bracket spread shows how much the hero scales with MMR: Herald 50.9% Guardian 51.2% Crusader 51.6% Archon 51.9% Legend 52.3% Ancient 52.6% Divine 53.0% Immortal 53.4% Pro scene: 4k picks on Dotabuff, 10% ban rate in high ranks. A sharply inflated win rate reflects the current meta. Umbrella scripts for Meepo The main goal is to automate farm and focus in a fight. Umbrella scripts bind complex chains to one key, lead by target coordinates, and cast finishers the moment a kill is guaranteed. All 8 scripts are included in every plan . i Update — September 15, 2026: An option to escape the jungle with Poof and Earthbind. Fixed: cancelling Poof broke the escape module, and Body Block misbehaved inside the combo. Full change list . 01 Poof Multi-Cast Combo syncs poof from all clones onto target M4 02 Earthbind Prediction leads earthbind by target movement Q 03 Poof Killsteal finishes with poof on low hp W 04 Auto Last-Hit last-hits creeps on the perfect frame, accounting for attack speed and armor V 05 Kill Stealer auto-casts the finisher on enemy HP, accounting for magic resist O 06 Combo Builder ability + item chain in one click, up to 12 steps M4 07 Dodger dodges skillshots via Blink, BKB, Eul or Manta K 08 Item Auto-Use auto-casts Magic Wand, Glimmer, Lotus on trigger events auto Key Meepo combos Meepo plays as a carry (Pos 1). The main chains Umbrella automates: Burst combo: instant control + damage on one key via Combo Builder . Finish: auto-cast the ultimate when target HP drops below a computed threshold via Kill Stealer . Auto-farm: last-hit + deny via Last-Hit and wave block at the start via Crip Blocker . Evade: Blink, BKB or Eul on an incoming skillshot via Dodger . ★ A ready config for Meepo with binds for every script is on the CFG page. Import by code in one click via Cloud → Add By Code. Meepo item build Current meta build (OpenDota data): Starting: Tango, Quelling Blade, Slippers × 2. Early: Power Treads, Magic Wand, Drum of Endurance. Core items: Battlefury / Diffusal, BKB, Manta. Late game: Butterfly, Abyssal Blade, Heart. Item Auto-Use (an Umbrella module) casts Magic Wand at HP < 40%, BKB before an enemy magical initiation, Glimmer / Lotus on a targeted cast. An inventory slot frees up for what really matters. Meepo counter-picks Which heroes win and lose against Meepo (live OpenDota matchups): Type Heroes Meepo counters Marci · Largo · Pudge · Lycan · Pugna Counters Meepo Enigma Synergizes with Oracle · Mirana · Visage In the map hack you see dangerous heroes approaching in advance and can prepare a counter-initiation — e.g., BKB before the enemy enters combo range. Meepo FAQ Is Meepo hard to play? No, Meepo is a simple and strong hero in the current meta, holding above 52% across all ranks. Umbrella automates cast timing and finishing — the learning curve gets 2–3× faster. Which Umbrella scripts matter most for Meepo? Poof Multi-Cast Combo and Earthbind Prediction are the two core ones. The first handles syncs poof from all clones onto target, the second — leads earthbind by target movement. The full list of 8 scripts is in the \"Umbrella scripts\" section above. Which position should Meepo play? Meepo plays as a carry (Pos 1). Pos 1 — farm priority, the late game decides. Is it safe to use scripts on Meepo? Scripts are a gray area. Umbrella uses a spoofer for HWID masking and cloud configs to reduce the risk. More — \"Is cheating bannable\" . Where do I get a ready config for Meepo? A ready config with binds for all 8 scripts is on the Configs page. Import by code via Cloud → Add By Code.",
+  "words": 642,
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://umbrella-dota.com/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Scripts",
+      "url": "https://umbrella-dota.com/en/scripts/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Win rate by rank",
+      "url": "https://umbrella-dota.com/en/scripts/meepo/#wr",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Umbrella scripts",
+      "url": "https://umbrella-dota.com/en/scripts/meepo/#scripts",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "Key combos",
+      "url": "https://umbrella-dota.com/en/scripts/meepo/#combo",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Item build",
+      "url": "https://umbrella-dota.com/en/scripts/meepo/#build",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Counter-picks",
+      "url": "https://umbrella-dota.com/en/scripts/meepo/#counter",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://umbrella-dota.com/en/scripts/meepo/#faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "All 8 scripts are included in every plan",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Full change list",
+      "url": "https://umbrella-dota.com/en/updates/september-2026/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Combo Builder",
+      "url": "https://umbrella-dota.com/en/features/combo/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Kill Stealer",
+      "url": "https://umbrella-dota.com/en/features/killstealer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Last-Hit",
+      "url": "https://umbrella-dota.com/en/features/last-hit/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Crip Blocker",
+      "url": "https://umbrella-dota.com/en/features/crip-blocker/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dodger",
+      "url": "https://umbrella-dota.com/en/features/dodger/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "CFG",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "map hack",
+      "url": "https://umbrella-dota.com/en/features/maphack/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "\"Is cheating bannable\"",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Configs",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "All 126 heroes",
+      "url": "https://umbrella-dota.com/en/scripts/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Meepo config",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Maphack",
+      "url": "https://umbrella-dota.com/en/features/maphack/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Is it bannable",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "CFG",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "ee36a26d849c623781be1b5452da03a1683644bc065235aeaa5b0fd4c6210b9e",
+  "captured_at": "2026-09-21T06:24:40.218295+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://umbrella-dota.com/en/scripts/meepo/",
+  "http_status": 200,
+  "raw_file": "raw/fee34bcba6b9b89aec5b.html"
+}

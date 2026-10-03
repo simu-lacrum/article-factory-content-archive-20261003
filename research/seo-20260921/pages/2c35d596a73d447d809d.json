@@ -1,0 +1,232 @@
+{
+  "url": "https://umbrella-dota.com/en/features/maphack/",
+  "canonical": "https://umbrella-dota.com/en/features/maphack/",
+  "language": "en",
+  "title": "Maphack for Dota 2 — Info Screen in Umbrella | maphack",
+  "description": "Maphack for Dota 2 in Umbrella (the Info Screen module): see wards, jungle, runes, Roshan's HP and enemies through the fog of war. What it shows and how to enable it — inside.",
+  "headings": [
+    {
+      "level": 2,
+      "text": "What the maphack (Info Screen) shows"
+    },
+    {
+      "level": 3,
+      "text": "Map Hack — what's hidden by the fog of war"
+    },
+    {
+      "level": 3,
+      "text": "Roshan + rune timers"
+    },
+    {
+      "level": 3,
+      "text": "Ward Tracker"
+    },
+    {
+      "level": 3,
+      "text": "Hero Bars and Top Display"
+    },
+    {
+      "level": 3,
+      "text": "Extras"
+    },
+    {
+      "level": 2,
+      "text": "How it helps in-game"
+    },
+    {
+      "level": 2,
+      "text": "How to enable maphack in Umbrella"
+    },
+    {
+      "level": 2,
+      "text": "Is maphack safe to use"
+    },
+    {
+      "level": 2,
+      "text": "FAQ"
+    }
+  ],
+  "document_h1": [
+    "Maphack for Dota 2 — the Info Screen module"
+  ],
+  "text": "What the maphack (Info Screen) shows Info Screen is a large package of visual features in the cheat's main menu. It's not one checkbox but a catalog of several dozen toggles, split into meaningful groups. Map Hack — what's hidden by the fog of war Teleports — the opponent's teleport arrows on the minimap (only you see them). Jungle MapHack — reveals who's farming the jungle / neutral camps in the fog and where they move; the unit's approximate HP. Ability MapHack — shows enemy ability usage through the fog of war: an ability icon where it was cast (on the map and minimap). Fog of War ESP — highlights the nearest enemy hidden in the fog. Show Illusion — a separate color for illusions and the original. Hidden Spells — displaying hidden cast abilities in the fog of war. Linear Projectiles — projectile flight lines through the fog. Glyph and Scan CD — the cooldown of the enemy's Scan and tower Glyph. Bounty runes in world — the bounty-rune icon through the fog of war. Roshan + rune timers Roshan HP on Screen — a panel with the boss's HP. Roshan HP in World — an indicator right in the pit. Rune Timers — notifications for the spawn of bounty, side and Power runes. Camp Stack — a reminder of the camp-stacking timing. Ward Tracker Drawing enemy wards in the world: as a 2D icon, a 3D model or both at once. Each ward's vision radius (Render range particle). Visible by Sentry — where the enemy sentries are looking. Visible by Enemy — a \"the enemy or their ward sees you\" indicator. Hero Bars and Top Display An HP / Mana / Ultimate bar above the heroes. Top Display — a top panel with HP, MP, ultimates, a picked-rune timer and creep stats. Optionally hide the panel by holding ALT. Modifiers — the duration of Hex, Orchid, BKB, Aphotic and other buffs/debuffs. Items panel — the inventory of enemies and allies next to the model. Networth Panel — each hero's value in numbers. Extras Camera Distance — an increased camera distance with a smooth zoom. Dangerous Ability Timers — a timer for the ultimate of Mirana, Nyx and other dangerous casts. Tower Radius / Watchers Radius — an outline of enemy towers and watch towers. Show Linken — a text or particle indicator of an active Linken's Sphere. Side Notifications — notifications about purchases, teleports and ultimate usage. Reveal Delay — a humanizing delay before revealed information appears on screen, so your reaction looks more natural. i Info Screen is a module of visual information . Automatic actions (last-hit, combo, dodger) are other modules , enabled separately. How it helps in-game Information in Dota is half the win. Maphack flips the information balance in your favor: You see a gank in advance and leave → fewer deaths, more farm. You control the enemy jungle and runes → intercepting the opponent's resources. You de-ward with a sentry on sight → an information advantage = snaps. You see positions for a smoke gank → initiative in the fight over objectives. Combined with hero scripts the maphack becomes especially powerful: you see the enemy's position → the bind automatically fires at the right moment. On any hero's page see the counter-picks and builds . How to enable maphack in Umbrella Launch Umbrella ( download the loader ). In the menu, activate the Info Screen module. Configure what to display (enemies, wards, jungle, Roshan) — each item toggles with its own checkbox. Save the config to the cloud — the setup won't be lost and loads in the next session. If you don't want to fiddle with settings — grab a ready config , where Info Screen is already enabled for a standard play style. Is maphack safe to use Any cheat carries risk. Umbrella minimizes it with two tools: Spoofer — masks the HWID so a new account doesn't get tied to an old Valve ban. Cloud config storage — settings aren't written to the file system, so there are no traces when the client is scanned. A detailed honest breakdown — in the article Do you get banned for cheats in Dota 2 . We don't promise 100% protection — we give tools to reduce the risk. FAQ Can you see all enemies on the map? Yes, Info Screen shows the opponent's heroes through the fog of war across the whole map. An invisible hero (Riki, Bounty Hunter without vision) is shown too. Will it show the opponent's wards? Yes, including the positions of observer and sentry wards. You can clear them with a sentry on sight or with dust without searching blindly. Is this the same maphack people look for? Yes, the Info Screen feature is a full maphack for Dota 2 — it removes the fog of war and opens vision across the whole map. Can you enable only part of it (just wards)? Yes, each display element is configured with its own toggle — wards separately, jungle separately, Roshan's HP separately.",
+  "words": 820,
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://umbrella-dota.com/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Features",
+      "url": "https://umbrella-dota.com/en/features/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "What it shows",
+      "url": "https://umbrella-dota.com/en/features/maphack/#what",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How it helps in-game",
+      "url": "https://umbrella-dota.com/en/features/maphack/#use",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to enable it",
+      "url": "https://umbrella-dota.com/en/features/maphack/#how",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Safety",
+      "url": "https://umbrella-dota.com/en/features/maphack/#safe",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://umbrella-dota.com/en/features/maphack/#faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "other modules",
+      "url": "https://umbrella-dota.com/en/features/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "hero scripts",
+      "url": "https://umbrella-dota.com/en/scripts/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "counter-picks and builds",
+      "url": "https://umbrella-dota.com/en/scripts/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "download the loader",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "ready config",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Do you get banned for cheats in Dota 2",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Choose a plan",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skin Changer",
+      "url": "https://umbrella-dota.com/en/features/skinchanger/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Spoofer (anti-ban)",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Hero scripts",
+      "url": "https://umbrella-dota.com/en/scripts/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Ready configs",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Do you get banned for cheats",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "2604ee249ed9fe496b2ea2ef6bf8123319fa4116bef19b6e8a7651e5c1fc739e",
+  "captured_at": "2026-09-21T05:43:15.037816+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://umbrella-dota.com/en/features/maphack/",
+  "http_status": 200,
+  "raw_file": "raw\\2c35d596a73d447d809d.html"
+}

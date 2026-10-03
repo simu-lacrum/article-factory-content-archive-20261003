@@ -1,0 +1,244 @@
+{
+  "url": "https://umbrella-dota.com/en/scripts/",
+  "canonical": "https://umbrella-dota.com/en/scripts/",
+  "language": "en",
+  "title": "Dota 2 hero scripts in Umbrella — auto-combo, binds, last-hit | 126 heroes",
+  "description": "The Umbrella scripts library for 126 Dota 2 heroes: auto-combo on Invoker, Pudge hook angle, auto-Lina, item-abuse binds. All scripts in any plan.",
+  "headings": [
+    {
+      "level": 2,
+      "text": "What a script is in Umbrella"
+    },
+    {
+      "level": 2,
+      "text": "Top heroes with scripts"
+    },
+    {
+      "level": 2,
+      "text": "How to load a script"
+    },
+    {
+      "level": 2,
+      "text": "Script safety"
+    },
+    {
+      "level": 2,
+      "text": "FAQ"
+    }
+  ],
+  "document_h1": [
+    "Hero scripts in Umbrella"
+  ],
+  "text": "What a script is in Umbrella A script is a set of automatic actions bound to one button. Unlike a macro (a dumb key recording), a script reads the game state : enemy positions, cooldowns, HP, active effects. It fires only when the conditions are perfect. Examples: Invoker auto-combo — you bind one button: Tornado → EMP → Meteor → Deafening Blast in the perfect order. Pudge hook angle — you aim the cursor roughly — the script computes the angle with prediction. Lina auto-ult — ultimates an enemy when HP is below the ultimate's damage. Armlet abuse — auto toggle on/off of Armlet for +HP manipulation. Top heroes with scripts By OpenDota data — the most in-demand heroes for automation: Hero Scripts Win rate Main script Invoker 12 53.4% Auto-combo (Cataclysm + Sun Strike) Pudge 8 50.3% Hook angle prediction Lina 7 49.2% Auto-ult on low HP Sniper 6 50.1% Auto-headshot + kite Storm Spirit 9 48.9% Combo with BKB + ETH + ult Tinker 11 48.8% Rearm + rocket combo Detailed cards for each hero — clicking a tile opens a preview modal, the \"Full page\" button leads to a dedicated guide (e.g. Invoker , Pudge , Lion ). How to load a script Launch Umbrella (the loader ). Open the Scripts section. Choose a hero from the list → pick the script you need (or grab a ready config with a script selection). Assign a hotkey (usually Mouse4 — the standard combo bind). Enter the game — press the bind at the right moment. Script safety Scripts are a grey area. Simple binds are formally less noticeable than crude automation (like \"play the game for me\"). Umbrella uses a spoofer and cloud configs to reduce the risk. A detailed honest breakdown — \"Do you get banned for cheats in Dota 2\" . FAQ Are scripts the same as macros? No. A macro is a dumb key recording with no context awareness. A script reads the game state and fires only when the conditions are met. So a script is far more effective and less noticeable. Can you use scripts in ranked? Technically — yes, the cheat works in any mode. Ethically and by Valve's rules — it's a violation. Use at your own risk, with the spoofer . Which heroes have scripts? All 126 Dota 2 heroes have basic scripts (last-hit, auto-cast ultimates). The most playable ones have extended combos (Invoker, Pudge, Tinker, Storm Spirit, etc.). What do you need to buy separately? Nothing. All scripts are included in any Umbrella plan from $2.99. No surcharges, no \"per-hero\" subscriptions.",
+  "words": 425,
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://umbrella-dota.com/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "any Umbrella plan",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "sitemap.xml",
+      "url": "https://umbrella-dota.com/sitemap.xml",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "naked_url",
+      "rel": []
+    },
+    {
+      "text": "What a script is",
+      "url": "https://umbrella-dota.com/en/scripts/#what",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Top heroes with scripts",
+      "url": "https://umbrella-dota.com/en/scripts/#top",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to load a script",
+      "url": "https://umbrella-dota.com/en/scripts/#how",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Safety",
+      "url": "https://umbrella-dota.com/en/scripts/#safety",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://umbrella-dota.com/en/scripts/#faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Invoker",
+      "url": "https://umbrella-dota.com/en/scripts/invoker/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Pudge",
+      "url": "https://umbrella-dota.com/en/scripts/pudge/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lion",
+      "url": "https://umbrella-dota.com/en/scripts/lion/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "loader",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "ready config",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "\"Do you get banned for cheats in Dota 2\"",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "Maphack",
+      "url": "https://umbrella-dota.com/en/features/maphack/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skin Changer",
+      "url": "https://umbrella-dota.com/en/features/skinchanger/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Ready configs",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Bans",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "browse the ready configs",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "7a4b33620fe2eb50e23a5827375077fd7956e6abdd1ed06fea8c4d96eb181b36",
+  "captured_at": "2026-09-21T04:15:40.363191+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://umbrella-dota.com/en/scripts/",
+  "http_status": 200,
+  "raw_file": "raw\\f9e6fa15da5ba388dc4c.html"
+}

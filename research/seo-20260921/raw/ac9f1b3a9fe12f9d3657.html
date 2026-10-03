@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en" data-build="2b46aadf6c26c9eaac9a4bd3c0dfe016638672b615594b6830efc9f9b68ff4d4">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <meta name="theme-color" content="#0c0b0d">
+    <script>try{if(localStorage.getItem('deadlock:hideUnreleased')!=='false')document.documentElement.classList.add('hide-unreleased')}catch(e){}</script>
+
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="/assets/fonts/inter-latin-wght-normal.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="/assets/fonts/inter-tight-latin-wght-normal.woff2">
+    <link rel="stylesheet" href="/assets/styles/fonts.css?v=2b46aadf6c26c9eaac9a4bd3c0dfe016638672b615594b6830efc9f9b68ff4d4">
+    <link rel="stylesheet" href="/assets/styles/app.css?v=2b46aadf6c26c9eaac9a4bd3c0dfe016638672b615594b6830efc9f9b68ff4d4">
+
+    <title>Deadlock Parry: how it works, timings &amp; guide | Deadlock.io</title>
+    <meta name="description" content="Parrying is a timed defense against incoming melee attacks. A successful parry interrupts the attacker and creates an opening.">
+    
+    <link rel="canonical" href="https://deadlock.io/en/mechanics/parry">
+
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="alternate" type="application/rss+xml" title="Deadlock.io — updates & news" href="/rss.xml">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Deadlock.io">
+    <meta property="og:title" content="Deadlock Parry: how it works, timings &amp; guide | Deadlock.io">
+    <meta property="og:description" content="Parrying is a timed defense against incoming melee attacks. A successful parry interrupts the attacker and creates an opening.">
+    <meta property="og:url" content="https://deadlock.io/en/mechanics/parry">
+    <meta property="og:image" content="https://deadlock.io/og.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Deadlock.io">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="cs_CZ"><meta property="og:locale:alternate" content="de_DE"><meta property="og:locale:alternate" content="es_ES"><meta property="og:locale:alternate" content="es_LA"><meta property="og:locale:alternate" content="fr_FR"><meta property="og:locale:alternate" content="id_ID"><meta property="og:locale:alternate" content="it_IT"><meta property="og:locale:alternate" content="ja_JP"><meta property="og:locale:alternate" content="ko_KR"><meta property="og:locale:alternate" content="pl_PL"><meta property="og:locale:alternate" content="pt_BR"><meta property="og:locale:alternate" content="ru_RU"><meta property="og:locale:alternate" content="th_TH"><meta property="og:locale:alternate" content="tr_TR"><meta property="og:locale:alternate" content="uk_UA"><meta property="og:locale:alternate" content="zh_CN">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Deadlock Parry: how it works, timings &amp; guide | Deadlock.io">
+    <meta name="twitter:description" content="Parrying is a timed defense against incoming melee attacks. A successful parry interrupts the attacker and creates an opening.">
+    <meta name="twitter:image" content="https://deadlock.io/og.png">
+
+    <link rel="alternate" hreflang="cs" href="https://deadlock.io/cs/mechanics/parry"><link rel="alternate" hreflang="de" href="https://deadlock.io/de/mechanics/parry"><link rel="alternate" hreflang="en" href="https://deadlock.io/en/mechanics/parry"><link rel="alternate" hreflang="es-ES" href="https://deadlock.io/es/mechanics/parry"><link rel="alternate" hreflang="es-419" href="https://deadlock.io/es-419/mechanics/parry"><link rel="alternate" hreflang="fr" href="https://deadlock.io/fr/mechanics/parry"><link rel="alternate" hreflang="id" href="https://deadlock.io/id/mechanics/parry"><link rel="alternate" hreflang="it" href="https://deadlock.io/it/mechanics/parry"><link rel="alternate" hreflang="ja" href="https://deadlock.io/ja/mechanics/parry"><link rel="alternate" hreflang="ko" href="https://deadlock.io/ko/mechanics/parry"><link rel="alternate" hreflang="pl" href="https://deadlock.io/pl/mechanics/parry"><link rel="alternate" hreflang="pt-BR" href="https://deadlock.io/pt-BR/mechanics/parry"><link rel="alternate" hreflang="ru" href="https://deadlock.io/ru/mechanics/parry"><link rel="alternate" hreflang="th" href="https://deadlock.io/th/mechanics/parry"><link rel="alternate" hreflang="tr" href="https://deadlock.io/tr/mechanics/parry"><link rel="alternate" hreflang="uk" href="https://deadlock.io/uk/mechanics/parry"><link rel="alternate" hreflang="zh-CN" href="https://deadlock.io/zh-CN/mechanics/parry">
+<link rel="alternate" hreflang="x-default" href="https://deadlock.io/mechanics/parry">
+    <script type="application/ld+json">[{"@context":"https://schema.org","@type":"WebSite","name":"Deadlock.io","url":"https://deadlock.io/","inLanguage":"en","description":"Deadlock heroes and abilities, item effects and prices, game mechanics, community builds, skins and official patch notes."},{"@context":"https://schema.org","@type":"Organization","name":"Deadlock.io","url":"https://deadlock.io/","logo":"https://deadlock.io/icon-512.png","email":"contact@deadlock.io"}]</script>
+  </head>
+  <body>
+    <div class="shell">
+      <header class="site-bar">
+        <div class="container site-bar__inner">
+          <a class="brand" href="/en" aria-label="Deadlock.io">
+            <span class="brand__wm">deadlock<i>.io</i></span>
+          </a>
+          <nav class="nav" aria-label="Primary">
+            <a href="/en/heroes">Heroes</a><a href="/en/items">Items</a><a href="/en/mechanics" aria-current="page">Mechanics</a><a href="/en/patches">Patch notes</a><a href="/en/news">News</a><a href="/en/articles">Articles</a><a href="/en/leaderboard">Leaderboard</a><a href="/en/skins">Skins</a>
+          </nav>
+          <div class="bar-spacer"></div>
+          <div class="search" role="search">
+            <div class="search__field">
+              <svg class="search__icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path>
+              </svg>
+              <input type="search" autocomplete="off" spellcheck="false" placeholder="Search heroes, items and mechanics" aria-label="Search" data-search>
+            </div>
+            <div class="search__results" data-search-results data-empty="Nothing matches these filters." hidden></div>
+          </div>
+          <select class="bar-select" data-lang aria-label="Language">
+            <option value="/cs/mechanics/parry">Czech</option><option value="/de/mechanics/parry">German</option><option value="/en/mechanics/parry" selected>English</option><option value="/es/mechanics/parry">Spanish (Spain)</option><option value="/es-419/mechanics/parry">Spanish (Latin America)</option><option value="/fr/mechanics/parry">French</option><option value="/id/mechanics/parry">Indonesian</option><option value="/it/mechanics/parry">Italian</option><option value="/ja/mechanics/parry">Japanese</option><option value="/ko/mechanics/parry">Korean</option><option value="/pl/mechanics/parry">Polish</option><option value="/pt-BR/mechanics/parry">Portuguese (Brazil)</option><option value="/ru/mechanics/parry">Russian</option><option value="/th/mechanics/parry">Thai</option><option value="/tr/mechanics/parry">Turkish</option><option value="/uk/mechanics/parry">Ukrainian</option><option value="/zh-CN/mechanics/parry">Chinese (Simplified)</option>
+          </select>
+        </div>
+      </header>
+
+      <main class="container site-main">
+        
+  <article id="mechdoc" class="mpage" data-mechanic-slug="parry" data-category="combat">
+  <nav class="crumb">
+    <a href="/en">Home</a><span class="crumb__sep">/</span>
+    <a href="/en/mechanics">Mechanics</a><span class="crumb__sep">/</span>
+    <span>Parry</span>
+  </nav>
+
+  <header class="mhead">
+    <div class="mhead__kicker">
+      <span class="dot"></span>Combat<span class="imeta__sep">·</span>Combat
+      <span class="imeta__sep">·</span>Also calledmelee parry, parry window, melee counter
+    </div>
+    <h1 class="mhead__name">Parry</h1>
+  </header>
+
+  <figure class="mfig"><img src="/assets/game/panorama/images/items/vitality/rebuttal_psd.png" alt="Parry" loading="eager"></figure>
+
+  <div class="mlead">
+      <p class="mlead__txt">Parrying is a timed defense against incoming melee attacks. A successful parry interrupts the attacker and creates an opening.</p>
+      
+    </div>
+
+  <div class="mbody">
+    
+    <div class="mcol">
+      <section class="block">
+        <div class="block__h"><span class="block__t">Overview</span></div>
+        
+        <div class="mprose">
+          
+          <div class="msec">
+              <h2 class="msec__h">In practice</h2>
+              <p>
+      React to the attack’s wind-up. Repeatedly pressing parry without an incoming attack can leave it unavailable when you need it.
+    </p>
+            </div>
+        </div>
+      </section>
+
+      
+
+      
+
+      
+    </div>
+
+    
+    <aside class="mcol">
+      <section class="block">
+          <div class="block__h"><span class="block__t">Game data</span><span class="block__n">From the game</span></div>
+          <div class="mref">
+            <div class="mref__grp">
+                <span class="mref__h">Parry</span>
+                <div class="refrow">
+                    <span class="refrow__l">Cooldown</span>
+                    <span class="refrow__v">4.5s</span>
+                  </div><div class="refrow">
+                    <span class="refrow__l">Stun duration</span>
+                    <span class="refrow__v">2.75s</span>
+                  </div><div class="refrow">
+                    <span class="refrow__l">Damage taken</span>
+                    <span class="refrow__v">25%</span>
+                  </div>
+              </div>
+          </div>
+        </section>
+
+      <section class="block">
+          <div class="block__h"><span class="block__t">Related guides</span></div>
+          <div class="mrel">
+            
+            <div class="mrel__grp"><span class="mrel__h">Related items</span><div class="mrel__chips"><a class="chip-e" href="/en/items/rebuttal" data-hc="true" data-hc-kind="item" data-hc-id="upgrade_melee_rebuttal"><img src="/assets/img/panorama/images/items/vitality/rebuttal_psd.webp" alt="" loading="lazy" decoding="async" width="19" height="19"><span>Rebuttal</span>
+  </a><a class="chip-e" href="/en/items/melee-lifesteal" data-hc="true" data-hc-kind="item" data-hc-id="upgrade_lifestrike_gauntlets"><img src="/assets/img/panorama/images/items/vitality/melee_lifesteal_psd.webp" alt="" loading="lazy" decoding="async" width="19" height="19"><span>Melee Lifesteal</span>
+  </a><a class="chip-e" href="/en/items/lifestrike" data-hc="true" data-hc-kind="item" data-hc-id="upgrade_boxing_glove"><img src="/assets/img/panorama/images/items/vitality/lifestrike_psd.webp" alt="" loading="lazy" decoding="async" width="19" height="19"><span>Lifestrike</span>
+  </a></div></div>
+            <div class="mrel__grp"><span class="mrel__h">Related mechanics</span><div class="mrel__chips"><a class="chip-e" href="/en/mechanics/light-and-heavy-melee" data-hc="true" data-hc-kind="mechanic" data-hc-id="light-and-heavy-melee"><span>Light &amp; heavy melee</span>
+  </a><a class="chip-e" href="/en/mechanics/status-effects" data-hc="true" data-hc-kind="mechanic" data-hc-id="status-effects"><span>Status effects &amp; CC</span>
+  </a><a class="chip-e" href="/en/mechanics/shields-and-barriers" data-hc="true" data-hc-kind="mechanic" data-hc-id="shields-and-barriers"><span>Shields &amp; barriers</span>
+  </a></div></div>
+          </div>
+        </section>
+
+      
+    </aside>
+  </div>
+
+  
+  <details class="upd">
+      <summary><span class="upd__t">Update history</span><span class="upd__n">25</span><span class="upd__chev"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></svg></span></summary>
+      <div class="upd__body">
+        <div class="uhrow">
+            <div class="uhrow__h"><a class="uhrow__t" href="/en/patches/minor-update-05-28-2026-2026-05-28-1833968530888928">Minor Update - 05-28-2026</a><span class="uhrow__d">May 28, 2026</span></div>
+            <ul class="uhrow__list"><li>Parrying a trooper no longer resets your parry cooldown (however it won&#39;t end your parry early like a hero hit does)</li></ul>
+          </div><div class="uhrow">
+            <div class="uhrow__h"><a class="uhrow__t" href="/en/patches/05-27-2025-update-66453">05-27-2025 Update</a><span class="uhrow__d">May 27, 2025</span></div>
+            <ul class="uhrow__list"><li>Melee</li></ul>
+          </div><div class="uhrow">
+            <div class="uhrow__h"><a class="uhrow__t" href="/en/patches/05-21-2025-update-65674">05-21-2025 Update</a><span class="uhrow__d">May 21, 2025</span></div>
+            <ul class="uhrow__list"><li>Melee damage growth per boon reduced by 5%</li></ul>
+          </div><div class="uhrow">
+            <div class="uhrow__h"><a class="uhrow__t" href="/en/patches/05-19-2025-update-65381">05-19-2025 Update</a><span class="uhrow__d">May 20, 2025</span></div>
+            <ul class="uhrow__list"><li>Quarters: Melee Resistance increased from 15% to 20%</li><li>Melee</li><li>Blank: Melee Resistance increased from +25% to +30%</li><li>Fists: Melee damage reduced from 25% to 20%</li></ul>
+          </div><div class="uhrow">
+            <div class="uhrow__h"><a class="uhrow__t" href="/en/patches/04-17-2025-update-61382">04-17-2025 Update</a><span class="uhrow__d">Apr 18, 2025</span></div>
+            <ul class="uhrow__list"><li>Guardians melee attempt range reduced from 6.1m to 5m</li><li>Guardians melee damage range reduced from 8m to 7m</li><li>Players can no longer Parry troopers</li><li>Heavy Melee Cancel momentum is significantly reduced</li></ul>
+          </div><div class="uhrow">
+            <div class="uhrow__h"><a class="uhrow__t" href="/en/patches/04-04-2025-update-60284">04-04-2025 Update</a><span class="uhrow__d">Apr 04, 2025</span></div>
+            <ul class="uhrow__list"><li>Fixed issues with denying melee soul orbs</li></ul>
+          </div>
+      </div>
+    </details>
+
+  <details class="datamine hraw">
+    <summary class="datamine__sum">
+      <span class="datamine__sumt"><b>Data and API</b><span>API</span></span>
+      <span class="datamine__chev" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></svg></span>
+    </summary>
+    <div class="datamine__body hraw__body">
+      <div><h4>identity</h4><dl class="kv"><dt>id</dt><dd>mechanic_parry</dd><dt>slug</dt><dd>parry</dd><dt>category</dt><dd>combat</dd><dt>flowStage</dt><dd>fighting</dd><dt>aliases</dt><dd>melee parry, parry window, melee counter, block, F key parry, parry knockdown, парирование, парри, окно парирования, контра мили</dd><dt>sourcePath</dt><dd>manual:mechanics/parry</dd><dt>updatedAt</dt><dd>2026-09-20T22:00:00.000Z</dd></dl></div>
+      <div class="endpoints"><a class="endpoint" href="/api/v1/mechanics/parry.json"><span class="endpoint__m">GET</span><code class="endpoint__p">/api/v1/mechanics/parry.json</code><span class="endpoint__l">Mechanics</span></a><a class="endpoint" href="/api/v1/globals.json"><span class="endpoint__m">GET</span><code class="endpoint__p">/api/v1/globals.json</code><span class="endpoint__l">Game data</span></a></div>
+    </div>
+  </details>
+</article>
+
+      </main>
+
+      <footer class="site-foot">
+        <div class="container site-foot__inner">
+          <div class="site-foot__top">
+            <div class="site-foot__brand">
+              <a class="brand" href="/en" aria-label="Deadlock.io">
+                <span class="brand__wm">deadlock<i>.io</i></span>
+              </a>
+              <p class="site-foot__lead">A reference for Deadlock players.</p>
+              <div class="site-foot__social">
+                <a href="/cdn-cgi/l/email-protection#066569687267657246626367626a69656d286f69"><span class="__cf_email__" data-cfemail="75161a1b011416013511101411191a161e5b1c1a">[email&#160;protected]</span></a>
+              </div>
+            </div>
+            <nav class="site-foot__col" aria-label="Sections">
+              <h4>Sections</h4>
+              <a href="/en/heroes">Heroes</a><a href="/en/items">Items</a><a href="/en/mechanics">Mechanics</a><a href="/en/patches">Patch notes</a><a href="/en/news">News</a><a href="/en/articles">Articles</a><a href="/en/leaderboard">Leaderboard</a><a href="/en/skins">Skins</a>
+            </nav>
+            <nav class="site-foot__col" aria-label="Project">
+              <h4>Project</h4>
+              <a href="/en/about">About</a><a href="/api/v1/index.json" rel="nofollow">Open API</a><a href="/rss.xml" rel="nofollow">RSS feed</a>
+            </nav>
+            <nav class="site-foot__col" aria-label="Legal">
+              <h4>Legal</h4>
+              <a href="/en/privacy">Privacy</a>
+              <a href="/en/about#legal">Legal notice</a>
+            </nav>
+            <div class="site-foot__col">
+              <h4>Settings</h4>
+              <div class="switches">
+  <label><input type="checkbox" data-name-toggle="hero"> English hero names</label>
+  <label><input type="checkbox" data-name-toggle="item"> English item names</label>
+  <label><input type="checkbox" data-name-toggle="ability"> English ability names</label>
+  <label><input type="checkbox" data-hide-unreleased> Hide unreleased content</label>
+</div>
+            </div>
+          </div>
+          <div class="site-foot__bottom">
+            <span class="site-foot__tm">Unofficial community project. Not affiliated with Valve.</span>
+            <span class="site-foot__build">Build client-6698</span>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <div id="hovercard-layer" class="hc-layer" hidden></div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="module" src="/assets/scripts/site.js?v=2b46aadf6c26c9eaac9a4bd3c0dfe016638672b615594b6830efc9f9b68ff4d4"></script>
+  </body>
+</html>
+
+<script type="module" src="/assets/scripts/mechanic-widgets.js?v=2b46aadf6c26c9eaac9a4bd3c0dfe016638672b615594b6830efc9f9b68ff4d4"></script>

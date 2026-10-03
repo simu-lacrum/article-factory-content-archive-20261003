@@ -1,0 +1,120 @@
+{
+  "url": "https://ivsofte.biz/en/games/dota-2-hacks/",
+  "canonical": "https://ivsofte.biz/en/games/dota-2-hacks/",
+  "language": "en",
+  "title": "Access to this section is restricted | IVSOFTE",
+  "description": "This section is open to returning IVSOFTE customers only: sign in with the e-mail used for a purchase or with a password from the administrator.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Access to this section is restricted"
+    },
+    {
+      "level": 2,
+      "text": "You are signed in"
+    },
+    {
+      "level": 2,
+      "text": "Access granted"
+    },
+    {
+      "level": 2,
+      "text": "How to get access"
+    }
+  ],
+  "document_h1": [
+    "Access to this section is restricted"
+  ],
+  "text": "Personal access Returning customers only Access to this section is restricted This is a necessary measure: the section is kept only for people who have already bought software from IVSOFTE. Sign in with the e-mail you used for your purchase, or with a password from the administrator. You are signed in Access is active on this device. Open the section Access granted Opening the section… Open the section Purchase e-mail Password Access stays active on this device for 30 days. How to get access 1 Enter the e-mail you used for a purchase. If it is on the list, access opens immediately. 2 Address not accepted? Message the administrator and confirm a purchase: an order number, or the e-mail and an approximate date. 3 The administrator will issue a password — enter it on the “Password” tab. Never send your mailbox password, bank card details or other payment credentials. Message the administrator All contact details Language Русский English Deutsch Türkçe Português 中文 ไทย Polski Tiếng Việt 한국어 Français 日本語 Español العربية हिन्दी Bahasa Indonesia Italiano",
+  "words": 180,
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://ivsofte.biz/en/games/dota-2-hacks/#main-content",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "IV SOFTE",
+      "url": "https://ivsofte.biz/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://ivsofte.biz/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Catalog",
+      "url": "https://ivsofte.biz/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Open the section",
+      "url": "https://ivsofte.biz/members-only/en/client-section-b/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": [
+        "nofollow"
+      ]
+    },
+    {
+      "text": "Open the section",
+      "url": "https://ivsofte.biz/members-only/en/client-section-b/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": [
+        "nofollow"
+      ]
+    },
+    {
+      "text": "Message the administrator",
+      "url": "https://t.me/undetect",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer",
+        "nofollow"
+      ]
+    },
+    {
+      "text": "All contact details",
+      "url": "https://ivsofte.biz/en/contacts/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contact details",
+      "url": "https://ivsofte.biz/en/contacts/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "d0cada24dd3d1ed387ed84fbb78223c0fa3e9f3cc28b7a593cebd8eb48c07281",
+  "captured_at": "2026-09-21T07:29:22.448640+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://ivsofte.biz/en/compare/dota-2-hacks/",
+  "http_status": 200,
+  "raw_file": "raw\\cdb657ab4d16e80ca98c.html"
+}

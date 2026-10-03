@@ -1,0 +1,351 @@
+{
+  "url": "https://dotasense.com/guides/roshan-timer",
+  "canonical": "https://dotasense.com/guides/roshan-timer",
+  "language": "en",
+  "title": "Dota 2 Roshan Timer: 8–11 Min Respawn | DotaSense",
+  "description": "Learn Dota 2’s 8–11 minute Roshan respawn window, prepare waves and vision, and download a free Windows timer for audio and overlay cues.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Dota 2 Roshan timer: use the full respawn window"
+    },
+    {
+      "level": 2,
+      "text": "One death time, two useful marks"
+    },
+    {
+      "level": 2,
+      "text": "Run four checks before the window opens"
+    },
+    {
+      "level": 3,
+      "text": "Waves"
+    },
+    {
+      "level": 3,
+      "text": "Vision"
+    },
+    {
+      "level": 3,
+      "text": "Team"
+    },
+    {
+      "level": 3,
+      "text": "Decision"
+    },
+    {
+      "level": 2,
+      "text": "A five-game Roshan drill"
+    },
+    {
+      "level": 2,
+      "text": "The setup loop in four slides"
+    },
+    {
+      "level": 2,
+      "text": "Roshan timing FAQ"
+    },
+    {
+      "level": 3,
+      "text": "Does Roshan respawn exactly eight minutes after death?"
+    },
+    {
+      "level": 3,
+      "text": "Which pit should I prepare around?"
+    },
+    {
+      "level": 3,
+      "text": "Can DotaSense know the exact random respawn?"
+    },
+    {
+      "level": 2,
+      "text": "Built from Valve's patch notes"
+    },
+    {
+      "level": 3,
+      "text": "Share this guide"
+    },
+    {
+      "level": 2,
+      "text": "Related Dota 2 guides"
+    }
+  ],
+  "document_h1": [
+    "Dota 2 Roshan timer: use the full respawn window"
+  ],
+  "text": "Death time · Full window · Map check Dota 2 Roshan timer: use the full respawn window Record the death. Use the window to prepare. Let the map decide whether you contest, take, bait, or trade. Read the window Use the four checks Last updated: August 28, 2026 (Patch 7.41e ) 1. Read the window One death time, two useful marks Death Write it down This starts the calculation. +8:00 May be alive The random window is open. +11:00 Guaranteed alive Unless he was killed again. Dota's minimap status shows whether Roshan is alive, dead, or may be alive, plus the active pit. Use that display and actual vision instead of treating the earliest mark like a guaranteed spawn. 2. Prepare the map Run four checks before the window opens 01 Waves Which lane exposes the move? Fix it before your team disappears. 02 Vision Can you see the useful entrances, and can the enemy see your setup? 03 Team Who can arrive, who must show, and which major resources are unavailable? 04 Decision Take, contest, bait, or trade. Say the choice before someone walks into the pit. The useful call “Roshan may be up at 31:20. Push top, ward the entrances, then decide.” 3. Practice it A five-game Roshan drill Every game When Roshan dies, record the death and both ends of the window. Before +8:00 Name the wave, vision, and teammate problem that must be solved first. After the play Score the setup—not only whether your team got Roshan. A good cue can end with no Roshan attempt. A deliberate trade is still a decision. Saveable version The setup loop in four slides Swipe sideways. Each card is also available as a full-size PNG. Slide 1 of 4 · Download PNG Slide 2 of 4 · Download PNG Slide 3 of 4 · Download PNG Slide 4 of 4 · Download PNG Quick answers Roshan timing FAQ Does Roshan respawn exactly eight minutes after death? + No. Eight minutes starts the random respawn window; eleven minutes is the guaranteed end. Which pit should I prepare around? + Use the active-pit icon and current map state. Pit preference has changed across recent patches, so a memorized single-pit script is brittle. Can DotaSense know the exact random respawn? + No. The reminder tracks the known window. Confirm Roshan through Dota's status display, vision, sound, and team information. Mechanics check Built from Valve's patch notes Valve documented the 8–11 minute window and minimap status in 7.38 . The active-pit preference changed again in 7.41 . This guide avoids a fixed drop table because those details are patch-dependent. Share this guide Twitter Reddit Copy Link Related Dota 2 guides 5 min Aegis Finish → exit Objectives 15:00 first Tormentor Death → exit Respawn Timer 6:00, then 2 min Power Runes Window → convert Power Spikes View All Guides",
+  "words": 481,
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://dotasense.com/guides/roshan-timer#main-content",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "DotaSense",
+      "url": "https://dotasense.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Timer App",
+      "url": "https://dotasense.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Guides",
+      "url": "https://dotasense.com/guides",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Download",
+      "url": "https://dotasense.com/download",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Manage Pro",
+      "url": "https://dotasense.com/account",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://dotasense.com/faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://dotasense.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Guides",
+      "url": "https://dotasense.com/guides",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Match Timings & Objectives",
+      "url": "https://dotasense.com/guides#timings-objectives",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Read the window",
+      "url": "https://dotasense.com/guides/roshan-timer#the-window",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Use the four checks",
+      "url": "https://dotasense.com/guides/roshan-timer#four-checks",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "DotaSense timing-page process",
+      "url": "https://dotasense.com/about#about-timing-heading",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Explore the free Dota 2 timer app for Windows →",
+      "url": "https://dotasense.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Use the free Dota 2 timer online →",
+      "url": "https://dotasense.com/timer",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Download the free timer",
+      "url": "https://dotasense.com/download?source=seo-guide-roshan-timer&utm_source=seo-guide&utm_medium=internal&utm_campaign=guide-to-app&utm_content=roshan-timer&via_guide=roshan-timer",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Copy question + open Discord",
+      "url": "https://dotasense.com/api/discord?invite=community&surface=guide-product-bridge-discord-roshan-timer",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Slide 1 of 4 · Download PNG",
+      "url": "https://dotasense.com/images/marketing/reddit-future/roshan-window/01.png",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Slide 2 of 4 · Download PNG",
+      "url": "https://dotasense.com/images/marketing/reddit-future/roshan-window/02.png",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Slide 3 of 4 · Download PNG",
+      "url": "https://dotasense.com/images/marketing/reddit-future/roshan-window/03.png",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Slide 4 of 4 · Download PNG",
+      "url": "https://dotasense.com/images/marketing/reddit-future/roshan-window/04.png",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "7.38",
+      "url": "https://www.dota2.com/patches/7.38",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "7.41",
+      "url": "https://www.dota2.com/patches/7.41",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "5 min Aegis",
+      "url": "https://dotasense.com/guides/aegis",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Finish → exit Objectives",
+      "url": "https://dotasense.com/guides/objectives",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "15:00 first Tormentor",
+      "url": "https://dotasense.com/guides/tormentor",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Death → exit Respawn Timer",
+      "url": "https://dotasense.com/guides/respawn-timer",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "6:00, then 2 min Power Runes",
+      "url": "https://dotasense.com/guides/power-runes",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Window → convert Power Spikes",
+      "url": "https://dotasense.com/guides/power-spikes",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "View All Guides",
+      "url": "https://dotasense.com/guides",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "5-game timing drill",
+      "url": "https://dotasense.com/guides/timing-drill",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "All guides",
+      "url": "https://dotasense.com/guides",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "30872b467e5c50a5e007c9109dda7e31041c624796a4b519e6d4d3a6f4c21620",
+  "captured_at": "2026-09-21T05:43:15.941536+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://dotasense.com/guides/roshan-timer",
+  "http_status": 200,
+  "raw_file": "raw\\c9ed3e0b92373b54cf55.html"
+}

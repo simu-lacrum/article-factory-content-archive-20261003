@@ -1,0 +1,773 @@
+{
+  "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+  "canonical": "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+  "language": "en",
+  "title": "Dota 2 cheats features: scripts, bots, map hac | DotaCheats",
+  "description": "Complete guide to our dota 2 cheats—Auto Combo, Auto Farm Bot, Skin Changer, Zoom Hack, Map Hack and Auto Dagon.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Dota 2 cheats features: scripts, bots, map hack and more"
+    },
+    {
+      "level": 2,
+      "text": "Scripts: Auto Combo, Orbwalker, Smart Cast"
+    },
+    {
+      "level": 3,
+      "text": "Activator and clutch items"
+    },
+    {
+      "level": 2,
+      "text": "Bots: Auto Farm Bot and stack automation"
+    },
+    {
+      "level": 2,
+      "text": "Map hack: hero ESP, wards, smoke alerts"
+    },
+    {
+      "level": 2,
+      "text": "Zoom Hack for supports and mids"
+    },
+    {
+      "level": 2,
+      "text": "Skin Changer and Unlock All"
+    },
+    {
+      "level": 2,
+      "text": "Auto Kill Steal and Auto Dagon"
+    },
+    {
+      "level": 2,
+      "text": "External loader architecture"
+    },
+    {
+      "level": 2,
+      "text": "Tier summary and buy steps"
+    },
+    {
+      "level": 3,
+      "text": "Pick your tier today"
+    },
+    {
+      "level": 2,
+      "text": "Questions about this guide"
+    }
+  ],
+  "document_h1": [
+    "Dota 2 cheats features: scripts, bots, map hack and more"
+  ],
+  "text": "Features Dota 2 cheats features: scripts, bots, map hack and more Complete guide to our dota 2 cheats—Auto Combo, Auto Farm Bot, Skin Changer, Zoom Hack, Map Hack and Auto Dagon. DotaCheats Editorial Aug 18, 2026 20 min read DotaCheats at dotacheats.com ships a modular external suite for Steam PC ranked—not lobby cheat codes. Scripts land combos, bots farm efficiently, map hack exposes ganks, and utility tools like Zoom Hack and Skin Changer round out the toolkit. This is the complete feature map across Dota 2 products , Lite , Pro , and Elite . Scripts: Auto Combo, Orbwalker, Smart Cast Pro and Elite tiers include hero scripts with Target Selector, Delay Setting, and Prediction. Auto Combo chains abilities in humanized order—Invoker tornado into EMP, PA blink dagger burst, Lion finger into spike. Orbwalker keeps attack-move clean during chases without stutter-step misclicks. Smart Cast fires spells at optimal cursor positions without wasting cast points on fogged targets. Tune delays high at first—90 to 150 milliseconds between abilities—then lower them only after clean Turbo sessions. Instant bot bursts draw reports in ranked replays. Deep hero examples live in Auto combo hero scripts and ranked tuning in scripts for MMR . Activator and clutch items Activator fires BKB, Hex, or Glimmer before or during script combos based on enemy count radius rules you configure. Overlapping instant BKB plus instant Finger looks robotic—add 80 to 120 ms offset so item use precedes abilities naturally. Supports bind Hex on channeling cores; carries bind BKB when three heroes close distance. Bots: Auto Farm Bot and stack automation Elite unlocks Auto Farm Bot, neutral stack timers, and courier manager—start conservative per Elite tier guide . Bots are not autopilot win buttons; they amplify farming efficiency when you already understand lane equilibrium and camp timing. Enable farm bot only after two weeks of clean Pro script sessions. Stack timers pair with map hack ward ESP so you know when camps are pulled safely. Courier manager reduces mid-game delivery micro—Elite operators use it in high-MMR lobbies where tempo wins games. Turbo preset allows slightly more aggressive bot settings than ranked preset. Map hack: hero ESP, wards, smoke alerts Map hack covers hero ESP, observer and sentry wards, smoke alerts, and enemy tracking on Lite and Elite—full setup in map hack setup . Start max ESP distance at 1200 units; expand only after a week of clean games. Ward icons use distinct colors for observer vs sentry so deward lines stay readable. Smoke detection with audio ping at medium sensitivity catches most ganks without false positives on fog edge movement. Elite adds vision detector tuning for true sight radius study—pair with zoom hack for camera range plus enemy dots. Zoom Hack for supports and mids Zoom hack on Lite extends camera distance beyond the default cap—supports track off-screen fights, mids watch rune contests, offlaners spot TP ganks earlier. Dynamic zoom auto-scales when multiple enemies enter vision. Angle lock keeps tilt consistent so high zoom does not disorient during team fights. Skin Changer and Unlock All Elite bundles Skin Changer with automation; standalone Unlock All is cosmetic-only. Preview arcanas and immortals locally—effects are client-side on your display. Streamers enable stream-proof mode separately for ESP overlays. Auto Kill Steal and Auto Dagon Elite finishes low-HP enemies with Auto Kill Steal and Auto Dagon at combo end—both respect Delay Setting so zeus ult or dagon snipes do not fire instantly on every tick. Use kill steal in Turbo first; ranked preset keeps conservative HP thresholds and longer reaction delays. External loader architecture Dota 2 products runs external with cloud config sync and VAC-aware portal updates within 24 hours of patches. No DLL injection into the Dota 2 process—overlays draw on top, scripts send humanized input. Deep dive: external cheat guide . Tier summary and buy steps Lite: hero ESP, wards, runes, zoom hack, stream-proof overlay. Pro: Lite plus Auto Combo, Orbwalker, Smart Cast, Target Selector, Activator, and 18+ script modules. Elite: bots, Auto Kill Steal, Auto Dagon, full map hack, Skin Changer, priority patches. Compare Lite vs Pro or jump to Elite . Buy steps: open Dota 2 Cheats , pick tier, complete secure checkout, log into operator portal, download latest loader, load ranked preset, verify in bot lobby, queue ranked. Check VAC patch day checklist before every patch-day session. Pick your tier today Lite, Pro, and Elite checkout through secure checkout—portal access in minutes at dotacheats.com. Buy now → DotaCheats at dotacheats.com maintains private dota 2 cheats for Steam PC ranked and Turbo—not console lobby codes. Every module ships through the operator portal with secure checkout, Discord support, and live status banners before patch-day queues. VAC enforcement is real: read status, reload loader after patches, and use conservative presets. Humanized script delays and limited ESP range reduce report volume compared to max automation on day one. Internal links across our blog connect setup guides—map hack, zoom, scripts, Elite tier, VAC checklist, and purchase walkthrough. Start at Dota 2 Cheats when you are ready to move beyond practice lobbies. Compare Lite vs Pro and features guide before checkout. Elite adds bots, kill steal, and Skin Changer for operators who mastered Pro scripts. Buy Dota 2 Cheats View products More articles Article FAQ Questions about this guide Quick answers related to this topic—plus links to tier pages when relevant. Are blog guides official product documentation? 01 Articles explain workflows and link to Dota 2 Lite , Dota 2 Pro , Dota 2 Elite and Dota 2 products . Feature lists on product pages are authoritative for checkout. Need help applying this guide? 02 Open Discord with your order email and the article slug. Staff reference the same portal presets mentioned in guides. Will settings in this article work next patch? 03 Re-check status after every Dota 2 update. Portal presets update with patch notes—reload configs instead of copying old sliders.",
+  "words": 1000,
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#main-content",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota Cheats",
+      "url": "https://dotacheats.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Features",
+      "url": "https://dotacheats.com/#features",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Cheats",
+      "url": "https://dotacheats.com/cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Products",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog",
+      "url": "https://dotacheats.com/blog/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://dotacheats.com/faq/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Try Now",
+      "url": "https://dotacheats.com/go/dota-2/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Features",
+      "url": "https://dotacheats.com/#features",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Cheats",
+      "url": "https://dotacheats.com/cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Products",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog",
+      "url": "https://dotacheats.com/blog/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://dotacheats.com/faq/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Start checkout",
+      "url": "https://dotacheats.com/go/dota-2/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://dotacheats.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog",
+      "url": "https://dotacheats.com/blog/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 products",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lite",
+      "url": "https://dotacheats.com/cheats/lite/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Pro",
+      "url": "https://dotacheats.com/cheats/pro/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Elite",
+      "url": "https://dotacheats.com/cheats/elite/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Auto combo hero scripts",
+      "url": "https://dotacheats.com/blog/dota-2-auto-combo-hero-scripts/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "scripts for MMR",
+      "url": "https://dotacheats.com/blog/dota-2-scripts-ranked-mmr/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Elite tier guide",
+      "url": "https://dotacheats.com/blog/dota-2-elite-tier-guide/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "map hack setup",
+      "url": "https://dotacheats.com/blog/dota-2-map-hack-setup/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "zoom hack",
+      "url": "https://dotacheats.com/blog/dota-2-zoom-hack-guide/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skin Changer",
+      "url": "https://dotacheats.com/blog/dota-2-skin-changer-guide/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Unlock All",
+      "url": "https://dotacheats.com/products/dota-2-cheats/unlock-all/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "stream-proof mode",
+      "url": "https://dotacheats.com/blog/dota-2-stream-proof-setup/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 products",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "external cheat guide",
+      "url": "https://dotacheats.com/blog/dota-2-external-cheat-guide/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lite vs Pro",
+      "url": "https://dotacheats.com/blog/dota-2-lite-vs-pro/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Elite",
+      "url": "https://dotacheats.com/cheats/elite/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 Cheats",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "VAC patch day checklist",
+      "url": "https://dotacheats.com/blog/vac-patch-day-checklist/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy now →",
+      "url": "https://dotacheats.com/go/dota-2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 Cheats",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lite vs Pro",
+      "url": "https://dotacheats.com/blog/dota-2-lite-vs-pro/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "features guide",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Dota 2 Cheats",
+      "url": "https://dotacheats.com/go/dota-2/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "View products",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "More articles",
+      "url": "https://dotacheats.com/blog/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "All articles",
+      "url": "https://dotacheats.com/blog/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Scripts: Auto Combo, Orbwalker, Smart Cast",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#scripts-auto-combo-orbwalker-smart-cast",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Activator and clutch items",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#activator-and-clutch-items",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Bots: Auto Farm Bot and stack automation",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#bots-auto-farm-bot-and-stack-automation",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Map hack: hero ESP, wards, smoke alerts",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#map-hack-hero-esp-wards-smoke-alerts",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Zoom Hack for supports and mids",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#zoom-hack-for-supports-and-mids",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skin Changer and Unlock All",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#skin-changer-and-unlock-all",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Auto Kill Steal and Auto Dagon",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#auto-kill-steal-and-auto-dagon",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "External loader architecture",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#external-loader-architecture",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Tier summary and buy steps",
+      "url": "https://dotacheats.com/blog/dota-2-cheats-features-guide/#tier-summary-and-buy-steps",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 cheat codes guide: console commands for practice lobbies",
+      "url": "https://dotacheats.com/blog/dota-2-cheat-codes-guide/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "All Dota 2 console cheats and tips",
+      "url": "https://dotacheats.com/blog/dota-2-console-cheats-tips/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to use cheat codes in Dota 2",
+      "url": "https://dotacheats.com/blog/how-to-use-dota-2-cheat-codes/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 Cheats",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lite tier",
+      "url": "https://dotacheats.com/cheats/lite/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Pro tier",
+      "url": "https://dotacheats.com/cheats/pro/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Elite tier",
+      "url": "https://dotacheats.com/cheats/elite/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Skin Changer",
+      "url": "https://dotacheats.com/products/dota-2-cheats/unlock-all/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "HWID Spoofer",
+      "url": "https://dotacheats.com/products/dota-2-cheats/hwid-spoofer/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "UGC",
+      "url": "https://dotacheats.com/products/dota-2-cheats/ugc/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Dota 2 Cheats",
+      "url": "https://dotacheats.com/go/dota-2/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 Lite",
+      "url": "https://dotacheats.com/cheats/lite/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 Pro",
+      "url": "https://dotacheats.com/cheats/pro/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 Elite",
+      "url": "https://dotacheats.com/cheats/elite/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 products",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota Cheats",
+      "url": "https://dotacheats.com/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Join Discord server",
+      "url": "https://discord.gg/WHZf7WpWgc",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Share on X",
+      "url": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fdotacheats.com%2F&text=Dota%20Cheats%20%26%20Hacks%20%7C%20Dota%202%20Scripts%2C%20Map%20Hack%20%26%20ESP",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Share on Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdotacheats.com%2F",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Share on Reddit",
+      "url": "https://www.reddit.com/submit?url=https%3A%2F%2Fdotacheats.com%2F&title=Dota%20Cheats%20%26%20Hacks",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Feature overview",
+      "url": "https://dotacheats.com/#features",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Compare cheat tiers",
+      "url": "https://dotacheats.com/cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Browse utility tools",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Read patch guides",
+      "url": "https://dotacheats.com/blog/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Pre-purchase FAQ",
+      "url": "https://dotacheats.com/faq/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog archive",
+      "url": "https://dotacheats.com/blog/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Cheats hub",
+      "url": "https://dotacheats.com/cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Product catalog",
+      "url": "https://dotacheats.com/products/dota-2-cheats/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contact",
+      "url": "https://dotacheats.com/contact/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Dota 2 official site",
+      "url": "https://www.dota2.com/home",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Dota 2 on Steam",
+      "url": "https://store.steampowered.com/app/570/Dota_2/",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "Steam VAC support",
+      "url": "https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=570",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ]
+    },
+    {
+      "text": "About",
+      "url": "https://dotacheats.com/about/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://dotacheats.com/privacy/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "0f9150a943c27ffa282d24c5732fdf568adc890eb2f52367b5a70a11027c0fbe",
+  "captured_at": "2026-09-21T04:15:42.585745+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://dotacheats.com/blog/dota-2-cheats-features-guide",
+  "http_status": 200,
+  "raw_file": "raw\\6bd241c1361d9104a6e6.html"
+}

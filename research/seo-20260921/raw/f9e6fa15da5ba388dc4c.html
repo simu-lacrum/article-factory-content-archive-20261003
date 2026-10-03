@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- umbrella-head-injected -->
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#06060A">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://umbrella-dota.com/og-image.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Umbrella·Dota">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://umbrella-dota.com/og-image.png">
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   ym(109468064, "init", {clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109468064" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<base href="/">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dota 2 hero scripts in Umbrella — auto-combo, binds, last-hit | 126 heroes</title>
+<meta name="description" content="The Umbrella scripts library for 126 Dota 2 heroes: auto-combo on Invoker, Pudge hook angle, auto-Lina, item-abuse binds. All scripts in any plan.">
+<link rel="canonical" href="https://umbrella-dota.com/en/scripts/">
+<link rel="alternate" hreflang="ru" href="https://umbrella-dota.com/skripty/">
+<link rel="alternate" hreflang="en" href="https://umbrella-dota.com/en/scripts/">
+<link rel="alternate" hreflang="zh" href="https://umbrella-dota.com/zh/scripts/">
+<link rel="alternate" hreflang="x-default" href="https://umbrella-dota.com/en/scripts/">
+<meta name="robots" content="index,follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/portal.css?v=2026091501">
+</head>
+<body>
+
+<header id="chrome-nav"></header>
+
+<section class="subpage-hero">
+  <div class="container">
+    <nav class="crumbs"><a href="/en/">Home</a><span class="sep">/</span><span class="current">Scripts</span></nav>
+    <span class="eyebrow">126 HEROES · 400+ READY SCRIPTS</span>
+    <h1>Hero scripts in <span class="accent">Umbrella</span></h1>
+    <p class="lead">Auto-combo, item-abuse binds, auto-cast ultimates on enemy HP — for all 126 Dota 2 heroes. Click a hero to see the available scripts.</p>
+    <div class="tag-row">
+      <span class="t"><b>dota 2</b> scripts</span>
+      <span class="t">auto-combo</span>
+      <span class="t">invoker script</span>
+      <span class="t">item binds</span>
+      <span class="t">last-hit</span>
+    </div>
+
+    <div class="summary-strip">
+      <div class="cell"><div class="k">HEROES</div><div class="v"><span class="accent">126</span></div></div>
+      <div class="cell"><div class="k">SCRIPTS</div><div class="v">400+</div></div>
+      <div class="cell"><div class="k">TOP PICK</div><div class="v">Invoker <small>(53.4%)</small></div></div>
+      <div class="cell"><div class="k">PATCH</div><div class="v"><span class="accent">7.41e</span> <small>ready</small></div></div>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:48px;padding-bottom:32px">
+  <div class="container">
+    <div class="section-head">
+      <div class="left">
+        <span class="eyebrow">LIBRARY · FILTER BY ROLE</span>
+        <h2>Choose a hero</h2>
+        <p class="lead">We use real OpenDota pick data. The number next to a hero is the count of available scripts.</p>
+      </div>
+    </div>
+
+    <div class="hero-db-head">
+      <div class="role-tabs" id="role-tabs">
+        <button data-role="all" class="active">All</button>
+        <button data-role="Carry">Carry</button>
+        <button data-role="Nuker">Mid</button>
+        <button data-role="Initiator">Offlane</button>
+        <button data-role="Support">Support</button>
+        <button data-role="Durable">Durable</button>
+      </div>
+      <div class="attr-filter">
+        <span class="attr-pill on" data-attr="str"><span class="swatch"></span>STR</span>
+        <span class="attr-pill on" data-attr="agi"><span class="swatch"></span>AGI</span>
+        <span class="attr-pill on" data-attr="int"><span class="swatch"></span>INT</span>
+        <span class="attr-pill on" data-attr="all"><span class="swatch"></span>UNIV</span>
+      </div>
+    </div>
+
+    <div class="heroes-grid" id="heroes-grid"></div>
+
+    <p style="text-align:center;margin-top:32px;font-family:var(--font-techno);font-size:12px;letter-spacing:0.2em;color:var(--ink-3);text-transform:uppercase">
+      <span id="hero-count">—</span> heroes · all scripts available in <a href="/en/pricing/" style="color:var(--tw-accent-hot)">any Umbrella plan</a>
+    </p>
+  </div>
+</section>
+
+<section style="padding-top:24px;padding-bottom:24px">
+  <div class="container">
+    <div class="section-head">
+      <div class="left">
+        <span class="eyebrow">MATCHUPS · 294 BREAKDOWNS</span>
+        <h2>Top matchups by difficulty</h2>
+        <p class="lead">For the top heroes — the most significant matchups (wins and losses) by OpenDota. A breakdown of the lane phase, mid-game, late game, counter items and the Umbrella modules you need.</p>
+      </div>
+    </div>
+    <div id="matchup-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;margin-top:18px"></div>
+    <p style="text-align:center;margin-top:18px;font-family:var(--font-techno);font-size:11px;letter-spacing:0.18em;color:var(--ink-3);text-transform:uppercase">
+      Full list — see <a href="/sitemap.xml" style="color:var(--tw-accent-hot)">sitemap.xml</a>
+    </p>
+  </div>
+</section>
+
+<script>
+(function(){
+  // Mirror of tools/sync-matchup-hub.js — 294 pairs (EN hrefs)
+  var pairs = [
+    ['clockwerk','axe',9.0],['crystal-maiden','faceless-void',9.0],['disruptor','axe',9.0],['disruptor','faceless-void',9.0],['ember-spirit','mars',9.0],['faceless-void','axe',9.0],['hoodwink','axe',9.0],['hoodwink','earthshaker',9.0],['hoodwink','juggernaut',9.0],['invoker','legion-commander',9.0],['invoker','luna',9.0],['kez','legion-commander',9.0],['legion-commander','axe',9.0],['lich','drow-ranger',9.0],['lich','luna',9.0],['lina','monkey-king',9.0],['lion','faceless-void',9.0],['lion','slark',9.0],['mars','axe',9.0],['mars','shadow-fiend',9.0],['monkey-king','lifestealer',9.0],['monkey-king','spirit-breaker',9.0],['necrophos','kez',9.0],['necrophos','tiny',9.0],['ogre-magi','lina',9.0],['phoenix','mars',9.0],['shadow-fiend','undying',9.0],['shadow-shaman','drow-ranger',9.0],['shadow-shaman','invoker',9.0],['shadow-shaman','legion-commander',9.0],['silencer','juggernaut',9.0],['silencer','spirit-breaker',9.0],['skywrath-mage','dawnbreaker',9.0],['skywrath-mage','juggernaut',9.0],['slark','void-spirit',9.0],['snapfire','kez',9.0],['snapfire','sniper',9.0],['sniper','slardar',9.0],['storm-spirit','void-spirit',9.0],['techies','axe',9.0],['techies','ember-spirit',9.0],['tidehunter','silencer',9.0],['tiny','windranger',9.0],['tusk','monkey-king',9.0],['tusk','slardar',9.0],['windranger','ember-spirit',9.0],['witch-doctor','legion-commander',9.0],['witch-doctor','slardar',9.0],['witch-doctor','tidehunter',9.0],['axe','silencer',8.9],['clockwerk','storm-spirit',8.9],['ogre-magi','legion-commander',8.9],['tidehunter','slark',8.9],['undying','ember-spirit',8.9],['legion-commander','lifestealer',8.8],['lion','hoodwink',8.8],['pangolier','juggernaut',8.8],['storm-spirit','tiny',8.8],['techies','pangolier',8.8],['techies','shadow-fiend',8.8],['witch-doctor','spirit-breaker',8.8],['faceless-void','phoenix',8.7],['invoker','shadow-fiend',8.7],['lina','slardar',8.7],['rubick','kez',8.7],['rubick','void-spirit',8.7],['shadow-fiend','pudge',8.7],['slardar','kez',8.7],['zeus','legion-commander',8.7],['ember-spirit','lifestealer',8.6],['slardar','sniper',8.6],['spirit-breaker','ember-spirit',8.6],['spirit-breaker','mars',8.6],['tiny','zeus',8.6],['magnus','dawnbreaker',8.5],['pangolier','ember-spirit',8.5],['pudge','shadow-fiend',8.5],['slark','underlord',8.5],['void-spirit','zeus',8.5],['drow-ranger','monkey-king',8.4],['juggernaut','dawnbreaker',8.4],['kez','necrophos',8.4],['phoenix','void-spirit',8.4],['pudge','sniper',8.4],['undying','shadow-fiend',8.4],['axe','sniper',8.3],['drow-ranger','luna',8.3],['night-stalker','ember-spirit',8.3],['silencer','pangolier',8.3],['tidehunter','windranger',8.3],['axe','tidehunter',8.2],['crystal-maiden','juggernaut',8.2],['necrophos','invoker',8.2],['necrophos','silencer',8.2],['sniper','void-spirit',8.2],['spirit-breaker','axe',8.2],['spirit-breaker','tidehunter',8.2],['underlord','spirit-breaker',8.2],['windranger','tidehunter',8.2],['drow-ranger','tidehunter',8.1],['faceless-void','dawnbreaker',8.1],['luna','tusk',8.1],['magnus','storm-spirit',8.1],['zeus','ogre-magi',8.1],['clockwerk','skywrath-mage',-8.0],['dawnbreaker','bounty-hunter',-8.0],['juggernaut','silencer',-8.0],['lifestealer','disruptor',-8.0],['magnus','pudge',8.0],['magnus','queen-of-pain',8.0],['pangolier','phoenix',8.0],['pudge','shadow-demon',-8.0],['queen-of-pain','tiny',8.0],['shadow-fiend','phoenix',8.0],['sniper','nature-s-prophet',-8.0],['tidehunter','techies',-8.0],['tiny','ogre-magi',-8.0],['tiny','pangolier',8.0],['zeus','dark-willow',-8.0],['axe','ogre-magi',-7.9],['dawnbreaker','earth-spirit',-7.9],['invoker','juggernaut',7.9],['lifestealer','invoker',7.9],['lifestealer','snapfire',7.9],['lion','enchantress',-7.9],['pangolier','crystal-maiden',-7.9],['phoenix','queen-of-pain',7.9],['queen-of-pain','lion',-7.9],['silencer','lich',-7.9],['spirit-breaker','undying',-7.9],['void-spirit','pangolier',7.9],['windranger','magnus',7.9],['drow-ranger','oracle',-7.8],['drow-ranger','vengeful-spirit',-7.8],['drow-ranger','venomancer',-7.8],['luna','slark',7.8],['mars','clockwerk',-7.8],['night-stalker','pangolier',7.8],['pangolier','shadow-shaman',7.8],['phoenix','axe',7.8],['phoenix','techies',-7.8],['shadow-shaman','phoenix',-7.8],['slardar','magnus',-7.8],['sniper','oracle',-7.8],['spirit-breaker','treant-protector',-7.8],['windranger','hoodwink',7.8],['kez','shadow-shaman',-7.7],['legion-commander','witch-doctor',7.7],['lich','batrider',-7.7],['lich','invoker',-7.7],['magnus','primal-beast',-7.7],['magnus','techies',-7.7],['magnus','witch-doctor',-7.7],['ogre-magi','lion',-7.7],['pudge','io',-7.7],['queen-of-pain','lina',7.7],['snapfire','magnus',7.7],['snapfire','witch-doctor',-7.7],['spirit-breaker','phoenix',7.7],['windranger','ancient-apparition',-7.7],['axe','warlock',-7.6],['lich','snapfire',7.6],['luna','necrophos',-7.6],['necrophos','bane',-7.6],['skywrath-mage','disruptor',-7.6],['windranger','visage',-7.6],['zeus','huskar',-7.6],['axe','lich',-7.5],['earthshaker','clockwerk',-7.5],['lich','dawnbreaker',7.5],['lich','phoenix',-7.5],['queen-of-pain','snapfire',7.5],['rubick','tiny',7.5],['shadow-fiend','lich',7.5],['slark','axe',7.5],['spirit-breaker','visage',-7.5],['underlord','lich',-7.5],['witch-doctor','lion',-7.5],['kez','hoodwink',-7.4],['slark','grimstroke',-7.4],['snapfire','chen',-7.4],['sniper','drow-ranger',7.4],['storm-spirit','skywrath-mage',-7.4],['underlord','hoodwink',7.4],['zeus','rubick',-7.4],['faceless-void','rubick',-7.3],['juggernaut','rubick',-7.3],['luna','zeus',-7.3],['pangolier','clockwerk',-7.3],['pudge','skywrath-mage',-7.3],['pudge','tiny',7.3],['shadow-fiend','skywrath-mage',-7.3],['tusk','skywrath-mage',-7.3],['dawnbreaker','dark-seer',-7.2],['dawnbreaker','juggernaut',7.2],['dawnbreaker','zeus',-7.2],['legion-commander','skywrath-mage',-7.2],['lifestealer','rubick',-7.2],['necrophos','ancient-apparition',-7.2],['necrophos','lion',-7.2],['queen-of-pain','earth-spirit',-7.2],['shadow-fiend','shadow-shaman',-7.2],['slardar','pudge',-7.2],['spirit-breaker','hoodwink',-7.2],['dawnbreaker','invoker',7.1],['juggernaut','disruptor',7.1],['lion','batrider',-7.1],['queen-of-pain','rubick',-7.1],['rubick','invoker',7.1],['sniper','beastmaster',-7.1],['storm-spirit','shadow-shaman',-7.1],['underlord','magnus',-7.1],['earthshaker','witch-doctor',-7.0],['ember-spirit','lion',-7.0],['faceless-void','undying',-7.0],['invoker','io',-7.0],['invoker','tusk',-7.0],['lion','snapfire',-7.0],['night-stalker','lich',-7.0],['sniper','slark',-7.0],['windranger','lion',-7.0],['dawnbreaker','rubick',-6.9],['invoker','pudge',-6.9],['rubick','pugna',-6.9],['slark','rubick',-6.9],['snapfire','primal-beast',-6.9],['undying','clockwerk',-6.9],['drow-ranger','invoker',6.8],['drow-ranger','phoenix',6.8],['earthshaker','zeus',6.8],['faceless-void','lina',-6.8],['hoodwink','winter-wyvern',-6.8],['necrophos','phoenix',-6.8],['rubick','tidehunter',6.8],['legion-commander','spirit-breaker',6.7],['mars','snapfire',-6.7],['techies','disruptor',-6.7],['tidehunter','faceless-void',-6.7],['tiny','disruptor',-6.7],['zeus','magnus',6.7],['lina','shadow-shaman',-6.6],['phoenix','snapfire',6.6],['pudge','clockwerk',-6.6],['snapfire','tidehunter',6.6],['sniper','shadow-fiend',6.6],['sniper','witch-doctor',6.6],['void-spirit','disruptor',-6.6],['disruptor','underlord',-6.5],['hoodwink','lich',-6.5],['lina','necrophos',-6.5],['night-stalker','void-spirit',-6.5],['phoenix','drow-ranger',-6.5],['techies','snapfire',-6.5],['void-spirit','hoodwink',-6.5],['witch-doctor','pudge',-6.5],['zeus','lion',-6.5],['rubick','enchantress',-6.4],['shadow-shaman','shadow-demon',-6.4],['clockwerk','lich',-6.3],['disruptor','magnus',-6.3],['ember-spirit','lina',-6.3],['hoodwink','slark',6.3],['shadow-shaman','chen',-6.3],['silencer','disruptor',-6.3],['monkey-king','necrophos',-6.2],['drow-ranger','necrophos',-6.1],['drow-ranger','tusk',-6.1],['shadow-shaman','underlord',-6.1],['snapfire','shadow-shaman',-6.1],['tusk','zeus',-6.1],['lion','legion-commander',-6.0],['ogre-magi','night-stalker',-6.0],['slark','winter-wyvern',-6.0],['undying','phoenix',-6.0],['dawnbreaker','silencer',5.9],['hoodwink','witch-doctor',-5.9],['juggernaut','windranger',5.9],['juggernaut','phoenix',5.8],['crystal-maiden','zeus',-5.7],['windranger','techies',-5.7],['crystal-maiden','spirit-breaker',-5.6],['earthshaker','pangolier',5.6],['legion-commander','pudge',-5.5],['monkey-king','slardar',-5.5],['rubick','leshrac',-5.5],['skywrath-mage','lion',-5.3],['slark','juggernaut',-5.2],['slark','lich',5.2],['rubick','pudge',-5.1],['rubick','skywrath-mage',-5.1],['slark','techies',5.0],['sniper','night-stalker',-4.8],['queen-of-pain','slark',4.7],['zeus','snapfire',4.3]
+  ];
+  function titleize(s){return s.split('-').map(function(w){return w.charAt(0).toUpperCase()+w.slice(1)}).join(' ').replace(/\bOf\b/g,'of').replace(/\bThe\b/g,'the').replace(/Nature S/i,'Nature\'s');}
+  var html = pairs.map(function(p){
+    var a=p[0], b=p[1], d=p[2];
+    var color = d < 0 ? '#E2453C' : '#5BC57A';
+    var sign = d > 0 ? '+' : '';
+    return '<a href="/en/scripts/'+a+'-vs-'+b+'/" style="display:flex;align-items:center;justify-content:space-between;gap:10px;padding:11px 14px;background:linear-gradient(135deg,rgba(193,18,31,0.08),rgba(8,4,6,0.7));border:1px solid var(--hairline);color:#fff;font-family:var(--font-techno);font-size:12px;letter-spacing:0.06em;text-decoration:none;text-transform:uppercase;transition:border-color .2s,background .2s">'
+      +'<span>'+titleize(a)+' <span style="color:var(--ink-3)">vs</span> '+titleize(b)+'</span>'
+      +'<span style="color:'+color+';font-family:var(--font-display);font-size:14px">'+sign+d.toFixed(1)+'%</span>'
+      +'</a>';
+  }).join('');
+  document.getElementById('matchup-grid').innerHTML = html;
+})();
+</script>
+
+<section style="padding-top:32px">
+  <div class="container">
+    <div class="article-layout">
+
+      <aside class="toc">
+        <h5>In this article</h5>
+        <ol>
+          <li><a href="#what">What a script is</a></li>
+          <li><a href="#top">Top heroes with scripts</a></li>
+          <li><a href="#how">How to load a script</a></li>
+          <li><a href="#safety">Safety</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ol>
+      </aside>
+
+      <article class="article">
+        <section id="what">
+          <h2>What a script is in Umbrella</h2>
+          <p>A script is a set of automatic actions bound to one button. Unlike a macro (a dumb key recording), a script <strong>reads the game state</strong>: enemy positions, cooldowns, HP, active effects. It fires only when the conditions are perfect.</p>
+          <p>Examples:</p>
+          <ul>
+            <li><strong>Invoker auto-combo</strong> — you bind one button: Tornado → EMP → Meteor → Deafening Blast in the perfect order.</li>
+            <li><strong>Pudge hook angle</strong> — you aim the cursor roughly — the script computes the angle with prediction.</li>
+            <li><strong>Lina auto-ult</strong> — ultimates an enemy when HP is below the ultimate's damage.</li>
+            <li><strong>Armlet abuse</strong> — auto toggle on/off of Armlet for +HP manipulation.</li>
+          </ul>
+        </section>
+
+        <section id="top">
+          <h2>Top heroes with scripts</h2>
+          <p>By OpenDota data — the most in-demand heroes for automation:</p>
+          <table>
+            <thead><tr><th>Hero</th><th>Scripts</th><th>Win rate</th><th>Main script</th></tr></thead>
+            <tbody>
+              <tr><td><b>Invoker</b></td><td>12</td><td>53.4%</td><td>Auto-combo (Cataclysm + Sun Strike)</td></tr>
+              <tr><td><b>Pudge</b></td><td>8</td><td>50.3%</td><td>Hook angle prediction</td></tr>
+              <tr><td><b>Lina</b></td><td>7</td><td>49.2%</td><td>Auto-ult on low HP</td></tr>
+              <tr><td><b>Sniper</b></td><td>6</td><td>50.1%</td><td>Auto-headshot + kite</td></tr>
+              <tr><td><b>Storm Spirit</b></td><td>9</td><td>48.9%</td><td>Combo with BKB + ETH + ult</td></tr>
+              <tr><td><b>Tinker</b></td><td>11</td><td>48.8%</td><td>Rearm + rocket combo</td></tr>
+            </tbody>
+          </table>
+          <p>Detailed cards for each hero — clicking a tile opens a preview modal, the "Full page" button leads to a dedicated guide (e.g. <a href="/en/scripts/invoker/">Invoker</a>, <a href="/en/scripts/pudge/">Pudge</a>, <a href="/en/scripts/lion/">Lion</a>).</p>
+        </section>
+
+        <section id="how">
+          <h2>How to load a script</h2>
+          <ol>
+            <li>Launch Umbrella (the <a href="/en/pricing/">loader</a>).</li>
+            <li>Open the <strong>Scripts</strong> section.</li>
+            <li>Choose a hero from the list → pick the script you need (or grab a <a href="/en/config/">ready config</a> with a script selection).</li>
+            <li>Assign a hotkey (usually <code style="font-family:var(--font-mono);background:rgba(255,255,255,0.06);padding:2px 6px;border:1px solid var(--hairline);color:var(--tw-accent-hot)">Mouse4</code> — the standard combo bind).</li>
+            <li>Enter the game — press the bind at the right moment.</li>
+          </ol>
+        </section>
+
+        <section id="safety">
+          <h2>Script safety</h2>
+          <p>Scripts are a grey area. Simple binds are formally less noticeable than crude automation (like "play the game for me"). Umbrella uses a <a href="/en/features/spoofer/">spoofer</a> and cloud configs to reduce the risk.</p>
+          <p>A detailed honest breakdown — <a href="/en/blog/is-cheating-bannable/">"Do you get banned for cheats in Dota 2"</a>.</p>
+        </section>
+
+        <section id="faq">
+          <h2>FAQ</h2>
+          <div class="faq">
+            <details open>
+              <summary>Are scripts the same as macros?</summary>
+              <p>No. A macro is a dumb key recording with no context awareness. A script reads the game state and fires only when the conditions are met. So a script is far more effective and less noticeable.</p>
+            </details>
+            <details>
+              <summary>Can you use scripts in ranked?</summary>
+              <p>Technically — yes, the cheat works in any mode. Ethically and by Valve's rules — it's a violation. Use at your own risk, with the <a href="/en/features/spoofer/">spoofer</a>.</p>
+            </details>
+            <details>
+              <summary>Which heroes have scripts?</summary>
+              <p>All 126 Dota 2 heroes have basic scripts (last-hit, auto-cast ultimates). The most playable ones have extended combos (Invoker, Pudge, Tinker, Storm Spirit, etc.).</p>
+            </details>
+            <details>
+              <summary>What do you need to buy separately?</summary>
+              <p>Nothing. All scripts are included in any <a href="/en/pricing/">Umbrella</a> plan from $2.99. No surcharges, no "per-hero" subscriptions.</p>
+            </details>
+          </div>
+        </section>
+      </article>
+
+      <aside class="related-sidebar">
+        <div class="related-buy">
+          <span class="eyebrow">ALL 400+ SCRIPTS</span>
+          <div class="from">from <span class="accent">$2.99</span></div>
+          <p>Scripts for all 126 heroes are included in any Umbrella plan. No surcharges for "premium heroes".</p>
+          <a class="btn-cta" href="/en/pricing/">Buy Umbrella</a>
+          <ul class="quick">
+            <li>126 heroes</li>
+            <li>400+ scripts</li>
+            <li>Ready configs</li>
+          </ul>
+        </div>
+
+        <div class="related-list">
+          <h5>Related pages</h5>
+          <ul>
+            <li><a href="/en/features/maphack/">Maphack</a></li>
+            <li><a href="/en/features/skinchanger/">Skin Changer</a></li>
+            <li><a href="/en/features/spoofer/">Spoofer</a></li>
+            <li><a href="/en/config/">Ready configs</a></li>
+            <li><a href="/en/blog/is-cheating-bannable/">Bans</a></li>
+          </ul>
+        </div>
+      </aside>
+
+    </div>
+
+    <div class="bridge">
+      <div class="left">
+        <h3>400+ scripts for 126 heroes — <span class="accent">for $2.99</span></h3>
+        <p>Auto-combo for Invoker, hook prediction for Pudge, auto-ult for Lina. All scripts are included in any Umbrella plan, no surcharges.</p>
+      </div>
+      <div class="right">
+        <a class="btn-cta" href="/en/pricing/">Buy Umbrella</a>
+        <span class="price-hint">or <b><a href="/en/config/" style="color:var(--tw-accent-hot)">browse the ready configs</a></b></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer id="chrome-footer"></footer>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+  {"@type":"BreadcrumbList","itemListElement":[
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://umbrella-dota.com/en/"},
+    {"@type":"ListItem","position":2,"name":"Scripts","item":"https://umbrella-dota.com/en/scripts/"}
+  ]},
+  {"@type":"CollectionPage","name":"Dota 2 hero scripts","description":"The Umbrella scripts library for 126 Dota 2 heroes.","numberOfItems":126,"inLanguage":"en"}
+]}
+</script>
+
+<script src="/assets/portal.js?v=2026091501" defer></script>
+<script src="/assets/chrome.js?v=2026091501" defer></script>
+</body>
+</html>

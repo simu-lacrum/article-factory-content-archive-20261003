@@ -1,0 +1,950 @@
+[
+  {
+    "query": "dota 2 teleport preview",
+    "game": "dota2",
+    "captured_at": "2026-09-21T07:21:19.609Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [
+      "How do I teleport in Dota 2?",
+      "Who is the most banned hero in Dota 2?",
+      "Who is the richest Dota 2 player?",
+      "What minute does Roshan spawn?"
+    ],
+    "results": [
+      {
+        "title": "Teleport - Dota 2 Wiki - Fandom",
+        "url": "https://dota2.fandom.com/wiki/Teleport",
+        "type": "reference",
+        "page_type": "reference_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "Dota 2 Teleport and TP Scroll Guide | DotaSense",
+        "url": "https://dotasense.com/guides/teleport",
+        "type": "article",
+        "page_type": "guide_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Town Portal Scroll - Liquipedia Dota 2 Wiki",
+        "url": "https://liquipedia.net/dota2/Town_Portal_Scroll",
+        "type": "reference",
+        "page_type": "reference_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "A brief history of the Town Portal Scroll : r/DotA2",
+        "url": "https://www.reddit.com/r/DotA2/comments/blw25h/a_brief_history_of_the_town_portal_scroll/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "Dota 2 Teleport Tutorial: Master Your Gameplay",
+        "url": "https://www.tiktok.com/@allstufdgaming/video/7373524271408188705",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "How to use TP's like the pros",
+        "url": "https://www.youtube.com/watch?v=rb6gnScOqL0",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "Town Portal Scroll - Dota 2 Wiki - Fandom",
+        "url": "https://dota2.fandom.com/wiki/Town_Portal_Scroll",
+        "type": "reference",
+        "page_type": "reference_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "teleporting scenario · Issue #29514 · ValveSoftware/Dota2- ...",
+        "url": "https://github.com/ValveSoftware/Dota2-Gameplay/issues/29514",
+        "type": "issue",
+        "page_type": "issue_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ],
+    "visible_media_note": "A separate video carousel and an AI Overview about ordinary teleport mechanics were also visible; the carousel is outside this linked-h3 sample."
+  },
+  {
+    "query": "dota 2 teleport preview cheat",
+    "game": "dota2",
+    "captured_at": "2026-09-21T07:21:42.711Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [
+      "How do I teleport in Dota 2?",
+      "Who is the richest Dota 2 player?",
+      "What are some cheat commands in Dota 2?",
+      "Is scripting allowed in Dota 2?"
+    ],
+    "results": [
+      {
+        "title": "Cheats - Dota 2 Wiki - Fandom",
+        "url": "https://dota2.fandom.com/wiki/Cheats",
+        "type": "reference",
+        "page_type": "reference_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "IO Teleport trick examined :: Dota 2 General Discussions",
+        "url": "https://steamcommunity.com/app/570/discussions/0/135512555423475090/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Console commands and cheats in Dota 2 - , Gaming Blog",
+        "url": "https://egamersworld.com/blog/dota-2-console-commands-and-cheats-EijLAkhUw",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "Dota 2 Console Command Cheat Sheet | PDF",
+        "url": "https://www.scribd.com/document/448429269/Chat-command-dota-2",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "Dota 2 Teleport and TP Scroll Guide | DotaSense",
+        "url": "https://dotasense.com/guides/teleport",
+        "type": "article",
+        "page_type": "guide_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "Cheats & Scripts for Dota 2: Try for free",
+        "url": "https://melonity.gg/en",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "Cheat Codes for Dota 2 on PC",
+        "url": "https://www.liveabout.com/dota-2-cheats-pc-811805",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "Dota 2 Cheats & Scripts Explained: All about dota hacks",
+        "url": "https://cheatsgaming.com/games/dota-2/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d",
+        "type": "article",
+        "page_type": "owned_article_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  },
+  {
+    "query": "dota 2 maphack",
+    "game": "dota2",
+    "captured_at": "2026-09-21T07:22:02.278Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [
+      "Who is the richest Dota 2 player?",
+      "Why don't Koreans play Dota 2?",
+      "Are Dota mods bannable?",
+      "Is Dota 2 map bigger?"
+    ],
+    "results": [
+      {
+        "title": "Maphack for Dota 2 — Info Screen in Umbrella",
+        "url": "https://umbrella-dota.com/en/features/maphack/",
+        "type": "product",
+        "page_type": "product_feature_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "Maphack in dota advice : r/DotA2",
+        "url": "https://www.reddit.com/r/DotA2/comments/1tm4kpq/maphack_in_dota_advice/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Dota 2 cheats: 10 days free!",
+        "url": "https://uc.zone/en/dota2",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "how to Map Hack Dota2",
+        "url": "https://www.mpgh.net/forum/thread/1167407-how-to-map-hack-dota2",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "how to get map hack in #Dota2 | DotaCinema",
+        "url": "https://www.facebook.com/DotaCinema/videos/how-to-get-map-hack-in-dota2/35896658393266655/",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "dota 2 map hack - Allgemeine Diskussionen",
+        "url": "https://steamcommunity.com/app/570/discussions/0/412448158164629979?l=german",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "Dota 2 Map Hack is real!",
+        "url": "https://www.youtube.com/watch?v=dzsXYNvT7D0",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "[Source] Dota maphack",
+        "url": "https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/419933-dota-maphack.html",
+        "type": "code_release",
+        "page_type": "code_release_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  },
+  {
+    "query": "dota 2 skin changer",
+    "game": "dota2",
+    "captured_at": "2026-09-21T07:22:17.853Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [],
+    "results": [
+      {
+        "title": "Dota 2 Skin Changer",
+        "url": "https://en.dota2changer.com/",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "Inventory Changer for Dota 2",
+        "url": "https://overplus.gg/en",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Skin Changer Advice ? : r/DotA2",
+        "url": "https://www.reddit.com/r/DotA2/comments/1im4vbd/skin_changer_advice/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "skinchanger for CS2 & Dota 2: Free 10 day Trial",
+        "url": "https://metaskins.gg/en",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "BEST SKINCHANGER WITH CUSTOM SKINS FOR DOTA 2 ...",
+        "url": "https://www.youtube.com/watch?v=Yfees-IybIQ",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "Dota 2 Skin Changer How to Install Windows",
+        "url": "https://www.youtube.com/playlist?list=PLZtmt94SxyUA",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "i got vac ban for using dota 2 skin changer will iget unban ...",
+        "url": "https://steamcommunity.com/discussions/forum/9/3819656934431270652/?l=brazilian",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      }
+    ]
+  },
+  {
+    "query": "dota 2 cheats comparison",
+    "game": "dota2",
+    "captured_at": "2026-09-21T07:22:49.403Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [
+      "Does Dota 2 have a cheater problem?",
+      "Who is the richest Dota 2 player?",
+      "What is the most famous cheat code?",
+      "What game has the worst anti-cheat?"
+    ],
+    "results": [
+      {
+        "title": "Win rate comparison between Cheaters and Non- ...",
+        "url": "https://www.reddit.com/r/learndota2/comments/bas3x0/win_rate_comparison_between_cheaters_and/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "Umbrella vs Melonity — 2026 comparison",
+        "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+        "type": "comparison",
+        "page_type": "commercial_comparison_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Cheats - Dota 2 Wiki - Fandom",
+        "url": "https://dota2.fandom.com/wiki/Cheats",
+        "type": "reference",
+        "page_type": "reference_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "Dota 2 Cheat Trials Compared: What Seven Days Prove",
+        "url": "https://buttondown.com/mrkhertz/archive/dota-2-cheat-trials-compared-what-seven-days-prove/",
+        "type": "comparison_ownership_unverified",
+        "page_type": "comparison_ownership_unverified_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "Full-Stack Dota2 Cheats vs Minimal ESP Tools",
+        "url": "https://dota2cheat.net/blog/dota2-cheats-vs-ghostware-features-pricing/",
+        "type": "comparison",
+        "page_type": "commercial_comparison_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "Types of Cheats and Hacks to Watch Out for in Dota 2",
+        "url": "https://www.youtube.com/watch?v=Wwy5a9T3sfA",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "Must read about matchmaking, cheats and immortals",
+        "url": "https://steamcommunity.com/app/570/discussions/0/3096760955441764206/?l=schinese",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "Compare cheats for Dota 2",
+        "url": "https://ivsofte.biz/en/compare/dota-2-hacks/",
+        "type": "comparison",
+        "page_type": "commercial_comparison_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  },
+  {
+    "query": "dota 2 cheat commands",
+    "game": "dota2",
+    "captured_at": "2026-09-21T07:23:02.190Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [
+      "What are some useful console commands in Dota 2?",
+      "How to activate cheats using commands?",
+      "Is scripting allowed in Dota 2?",
+      "I can't open the console in Dota 2. How do I activate it?"
+    ],
+    "results": [
+      {
+        "title": "Cheats - Dota 2 Wiki - Fandom",
+        "url": "https://dota2.fandom.com/wiki/Cheats",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "Cheat Codes for Dota 2 on PC",
+        "url": "https://www.liveabout.com/dota-2-cheats-pc-811805",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Panduan :: Cheat Commands - Dota 2",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=indonesian&id=139655890",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "Dota 2 Single Player Cheat Codes : r/DotA2",
+        "url": "https://www.reddit.com/r/DotA2/comments/1kk33z/dota_2_single_player_cheat_codes/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "List of Console Commands - Liquipedia Dota 2 Wiki",
+        "url": "https://liquipedia.net/dota2/List_of_Console_Commands",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "Dota 2 Console Commands: Launch Options, Cheats",
+        "url": "https://www.strafe.com/news/read/dota-2-console-commands/",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "The Best Console Commands in Dota 2",
+        "url": "https://www.youtube.com/watch?v=Ny7lIGypvYk",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "Guide :: Console commands for Dota 2",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3311239816",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      },
+      {
+        "title": "Dota 2 cheats and commands for heroes, items, and more",
+        "url": "https://www.theloadout.com/dota-2/cheats",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 9
+      }
+    ]
+  },
+  {
+    "query": "cs2 cheat commands",
+    "game": "cs2",
+    "captured_at": "2026-09-21T07:23:13.951Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [
+      "How to enable cheats in CS2?",
+      "How to console commands in CS2?",
+      "What are some cool console commands in CS2?",
+      "How to get unlimited money in CS2 command?"
+    ],
+    "results": [
+      {
+        "title": "CS2 commands list 2026",
+        "url": "https://www.pcgamesn.com/counter-strike-2/console-commands",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "CS2 Most Useful Console Commands Guide (GodMode ...",
+        "url": "https://www.youtube.com/watch?v=oLFF-6iSAOY",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Counter-Strike 2: Console Commands",
+        "url": "https://wiki.gravelhost.com/en/CounterStrike2/console-commands",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "How the cheat command worked : r/CounterStrikeBinds",
+        "url": "https://www.reddit.com/r/CounterStrikeBinds/comments/1bzmyxa/how_the_cheat_command_worked/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "CS2 Cheat Commands",
+        "url": "https://www.youtube.com/watch?v=meXArUf88Q8",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "Complete CS2 Console Commands List (2026)",
+        "url": "https://totalcsgo.com/commands",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "Guide :: Console Commands for CS2",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3382031905",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "List of Counter-Strike 2 console commands and variables",
+        "url": "https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  },
+  {
+    "query": "deadlock cheat commands",
+    "game": "deadlock",
+    "captured_at": "2026-09-21T07:23:28.104Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [
+      "How to activate cheats in Deadlock?",
+      "What are the admin commands in Deadlock?",
+      "What are some funny commands in Deadlock?",
+      "How to get all items in Deadlock command?"
+    ],
+    "results": [
+      {
+        "title": "Console commands",
+        "url": "https://deadlock.wiki/Console_commands",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "List of Deadlock console commands and variables",
+        "url": "https://developer.valvesoftware.com/wiki/List_of_Deadlock_console_commands_and_variables",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Deadlock Console Commands",
+        "url": "https://www.ign.com/wikis/deadlock/Deadlock_Console_Commands",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "Give us your go-to F7 commands! : r/DeadlockTheGame",
+        "url": "https://www.reddit.com/r/DeadlockTheGame/comments/1lg7odg/give_us_your_goto_f7_commands/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "Guide :: Deadlock Console Commands",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3366257359",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "The Most Useful Deadlock Console Commands",
+        "url": "https://egamersworld.com/blog/the-most-useful-deadlock-console-commands--Ik4zgzH8c",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "Deadlock Console Commands",
+        "url": "https://lockbuilds.com/deadlock-console-commands",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "Dump of All Available Commands in Deadlock",
+        "url": "https://forums.playdeadlock.com/resources/dump-of-all-available-commands-in-deadlock.25/",
+        "type": "command_reference",
+        "page_type": "command_reference_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  },
+  {
+    "query": "cs2 grenade helper vs lineups",
+    "game": "cs2",
+    "captured_at": "2026-09-21T07:24:01.700Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [],
+    "results": [
+      {
+        "title": "CS2 Grenade Helper and Nade Lineup Guide | Distort",
+        "url": "https://distort.wtf/features/cs2-grenade-helper",
+        "type": "product",
+        "page_type": "product_feature_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "CS2 grenade practice feels way easier now… but do ...",
+        "url": "https://www.reddit.com/r/GlobalOffensive/comments/1qtz64n/cs2_grenade_practice_feels_way_easier_now_but_do/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "CS2 Smoke Lineups & Nade Guides | CS2UTIL",
+        "url": "https://www.cs2util.com/",
+        "type": "category",
+        "page_type": "lineup_reference_library_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "[Source] cs2 internal grenade helper",
+        "url": "https://www.unknowncheats.me/forum/counter-strike-2-a/737332-cs2-internal-grenade-helper.html",
+        "type": "code_release",
+        "page_type": "code_release_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "CS2 Workshop Guides Are FINALLY Worth It!",
+        "url": "https://www.youtube.com/watch?v=lBmEuTzgW-U",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "Thread: Grenade Helper",
+        "url": "https://www.iniuria.us/forum/showthread.php?59667-Grenade-Helper",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "CSNADES.gg - Counter-Strike 2 Nade Lineups",
+        "url": "https://csnades.gg/",
+        "type": "category",
+        "page_type": "lineup_reference_library_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "CS2 Nades Lineups",
+        "url": "https://tracker.gg/cs2/lineups",
+        "type": "category",
+        "page_type": "lineup_reference_library_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  },
+  {
+    "query": "deadlock radar vs esp",
+    "game": "deadlock",
+    "captured_at": "2026-09-21T07:24:12.347Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [
+      "Is there a radar cheat in Escape from Tarkov?"
+    ],
+    "results": [
+      {
+        "title": "Any of you run into people using radar cheats in the last 24 ...",
+        "url": "https://www.reddit.com/r/EscapefromTarkov/comments/hnblev/any_of_you_run_into_people_using_radar_cheats_in/",
+        "type": "unrelated_discussion",
+        "page_type": "unrelated_discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "ESP for Deadlock",
+        "url": "https://github.com/ESP-for-Deadlock",
+        "type": "repository",
+        "page_type": "repository_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "CyNickal's Deadlock DMA | Radar, ESP, Aim, 3D Map ...",
+        "url": "https://www.elitepvpers.com/forum/deadlock-trading/5370052-cynickals-deadlock-dma-radar-esp-aim-3d-map-exploits.html",
+        "type": "product",
+        "page_type": "product_listing_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "Deadlock Free Cheat 2026 🔥 | Aimbot ESP Wallhack ...",
+        "url": "https://www.youtube.com/watch?v=bIHjxniMkDs",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "Deadlock Hacks & Cheats | Aimbot, ESP & Radar",
+        "url": "https://divisioncheats.com/deadlock-cheats",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "[Release] Deadlock DMA (with source)",
+        "url": "https://www.unknowncheats.me/forum/deadlock/723221-deadlock-dma-source.html",
+        "type": "code_release",
+        "page_type": "code_release_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "Aimbot, ESP, Wallhack Enjoy Deadlock with Our Undetected Hacks",
+        "url": "https://chamscheats.com/forums/forum/77-deadlock/",
+        "type": "category",
+        "page_type": "catalog_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "Removed GameBanana minimap mod still reveals enemy ...",
+        "url": "https://forums.playdeadlock.com/threads/removed-gamebanana-minimap-mod-still-reveals-enemy-positions-radar-esp-style-exploit.141599/",
+        "type": "issue",
+        "page_type": "issue_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      },
+      {
+        "title": "Deadlock Hacks - Aimbot, ESP, Wallhack, Auto Parry",
+        "url": "https://tsuki.gg/products/deadlock/features",
+        "type": "product",
+        "page_type": "product_feature_provisional",
+        "rank": null,
+        "observed_heading_order": 9
+      }
+    ]
+  },
+  {
+    "query": "free cs2 cheats",
+    "game": "cs2",
+    "captured_at": "2026-09-21T07:24:25.926Z",
+    "language": "en",
+    "engine": "google",
+    "country_requested": "US",
+    "country_observed": null,
+    "method": "browser_dom",
+    "session_cohort": "codex-iab-signed-in",
+    "source_file": "raw/google-final-target-observations.json",
+    "personalization_note": "Results are not personalized",
+    "location_note": "Unknown - Can't determine location; US requested only",
+    "result_scope": "Public linked h3 headings; no organic ranks asserted; not a guaranteed complete top ten",
+    "visible_questions": [],
+    "results": [
+      {
+        "title": "Anyx.gg - Undetected CS2 Cheats & Free CS2 Hacks",
+        "url": "https://anyx.gg/",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 1
+      },
+      {
+        "title": "Try These FREE CS2 Cheats + Free Premium Trials",
+        "url": "https://www.youtube.com/watch?v=cd6hnnVnBRQ&vl=en",
+        "type": "video",
+        "page_type": "video_provisional",
+        "rank": null,
+        "observed_heading_order": 2
+      },
+      {
+        "title": "Best Free CS2 Cheat (Help)",
+        "url": "https://hackvshack.net/threads/best-free-cs2-cheat-help.4719/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 3
+      },
+      {
+        "title": "Undetek - Counter-Strike 2 Cheats & Free CS2 Hacks",
+        "url": "https://undetek.com/",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 4
+      },
+      {
+        "title": "Any good free cheats for CS2? : r/Csgohacks",
+        "url": "https://www.reddit.com/r/Csgohacks/comments/1qohb2q/any_good_free_cheats_for_cs2/",
+        "type": "forum",
+        "page_type": "discussion_provisional",
+        "rank": null,
+        "observed_heading_order": 5
+      },
+      {
+        "title": "Insanity Cheats - CS2 Cheats & Free Counter-Strike 2 Hacks",
+        "url": "https://insanitycheats.com/",
+        "type": "product",
+        "page_type": "product_provisional",
+        "rank": null,
+        "observed_heading_order": 6
+      },
+      {
+        "title": "ExLoader | Best free cheats and hacks for CS2 and other games",
+        "url": "https://en.exloader.net/",
+        "type": "category",
+        "page_type": "catalog_provisional",
+        "rank": null,
+        "observed_heading_order": 7
+      },
+      {
+        "title": "Anyx.gg - Undetected CS2 Cheats & Free CS2 Hacks",
+        "url": "https://anyx.gg/forums/",
+        "type": "forum",
+        "page_type": "forum_provisional",
+        "rank": null,
+        "observed_heading_order": 8
+      }
+    ]
+  }
+]

@@ -1,0 +1,436 @@
+{
+  "snapshots": [
+    {
+      "query": "deadlock auto parry cheat",
+      "game": "deadlock",
+      "captured_at": "2026-09-21T05:18:11.767Z",
+      "engine": "google",
+      "language": "en",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-intent-validation.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "gl=us requested; physical search location not verified. Footer on final sample: Unknown - Can't determine location.",
+      "result_scope": "Linked h3 headings in #rso, not guaranteed ten organic results. AI Overview and PAA text excluded. No ordinal is asserted as organic rank.",
+      "results": [
+        {
+          "url": "https://www.reddit.com/r/DeadlockTheGame/comments/1ug7fj2/how_prevalent_is_autoparry/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "type": "product",
+          "page_type": "product_feature_page",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "url": "https://steamcommunity.com/app/1422450/discussions/0/802345853100546534/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "url": "https://www.unknowncheats.me/forum/deadlock/693609-deadlock-cheat-scripts-auto-updating-2.html",
+          "type": "software_release",
+          "page_type": "software_release",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "url": "https://github.com/Xerxesamal/Deadlock-Predator-Private-Hack",
+          "type": "repository",
+          "page_type": "code_repository",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "url": "https://forums.playdeadlock.com/threads/auto-parry-hack-match-id-221698287.38185/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "url": "https://www.elitepvpers.com/forum/deadlock-trading/5256653-colamilkpro-deadlock-hack-auto-skills-auto-parry-spoofer-undetected-2.html",
+          "type": "product",
+          "page_type": "marketplace_listing",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jOuB47E8GyA",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    },
+    {
+      "query": "is there a parry cheat in deadlock",
+      "game": "deadlock",
+      "captured_at": "2026-09-21T05:18:50.032Z",
+      "engine": "google",
+      "language": "en",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-intent-validation.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "gl=us requested; physical search location not verified. Footer on final sample: Unknown - Can't determine location.",
+      "result_scope": "Linked h3 headings in #rso, not guaranteed ten organic results. AI Overview and PAA text excluded. No ordinal is asserted as organic rank.",
+      "results": [
+        {
+          "url": "https://www.reddit.com/r/DeadlockTheGame/comments/1ug7fj2/how_prevalent_is_autoparry/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "url": "https://steamcommunity.com/app/1422450/discussions/0/802345853100546534/?l=german",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ygQt3EFOJtU",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "url": "https://www.unknowncheats.me/forum/deadlock/766876-auto-parry-help.html",
+          "type": "code_reference",
+          "page_type": "implementation_discussion",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "url": "https://tsuki.gg/products/deadlock/features",
+          "type": "product",
+          "page_type": "product_feature_page",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "url": "https://www.instagram.com/reel/Db0jtvIqVxJ/",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "url": "https://forums.playdeadlock.com/threads/auto-parry-hack-match-id-221698287.38185/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "url": "https://cheatsgaming.com/games/deadlock/deadlock-auto-parry-cheat-how-it-works-features-download-3041cefa2924",
+          "type": "article",
+          "page_type": "owned_feature_article",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    },
+    {
+      "query": "cs2 triggerbot",
+      "game": "cs2",
+      "captured_at": "2026-09-21T05:20:18.336Z",
+      "engine": "google",
+      "language": "en",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-intent-validation.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "gl=us requested; physical search location not verified. Footer on final sample: Unknown - Can't determine location.",
+      "result_scope": "Linked h3 headings in #rso, not guaranteed ten organic results. AI Overview and PAA text excluded. No ordinal is asserted as organic rank.",
+      "results": [
+        {
+          "url": "https://github.com/im-razvan/CS2_TriggerBot",
+          "type": "repository",
+          "page_type": "code_repository",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mUw2kK5g78A",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "url": "https://www.reddit.com/r/cs2/comments/1kezpj3/some_plays_from_my_friend_trigger_or_legit/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_hn2d0ZnmO8",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "url": "https://www.unknowncheats.me/forum/counter-strike-2-a/670755-cs2-triggerbot.html",
+          "type": "software_release",
+          "page_type": "software_release",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=e3xsEK87fX8",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "url": "https://hackvshack.net/threads/muhprime-cs2-free-external-visuals-triggerbot-undetected.4306/",
+          "type": "software_release",
+          "page_type": "software_release",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "url": "https://anyx.gg/",
+          "type": "product",
+          "page_type": "product_landing",
+          "rank": null,
+          "observed_heading_order": 8
+        },
+        {
+          "url": "https://www.unknowncheats.me/forum/counter-strike-2-releases/608773-cs2-triggerbot-python.html",
+          "type": "software_release",
+          "page_type": "software_release",
+          "rank": null,
+          "observed_heading_order": 9
+        }
+      ]
+    },
+    {
+      "query": "triggerbot vs aimbot cs2",
+      "game": "cs2",
+      "captured_at": "2026-09-21T05:22:37.441Z",
+      "engine": "google",
+      "language": "en",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-intent-validation.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "gl=us requested; physical search location not verified. Footer on final sample: Unknown - Can't determine location.",
+      "result_scope": "Linked h3 headings in #rso, not guaranteed ten organic results. AI Overview and PAA text excluded. No ordinal is asserted as organic rank.",
+      "results": [
+        {
+          "url": "https://cswatch.gg/blog/cs2-cheat-types-explained",
+          "type": "article",
+          "page_type": "guide_or_article",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/2e80tz/wtf_is_a_triggerbot/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=e1AS-luUoWY",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "url": "https://www.tiktok.com/@neokcsclips/video/7681786220413865238",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "url": "https://steamcommunity.com/app/730/discussions/0/618458030650501209/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_ltBjlS7gJM",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "url": "https://steamreport.net/blog/cs2-cheating-types-explained",
+          "type": "article",
+          "page_type": "guide_or_article",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=qxVsClVlI_8&vl=en",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    },
+    {
+      "query": "dota 2 scripts",
+      "game": "dota2",
+      "captured_at": "2026-09-21T05:23:28.776Z",
+      "engine": "google",
+      "language": "en",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-intent-validation.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "gl=us requested; physical search location not verified. Footer on final sample: Unknown - Can't determine location.",
+      "result_scope": "Linked h3 headings in #rso, not guaranteed ten organic results. AI Overview and PAA text excluded. No ordinal is asserted as organic rank.",
+      "results": [
+        {
+          "url": "https://botmek.com/share/?group=Dota%202",
+          "type": "category",
+          "page_type": "macro_catalog",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLW8iD9tyErlCgNmyjkDYM7t4QDJpfabtc",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "url": "https://github.com/zfael/dota2-scripts",
+          "type": "repository",
+          "page_type": "code_repository",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "url": "https://umbrella-dota.com/en/scripts/",
+          "type": "product",
+          "page_type": "product_feature_page",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "url": "https://melonity.gg/en",
+          "type": "product",
+          "page_type": "owned_product_landing",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "url": "https://uc.zone/en/dota2",
+          "type": "product",
+          "page_type": "product_landing",
+          "rank": null,
+          "observed_heading_order": 6
+        }
+      ]
+    },
+    {
+      "query": "dota 2 scripts vs macros",
+      "game": "dota2",
+      "captured_at": "2026-09-21T05:27:37.012Z",
+      "engine": "google",
+      "language": "en",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-intent-validation.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "gl=us requested; physical search location not verified. Footer on final sample: Unknown - Can't determine location.",
+      "result_scope": "Linked h3 headings in #rso, not guaranteed ten organic results. AI Overview and PAA text excluded. No ordinal is asserted as organic rank.",
+      "results": [
+        {
+          "url": "https://www.reddit.com/r/DotA2/comments/8vzai3/macros_vs_scripts/",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "url": "https://steamcommunity.com/app/570/discussions/0/1850323802573253639/?ctp=2",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "url": "https://www.autohotkey.com/boards/viewtopic.php?style=7&t=43738",
+          "type": "code_reference",
+          "page_type": "implementation_discussion",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "url": "https://forums.uooutlands.com/index.php?threads/macro-vs-script-why-choose-one-over-the-other.4221/",
+          "type": "unrelated_game",
+          "page_type": "unrelated_game",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=W2BQVdXKUQU",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "url": "https://botmek.com/share/?group=Dota%202&sort=descriptionasc",
+          "type": "category",
+          "page_type": "macro_catalog",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=0ANEW3HdkqQ",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/boards/610657-dota-2/68534810",
+          "type": "forum",
+          "page_type": "discussion",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    }
+  ]
+}
+

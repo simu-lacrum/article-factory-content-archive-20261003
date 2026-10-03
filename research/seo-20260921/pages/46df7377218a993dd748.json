@@ -1,0 +1,1124 @@
+{
+  "url": "https://deadlock.wiki/Console_commands",
+  "canonical": "https://deadlock.wiki/Console_commands",
+  "language": "en",
+  "title": "Console commands - The Deadlock Wiki",
+  "description": "Console commands allow you to modify gameplay settings. If the player has the \"Dev command console\" option enabled in settings, pressing F7 will open the developer console, which allows you to run commands. They can be used in the Hideout, Sandbox and \"Explore NYC\" modes, as well as cheat-enabled custom...",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Console commands Give feedback"
+    },
+    {
+      "level": 2,
+      "text": "Useful Console Commands"
+    },
+    {
+      "level": 2,
+      "text": "Auto execute console commands on startup"
+    },
+    {
+      "level": 2,
+      "text": "Hosting Custom Games"
+    },
+    {
+      "level": 3,
+      "text": "Adding Bots"
+    },
+    {
+      "level": 2,
+      "text": "External links"
+    },
+    {
+      "level": 2,
+      "text": "Navigation"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    }
+  ],
+  "document_h1": [
+    "Console commands Give feedback"
+  ],
+  "text": "Console commands Give feedback From The Deadlock Wiki Jump to navigation Jump to search Console commands allow you to modify gameplay settings. If the player has the \"Dev command console\" option enabled in settings, pressing F7 will open the developer console, which allows you to run commands. They can be used in the Hideout , Sandbox and \"Explore NYC\" modes, as well as cheat-enabled custom games. For a complete list of console commands and variables, see the Valve Developer Wiki . For a non-formatted list of console variables, see Data:Convars.json . Useful Console Commands [ edit | edit source ] Commands that require cheats will not work in standard multiplayer matches. To enable cheats in a custom lobby, run sv_cheats true . Command Values Default Description bot_kick_all Kicks all bots from the game. changelevel See the map command. Loads a new map. When used in a multiplayer lobby, players will remain connected while the map changes. changeteam 0: Select a team and hero. 1: Join spectators. 2: Join The Hidden King and select a hero. 3: Join The Archmother and select a hero. Allows changing your team and hero. citadel_allow_purchasing_anywhere true/false Enables purchasing anywhere on the map, not just at shops. Requires cheats. citadel_enable_fast_cooldowns Enables fast cooldowns, causing all abilities to have a 2 second cooldown. Requires cheats. citadel_disable_fast_cooldowns Disables fast cooldowns. Requires cheats. citadel_enable_fast_stamina Enables fast stamina, causing stamina to regen very fast. Requires cheats. citadel_disable_fast_stamina Disables fast stamina. Requires cheats. citadel_dps_multiplier number 1.0 Adds a multiplier to player damage output. Affects all damage including weapon and ability damage. Requires cheats. citadel_enable_no_hero_death Enables invincibility (your health will never go below 1). Requires cheats. citadel_disable_no_hero_death Disables invincibility. Requires cheats. citadel_display_new_player_recommendations true/false true Turns the \"Great for New Players\" banner on/off when selecting a hero. citadel_hero_testing_enabled true/false false Enables the \"Testing Tools\" menu from the Hero Sandbox. Enabling the menu does not require cheats, but using any of this menu's functionality will. citadel_hero_testing_infinite_money true/false false Gives players infinite souls and ability points. citadel_hud_visible true/false true Shows/hides the HUD. citadel_pause Pause the match. citadel_player_move_speed_scale number 1.0 Scales movement speed causing players to move faster or slower. Requires cheats. citadel_pregame_duration number 10.0 Changes the duration of the pregame (countdown before the game starts). citadel_region_override -1: Auto 0: North America 1: Europe 2: Asia 3: South America 4: Europe (not sure if this is different from 1) 5: Oceania -1 Overrides your matchmaking region. (Currently does not work) citadel_show_bullet_lag_compensation number 0 How long to show bullet hitboxes. Green hitbox is client, red hitbox is server. citadel_solo_bot_match true/false false Gets enabled by bot match configs. When disabled, bots don't move. This also enables the pregame countdown. Not sure what else it does. citadel_create_unit Hero name from dump_hero_names Spawns an allied dummy bot in front of the player. Requires cheats citadel_spawn_nearby_neutrals Respawns nearby neutral camps. Requires cheats. citadel_spawn_practice_bots true/false false Enable to spawn bots when the game starts. You can also set this to true during a game to spawn bots (although setting it to false, kicking bots, and setting it to true again will not respawn bots). citadel_spawn_practice_bots_count number Number of practice bots to spawn when citadel_spawn_practice_bots is set to true. citadel_test_survey_popup Shows the post-match survey popup asking players to rate the match. citadel_unit_status_use_new true/false Enables experimental health bars. citadel_unlock_flex_slots Unlocks all flex slots. Requires cheats. citadel_unpause_countdown number 3 Changes how many seconds the countdown will last when the game is unpaused. Requires cheats. citadel_weapon_damage_multiplier number 1.0 Adds a multiplier to weapon damage output. Does not affect ability damage. Requires cheats. deadlock_early_development_warning_disabled true/false false Disables the Early Development Build popup when the game starts. This gets set to true if you close the popup after checking \"Don't show this again\". deadlock_get_old_builds Downloads and prints out all of the build data for your account prior to the new builds feature. Added in Update:August 6, 2024 . deadlock_post_match_survey_disabled true/false false Disables the post-match survey. This gets set to true if you submit or skip a survey after checking \"Don't show this again\". disconnect Disconnect from the current match. dump_hero_names Lists the internal names of all available heros. Requires cheats. healthpct 0 - 100 Sets your health to the given percentage of your max health. Requires cheats. hud_damagemeter true/false false Displays your current DPS next to your crosshair. Requires cheats. hurtme Deals 10 damage to yourself. Requires cheats. kill The name of an NPC or Player to kill Kills the target. killme Kills you. kingme Gives you 1.2 million souls and levels up all your abilities. Requires cheats. map dl_midtown: The main multiplayer map dl_streets: 4 lanes map street_test: Old version of 4 lanes map (before Update:September 26, 2024 ) new_player_basics: The Hero Sandbox map 1v1_test: Seems like an early, smaller version of street_test hero_testing: Seems like an early Hero Sandbox Starts a game and loads into the chosen map. citadel_minimap_unit_click_radius Minimap ping radius citadel_minimap_max_icon_shrink 1 Range of icons shrinking when grouped (e.g. player icons) citadel_minimap_player_width Default minimap player icon sizes citadel_minimap_overlap_scan_distance How close icons have to be to shrink (see citadel_minimap_max_icon_shrink) minimap_update_rate_hz 5 Frequency of minimap updates citadel_minimap_zip_line_thickness 5 Thickness of ziplines on minimap selecthero Hero name from dump_hero_names Requires you to be on the hero selection screen, or have citadel_hero_testing_enabled set to true. trooper_kill_all Kills all non-neutral creeps and guardians that aren't shielded. Requires cheats. trooper_kill_non_bosses Kills all non-neutral creeps. Requires cheats. Auto execute console commands on startup [ edit | edit source ] In the <installation path>\\steamapps\\common\\Deadlock\\game\\citadel\\cfg folder create a text file name it autoexec.cfg Put the console commands that you want to run on startup of Deadlock in the autoexec.cfg file, one console command on each line and save it In the Steam app right-click Deadlock in your list of games on the Library tab and select Properties... In the \"LAUNCH OPTIONS\" field enter -console -exec autoexec Hosting Custom Games [ edit | edit source ] The host starts a custom game by loading into the map with map dl_midtown You may want to pause the game immediately after joining by pressing P to give other players time to join the match. The host finds their ID by running status Find a green line in the console that looks like this: [Client] steamid : [A:1:XXXXXXXXXX:XXXXX] (XXXXXXXXXXXXXXXXX) (the Xs will be replaced with numbers) Select the part after steamid that looks like this, including the square brackets: [A:1:XXXXXXXXXX:XXXXX] Right click and choose \"Copy Selected Text\" The host sends players the ID they just copied. Players can now connect to the game by opening their console and running connect [A:1:XXXXXXXXXX:XXXXX] (replace the part after connect with the ID they got from the host). Upon joining, players will be able to select their team and hero. To bring up this menu again, players can run changeteam 0 . If you ever want to restart the game, the host can run changelevel dl_midtown . Adding Bots [ edit | edit source ] On the main menu, before you start the game, run exec citadel_botmatch_practice_6v6 to load the bot config. If you're already in a game, you can perform these steps then run changelevel dl_midtown to restart the game instead of starting a new one. Run citadel_spawn_practice_bots false so that bots won't spawn immediately when the game starts. Run citadel_spawn_practice_bots_count 12 to ensure that bots fill all remaining slots (they'll be added until both teams have 6 players). Start the game (i.e. map street_test ) and press P to pause the game during the pregame (as soon as you load in). You can use citadel_pregame_duration before starting the game to increase the duration of the pregame if you want. Allow all other human players to connect and select their team and hero. The team/hero menu can be a bit glitchy. Players can use the changeteam command instead (see table above for command description). Remember to choose your (the host's) own team and hero as well. This may automatically unpause the game - press P after selecting a team to pause again. After all human players have joined teams and selected heroes, the host runs citadel_spawn_practice_bots true , then presses P again to unpause the game. Bots should fill the remaining slots on each team. External links [ edit | edit source ] List of Deadlock console commands and variables on the Valve Developer Community. Navigation [ edit | edit source ] v • d • e Gameplay General Abilities • Console commands • Glossary • Heroes • Items • Map • Playtester Survey • Response Rules • Stats • Strategy Map features Cosmic Veil • Crate • The Curiosity Shop • Golden Statue • Jump Pad • Mid-Boss • Neutrals • Powerup • Rejuvenator • Ropes • Sinner's Sacrifice • Soul Urn • Structures • Teleporter • Tunnel • Unstable Rift • Ziplines Mechanics Backdoor Protection • Boon • Cheater Frog • Crowd Control • Death • Extra Slots • Health • Melee Attack • Minimap • Movement • Permanent Buffs • Souls • Stack • Status Effects Game Modes Bot Match • Hideout • Ranked mode • Sandbox • Street Brawl Retrieved from \" https://deadlock.wiki/Console_commands?oldid=158138 \" Category : Gameplay Navigation menu",
+  "words": 1500,
+  "links": [
+    {
+      "text": "Give feedback",
+      "url": "https://deadlock.wiki/Console_commands",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Jump to navigation",
+      "url": "https://deadlock.wiki/Console_commands#mw-head",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Jump to search",
+      "url": "https://deadlock.wiki/Console_commands#searchInput",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Hideout",
+      "url": "https://deadlock.wiki/Hideout",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Valve Developer Wiki",
+      "url": "https://developer.valvesoftware.com/wiki/List_of_Deadlock_console_commands_and_variables",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Data:Convars.json",
+      "url": "https://deadlock.wiki/Data:Convars.json",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "1 Useful Console Commands",
+      "url": "https://deadlock.wiki/Console_commands#Useful_Console_Commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "2 Auto execute console commands on startup",
+      "url": "https://deadlock.wiki/Console_commands#Auto_execute_console_commands_on_startup",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "3 Hosting Custom Games",
+      "url": "https://deadlock.wiki/Console_commands#Hosting_Custom_Games",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "3.1 Adding Bots",
+      "url": "https://deadlock.wiki/Console_commands#Adding_Bots",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "4 External links",
+      "url": "https://deadlock.wiki/Console_commands#External_links",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "5 Navigation",
+      "url": "https://deadlock.wiki/Console_commands#Navigation",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit",
+      "url": "https://deadlock.wiki/Console_commands?veaction=edit&section=1",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit source",
+      "url": "https://deadlock.wiki/Console_commands?action=edit&section=1",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Update:August 6, 2024",
+      "url": "https://deadlock.wiki/Update:August_6,_2024",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Update:September 26, 2024",
+      "url": "https://deadlock.wiki/Update:September_26,_2024",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit",
+      "url": "https://deadlock.wiki/Console_commands?veaction=edit&section=2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit source",
+      "url": "https://deadlock.wiki/Console_commands?action=edit&section=2",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://deadlock.wiki/File:Launch_options_field.png",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "edit",
+      "url": "https://deadlock.wiki/Console_commands?veaction=edit&section=3",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit source",
+      "url": "https://deadlock.wiki/Console_commands?action=edit&section=3",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit",
+      "url": "https://deadlock.wiki/Console_commands?veaction=edit&section=4",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit source",
+      "url": "https://deadlock.wiki/Console_commands?action=edit&section=4",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit",
+      "url": "https://deadlock.wiki/Console_commands?veaction=edit&section=5",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit source",
+      "url": "https://deadlock.wiki/Console_commands?action=edit&section=5",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "List of Deadlock console commands and variables",
+      "url": "https://developer.valvesoftware.com/wiki/List_of_Deadlock_console_commands_and_variables",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit",
+      "url": "https://deadlock.wiki/Console_commands?veaction=edit&section=6",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "edit source",
+      "url": "https://deadlock.wiki/Console_commands?action=edit&section=6",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "v",
+      "url": "https://deadlock.wiki/Template:Gameplay_Navbox",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "d",
+      "url": "https://deadlock.wiki/Template_talk:Gameplay_Navbox",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "e",
+      "url": "https://deadlock.wiki/Template:Gameplay_Navbox?action=edit",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Abilities",
+      "url": "https://deadlock.wiki/Abilities",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Glossary",
+      "url": "https://deadlock.wiki/Glossary",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Heroes",
+      "url": "https://deadlock.wiki/Heroes",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Items",
+      "url": "https://deadlock.wiki/Items",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Map",
+      "url": "https://deadlock.wiki/Map",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Playtester Survey",
+      "url": "https://deadlock.wiki/Playtester_Survey",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Response Rules",
+      "url": "https://deadlock.wiki/Response_Rules",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Stats",
+      "url": "https://deadlock.wiki/Stats",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Strategy",
+      "url": "https://deadlock.wiki/Strategy",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Cosmic Veil",
+      "url": "https://deadlock.wiki/Cosmic_Veil",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Crate",
+      "url": "https://deadlock.wiki/Crate",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "The Curiosity Shop",
+      "url": "https://deadlock.wiki/The_Curiosity_Shop",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Golden Statue",
+      "url": "https://deadlock.wiki/Golden_Statue",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Jump Pad",
+      "url": "https://deadlock.wiki/Jump_Pad",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Mid-Boss",
+      "url": "https://deadlock.wiki/Mid-Boss",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Neutrals",
+      "url": "https://deadlock.wiki/Neutrals",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Powerup",
+      "url": "https://deadlock.wiki/Powerup",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Rejuvenator",
+      "url": "https://deadlock.wiki/Rejuvenator",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Ropes",
+      "url": "https://deadlock.wiki/Ropes",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Sinner's Sacrifice",
+      "url": "https://deadlock.wiki/Sinner%27s_Sacrifice",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Soul Urn",
+      "url": "https://deadlock.wiki/Soul_Urn",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Structures",
+      "url": "https://deadlock.wiki/Structures",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Teleporter",
+      "url": "https://deadlock.wiki/Teleporter",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Tunnel",
+      "url": "https://deadlock.wiki/Tunnel",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Unstable Rift",
+      "url": "https://deadlock.wiki/Unstable_Rift",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Ziplines",
+      "url": "https://deadlock.wiki/Ziplines",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Mechanics",
+      "url": "https://deadlock.wiki/Mechanics",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Backdoor Protection",
+      "url": "https://deadlock.wiki/Backdoor_Protection",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Boon",
+      "url": "https://deadlock.wiki/Boon",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Cheater Frog",
+      "url": "https://deadlock.wiki/Cheater_Frog",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Crowd Control",
+      "url": "https://deadlock.wiki/Crowd_Control",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Death",
+      "url": "https://deadlock.wiki/Death",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Extra Slots",
+      "url": "https://deadlock.wiki/Extra_Slots",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Health",
+      "url": "https://deadlock.wiki/Health",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Melee Attack",
+      "url": "https://deadlock.wiki/Melee_Attack",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Minimap",
+      "url": "https://deadlock.wiki/Minimap",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Movement",
+      "url": "https://deadlock.wiki/Movement",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Permanent Buffs",
+      "url": "https://deadlock.wiki/Permanent_Buffs",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Souls",
+      "url": "https://deadlock.wiki/Souls",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Stack",
+      "url": "https://deadlock.wiki/Stack",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Status Effects",
+      "url": "https://deadlock.wiki/Status_Effects",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Bot Match",
+      "url": "https://deadlock.wiki/Bot_Match",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Hideout",
+      "url": "https://deadlock.wiki/Hideout",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Ranked mode",
+      "url": "https://deadlock.wiki/Ranked_mode",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Sandbox",
+      "url": "https://deadlock.wiki/Sandbox",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Street Brawl",
+      "url": "https://deadlock.wiki/Street_Brawl",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "https://deadlock.wiki/Console_commands?oldid=158138",
+      "url": "https://deadlock.wiki/Console_commands?oldid=158138",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "naked_url",
+      "rel": []
+    },
+    {
+      "text": "Category",
+      "url": "https://deadlock.wiki/Special:Categories",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Gameplay",
+      "url": "https://deadlock.wiki/Category:Gameplay",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://deadlock.wiki/Console_commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://deadlock.wiki/Console_commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Create account",
+      "url": "https://deadlock.wiki/Special:CreateAccount?returnto=Console+commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Log in",
+      "url": "https://deadlock.wiki/Special:UserLogin?returnto=Console+commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Article",
+      "url": "https://deadlock.wiki/Console_commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Discussion",
+      "url": "https://deadlock.wiki/Talk:Console_commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": [
+        "discussion"
+      ]
+    },
+    {
+      "text": "Read",
+      "url": "https://deadlock.wiki/Console_commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Edit",
+      "url": "https://deadlock.wiki/Console_commands?veaction=edit",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Edit source",
+      "url": "https://deadlock.wiki/Console_commands?action=edit",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "History",
+      "url": "https://deadlock.wiki/Console_commands?action=history",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://deadlock.wiki/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": []
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.gg/q6TwMv3eEF",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Main page",
+      "url": "https://deadlock.wiki/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "About us",
+      "url": "https://deadlock.wiki/Deadlock:About",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Random page",
+      "url": "https://deadlock.wiki/Special:Random",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Special pages",
+      "url": "https://deadlock.wiki/Special_pages",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Sinclair/Sounds",
+      "url": "https://deadlock.wiki/Sinclair/Sounds",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "15m ago",
+      "url": "https://deadlock.wiki/Special:Diff/158274",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Gammaton32",
+      "url": "https://deadlock.wiki/Special:Contributions/Gammaton32",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Sinclair/Voice lines",
+      "url": "https://deadlock.wiki/Sinclair/Voice_lines",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "15m ago",
+      "url": "https://deadlock.wiki/Special:Diff/158273",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Gammaton32",
+      "url": "https://deadlock.wiki/Special:Contributions/Gammaton32",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Silver/Sounds",
+      "url": "https://deadlock.wiki/Silver/Sounds",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "34m ago",
+      "url": "https://deadlock.wiki/Special:Diff/158272",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Gammaton32",
+      "url": "https://deadlock.wiki/Special:Contributions/Gammaton32",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Silver/Voice lines",
+      "url": "https://deadlock.wiki/Silver/Voice_lines",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "36m ago",
+      "url": "https://deadlock.wiki/Special:Diff/158271",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Gammaton32",
+      "url": "https://deadlock.wiki/Special:Contributions/Gammaton32",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Show more...",
+      "url": "https://deadlock.wiki/Special:RecentChanges",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Common CSS",
+      "url": "https://deadlock.wiki/MediaWiki:Common.css",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Vector CSS",
+      "url": "https://deadlock.wiki/MediaWiki:Vector.css",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Minerva CSS",
+      "url": "https://deadlock.wiki/MediaWiki:Minerva.css",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Citizen CSS",
+      "url": "https://deadlock.wiki/MediaWiki:Citizen.css",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Brown theme CSS",
+      "url": "https://deadlock.wiki/MediaWiki:Gadget-brownTheme.css",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Gadgets",
+      "url": "https://deadlock.wiki/Special:Gadgets",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Gadgets definition",
+      "url": "https://deadlock.wiki/MediaWiki:Gadgets-definition",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "How to edit",
+      "url": "https://deadlock.wiki/Help:Getting_Started",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Style guide",
+      "url": "https://deadlock.wiki/Deadlock:Style_guide",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "All guides",
+      "url": "https://deadlock.wiki/Help:Contents",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "New files",
+      "url": "https://deadlock.wiki/Special:NewFiles",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Unresolved feedback",
+      "url": "https://deadlock.wiki/Deadlock:Article_feedback#List_of_unresolved_feedback",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "What links here",
+      "url": "https://deadlock.wiki/Special:WhatLinksHere/Console_commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Related changes",
+      "url": "https://deadlock.wiki/Special:RecentChangesLinked/Console_commands",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": [
+        "nofollow"
+      ]
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://deadlock.wiki/Console_commands?oldid=158138",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Page information",
+      "url": "https://deadlock.wiki/Console_commands?action=info",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "View buckets",
+      "url": "https://deadlock.wiki/Console_commands?action=bucket",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Valve Corporation",
+      "url": "https://www.valvesoftware.com/",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "About the Deadlock Wiki",
+      "url": "https://deadlock.wiki/Deadlock:About",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://deadlock.wiki/Wg:terms",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Contact",
+      "url": "https://deadlock.wiki/Special:Contact",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://deadlock.wiki/Console_commands?mobileaction=toggle_view_mobile",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": []
+    }
+  ],
+  "extraction": "body_fallback_review_needed",
+  "extraction_rule": null,
+  "sha256": "3b17f5416467907844eba111d122d0f9249484e239b1ade1eaec4dfb9c017dfa",
+  "captured_at": "2026-09-21T04:15:43.847834+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://deadlock.wiki/Console_commands",
+  "http_status": 200,
+  "raw_file": "raw\\46df7377218a993dd748.html"
+}

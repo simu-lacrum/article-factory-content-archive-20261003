@@ -1,0 +1,310 @@
+{
+  "url": "https://tsuki.gg/scripts/deadlock/aimed-fov",
+  "canonical": "https://tsuki.gg/scripts/deadlock/aimed-fov",
+  "language": "en",
+  "title": "Aimed FOV - Deadlock External Lua Script - TSUKI",
+  "description": "Allows you to set a custom FOV for aimbot when aiming.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Aimed FOV"
+    }
+  ],
+  "document_h1": [
+    "Aimed FOV"
+  ],
+  "text": "TSUKI Home Products Community Scripts Configs Menu Themes Blogs Status Sign In Sign Up Back to Deadlock External Scripts Home › Lua Script Library › Deadlock External › Aimed FOV Aimed FOV Allows you to set a custom FOV for aimbot when aiming. External #utility #aimbot #helper tomo Uploaded May 30, 2026 Updated Jun 28, 2026 8 downloads 4 subscribers 1.1 KiB 5.0 (1) Subscribe to Deadlock External",
+  "words": 67,
+  "links": [
+    {
+      "text": "TSUKI",
+      "url": "https://tsuki.gg/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://tsuki.gg/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Products",
+      "url": "https://tsuki.gg/products",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Community",
+      "url": "https://tsuki.gg/scripts/deadlock/aimed-fov",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Scripts",
+      "url": "https://tsuki.gg/scripts/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Configs",
+      "url": "https://tsuki.gg/configs/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Menu Themes",
+      "url": "https://tsuki.gg/themes/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blogs",
+      "url": "https://tsuki.gg/blog",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Status",
+      "url": "https://tsuki.gg/status",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://discord.gg/mina",
+      "placement": "editorial",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener"
+      ]
+    },
+    {
+      "text": "Sign In",
+      "url": "https://tsuki.gg/login",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Sign Up",
+      "url": "https://tsuki.gg/register",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Back to Deadlock External Scripts",
+      "url": "https://tsuki.gg/scripts/deadlock",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://tsuki.gg/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Lua Script Library",
+      "url": "https://tsuki.gg/scripts/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Deadlock External",
+      "url": "https://tsuki.gg/scripts/deadlock",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://tsuki.gg/scripts/deadlock/aimed-fov/thumbnail?v=1782685381.278939",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener"
+      ]
+    },
+    {
+      "text": "External",
+      "url": "https://tsuki.gg/scripts/deadlock?api=external",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "#utility",
+      "url": "https://tsuki.gg/scripts/deadlock?tag=utility",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "#aimbot",
+      "url": "https://tsuki.gg/scripts/deadlock?tag=aimbot",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "#helper",
+      "url": "https://tsuki.gg/scripts/deadlock?tag=helper",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "tomo",
+      "url": "https://tsuki.gg/scripts/author/tomo",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Subscribe to Deadlock External",
+      "url": "https://tsuki.gg/products/deadlock",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "TSUKI",
+      "url": "https://tsuki.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Home",
+      "url": "https://tsuki.gg/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Products",
+      "url": "https://tsuki.gg/products",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Status",
+      "url": "https://tsuki.gg/status",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Support",
+      "url": "https://tsuki.gg/support",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.gg/mina",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener"
+      ]
+    },
+    {
+      "text": "Find us on elitepvpers",
+      "url": "https://www.elitepvpers.com/forum/deadlock-trading/5357986-tsuki-deadlock-external-humanized-aimbot-auto-parry-lua-scripts-vis-check.html",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "descriptive",
+      "rel": [
+        "noopener"
+      ]
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://tsuki.gg/terms",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://tsuki.gg/privacy",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Refund Policy",
+      "url": "https://tsuki.gg/refund",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "",
+      "url": "https://discord.gg/mina",
+      "placement": "navigation",
+      "relationship": "outbound",
+      "kind": "image_or_empty",
+      "rel": [
+        "noopener"
+      ]
+    }
+  ],
+  "extraction": "body_fallback_review_needed",
+  "extraction_rule": null,
+  "sha256": "851107e35ef846a022fcd46a7c423520cb7efc20a26374905c7b7ad455ccc1ea",
+  "captured_at": "2026-09-21T05:43:15.580789+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://tsuki.gg/scripts/deadlock/aimed-fov",
+  "http_status": 200,
+  "raw_file": "raw\\0584ddd05d77bd1a00bc.html"
+}

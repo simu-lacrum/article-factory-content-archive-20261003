@@ -1,0 +1,240 @@
+{
+  "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+  "canonical": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+  "language": "en",
+  "title": "Umbrella vs Melonity — comparing private Dota 2 cheats in 2026",
+  "description": "Umbrella vs Melonity for Dota 2 in 2026: which is better on features, price, patch speed after Valve updates, safety, and support. An objective fact-based comparison.",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Quick summary: who should pick what"
+    },
+    {
+      "level": 2,
+      "text": "Feature comparison"
+    },
+    {
+      "level": 2,
+      "text": "Prices and plans"
+    },
+    {
+      "level": 2,
+      "text": "Safety and spoofer"
+    },
+    {
+      "level": 2,
+      "text": "Patch speed after Valve updates"
+    },
+    {
+      "level": 2,
+      "text": "Support"
+    },
+    {
+      "level": 2,
+      "text": "Verdict"
+    },
+    {
+      "level": 2,
+      "text": "FAQ"
+    }
+  ],
+  "document_h1": [
+    "Umbrella vs Melonity — 2026 comparison"
+  ],
+  "text": "Quick summary: who should pick what Umbrella — for those who care about automation (Combo Builder, Auto-Cataclysm, Dodger, Kill Stealer), ready-made hero presets, and a quick learning curve. The minimum plan is cheaper — $2.99 for 3 days. Melonity — for experienced users who are used to the classic interface and do not want to re-learn. Longer on the market, but weaker on new modules (no preset-based Combo Builder, weaker MMR Tracker). Below are concrete figures and facts for each parameter. Feature comparison Feature Umbrella Melonity Maphack (Info Screen) Yes — wards, jungle, runes, Roshan HP Yes — basic Hero scripts 126 heroes with presets ~100 heroes Combo Builder Drag-and-drop, up to 12 steps Basic bind only Auto-Cataclysm (Invoker) In preset Manual configuration Last-Hit auto With human-jitter No jitter (detected more often) Kill Stealer 40+ finishing abilities Ultimates only Dodger (auto-evade) 60+ skillshots ~30 skillshots Skin Changer 2400+ skins, arcanas ~1800 skins Spoofer (HWID) Included in subscription Separate add-on plan Unlocker (Dota Plus) Yes No MMR Tracker Hidden MMR + gain per game Visible MMR only Cloud configs No traces on disk Local .cfg files Camera Hack Up to 2200 Up to 1900 Bottom line: Umbrella covers more use cases out of the box. All 32 modules are included in every plan at no extra charge. Prices and plans Duration Umbrella Melonity 3 days $2.99 $3.99 6 days $3.99 $6.99 15 days $6.99 $12.99 30 days $9.99 $21.99 Spoofer (HWID) Included +$4.50 add-on On the 30-day plan the difference including spoofer is almost $16 in Umbrella's favor. See full pricing . Safety and spoofer The main risk of using any cheat is an HWID ban — a block tied to your hardware identifiers: even after creating a new Steam account you cannot play from the same PC. Here is what both products offer: Umbrella: Spoofer is built into the subscription, masking hard drive serials, MAC address, motherboard ID, and display identifiers. One-click activation through the Loader. Melonity: Spoofer is a separate product — an add-on to the subscription. Functionally similar, but requires manual configuration and sometimes returns \"device unverified\" after a Windows update. Umbrella cloud configs do not write settings to disk — the anti-cheat scanner finds no traces. Melonity configs are local (.cfg in the game folder), which more frequently triggers heuristic flags. Full details in the article Do you get banned for cheats . Patch speed after Valve updates Every time Valve releases a Dota 2 update (minor / major / hotfix), every cheat breaks until the cheat developers release their own patch. Downtime is a critical parameter. Umbrella: average delay 6–18 hours. SLA — 72 hours (if exceeded, we extend everyone's subscription). Melonity: average delay 12–36 hours. Sometimes longer (after patch 7.39 — 4 days of downtime). The reason: Umbrella has a more compact reverse-engineering team that ships patches as binary cloud updates. Melonity uses a traditional full-build rebuild. Support Parameter Umbrella Melonity Live chat on site Yes, 10:00–23:00, reply in 5–10 min Telegram bot, 10:00–22:00 Contact channel live chat, reply in minutes Via ticket system Knowledge base Blog + 126 hero pages FAQ only Response SLA Within 1 hour on business days Up to 24 hours Phishing complaints the live chat on the Support page Via general ticket Verdict If you are choosing a cheat for Dota 2 in 2026 for the first time — go with Umbrella . Cheaper, more modules out of the box, faster patches, better support, spoofer at no extra charge. If you have been using Melonity for years and love their interface — migrating to Umbrella takes about an hour. Umbrella cloud configs support importing Melonity presets (via a convert command through support). Known downsides of Umbrella to be aware of: No mobile app for config management (on the roadmap for Q2 2026; Melonity does not have one either). Localization is Russian/English only (Melonity supports CN/KR — but that is not critical for most Western users). ★ Recommendation: start with Umbrella's 3-day plan ($2.99) . That is enough to test the interface, maphack, and scripts on your favorite hero. If you do not like it — try Melonity without a serious loss. FAQ Can you use Umbrella and Melonity at the same time? No. Both inject into the same Dota 2 process and conflict. Choose one. Which is safer from a ban perspective? As of 2026, ban rates are comparable across both products: ~3% ban rate with proper use of a spoofer. The main factor is not the brand, but following the rules (not feeding perfect stats, not getting reported, not using it on a main account). Which has a better Skin Changer? Umbrella's catalog is larger (2400+ vs 1800+ for Melonity). Skin application works stably in both. If you only need a Skin Changer without scripts — check out Overplus (from $0.30). Where can I find a promo code for Umbrella? Fresh codes are on the Promo Codes page. Temporary 10–25% discounts also appear in the live chat.",
+  "words": 852,
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://umbrella-dota.com/en/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Blog",
+      "url": "https://umbrella-dota.com/en/blog/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Quick summary",
+      "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/#tldr",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Feature comparison",
+      "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/#functions",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Prices and plans",
+      "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/#prices",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Safety and spoofer",
+      "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/#safety",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Patch speed after Valve updates",
+      "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/#patch",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Support",
+      "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/#support",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Verdict",
+      "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/#verdict",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "FAQ",
+      "url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/#faq",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "All 32 modules",
+      "url": "https://umbrella-dota.com/en/features/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "See full pricing",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Do you get banned for cheats",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Umbrella's 3-day plan ($2.99)",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "Overplus",
+      "url": "https://umbrella-dota.com/en/overplus/",
+      "placement": "editorial",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Try it",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Do you get banned for cheats",
+      "url": "https://umbrella-dota.com/en/blog/is-cheating-bannable/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Installing Umbrella",
+      "url": "https://umbrella-dota.com/en/blog/umbrella-installation/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "What is the spoofer",
+      "url": "https://umbrella-dota.com/en/features/spoofer/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Umbrella pricing",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    },
+    {
+      "text": "Ready configs",
+      "url": "https://umbrella-dota.com/en/config/",
+      "placement": "navigation",
+      "relationship": "internal",
+      "kind": "descriptive",
+      "rel": []
+    },
+    {
+      "text": "Buy Umbrella",
+      "url": "https://umbrella-dota.com/en/pricing/",
+      "placement": "other",
+      "relationship": "internal",
+      "kind": "branded",
+      "rel": []
+    }
+  ],
+  "extraction": "semantic_main",
+  "extraction_rule": null,
+  "sha256": "0865b22e65d22dbbdc57a9d3b12bc132cd4323f32c0dea52b236fd032a1fcefd",
+  "captured_at": "2026-09-21T07:29:22.597101+00:00",
+  "claims_status": "unverified_publisher_claims",
+  "requested_url": "https://umbrella-dota.com/en/blog/melonity-vs-umbrella/",
+  "http_status": 200,
+  "raw_file": "raw\\cc6d1e62410bcfadf4ac.html"
+}

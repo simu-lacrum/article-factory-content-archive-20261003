@@ -1,0 +1,593 @@
+{
+  "method_note": "Read-only public linked h3 headings in #rso, visible questions and footer. Partial samples; account data, scripts, files and video contents were not collected. Provisional page classifications use displayed titles/URLs and were refined only for fetched pages.",
+  "snapshots": [
+    {
+      "query": "invoker scripts dota 2",
+      "captured_at": "2026-09-21T06:21:03.185Z",
+      "game": "dota2",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-dota-automation-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Unknown - Can't determine location; gl=us is only the requested country.",
+      "result_scope": "Linked h3 headings; no asserted organic rank and not a guaranteed full top ten.",
+      "visible_questions": [
+        "Is scripting allowed in Dota 2?",
+        "Did Invoker have 27 skills?",
+        "Who is the richest dota2 player?",
+        "What is the best bot script for Dota 2?"
+      ],
+      "results": [
+        {
+          "title": "Invoker.ahk - YeisonBTS/Scripts-for-dota-2",
+          "url": "https://github.com/YeisonBTS/Scripts-for-dota-2/blob/master/Invoker.ahk",
+          "type": "repository",
+          "page_type": "code_file",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "Dota 2 Invoker Script - Gaming Scripts",
+          "url": "https://www.autohotkey.com/board/topic/87413-dota-2-invoker-script/",
+          "type": "implementation_guide",
+          "page_type": "code_script_forum",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Invoker in Dota 2 — guide, Umbrella scripts, win rate by rank",
+          "url": "https://umbrella-dota.com/en/scripts/invoker/",
+          "type": "product",
+          "page_type": "hero_product_guide_provisional",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "How bad has the scripting and boosting problem gotten in ...",
+          "url": "https://www.reddit.com/r/TrueDoTA2/comments/1weq1y4/how_bad_has_the_scripting_and_boosting_problem/",
+          "type": "forum",
+          "page_type": "scripting_discussion",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "AutoHotkey Dota 2 Invoker Script with Gui - RPAWR",
+          "url": "https://rpawr.com/autohotkey/autohotkey-dota-2-invoker-script-with-gui/",
+          "type": "implementation_guide",
+          "page_type": "script_tutorial",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "macros and scripts for Dota 2",
+          "url": "https://botmek.com/share/?group=Dota%202",
+          "type": "category",
+          "page_type": "macro_catalog",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "Dota 2 Script Tutorials",
+          "url": "https://www.youtube.com/playlist?list=PLW8iD9tyErlCgNmyjkDYM7t4QDJpfabtc",
+          "type": "video",
+          "page_type": "video_playlist",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "[Source] [DOTA] Invoker AHK boilerplate",
+          "url": "https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/289253-dota-invoker-ahk-boilerplate.html",
+          "type": "software_release",
+          "page_type": "code_release_forum",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    },
+    {
+      "query": "invoker scripts vs hotkeys",
+      "captured_at": "2026-09-21T06:21:18.235Z",
+      "game": "dota2",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-dota-automation-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Unknown - Can't determine location; gl=us is only the requested country.",
+      "result_scope": "Linked h3 headings; no asserted organic rank and not a guaranteed full top ten.",
+      "visible_questions": [
+        "Is Invoker hard to use?",
+        "What are the best hotkeys for Dota 2?",
+        "Why is my Alt+Q not working?",
+        "How many combos does Invoker have?"
+      ],
+      "results": [
+        {
+          "title": "What hotkeys to use for Invoker : r/learndota2",
+          "url": "https://www.reddit.com/r/learndota2/comments/4fh7al/what_hotkeys_to_use_for_invoker/",
+          "type": "forum",
+          "page_type": "hotkey_discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "Invoker - balance or rework... too IMBA with hotkeys",
+          "url": "https://steamcommunity.com/app/570/discussions/0/2381701715733006446/?l=brazilian",
+          "type": "forum",
+          "page_type": "hotkey_balance_discussion",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Super Invoker Hotkeys - Scripts and Functions",
+          "url": "https://www.autohotkey.com/board/topic/67739-super-invoker-hotkeys/",
+          "type": "implementation_guide",
+          "page_type": "code_script_forum",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "Dota 2 Invoker Hotkeys Guide | PDF",
+          "url": "https://www.scribd.com/doc/77211988/Custom-Key",
+          "type": "article",
+          "page_type": "uploaded_hotkey_guide_provisional",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "AutoHotkey Dota 2 Invoker Script with Gui - RPAWR",
+          "url": "https://rpawr.com/autohotkey/autohotkey-dota-2-invoker-script-with-gui/",
+          "type": "implementation_guide",
+          "page_type": "script_tutorial",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "An AutoHotkey script for executing Invoker's combo in Dota ...",
+          "url": "https://github.com/Drele11ven/dota2-invoker-ahk",
+          "type": "repository",
+          "page_type": "code_repository",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "Invoker Key Bindings? - Topic",
+          "url": "https://forums.d2jsp.org/topic.php?t=66543791&f=163",
+          "type": "forum",
+          "page_type": "hotkey_discussion",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "How to write your own Dota 2 Scripts for any Hero (Invoker ...",
+          "url": "https://www.youtube.com/watch?v=kBRNoyS-MiY",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    },
+    {
+      "query": "meepo scripts dota 2",
+      "captured_at": "2026-09-21T06:21:27.475Z",
+      "game": "dota2",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-dota-automation-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Unknown - Can't determine location; gl=us is only the requested country.",
+      "result_scope": "Linked h3 headings; no asserted organic rank and not a guaranteed full top ten.",
+      "visible_questions": [
+        "Is scripting allowed in Dota 2?",
+        "Is Meepo harder than Invoker?",
+        "Who is the best Meepo player in Dota 2?",
+        "Who is the richest Dota 2 player?"
+      ],
+      "results": [
+        {
+          "title": "Meepo.ahk - YeisonBTS/Scripts-for-dota-2",
+          "url": "https://github.com/YeisonBTS/Scripts-for-dota-2/blob/master/Meepo.ahk",
+          "type": "repository",
+          "page_type": "code_file",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "How to tell if someone (meepo) is scripting/hacking",
+          "url": "https://www.reddit.com/r/learndota2/comments/l9d0t9/how_to_tell_if_someone_meepo_is_scriptinghacking/",
+          "type": "forum",
+          "page_type": "scripting_identification_discussion",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Guide :: Meepo Autopoof",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3624873864",
+          "type": "article",
+          "page_type": "community_autopoof_guide_provisional",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "Meepo in Dota 2 — guide, Umbrella scripts, win rate by rank",
+          "url": "https://umbrella-dota.com/en/scripts/meepo/",
+          "type": "product",
+          "page_type": "hero_product_guide_provisional",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "Macros «meepo dota 2 poof» for «Dota 2»",
+          "url": "https://botmek.com/share/?file=k5DG2sHcxCvn521",
+          "type": "software_release",
+          "page_type": "macro_download",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "Script",
+          "url": "https://www.youtube.com/@ScriptDota",
+          "type": "video",
+          "page_type": "video_channel",
+          "rank": null,
+          "observed_heading_order": 6
+        }
+      ]
+    },
+    {
+      "query": "meepo scripts vs control groups",
+      "captured_at": "2026-09-21T06:21:35.302Z",
+      "game": "dota2",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-dota-automation-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Unknown - Can't determine location; gl=us is only the requested country.",
+      "result_scope": "Linked h3 headings; no asserted organic rank and not a guaranteed full top ten.",
+      "visible_questions": [
+        "Which is harder, Meepo or Invoker?",
+        "Why is Meepo hard?",
+        "Who is the best Meepo player in Dota 2?",
+        "How do I control groups in Dota 2?"
+      ],
+      "results": [
+        {
+          "title": "Meepo and control groups : r/TrueDoTA2",
+          "url": "https://www.reddit.com/r/TrueDoTA2/comments/ban0oi/meepo_and_control_groups/",
+          "type": "forum",
+          "page_type": "unit_control_discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "Guide to Control groups, and how to use them effectively.",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=223103156",
+          "type": "article",
+          "page_type": "unit_control_guide",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Ultimate Meepo Guide 2025 – Easy Dota 2 Hero for ...",
+          "url": "https://huskyboost.com/dota-2/ultimate-meepo-guide-2025-easy-defense-of-the-ancients-2-hero-for-beginners/",
+          "type": "article",
+          "page_type": "commercial_gameplay_guide",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "General Discussion - Meepo hotkeys config",
+          "url": "https://www.dotabuff.com/topics/2017-05-25-meepo-hotkeys-config-",
+          "type": "forum",
+          "page_type": "hotkey_discussion",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "Meepo script , Instant poofs.",
+          "url": "https://www.dotafire.com/dota-2/forum/general/meepo-script-instant-poofs-1457",
+          "type": "forum",
+          "page_type": "script_discussion",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "Meepo, LD, Beastmaster, and Arc player controlled unit ...",
+          "url": "https://www.facebook.com/groups/wykrhmreddy/posts/1662996110525661/",
+          "type": "social",
+          "page_type": "unit_control_social_post",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "How to practise combo Earthbind and Poof continuously using ...",
+          "url": "https://gaming.stackexchange.com/questions/218675/how-to-practise-combo-earthbind-and-poof-continuously-using-meepo",
+          "type": "forum",
+          "page_type": "gameplay_question",
+          "rank": null,
+          "observed_heading_order": 7
+        }
+      ]
+    },
+    {
+      "query": "dota 2 auto last hit",
+      "captured_at": "2026-09-21T06:21:47.345Z",
+      "game": "dota2",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-dota-automation-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Unknown - Can't determine location; gl=us is only the requested country.",
+      "result_scope": "Linked h3 headings; no asserted organic rank and not a guaranteed full top ten.",
+      "visible_questions": [
+        "How do I last hit in Dota 2?",
+        "Which hero in Dota 2 is easiest to last hit?",
+        "Is 3000 MMR good?",
+        "How many last hits in 10 minutes in Dota 2?"
+      ],
+      "results": [
+        {
+          "title": "How do you do the stop-attack-stop-attack animatation fast ...",
+          "url": "https://www.reddit.com/r/learndota2/comments/xb4f8k/how_do_you_do_the_stopattackstopattack/",
+          "type": "forum",
+          "page_type": "manual_attack_discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "Creep control techniques - Dota 2 Wiki - Fandom",
+          "url": "https://dota2.fandom.com/wiki/Creep_control_techniques",
+          "type": "article",
+          "page_type": "gameplay_wiki",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "How to effectively Last hit? :: Dota 2 General Discussions",
+          "url": "https://steamcommunity.com/app/570/discussions/0/618458030651897679/",
+          "type": "forum",
+          "page_type": "manual_last_hit_discussion",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "How to last hit like a pro?",
+          "url": "https://www.dotafire.com/dota-2/forum/help/how-to-last-hit-like-a-pro-430",
+          "type": "forum",
+          "page_type": "manual_last_hit_discussion",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "how does the last hit hack work?",
+          "url": "https://hake.me/forums/threads/how-does-the-last-hit-hack-work.199/",
+          "type": "forum",
+          "page_type": "product_feature_discussion",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "10 Tips for Last Hitting - Dota 2",
+          "url": "https://www.tentonhammer.com/guides/10-tips-for-last-hitting-dota-2",
+          "type": "article",
+          "page_type": "gameplay_guide",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "Last Hitting in dota 2 - Gaming Questions",
+          "url": "https://www.autohotkey.com/board/topic/92919-last-hitting-in-dota-2/",
+          "type": "implementation_guide",
+          "page_type": "automation_help_forum",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "How To Last Hit In Dota 2 Properly [Improve And Practice]",
+          "url": "https://www.hotspawn.com/dota2/guide/dota-2-last-hit-guide",
+          "type": "article",
+          "page_type": "gameplay_guide",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    },
+    {
+      "query": "dota 2 auto dodge",
+      "captured_at": "2026-09-21T06:21:58.540Z",
+      "game": "dota2",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-dota-automation-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Unknown - Can't determine location; gl=us is only the requested country.",
+      "result_scope": "Linked h3 headings; no asserted organic rank and not a guaranteed full top ten.",
+      "visible_questions": [],
+      "results": [
+        {
+          "title": "If You've Ever Wondered What an Auto-Dodge, Zoomed- ...",
+          "url": "https://www.reddit.com/r/DotA2/comments/1l6pg79/if_youve_ever_wondered_what_an_autododge/",
+          "type": "forum",
+          "page_type": "feature_demonstration_discussion",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "PLAY DOTA2 MAP HACK, AUTO DODGE and Many More",
+          "url": "https://www.youtube.com/watch?v=xm-PuKez6XQ",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "MONKEY KING WITH CHEATS — AUTO-DODGE AND ...",
+          "url": "https://www.youtube.com/watch?v=pNlMBIL2u_c",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "Dodger — auto skillshot evasion - Umbrella для Dota 2",
+          "url": "https://umbrella-dota.com/en/features/dodger/",
+          "type": "product",
+          "page_type": "product_feature_page",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "This LC using auto dodge script #dota2 #Dota2reels ...",
+          "url": "https://www.facebook.com/XAGameLog/videos/this-lc-using-auto-dodge-script-dota2-dota2reels-dota2clips-dota2wtf-dota2memes-/2121851111587007/",
+          "type": "video",
+          "page_type": "social_video",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "Dota 2 Auto Dodge Script Highlights Compilation",
+          "url": "https://www.tiktok.com/@xa.game.log/video/7482689459323014408",
+          "type": "video",
+          "page_type": "social_video",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "Dota 2 Cheats Detected: HOOK auto-dodge + MANY HACKS ...",
+          "url": "https://www.youtube.com/watch?v=l_WJKV-dovQ",
+          "type": "video",
+          "page_type": "video",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "Dota 2 cheats: 10 days free!",
+          "url": "https://uc.zone/en/dota2",
+          "type": "product",
+          "page_type": "product_landing",
+          "rank": null,
+          "observed_heading_order": 8
+        },
+        {
+          "title": "DOTA 2 Scripts - Auto combo, Map hack, Auto Dodge",
+          "url": "https://www.ciroscript.com/dota",
+          "type": "product",
+          "page_type": "product_landing",
+          "rank": null,
+          "observed_heading_order": 9
+        }
+      ]
+    },
+    {
+      "query": "dota 2 last hit script",
+      "captured_at": "2026-09-21T06:22:14.473Z",
+      "game": "dota2",
+      "language": "en",
+      "engine": "google",
+      "country_requested": "US",
+      "country_observed": null,
+      "method": "browser_dom",
+      "session_cohort": "codex-iab-signed-in",
+      "source_file": "raw/google-dota-automation-intents.json",
+      "personalization_note": "Results are not personalized",
+      "location_note": "Unknown - Can't determine location; gl=us is only the requested country.",
+      "result_scope": "Linked h3 headings; no asserted organic rank and not a guaranteed full top ten.",
+      "visible_questions": [
+        "How do I last hit in Dota 2?",
+        "Is scripting allowed in Dota 2?",
+        "Which hero in Dota 2 is easiest to last hit?",
+        "How many last hits in 10 minutes in Dota 2?"
+      ],
+      "results": [
+        {
+          "title": "I made Lasthit Trainer+, a dedicated custom game ... - Reddit",
+          "url": "https://www.reddit.com/r/DotA2/comments/1q11l51/i_made_lasthit_trainer_a_dedicated_custom_game/",
+          "type": "forum",
+          "page_type": "practice_custom_game_announcement",
+          "rank": null,
+          "observed_heading_order": 1
+        },
+        {
+          "title": "LastHit.lua - Eroica-cpp/dota2scripts",
+          "url": "https://github.com/Eroica-cpp/dota2scripts/blob/master/LastHit.lua",
+          "type": "repository",
+          "page_type": "code_file",
+          "rank": null,
+          "observed_heading_order": 2
+        },
+        {
+          "title": "Dota 2 hero scripts in Umbrella — auto-combo, binds, last-hit",
+          "url": "https://umbrella-dota.com/en/scripts/",
+          "type": "category",
+          "page_type": "hero_script_catalog",
+          "rank": null,
+          "observed_heading_order": 3
+        },
+        {
+          "title": "Dota 2 Last Hit Macro - Gaming Questions",
+          "url": "https://www.autohotkey.com/board/topic/97893-dota-2-last-hit-macro/",
+          "type": "implementation_guide",
+          "page_type": "automation_help_forum",
+          "rank": null,
+          "observed_heading_order": 4
+        },
+        {
+          "title": "How to last hit like a pro?",
+          "url": "https://www.dotafire.com/dota-2/forum/help/how-to-last-hit-like-a-pro-430",
+          "type": "forum",
+          "page_type": "manual_last_hit_discussion",
+          "rank": null,
+          "observed_heading_order": 5
+        },
+        {
+          "title": "Last Hit Exercises - Steam Workshop",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=531587903",
+          "type": "product",
+          "page_type": "practice_workshop_tool",
+          "rank": null,
+          "observed_heading_order": 6
+        },
+        {
+          "title": "how does the last hit hack work?",
+          "url": "https://hake.me/forums/threads/how-does-the-last-hit-hack-work.199/",
+          "type": "forum",
+          "page_type": "product_feature_discussion",
+          "rank": null,
+          "observed_heading_order": 7
+        },
+        {
+          "title": "Dota 2 cheats: 10 days free!",
+          "url": "https://uc.zone/en/dota2",
+          "type": "product",
+          "page_type": "product_landing",
+          "rank": null,
+          "observed_heading_order": 8
+        }
+      ]
+    }
+  ]
+}

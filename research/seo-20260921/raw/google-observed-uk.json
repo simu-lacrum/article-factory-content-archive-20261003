@@ -1,0 +1,14 @@
+{
+  "captured_at": "2026-09-21",
+  "method": "browser_dom",
+  "country_requested": "GB",
+  "country_observed": null,
+  "language": "en",
+  "engine": "google",
+  "result_scope": "Linked headings in the visible rso container; partial browser sample with gl=gb, not a verified geolocated UK top 10.",
+  "samples": [
+    {"query":"cs2 cheats","urls":["https://anyx.gg/","https://www.reddit.com/r/counterstrike2/comments/1938hr4/educational_use_only_all_cs2_cheats_ranked/","https://www.youtube.com/watch?v=CJLCxFy5mrs","https://cs2-cheats.com/","https://www.unknowncheats.me/forum/counter-strike-2-a/","https://undetek.com/","https://www.youtube.com/watch?v=EaYJCCOW6vw","https://en.exloader.net/"]},
+    {"query":"dota 2 cheats","urls":["https://dota2.fandom.com/wiki/Cheats","https://www.reddit.com/r/DotA2/comments/m1eelh/a_modern_guide_to_dota_2_cheats_and_how_to_spot/","https://steamcommunity.com/sharedfiles/filedetails/?id=139655890","https://gamefaqs.gamespot.com/pc/610657-dota-2/cheats","https://uc.zone/en/dota2","https://melonity.gg/en","https://www.youtube.com/watch?v=idZup1VgY0E"]},
+    {"query":"deadlock cheats","urls":["https://www.unknowncheats.me/forum/deadlock/","https://www.elitepvpers.com/forum/deadlock-trading/","https://uc.zone/en/deadlock","https://www.reddit.com/r/DeadlockTheGame/comments/1oixl3s/deadlock_has_an_actual_problem_with_cheaters/","https://deadlock.wiki/Console_commands","https://steamcommunity.com/app/1422450/discussions/0/591782690120988721/","https://ducks-services.com/store/category/145-deadlock/","https://undetek.com/product/deadlock-cheat/"]}
+  ]
+}

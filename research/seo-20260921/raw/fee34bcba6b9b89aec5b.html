@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- umbrella-head-injected -->
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#06060A">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://umbrella-dota.com/og-image.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Umbrella·Dota">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://umbrella-dota.com/og-image.png">
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   ym(109468064, "init", {clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109468064" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<base href="/">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Meepo in Dota 2 — guide, Umbrella scripts, win rate by rank</title>
+<meta name="description" content="Meepo (Agility, melee): 52.1% win rate and 4k picks. 8 Umbrella scripts for auto-combo and prediction. Build, counters, FAQ.">
+<link rel="canonical" href="https://umbrella-dota.com/en/scripts/meepo/">
+<link rel="alternate" hreflang="ru" href="https://umbrella-dota.com/skripty/meepo/">
+<link rel="alternate" hreflang="en" href="https://umbrella-dota.com/en/scripts/meepo/">
+<link rel="alternate" hreflang="zh" href="https://umbrella-dota.com/zh/scripts/meepo/">
+<link rel="alternate" hreflang="x-default" href="https://umbrella-dota.com/en/scripts/meepo/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/portal.css?v=2026091501">
+<style>
+.hero-portrait{display:grid;grid-template-columns:auto 1fr;gap:32px;align-items:center;margin-top:32px;padding:24px 28px;background:linear-gradient(135deg,#A4D14A1A,rgba(8,4,6,0.85));border:1px solid var(--hairline);clip-path:polygon(0 0,calc(100% - 18px) 0,100% 18px,100% 100%,18px 100%,0 calc(100% - 18px))}
+.hero-portrait img{width:160px;height:90px;object-fit:cover;border:1px solid var(--border-strong)}
+.hero-portrait .attr{background:#A4D14A;color:#08040A;padding:3px 10px;font-family:var(--font-techno);font-size:10px;letter-spacing:0.22em;text-transform:uppercase;font-weight:700;display:inline-block;margin-bottom:8px;clip-path:polygon(6px 0,100% 0,calc(100% - 6px) 100%,0 100%)}
+.hero-portrait h3{font-family:var(--font-display);font-size:36px;color:#fff;letter-spacing:0.02em;line-height:1;margin-bottom:6px}
+.hero-portrait .sub{font-family:var(--font-techno);font-size:11px;letter-spacing:0.14em;color:var(--ink-2);text-transform:uppercase;display:flex;gap:14px;flex-wrap:wrap}
+.hero-portrait .sub b{color:#fff}
+@media (max-width:700px){.hero-portrait{grid-template-columns:1fr}}
+.wr-rank-grid{display:grid;grid-template-columns:repeat(8,1fr);gap:0;border:1px solid var(--hairline);margin:16px 0}
+.wr-rank-grid .cell{padding:14px 8px;border-right:1px solid var(--hairline);text-align:center}
+.wr-rank-grid .cell:last-child{border-right:0}
+.wr-rank-grid .k{font-family:var(--font-techno);font-size:9px;letter-spacing:0.14em;color:var(--ink-3);text-transform:uppercase;white-space:nowrap}
+.wr-rank-grid .v{font-family:var(--font-display);font-size:20px;color:#fff;margin-top:4px;line-height:1}
+.wr-rank-grid .v.up{color:#5BC57A}
+.wr-rank-grid .v.down{color:#E2453C}
+.wr-rank-grid .v.hot{color:var(--tw-accent-hot);text-shadow:0 0 12px rgba(255,59,59,0.5)}
+@media (max-width:900px){.wr-rank-grid{grid-template-columns:repeat(4,1fr)}.wr-rank-grid .cell:nth-child(4n){border-right:0}.wr-rank-grid .cell{border-bottom:1px solid var(--hairline)}}
+.scripts-list{display:flex;flex-direction:column;gap:10px}
+.script-card{display:grid;grid-template-columns:42px 1fr auto;gap:14px;align-items:center;padding:14px 18px;background:linear-gradient(180deg,rgba(20,12,15,0.55),rgba(8,4,6,0.85));border:1px solid var(--hairline);clip-path:polygon(0 0,calc(100% - 12px) 0,100% 12px,100% 100%,12px 100%,0 calc(100% - 12px));transition:border-color .2s,box-shadow .25s}
+.script-card:hover{border-color:var(--border-strong);box-shadow:0 0 22px rgba(193,18,31,0.18)}
+.script-card .ico{position:relative;width:42px;height:48px;display:grid;place-items:center;background:rgba(193,18,31,0.15);border:1px solid var(--border-strong);clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%)}
+.script-card .ico img{width:22px;height:22px;object-fit:contain;filter:drop-shadow(0 0 5px rgba(255,59,59,0.55))}
+.script-card .ico i{position:absolute;right:2px;bottom:3px;font-style:normal;font-family:var(--font-mono);font-weight:700;font-size:8px;color:var(--tw-accent-hot);opacity:0.75;line-height:1}
+.script-card .info b{font-family:var(--font-techno);font-weight:600;font-size:14px;color:#fff;letter-spacing:0.04em;text-transform:uppercase}
+.script-card .info span{display:block;font-family:var(--font-body);font-size:13px;color:var(--ink-2);margin-top:4px;line-height:1.5}
+.script-card .key{font-family:var(--font-mono);font-size:11px;color:var(--tw-accent-hot);padding:5px 10px;border:1px solid var(--border-strong);white-space:nowrap}
+</style>
+</head>
+<body>
+
+<header id="chrome-nav"></header>
+
+<section class="subpage-hero">
+  <div class="container">
+    <nav class="crumbs"><a href="/en/">Home</a><span class="sep">/</span><a href="/en/scripts/">Scripts</a><span class="sep">/</span><span class="current">Meepo</span></nav>
+    <span class="eyebrow">AGI · MELEE · 8 SCRIPTS </span>
+    <h1>Meepo in Dota 2 — <span class="accent">guide & Umbrella scripts</span></h1>
+    <p class="lead">Meepo — a farm-dependent hero that wins the late game on 6+ items; a mobile hero with escape mechanics, hard to catch; magic-damage burst, effective in the mid game. 52.1% win rate across all ranks and 4k picks on Dotabuff — the hero is in demand. Umbrella automates 8 mechanics: from cast timing to enemy-position prediction.</p>
+
+    <div class="hero-portrait">
+      <img src="/assets/heroes/meepo.png" alt="Meepo portrait" loading="lazy">
+      <div>
+        <span class="attr">AGI · Melee · Carry / Escape</span>
+        <h3>Meepo</h3>
+        <div class="sub">
+          <span>Win rate: <b>52.1%</b></span>
+          <span>4k picks</span>
+          <span>10% bans pro</span>
+          <span><b>8</b> scripts in Umbrella</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:48px">
+  <div class="container">
+    <div class="article-layout">
+
+      <aside class="toc">
+        <h5>In this article</h5>
+        <ol>
+          <li><a href="#wr">Win rate by rank</a></li>
+          <li><a href="#scripts">Umbrella scripts</a></li>
+          <li><a href="#combo">Key combos</a></li>
+          <li><a href="#build">Item build</a></li>
+          <li><a href="#counter">Counter-picks</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ol>
+      </aside>
+
+      <article class="article">
+
+        <section id="wr">
+          <h2>Meepo win rate by rank</h2>
+          <p>Meepo's base win rate is <strong>52.1%</strong> across all ranks. The skill-bracket spread shows how much the hero scales with MMR:</p>
+          <div class="wr-rank-grid">
+            <div class="cell"><div class="k">Herald</div><div class="v down">50.9%</div></div>
+            <div class="cell"><div class="k">Guardian</div><div class="v down">51.2%</div></div>
+            <div class="cell"><div class="k">Crusader</div><div class="v down">51.6%</div></div>
+            <div class="cell"><div class="k">Archon</div><div class="v">51.9%</div></div>
+            <div class="cell"><div class="k">Legend</div><div class="v">52.3%</div></div>
+            <div class="cell"><div class="k">Ancient</div><div class="v up">52.6%</div></div>
+            <div class="cell"><div class="k">Divine</div><div class="v up">53.0%</div></div>
+            <div class="cell"><div class="k">Immortal</div><div class="v up">53.4%</div></div>
+          </div>
+          <blockquote>Pro scene: 4k picks on Dotabuff, 10% ban rate in high ranks. A sharply inflated win rate reflects the current meta.</blockquote>
+        </section>
+
+        <section id="scripts">
+          <h2>Umbrella scripts for Meepo</h2>
+          <p>The main goal is to automate farm and focus in a fight. Umbrella scripts bind complex chains to one key, lead by target coordinates, and cast finishers the moment a kill is guaranteed. <a href="/en/pricing/" data-lang="en">All 8 scripts are included in every plan</a>.</p>
+
+                    <div class="callout tip" id="upd-2026-09">
+            <span class="ico">i</span>
+            <p><b>Update — September 15, 2026:</b> An option to escape the jungle with Poof and Earthbind. Fixed: cancelling Poof broke the escape module, and Body Block misbehaved inside the combo. <a href="/en/updates/september-2026/">Full change list</a>.</p>
+          </div>
+
+          <div class="scripts-list">
+            <div class="script-card">
+              <span class="ico"><img src="/assets/feature-icons/combo.png?v=2026052811" alt="" width="22" height="22" loading="lazy"><i>01</i></span>
+              <span class="info"><b>Poof Multi-Cast Combo</b><span>syncs poof from all clones onto target</span></span>
+              <span class="key">M4</span>
+            </div>
+            <div class="script-card">
+              <span class="ico"><img src="/assets/feature-icons/maphack.png?v=2026052811" alt="" width="22" height="22" loading="lazy"><i>02</i></span>
+              <span class="info"><b>Earthbind Prediction</b><span>leads earthbind by target movement</span></span>
+              <span class="key">Q</span>
+            </div>
+            <div class="script-card">
+              <span class="ico"><img src="/assets/feature-icons/killstealer.png?v=2026052811" alt="" width="22" height="22" loading="lazy"><i>03</i></span>
+              <span class="info"><b>Poof Killsteal</b><span>finishes with poof on low hp</span></span>
+              <span class="key">W</span>
+            </div>
+            <div class="script-card">
+              <span class="ico"><img src="/assets/feature-icons/last-hit.png?v=2026052811" alt="" width="22" height="22" loading="lazy"><i>04</i></span>
+              <span class="info"><b>Auto Last-Hit</b><span>last-hits creeps on the perfect frame, accounting for attack speed and armor</span></span>
+              <span class="key">V</span>
+            </div>
+            <div class="script-card">
+              <span class="ico"><img src="/assets/feature-icons/killstealer.png?v=2026052811" alt="" width="22" height="22" loading="lazy"><i>05</i></span>
+              <span class="info"><b>Kill Stealer</b><span>auto-casts the finisher on enemy HP, accounting for magic resist</span></span>
+              <span class="key">O</span>
+            </div>
+            <div class="script-card">
+              <span class="ico"><img src="/assets/feature-icons/combo.png?v=2026052811" alt="" width="22" height="22" loading="lazy"><i>06</i></span>
+              <span class="info"><b>Combo Builder</b><span>ability + item chain in one click, up to 12 steps</span></span>
+              <span class="key">M4</span>
+            </div>
+            <div class="script-card">
+              <span class="ico"><img src="/assets/feature-icons/dodger.png?v=2026052811" alt="" width="22" height="22" loading="lazy"><i>07</i></span>
+              <span class="info"><b>Dodger</b><span>dodges skillshots via Blink, BKB, Eul or Manta</span></span>
+              <span class="key">K</span>
+            </div>
+            <div class="script-card">
+              <span class="ico"><img src="/assets/feature-icons/item-auto.png?v=2026052811" alt="" width="22" height="22" loading="lazy"><i>08</i></span>
+              <span class="info"><b>Item Auto-Use</b><span>auto-casts Magic Wand, Glimmer, Lotus on trigger events</span></span>
+              <span class="key">auto</span>
+            </div>
+          </div>
+        </section>
+
+        <section id="combo">
+          <h2>Key Meepo combos</h2>
+          <p>Meepo plays as a carry (Pos 1). The main chains Umbrella automates:</p>
+          <ul>
+            <li><strong>Burst combo:</strong> instant control + damage on one key via <a href="/en/features/combo/">Combo Builder</a>.</li>
+            <li><strong>Finish:</strong> auto-cast the ultimate when target HP drops below a computed threshold via <a href="/en/features/killstealer/">Kill Stealer</a>.</li>
+            <li><strong>Auto-farm:</strong> last-hit + deny via <a href="/en/features/last-hit/">Last-Hit</a> and wave block at the start via <a href="/en/features/crip-blocker/">Crip Blocker</a>.</li>
+            <li><strong>Evade:</strong> Blink, BKB or Eul on an incoming skillshot via <a href="/en/features/dodger/">Dodger</a>.</li>
+          </ul>
+          <div class="callout tip">
+            <span class="ico">★</span>
+            <p>A ready config for Meepo with binds for every script is on the <a href="/en/config/">CFG</a> page. Import by code in one click via Cloud → Add By Code.</p>
+          </div>
+        </section>
+
+        <section id="build">
+          <h2>Meepo item build</h2>
+          <p>Current meta build (OpenDota data):</p>
+          <ul>
+            <li><strong>Starting:</strong> Tango, Quelling Blade, Slippers × 2.</li>
+            <li><strong>Early:</strong> Power Treads, Magic Wand, Drum of Endurance.</li>
+            <li><strong>Core items:</strong> Battlefury / Diffusal, BKB, Manta.</li>
+            <li><strong>Late game:</strong> Butterfly, Abyssal Blade, Heart.</li>
+          </ul>
+          <p>Item Auto-Use (an Umbrella module) casts Magic Wand at HP < 40%, BKB before an enemy magical initiation, Glimmer / Lotus on a targeted cast. An inventory slot frees up for what really matters.</p>
+        </section>
+
+        <section id="counter">
+          <h2>Meepo counter-picks</h2>
+          <p>Which heroes win and lose against Meepo (live OpenDota matchups):</p>
+          <table>
+            <thead><tr><th>Type</th><th>Heroes</th></tr></thead>
+            <tbody>
+              <tr><td><b style="color:#5BC57A">Meepo counters</b></td><td>Marci · Largo · Pudge · Lycan · Pugna</td></tr>
+              <tr><td><b style="color:#E2453C">Counters Meepo</b></td><td>Enigma</td></tr>
+              <tr><td><b style="color:#FF6633">Synergizes with</b></td><td>Oracle · Mirana · Visage</td></tr>
+            </tbody>
+          </table>
+          <p>In the <a href="/en/features/maphack/">map hack</a> you see dangerous heroes approaching in advance and can prepare a counter-initiation — e.g., BKB before the enemy enters combo range.</p>
+        </section>
+
+        <section id="faq">
+          <h2>Meepo FAQ</h2>
+          <div class="faq">
+            <details open>
+              <summary>Is Meepo hard to play?</summary>
+              <p>No, Meepo is a simple and strong hero in the current meta, holding above 52% across all ranks. Umbrella automates cast timing and finishing — the learning curve gets 2–3× faster.</p>
+            </details>
+            <details>
+              <summary>Which Umbrella scripts matter most for Meepo?</summary>
+              <p>Poof Multi-Cast Combo and Earthbind Prediction are the two core ones. The first handles syncs poof from all clones onto target, the second — leads earthbind by target movement. The full list of 8 scripts is in the "Umbrella scripts" section above.</p>
+            </details>
+            <details>
+              <summary>Which position should Meepo play?</summary>
+              <p>Meepo plays as a carry (Pos 1). Pos 1 — farm priority, the late game decides.</p>
+            </details>
+            <details>
+              <summary>Is it safe to use scripts on Meepo?</summary>
+              <p>Scripts are a gray area. Umbrella uses a <a href="/en/features/spoofer/">spoofer</a> for HWID masking and cloud configs to reduce the risk. More — <a href="/en/blog/is-cheating-bannable/">"Is cheating bannable"</a>.</p>
+            </details>
+            <details>
+              <summary>Where do I get a ready config for Meepo?</summary>
+              <p>A ready config with binds for all 8 scripts is on the <a href="/en/config/">Configs</a> page. Import by code via Cloud → Add By Code.</p>
+            </details>
+          </div>
+        </section>
+      </article>
+
+      <aside class="related-sidebar">
+        <div class="related-buy">
+          <span class="eyebrow">8 MEEPO SCRIPTS</span>
+          <div class="from">from <span class="accent">$2.99</span></div>
+          <p>Every Meepo script is included in any Umbrella plan. Plus map hack, Skin Changer and spoofer.</p>
+          <a class="btn-cta" href="/en/pricing/" data-lang="en">Buy Umbrella</a>
+          <ul class="quick">
+            <li>Poof Multi-Cast Combo</li>
+            <li>Earthbind Prediction</li>
+            <li>Poof Killsteal</li>
+          </ul>
+        </div>
+
+        <div class="related-list">
+          <h5>Related pages</h5>
+          <ul>
+            <li><a href="/en/scripts/">All 126 heroes</a></li>
+            <li><a href="/en/config/">Meepo config</a></li>
+            <li><a href="/en/features/spoofer/">Spoofer</a></li>
+            <li><a href="/en/features/maphack/">Maphack</a></li>
+            <li><a href="/en/blog/is-cheating-bannable/">Is it bannable</a></li>
+          </ul>
+        </div>
+      </aside>
+
+    </div>
+
+    <div class="bridge">
+      <div class="left">
+        <h3>Poof Multi-Cast Combo in one click — <span class="accent">from $2.99</span></h3>
+        <p>No need to grind cast timing for 500 hours. Umbrella scripts for Meepo run complex chains automatically — no delays, no misses.</p>
+      </div>
+      <div class="right">
+        <a class="btn-cta" href="/en/pricing/" data-lang="en">Buy Umbrella</a>
+        <span class="price-hint">Meepo config — in <b><a href="/en/config/" style="color:var(--tw-accent-hot)">CFG</a></b></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer id="chrome-footer"></footer>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+  {"@type":"BreadcrumbList","itemListElement":[
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://umbrella-dota.com/en/"},
+    {"@type":"ListItem","position":2,"name":"Scripts","item":"https://umbrella-dota.com/en/scripts/"},
+    {"@type":"ListItem","position":3,"name":"Meepo","item":"https://umbrella-dota.com/en/scripts/meepo/"}
+  ]},
+  {"@type":"Article","headline":"Meepo in Dota 2 — guide, Umbrella scripts, win rate by rank","author":{"@type":"Organization","name":"Umbrella Dota"},"inLanguage":"en","datePublished":"2026-02-04","dateModified":"2026-05-28"},
+  {"@type":"FAQPage","mainEntity":[
+    {"@type":"Question","name":"Is Meepo hard to play?","acceptedAnswer":{"@type":"Answer","text":"No, Meepo is a simple and strong hero in the current meta, holding above 52% across all ranks. Umbrella automates cast timing and finishing — the learning curve gets 2–3× faster."}},
+    {"@type":"Question","name":"Where do I get a ready config for Meepo?","acceptedAnswer":{"@type":"Answer","text":"A ready config with binds for all 8 scripts is on the Configs page. Import by code via Cloud → Add By Code."}}
+  ]}
+]}
+</script>
+
+<script src="/assets/chrome.js?v=2026091501" defer></script>
+</body>
+</html>
