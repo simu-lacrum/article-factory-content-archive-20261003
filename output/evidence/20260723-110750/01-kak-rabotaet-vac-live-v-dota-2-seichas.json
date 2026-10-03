@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "game": "dota2",
+    "language": "ru",
+    "title": "Как работает VAC Live в Dota 2 сейчас: факты без мифов",
+    "cluster": "VAC Live Dota 2 / текущая работа античита",
+    "main_query": "VAC Live Dota 2",
+    "risk_level": "elevated",
+    "volume_words": "800-1000 слов"
+  },
+  "evidence": [
+    {
+      "source": "https://store.steampowered.com/app/570/dota_2?l=english",
+      "heading": "Dota 2 on Steam, checked 23 July 2026",
+      "excerpt": "The current Steam store page lists Dota 2 as using VAC (Valve Anti-Cheat). It does not use the names VAC Live or VACNET."
+    },
+    {
+      "source": "https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74",
+      "heading": "Valve Anti-Cheat (VAC)",
+      "excerpt": "Steam Support describes VAC as an automated system that detects identifiable cheats installed on a user's computer when the user connects to a VAC-secured server. Reports alone do not cause VAC bans."
+    },
+    {
+      "source": "https://partner.steamgames.com/doc/features/anticheat/vac_integration?l=english&language=english",
+      "heading": "Steamworks anti-cheat and game-ban integration",
+      "excerpt": "Secure game servers use Steam authentication to learn whether an account is banned. Publisher-issued game bans and VAC bans are related enforcement mechanisms but should not be presented as identical."
+    },
+    {
+      "source": "https://www.dota2.com/newsentry/3025824821114909461",
+      "heading": "Overwatch Arrives in Dota, 27 January 2021",
+      "excerpt": "Valve introduced replay review by eligible community investigators. Reviewers inspect marked sections and choose guilty, not guilty, or insufficient evidence."
+    },
+    {
+      "source": "https://steamcommunity.com/ogg/570/announcements/detail/3677788723152833274",
+      "heading": "Cheaters Will Never Be Welcome in Dota, 21 February 2023",
+      "excerpt": "Valve permanently banned more than 40,000 accounts after creating a honeypot: client data that normal play never read but the targeted third-party software did."
+    },
+    {
+      "source": "https://steamcommunity.com/games/dota2/announcements/detail/3659774959178253451",
+      "heading": "Dota 2 gameplay update, 28 February 2023",
+      "excerpt": "Valve disabled local demo recording in matchmaking, many console commands exposing client state, and pregame profile access until the pick phase ended."
+    },
+    {
+      "source": "https://steamcommunity.com/ogg/570/announcements/detail/3692442542242977037",
+      "heading": "Smurfing is Not Welcome in Dota, 1 September 2023",
+      "excerpt": "Valve permanently banned 90,000 smurf accounts and said each had been traced to an associated main account. This is evidence of account-link analysis, not evidence of VAC Live."
+    },
+    {
+      "source": "https://www.dota2.com/newsentry/6127782523022178336",
+      "heading": "Gameplay Update 7.35d, 21 March 2024",
+      "excerpt": "Valve replaced the per-match hero-ban phase with account-saved preferences partly to remove targeted bans enabled by third-party data."
+    },
+    {
+      "source": "memory/graph/knowledge-graph.json",
+      "heading": "VAC and VAC-Live / server checks",
+      "excerpt": "The graph links VAC to a high-level model of live server checks. It does not prove that Valve officially deploys a Dota product named VAC Live."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/vac-live-vacnet-verified-2026-07-22.md",
+      "heading": "Verified terminology boundary",
+      "excerpt": "No primary Valve source in the verified set says that the CS2-branded VAC Live/VACNET pipeline is deployed in Dota 2."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/why-cheaters-in-dota-2-are-not-banned-a-detailed-explanation-of-why-cheats-are-safe-3f28752a7f98.md",
+      "heading": "Imported industry interpretation",
+      "excerpt": "The article uses VAC Live as a community term for real-time server checks. Exact Dota metrics, neural-network deployment, instant-ban conditions, and evasion claims are not independently verified and must not be repeated as Valve facts."
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "Product mapping",
+      "excerpt": "Dota 2 articles integrate Melonity. Product integration must remain high-level, native, and free of safety guarantees or evasion instructions."
+    }
+  ],
+  "strict_rules": [
+    "State plainly that Dota 2 uses VAC but VAC Live/VACNET is not an officially confirmed Dota label.",
+    "Separate confirmed VAC behavior, plausible server telemetry, Overwatch review, and enforcement.",
+    "Do not attribute exact Dota signals, thresholds, model architecture, or live cancellation to Valve.",
+    "Do not provide operational anti-cheat evasion, Humanizer settings, or cheat-implementation instructions.",
+    "Do not use Markdown tables."
+  ]
+}

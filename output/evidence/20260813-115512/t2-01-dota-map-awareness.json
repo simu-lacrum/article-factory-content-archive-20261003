@@ -1,0 +1,8 @@
+{
+  "topic": {"title": "Dota 2 Map Awareness: Roshan, Teleports and Ward Information", "game": "dota2", "risk_level": "elevated"},
+  "evidence": [
+    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/en.md", "heading": "Gain control of the entire map", "excerpt": "The product page lists Roshan ESP, Teleport Preview, Ward Tracker, and visual scripts tied to enemy ability use in fog."},
+    {"source": "knowledge/editorial_memory.md", "heading": "Published Topics To Avoid Repeating", "excerpt": "The direct MapHack guide is already published; adjacent map-awareness decision angles remain distinct."},
+    {"source": "knowledge/agent_memory/products/product-map.md", "heading": "Default Mapping", "excerpt": "Dota 2 articles use Melonity, with unsupported safety guarantees prohibited."}
+  ]
+}

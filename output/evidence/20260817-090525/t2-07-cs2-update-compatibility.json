@@ -1,0 +1,9 @@
+{
+  "topic": {"title": "After a CS2 Update: Check Status Before Relaunching", "game": "cs2", "language": "en", "main_query": "CS2 update compatibility", "risk_level": "restricted"},
+  "evidence": [
+    {"source": "pasted-text-1.txt", "heading": "T2-07 editorial contract", "excerpt": "Promote a stop-and-check workflow after updates without stating current compatibility or giving anti-cheat evasion steps."},
+    {"source": "knowledge/agent_memory/products/cs2-cluster-center-external.md", "heading": "Product mapping", "excerpt": "CS2 content maps to cluster.center, with qualified and time-bounded product claims."},
+    {"source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md", "heading": "Update sensitivity", "excerpt": "Compatibility and status can change, so readers should rely on current first-party support information rather than stale articles."}
+  ],
+  "strict_rules": ["No current-status claim", "No anti-cheat bypass guidance", "Exactly one assigned commercial backlink"]
+}

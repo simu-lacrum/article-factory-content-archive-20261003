@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 27,
+    "game": "cs2",
+    "language": "en",
+    "title": "CS2 Hack vs Assistive Tools: What Players Search For",
+    "source_kind": "curated_topic_seed",
+    "source_ref": "knowledge/topic_seeds/deadlock-cs2-cluster-center.json",
+    "cluster": "CS2 cluster.center: intent and terminology",
+    "main_query": "cs2 hack",
+    "score": 78.0,
+    "volume_words": "1,500-2,200 words",
+    "outline_json": "[\"What players mean by CS2 hack\", \"Why search intent splits between visuals, aim, skins, and configs\", \"How to keep expectations realistic\", \"Where cluster.center fits\", \"FAQ\"]",
+    "ad_integration": "Native cluster.center integration after intent explainer",
+    "evidence_json": "[\"knowledge/agent_memory/products/product-map.md\", \"semantic_core_cs2.csv\"]",
+    "risk_level": "restricted",
+    "status": "new",
+    "created_at": "2026-07-23 14:43:02"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "What you can configure in cluster.center",
+      "excerpt": "## What you can configure in cluster.center\n\ncluster.center is not just one button. The local CS2 memory describes several feature groups, and they matter because most players search for a CS2 hack without knowing which part they actually need."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "Quick answer",
+      "excerpt": "## Quick answer\n\nIf you want to install a CS2 hack, the safe high-level flow is:\n\n1.   Go to the official cluster.center website.\n2.   Register an account or log in.\n3.   Check that you have access to the CS2 External product.(**All users who register via OAuth receive a free 7-day subscription to all Cluster products and cheats.**)\n4.   Download only from the official source.\n5.   Follow the official instructions([**click**](https://telegra.ph/Instrukciya-po-ustanovke-Cluster-04-24)) from cluster.center.\n6.   Launch and configure the cheat for CS2 carefully, using conservative settings first.\n\nThat is the whole idea. The details should come from the official website and support channels, not from random files, reposts, or “free CS2 hack” archives from search results."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Published And Duplicate Topic Memory",
+      "excerpt": "## Published And Duplicate Topic Memory\n\nDirect topics already covered by imported sources:\n\n- `Top Cheats for CS2. The Best Hack`.\n- `Best CS2 Hack`.\n- `Cluster CS2 External review`.\n- `Обзор функционала чита Cluster для CS2`.\n\nAllowed adjacent angles:\n\n- CS2 Aimbot settings explained.\n- CS2 TriggerBot settings explained.\n- CS2 ESP and visual indicators explained.\n- CS2 External feature glossary.\n- CS2 Bomb Timer, Spectator List, and Keybinds explained.\n- CS2 Chams and visuals in external cheats."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md",
+      "heading": "Top Cheats for CS2. The Best Hack",
+      "excerpt": "# Top Cheats for CS2. The Best Hack\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://medium.com/@mrkhertz/top-cheats-for-cs2-the-best-hack-cfab8351f70b\n\nTitle: Top Cheats for CS2. The Best Hack\n\nURL Source: https://medium.com/@mrkhertz/top-cheats-for-cs2-the-best-hack-cfab8351f70b\n\nPublished Time: 2026-05-13T11:36:03Z\n\nMarkdown Content:\n[![Image 1: Mark Hertz](https://miro.medium.com/v2/resize:fill:32:32/1*ZTVrjdF_JDZZTRH4s6DywQ.jpeg)](https://medium.com/@mrkhertz?source=post_page---byline--cfab8351f70b---------------------------------------)\n\n4 min read\n\nMay 13, 2026\n\nGood afternoon, it’s been a while since I’ve posted a full-length article about cheats. \n\nThis time, I want to discuss the cheat market for Counter-Strike 2."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/mediumcom-mrkhertz.md",
+      "heading": "[Top Cheats for CS2. The Best Hack ### Good afternoon, it’s been a while since I’ve posted a full-length article about cheats. This time, I want to discuss the cheat market for…](https://medium.com/@mrkhertz/top-cheats-for-cs2-the-best-hack-cfab8351f70b?source=user_profile_page---------0-------------5be60fc7a930----------------------)",
+      "excerpt": "## [Top Cheats for CS2. The Best Hack ### Good afternoon, it’s been a while since I’ve posted a full-length article about cheats. This time, I want to discuss the cheat market for…](https://medium.com/@mrkhertz/top-cheats-for-cs2-the-best-hack-cfab8351f70b?source=user_profile_page---------0-------------5be60fc7a930----------------------)\n\n![Image 2: Cluster cs2 cheat menu](https://miro.medium.com/v2/resize:fill:160:106/0*0hsowE0jhzJ2S5eA.jpg)\n\n![Image 3: Cluster cs2 cheat menu](https://miro.medium.com/v2/resize:fill:320:214/0*0hsowE0jhzJ2S5eA.jpg)\n\nPinned\n\n[![Image 4: Mark Hertz](https://miro.medium.com/v2/resize:fill:40:40/1*ZTVrjdF_JDZZTRH4s6DywQ.jpeg)](https://medium.com/@mrkhertz?source=user_profile_page---------1-------------5be60fc7a930----------------------)\n\n[Mark Hertz](https://medium.com/@mrkhertz?source=user_profile_page---------1-------------5be60fc7a930----------------------)\n\n·\n\nFeb 27"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "Can I install a CS2 hack for free?",
+      "excerpt": "### Can I install a CS2 hack for free?\n\nYes, cluster.center offers a free seven-day trial period for all new users, which is granted automatically.\n\nHowever, be careful with cheats that are completely free — they can be dangerous for your account and contain malware. It’s better not to take the risk and just keep playing on cluster."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "Is any hack for CS2 completely safe?",
+      "excerpt": "### Is any hack for CS2 completely safe?\n\nYes, there are cheats that are completely safe for your account. Cluster is an external cheat that doesn’t interfere with the gameplay in any way, so it’s impossible to detect.\n\nThe developers also made sure to include the best humanizer aimbot, which hides the cheat’s activity even from neural networks."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "CS2 cluster.center Digest 2026-06-27",
+      "excerpt": "# CS2 cluster.center Digest 2026-06-27\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md`\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-cs2-the-best-hack-cfab8351f70b.md`\n- `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n- User-provided CS2 External feature list from 2026-06-27."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "Why cluster.center for CS2?",
+      "excerpt": "## Why cluster.center for CS2?\n\nСluster.center positions itself as a extarnal and legit cheat for CS2, focused on smooth aim assistance, visual effects, cheats, user interface quality, and support. This cheat comes from trusted developers; it has been on the market for a long time and has a large user base. They offer an external hack that does not interact with the game’s code in any way but runs on top of it.The practical reason to use cluster.center is simpler:\n\n*   it is made for CS2;\n*   it is presented as an External option;\n*   its feature set is documented in local memory;\n*   it has a clear official website that should be checked before downloading anything.\n\nIf you are searching for a CS2 cheat, start there. If you are searching for a CS2 hack through random mirrors, you are already making the process worse."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Status",
+      "excerpt": "## Source Status\n\nUsable:\n\n- Medium: `Top Cheats for CS2. The Best Hack`.\n- Medium: `Обзор функционала чита Cluster для CS2: Детальный разбор лучшего External-решения`.\n- Internal: `CS2 cluster.center External Feature Memory`.\n\nBlocked / not factual:\n\n- `https://yougame.biz/forums/1414/` materialized as a 429 / anti-bot script page. Do not use it as factual evidence."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

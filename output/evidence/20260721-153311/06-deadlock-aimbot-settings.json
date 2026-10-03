@@ -1,0 +1,28 @@
+{
+  "topic": "Deadlock Aimbot Settings: FOV, Smooth, and Target Lock",
+  "game": "deadlock",
+  "language": "en",
+  "target_url": "https://cluster.center/en/deadlock",
+  "evidence": [
+    {
+      "path": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "Deadlock Aim Controls",
+      "text": "Confirmed high-level controls include FOV, Smooth, Target Lock, target categories Players/XP Orbs/Creeps, and hitboxes Head/Neck/Spine/Hips. Modes and easing exist but should not be turned into concealment instructions."
+    },
+    {
+      "path": "knowledge/graph_facts/deadlock-cs2-cluster-center-facts-2026-06-23.json",
+      "heading": "Deadlock Aimbot Graph",
+      "text": "The graph connects Deadlock Aimbot to FOV, Smooth, Target Lock, targets, hitboxes, easing, and related options."
+    },
+    {
+      "path": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Adjacent Topic Guidance",
+      "text": "Deadlock aimbot settings explained is an allowed adjacent topic. Direct ranking and marketing safety claims must not be repeated."
+    },
+    {
+      "path": "published/avoid_topics.txt",
+      "heading": "Duplicate Limits",
+      "text": "The article must not become another Deadlock ranking or best-hack listicle."
+    }
+  ]
+}

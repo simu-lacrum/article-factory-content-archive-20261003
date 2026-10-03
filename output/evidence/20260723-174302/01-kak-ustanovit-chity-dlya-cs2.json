@@ -1,0 +1,49 @@
+{
+  "topic": {
+    "id": "authorized-ru-rewrite-install-cs2-cheats",
+    "game": "cs2",
+    "language": "ru",
+    "title": "Как установить читы для CS2: понятная инструкция",
+    "main_query": "как установить читы для CS2",
+    "risk_level": "restricted",
+    "volume_words": "1000-1200 слов",
+    "source_kind": "authorized_rewrite",
+    "source_ref": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "Original article structure and meaning",
+      "excerpt": "The owned source explains a high-level official-site flow: verify the domain and CS2 product, use an account with access, download the launcher from the official path, follow current instructions, learn the interface gradually, and understand the Aimbot, TriggerBot, ESP, and Misc categories. It warns against random mirrors and archives. Unsafe antivirus and detection claims must not be repeated."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "CS2 cluster.center External Feature Memory",
+      "excerpt": "The supported high-level categories are Aimbot, TriggerBot, ESP, and Hub. The product is positioned as a CS2 External option. Feature descriptions may explain intent and interface labels, but must not include anti-cheat evasion, low-level implementation, or absolute safety promises."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Product mapping and feature taxonomy",
+      "excerpt": "CS2 content maps to cluster.center. Aimbot covers aim-assistance concepts; TriggerBot covers shot timing; ESP covers visual information; Hub covers Bomb Timer, Spectator List, and Keybinds. Product claims must remain cautious."
+    },
+    {
+      "source": "https://cluster.center/en/cs2",
+      "heading": "Current official product card checked 2026-07-23",
+      "excerpt": "The current official search snapshot presents an External CS2 product, lists Aimbot, TriggerBot, ESP, and HUD, and displays a separate seven-day tariff. This does not support an unconditional claim that a seven-day period is currently free."
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "Mandatory product mapping",
+      "excerpt": "CS2 articles integrate cluster.center. Product claims must be grounded, native, and free of unsupported safety or detection guarantees."
+    }
+  ],
+  "strict_rules": [
+    "Preserve the original high-level meaning while changing structure and all wording.",
+    "Do not advise disabling antivirus software.",
+    "Do not provide operational anti-cheat evasion, concealment, exploit, injection, or implementation instructions.",
+    "Do not claim that the product is safe, undetectable, or immune to penalties.",
+    "Do not promise a free trial; tell readers to verify current account conditions.",
+    "Do not use markdown tables.",
+    "Use exactly one natural cluster.center link."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "manual-auto-dodge-ru-20260813",
+    "game": "dota2",
+    "language": "ru",
+    "title": "Auto Dodge в Dota 2: как Dodger читает угрозу",
+    "cluster": "Dota 2 feature explainers / supporting scripts",
+    "main_query": "Auto Dodge в Dota 2",
+    "risk_level": "restricted",
+    "status": "article"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d.md",
+      "heading": "Auto Dodge",
+      "excerpt": "Source describes Auto Dodge as a supporting script that reacts to enemy abilities such as a hook or stun and may use an available item or ability for rapid repositioning. Treat as category-level product description, not a reliability guarantee."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/how-to-install-dota-2-cheats-hacks-for-free-de9e42a6b202.md",
+      "heading": "Dodger",
+      "excerpt": "Source gives Blink as one example of an available response to an incoming hook or ability. Do not inherit the source's broad safety or performance claims."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/dota2-cheat-sources-digest-2026-06-23.md",
+      "heading": "Supporting scripts",
+      "excerpt": "Digest groups auto dodge with supporting scripts and explicitly warns against absolute anti-cheat, compatibility, safety, and performance claims."
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "Product mapping",
+      "excerpt": "Dota 2 maps to Melonity. Product mention must be native, limited, and grounded."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/en.md",
+      "heading": "Current Melonity page snapshot",
+      "excerpt": "Use only to identify the official product destination and broad Dota 2 positioning. Do not infer price, availability, trial, compatibility, or detection status."
+    }
+  ],
+  "claim_boundaries": [
+    "No operational settings or implementation steps.",
+    "No claims of perfect dodging, guaranteed results, account safety, current compatibility, or detection status.",
+    "State that third-party software can conflict with game rules and may lead to sanctions.",
+    "Use Blink only as a documented example, not as a universal or current behavior."
+  ]
+}

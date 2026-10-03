@@ -1,0 +1,51 @@
+{
+  "topic": {
+    "game": "dota2",
+    "language": "en",
+    "title": "How to Write Your Own Script for Dota 2",
+    "cluster": "Dota 2 scripting / Melonity API",
+    "main_query": "how to write Dota 2 script",
+    "risk_level": "restricted",
+    "volume_words": "1,400-1,800 words"
+  },
+  "evidence": [
+    {
+      "source": "Replay 2026-07-13 16-24-37_2.mp4",
+      "heading": "Workspace and AI setup, 00:05-01:12",
+      "excerpt": "The recording opens Notion AI, shows a Windows folder named 'melonity vibecoding' with instructions.txt and prompt.txt, creates a Notion page configured as the AI instructions page, pastes software-engineering instructions, and starts a fresh Notion AI chat using Sonnet 4.6."
+    },
+    {
+      "source": "Replay 2026-07-13 16-24-37_2.mp4",
+      "heading": "Template and prompt, 01:45-02:25",
+      "excerpt": "The user types a Russian request for a Power Treads script that switches to Intelligence before ability use, has its own logic, and exposes a settings tab. The public GitHub repository melonity-public/template-custom-scripts is downloaded as a ZIP and attached to the Notion AI request."
+    },
+    {
+      "source": "Replay 2026-07-13 16-24-37_2.mp4",
+      "heading": "Generated file and visible public API role, 02:45-03:38",
+      "excerpt": "Notion AI first creates pt_abuse_script.zip, then responds to a request for a standalone JavaScript file and displays pt_abuse.js. The visible summary and code preview show a PT ABUSE menu, toggle/combo/slider controls, pre-cast order handling, Power Treads no-target switching, and a delayed return. The article must describe these only at a high level and must not reproduce implementation code."
+    },
+    {
+      "source": "Replay 2026-07-13 16-24-37_2.mp4",
+      "heading": "Melonity UI and Dota 2 Demo test, 03:48-04:49",
+      "excerpt": "Inside Dota 2 Demo with Kunkka, the Melonity overlay shows a PT ABUSE tab. Visible Basic settings are Enable, Cast attribute set to Intelligence, Post-cast attribute set to Original, Return delay set to 500 ms, and a Work on items toggle. The menu closes, an enemy Kunkka is created, and abilities are cast repeatedly to test the result."
+    },
+    {
+      "source": "memory/graph/knowledge-graph.json and knowledge/graph_facts/dota2-source-facts-2026-06-23.json",
+      "heading": "Grounded product and scripting context",
+      "excerpt": "The graph defines a Dota 2 script as an individual function inside a broader Dota 2 cheat or gaming-assistance product. It maps Melonity to Dota 2 and records hero scripts, visual functions, and supporting scripts as Melonity feature categories. The graph explicitly restricts detection-related concepts to high-level mention only."
+    },
+    {
+      "source": "pasted-text-1.txt",
+      "heading": "User-provided product claims and editorial requirements",
+      "excerpt": "The brief requires direct Melonity.gg placement and frames scripting ecosystem, API integration, security team, long-term stability focus, and 10+ years of experience as product or brand claims. It requires the sentence 'Melonity is built for stable, secure Dota 2 scripting and long-term use' while forbidding absolute safety promises."
+    }
+  ],
+  "strict_rules": [
+    "Use the video as the only source for tutorial flow, timestamps, screenshots, visible UI, prompt wording, examples, and final result.",
+    "Use the graph only for high-level Melonity and scripting context.",
+    "Do not invent steps, API calls, code, current product status, prices, or guarantees.",
+    "Do not reproduce operational implementation code or private technical internals.",
+    "Do not provide anti-cheat evasion, hidden implementation, or low-level access instructions.",
+    "Use no markdown tables and end with a seven-question FAQ."
+  ]
+}

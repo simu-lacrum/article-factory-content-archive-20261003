@@ -1,0 +1,77 @@
+{
+  "topic": {
+    "id": 10,
+    "game": "dota2",
+    "language": "en",
+    "title": "Random Dota 2 Hero and Build Challenge: How to Make Any Pick Playable",
+    "source_kind": "cluster_map",
+    "source_ref": "melonity-seo-cluster-map-en.md",
+    "cluster": "`GENERAL: рандомизер` -> Random Hero / Random Build Challenge",
+    "main_query": "Random Dota 2 Hero and Build Challenge: How to Make Any Pick Playable",
+    "score": 112.0,
+    "volume_words": "1,500-2,000 words.",
+    "outline_json": "[\"What random hero/build challenges are\", \"How to generate a random hero pool\", \"Rules for a ranked-safe challenge vs fun lobby challenge\", \"Why all-hero knowledge matters\", \"Melonity angle: All Heroes Combo, auto-cast, hero scripts for unfamiliar picks\", \"Content idea: YouTube Shorts \\\"random hero with Melonity\\\"\", \"CTA: try 7 days free and run the challenge\"]",
+    "ad_integration": "нативно-креативная. Это не самый buyer-intent кластер, но хорошо подходит для YouTube/Shorts и web2.0 прогрева.",
+    "evidence_json": "[\"`GENERAL: рандомизер` -> Random Hero / Random Build Challenge\", \"SERP в основном фан-сайты генераторов, Reddit и простые страницы. Нормальная статья с challenge-форматом может получать long-tail + social.\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-06-22 14:33:52"
+  },
+  "evidence": [
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "4. `GENERAL: changer / smurf utility` -> Skin Changer",
+      "excerpt": "### 4. `GENERAL: changer / smurf utility` -> Skin Changer\n\n**Почему кластер:** KD 6 в основном кластере и KD 3 в long-tail: `skin changer dota 2`, `dota 2 skin changer`, `dota 2 skin changer free`, `банят ли за скин чейнджер`.\n\n**EN article title:** `Dota 2 Skin Changer in 2026: Free Tools, Ban Risks and Premium Alternatives`\n\n**Объем:** 2,000-2,600 words.\n\n**Почему можно ранжироваться:** EN выдача содержит YouTube, GitHub, старые Reddit-треды и сомнительные free-инструменты. Хорошая статья с risk-checklist может выглядеть надежнее.\n\n**Оглавление:**\n\n- What a Dota 2 skin changer does\n- Why players search for free skin changers\n- Free GitHub/tools vs premium cheat-suite skin changer\n- What ban-risk questions users ask\n- How Melonity Skin Changer fits into a broader premium toolkit\n- Skins, landscapes, Dota Plus visuals and customization\n- Safe wording: no 100% ban-proof promises\n- CTA: try Melonity instead of random free tools\n\n**Рекламная интеграция:** прямой сравнительный блок. Акцент: Melonity - не просто skin changer, а полный Dota 2 cheat suite с поддержкой, обновлениями и комьюнити.\n\n---"
+    },
+    {
+      "source": "PRODUCT_REQUIREMENTS.md",
+      "heading": "Required end state",
+      "excerpt": "## Required end state\n\nA user can give a natural task such as:\n\n> Generate 10 SEO articles of N volume, in this style, with native integration of my project.\n\nThe system should then:\n\n1. Read clustered semantic cores and published-article history.\n2. Select non-duplicate article topics with strong SEO potential.\n3. Retrieve real evidence from local knowledge, URLs, markdown, CSV, PDF, and future sources.\n4. Build an evidence pack for each article.\n5. Generate a useful, human, SEO-structured article.\n6. Integrate advertising naturally without unsupported claims.\n7. Run quality/fact/risk checks.\n8. Save prompts, evidence, articles, manifests, and review reports.\n9. Export durable memory for `ai-memory`, Obsidian, or another MCP/wiki-memory layer."
+    },
+    {
+      "source": "SYSTEM_ARCHITECTURE.md",
+      "heading": "Universal domain model",
+      "excerpt": "## Universal domain model\n\nThe code treats `dota2` and `cs2` as current domains, not the only possible domains. Unknown future CSVs are assigned to `general` unless a file name or headers allow detection. Commands accept arbitrary `--game` values, so future domain-specific importers can be added without changing the article pipeline."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "4. TONE OF VOICE (TOV)",
+      "excerpt": "## 4. TONE OF VOICE (TOV)"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "10.2. EN-сленг Dota 2",
+      "excerpt": "### 10.2. EN-сленг Dota 2 | Term | Definition | Usage | | --- | --- | --- | | MMR | Match Making Rating | Universal | | Climb / climbing | improving MMR | SEO content | | Boost / boosting | external help with MMR | targeting boosters | | Smurf / smurfing | playing low-rank account | SEO «anti-smurf» | | Smurf pool | matchmaking penalty for smurfs | NICHE SEO | | LP / Low Priority | punishment queue | content kluster | | Behavior Score | поведенческий рейтинг | NICHE SEO ⭐ | | Conduct Summary | Valve's behavior report | technical SEO | | Throw / throwing | griefing / sabotaging | Behavior Score content | | Feed / feeding | dying excessively | Behavior Score content | | Tilt / tilting | emotional spiral | mental game content | | Carry / hard carry | role + role | hero guides | | Mid / offlane / safe lane | positions | hero guides | | Pos 1–5 | role positions |..."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "EN",
+      "excerpt": "#### EN\n1. **«Stuck in low priority»** — emotional content\n2. **«Toxic teammates»** — universal\n3. **«Behavior score reset»** — техническое + эмоциональное\n4. **«Why is my matchmaking so bad?»** — endless discussion\n5. **«Hero balance complaints»** — patch reactions\n6. **«How to play [hero] in 2026»** — high SEO + viral\n7. **«Pro tips from [pro player]»** — authority content\n8. **«Ranked vs Turbo mode»** — debate-fueling\n9. **«Smurf detection by Valve»** — technical interest"
+    },
+    {
+      "source": "PRODUCT_REQUIREMENTS.md",
+      "heading": "Non-negotiable goal",
+      "excerpt": "## Non-negotiable goal\n\nThis project must become a universal, fully working, thoughtfully designed content-intelligence system, not a one-off script or a narrow first MVP.\n\nThe current Dota 2 / CS2 / Melonity use case is the first domain. The architecture must stay reusable for other games, products, languages, markets, and SEO datasets."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "10.1. RU-сленг Dota 2 (используем в постах и SEO для аудитории)",
+      "excerpt": "### 10.1. RU-сленг Dota 2 (используем в постах и SEO для аудитории) | Слово | Значение | Когда использовать | | --- | --- | --- | | MMR | Match Making Rating | Везде | | ММР | то же на кириллице | альтернативное нап��сание для SEO | | Бустить / буст | поднимать рейтинг (себе или другому) | целевая аудитория «бустеры» | | Смурф / смурфинг | играть на новом аккаунте с занижением | контент про «защиту от смурф-бана» | | Скрытый пул | shadow ban / matchmaking penalty | НЧ-золото для SEO | | Behavior score / порядочность / порядок | поведенческий рейтинг | гайды | | Ливать / лив | покинуть матч до конца | гайды по Behavior Score | | Руинить / руинер | намеренно п��оигрыват�� | контекст Behavior Score | | Фидить | умирать слишком много | негативное поведение | | Тилт | эмоциональный спад после поражений | контекст «как не сливать MMR» | | Тащить / тащит | вести команду к победе | celebratory tone | | Олды / олдфаги | пользователи с..."
+    },
+    {
+      "source": "README.md",
+      "heading": "Быстрый старт",
+      "excerpt": "## Быстрый старт ```powershell python -m article_factory init python -m article_factory ingest --rebuild python -m article_factory doctor python -m article_factory topics --count 10 --game dota2 --language en python -m article_factory draft --spec \"Сгенерируй 10 SEO статей объемом 1800-2400 words, в экспертном стиле, с нативной интеграцией Melonity\" --count 10 --game dota2 --language en --llm none python -m article_factory draft --spec \"Сгенерируй 10 SEO статей объемом 1800-2400 words, в экспертном стиле, с нативной интеграцией Melonity\" --count 10 --game dota2 --language en --llm template python -m article_factory review output\\runs\\<timestamp>.json python -m article_factory ai-memory export ``` Режим `--llm none` не тратит деньги: он создаёт `output/briefs/...` и `output/prompts/...`. Режим `--llm template` тоже не тратит деньги: он создаёт полноценные markdown-файлы в `output/articles/...` на основе evidence pack. Это fallback для автономного цикла; для максимально живого стиля лучше подключить Ollama/OpenAI. Когда будет локальная модель: ```powershell python -m article_factory draft --spec \"Сгенерируй 3 SEO статьи на русском, 9000 знаков, живым экспертным стилем\" --game cs2 --language ru --llm ollama --model llama3.1:8b ``` С OpenAI: ```powershell $env:OPENAI_API_KEY=\"sk-...\" python -m article_factory draft --spec \"Generate 5 English SEO articles, 1800 words, native Melonity..."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "9.5. Web2.0 SEO article operating model",
+      "excerpt": "### 9.5. Web2.0 SEO article operating model\n\n> Цель web2.0-статей — не просто вставить ссылку на melonity.gg, а создать страницу, которая выглядит как полезный материал от человека из Dota-комьюнити: объясняет механику, отвечает на запрос, использует актуальные термины и только после этого нативно рекомендует Melonity как решение."
+    }
+  ],
+  "strict_rules": [
+    "Use only facts supported by local sources or mark uncertainty explicitly.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions."
+  ]
+}

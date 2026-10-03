@@ -1,0 +1,8 @@
+{
+  "topic": {"title": "Cluster Cheats: CS2 vs Deadlock Product Differences", "game": "cs2", "risk_level": "restricted"},
+  "evidence": [
+    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/clustercheats-home-en.md", "heading": "Catalog", "excerpt": "The homepage presents CS2 as external and Deadlock as internal vendor-positioned products."},
+    {"source": "knowledge/agent_memory/products/cs2-cluster-center-external.md", "heading": "Product Positioning", "excerpt": "The CS2 material groups aim assistance, TriggerBot, ESP/Chams, and Hub utilities."},
+    {"source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md", "heading": "Product", "excerpt": "The Deadlock material lists aim, ESP, world-view customization, and movement-timing categories."}
+  ]
+}

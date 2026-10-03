@@ -1,0 +1,77 @@
+{
+  "destination": "Substack",
+  "publication": "https://clustercheats.substack.com/",
+  "status": "drafts_ready_waiting_for_publish_confirmation",
+  "delivery": "web_only",
+  "preserve_article_body": true,
+  "preserve_link_anchors": true,
+  "articles": [
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\приватные-читы-для-многопользовательских-игр.md",
+      "game": "multiplayer",
+      "language": "ru",
+      "slug": "private-cheats-multiplayer-games-ru",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214902567",
+      "title": "Приватные читы: 7 проверок до покупки",
+      "description": "Приватные читы для многопользовательских игр: семь проверок каталога, поддержки, совместимости и рисков до оплаты.",
+      "target_url": "https://cluster.center/ru",
+      "required_anchors": ["приватные читы для многопользовательских игр"],
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/6fa56c33-f1bc-4538-9fbe-3be6ed8d385d_1280x720.png",
+      "hero_alt": "Меню Cluster в матче Deadlock — пример интерфейса из ранее опубликованного материала"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\private-cheats-for-multiplayer-games.md",
+      "game": "multiplayer",
+      "language": "en",
+      "slug": "audit-private-cheat-store-before-paying",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214903350",
+      "title": "How to Audit a Private Cheat Store Before You Pay",
+      "description": "Private cheats for multiplayer games: audit catalog scope, compatibility, support, proof, and account risk before you pay.",
+      "target_url": "https://cluster.center/en",
+      "required_anchors": ["private cheats for multiplayer games"],
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/6b446863-f39e-47d8-a3df-3f642d925edd_1116x649.png",
+      "hero_alt": "Cluster CS2 menu during gameplay, reused from an existing Substack post"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\приватный-чит-для-cs2.md",
+      "game": "cs2",
+      "language": "ru",
+      "slug": "private-cs2-cheat-product-page-ru",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214903383",
+      "title": "Приватный чит для CS2: как читать страницу продукта",
+      "description": "Приватный чит для CS2: как проверить функции, совместимость, поддержку и свежесть доказательств без громких обещаний.",
+      "target_url": "https://cluster.center/ru/cs2",
+      "required_anchors": ["приватный чит для CS2"],
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/6b446863-f39e-47d8-a3df-3f642d925edd_1116x649.png",
+      "hero_alt": "Интерфейс Cluster для CS2 во время матча — изображение из ранее опубликованной статьи"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\чит-для-deadlock.md",
+      "game": "deadlock",
+      "language": "ru",
+      "slug": "deadlock-cheat-after-patch-ru",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214903414",
+      "title": "Чит для Deadlock после патча: что проверять",
+      "description": "Чит для Deadlock после патча: как проверить статус, функции, совместимость, демонстрации и поддержку до решения о покупке.",
+      "target_url": "https://cluster.center/ru/deadlock",
+      "required_anchors": ["чит для Deadlock"],
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/6fa56c33-f1bc-4538-9fbe-3be6ed8d385d_1280x720.png",
+      "hero_alt": "Меню Cluster для Deadlock во время матча — изображение из ранее опубликованной статьи",
+      "inline_gif": "https://substack-post-media.s3.amazonaws.com/public/images/03263f5d-dba8-4931-b8d8-5df7eaa9d3b3_692x388.gif",
+      "inline_gif_alt": "Короткая демонстрация интерфейса Deadlock из ранее опубликованного материала"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260909-173242\\private-cs2-cheats.md",
+      "game": "cs2",
+      "language": "en",
+      "slug": "private-cs2-cheats-feature-evidence",
+      "draft_url": "https://clustercheats.substack.com/publish/post/214903446",
+      "title": "Private CS2 Cheats: Read Features Without the Hype",
+      "description": "Private CS2 cheats explained through evidence: evaluate Aimbot, ESP, TriggerBot, HUD, compatibility, support, and update signals.",
+      "target_url": "https://cluster.center/en/cs2",
+      "required_anchors": ["private CS2 cheats"],
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/6b446863-f39e-47d8-a3df-3f642d925edd_1116x649.png",
+      "hero_alt": "Cluster CS2 feature menu during gameplay, reused from an existing Substack article"
+    }
+  ]
+}

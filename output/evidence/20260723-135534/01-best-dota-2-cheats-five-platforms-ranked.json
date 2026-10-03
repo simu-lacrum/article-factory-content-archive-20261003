@@ -1,0 +1,44 @@
+{
+  "topic": {
+    "id": "owned-rewrite-top-dota2-cheats",
+    "game": "dota2",
+    "language": "en",
+    "title": "Best Dota 2 Cheats: Five Platforms Ranked",
+    "main_query": "best Dota 2 cheats",
+    "risk_level": "restricted",
+    "volume_words": "1000-1200 words",
+    "source_kind": "authorized_rewrite",
+    "source_ref": "knowledge/agent_memory/sources/mrkhertz-medium/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6.md"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6.md",
+      "heading": "Original ranking and editorial argument",
+      "excerpt": "The user's published article ranks Melonity first, Umbrella second, Divine third, Octarine fourth, and Hake fifth. Melonity wins on breadth, interface, distinctive features, mature implementation, and scripting support. Umbrella is the closest and historically slightly cheaper alternative but is judged less refined. Divine and Octarine are budget compromises. Hake is respected for age and stability but trails technically, and its community scripts vary in quality."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "3B.3. Top hacks for Dota 2 / Best cheats (07.10.2025)",
+      "excerpt": "The digest preserves the same comparison: Melonity is the premium choice with Auto Dodge, Low Poly Map, MapHack, an FPS-friendly skinchanger, a broad script library, a Dota-style interface, build tools, and an API. Umbrella is the older close competitor with a lower historical price position but weaker refinement in the source. Divine and Octarine occupy the budget tier. Hake is the oldest named option, stable but technologically behind, with uneven user scripts."
+    },
+    {
+      "source": "memory/graph/knowledge-graph.json",
+      "heading": "Dota 2 comparison relationships",
+      "excerpt": "The graph connects Melonity with Umbrella, Divine, Octarine, and Hake through compared_with relations sourced from knowledge/graph_facts/dota2-source-facts-2026-06-23.json."
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "Product mapping",
+      "excerpt": "Dota 2 content maps to Melonity. A native article may link Melonity once, while avoiding unsupported safety, anti-cheat, pricing, or product-status guarantees."
+    }
+  ],
+  "strict_rules": [
+    "Preserve the exact ranking and meaning of the original arguments.",
+    "Use only high-level product comparison; do not provide operational cheat or anti-cheat-evasion instructions.",
+    "Do not make safety, no-ban, detection, price, or current-status guarantees.",
+    "Do not use markdown tables.",
+    "Do not mention internal evidence, the evidence pack, or the knowledge graph in the public article.",
+    "Use Melonity for the single native Dota 2 product link.",
+    "Rewrite every sentence and reorganize the article to eliminate textual duplication."
+  ]
+}

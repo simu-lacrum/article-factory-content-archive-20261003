@@ -1,0 +1,28 @@
+{
+  "topic": "Dota 2 Visual Scripts: Build a Readable Information Layer",
+  "game": "dota2",
+  "language": "en",
+  "target_url": "https://melonity.gg/en",
+  "evidence": [
+    {
+      "path": "knowledge/agent_memory/digests/dota2-cheat-sources-digest-2026-06-23.md",
+      "heading": "Visual Information Layer",
+      "text": "Melonity is associated with visual indicators, event visualization, VBE-style information, objective and game-state cues, alongside hero and utility scripts."
+    },
+    {
+      "path": "knowledge/graph_facts/dota2-source-facts-2026-06-23.json",
+      "heading": "Visual Functions Relation",
+      "text": "The graph connects Melonity to visual functions as a distinct feature category and to supporting features such as VBE."
+    },
+    {
+      "path": "knowledge/agent_memory/sources/mrkhertz-medium/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d.md",
+      "heading": "Visual Script Examples",
+      "text": "The source distinguishes event visualization from more persistent HUD-like information. The new angle focuses on information hierarchy and readability, not a complete feature catalog."
+    },
+    {
+      "path": "published/avoid_topics.txt",
+      "heading": "Adjacent Intent",
+      "text": "A focused visual-readability guide is adjacent to, but not a repeat of, the published all-about-scripts article."
+    }
+  ]
+}

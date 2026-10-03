@@ -1,0 +1,9 @@
+{
+  "topic": {"title": "How to Judge Cheat Software Support Before You Buy", "game": "all", "language": "en", "main_query": "cheat software support", "risk_level": "restricted"},
+  "evidence": [
+    {"source": "pasted-text-1.txt", "heading": "T2-09 editorial contract", "excerpt": "Evaluate support transparency, update communication, refund language, scope, and red flags without asserting current catalog facts."},
+    {"source": "knowledge/agent_memory/products/product-map.md", "heading": "Product mapping", "excerpt": "The package maps CS2 and Deadlock to cluster.center and Dota 2 to Melonity."},
+    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/clustercheats-home-en.md", "heading": "Target context", "excerpt": "The assigned commercial target is Cluster's catalog; the article must not infer guarantees from a storefront or support channel."}
+  ],
+  "strict_rules": ["No guarantees", "No unverified current facts", "Exactly one assigned commercial backlink"]
+}

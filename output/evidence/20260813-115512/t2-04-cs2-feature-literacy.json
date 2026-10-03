@@ -1,0 +1,8 @@
+{
+  "topic": {"title": "What Do CS2 Cheat Features Actually Do?", "game": "cs2", "risk_level": "restricted"},
+  "evidence": [
+    {"source": "knowledge/agent_memory/products/cs2-cluster-center-external.md", "heading": "Aimbot", "excerpt": "The product memory documents FOV, Smooth, priorities, weapon profiles, hitboxes, and checks at a high level."},
+    {"source": "knowledge/agent_memory/products/cs2-cluster-center-external.md", "heading": "TriggerBot", "excerpt": "The product memory separates shot-timing controls from assisted aim movement."},
+    {"source": "knowledge/agent_memory/products/cs2-cluster-center-external.md", "heading": "ESP and Hub", "excerpt": "The memory lists Box, Skeleton, Chams, health, weapons, status indicators, bomb utilities, spectator list, and keybinds."}
+  ]
+}

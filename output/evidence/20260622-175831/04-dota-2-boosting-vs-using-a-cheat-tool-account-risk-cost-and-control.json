@@ -1,0 +1,77 @@
+{
+  "topic": {
+    "id": 12,
+    "game": "dota2",
+    "language": "en",
+    "title": "Dota 2 Boosting vs Using a Cheat Tool: Account Risk, Cost and Control",
+    "source_kind": "cluster_map",
+    "source_ref": "melonity-seo-cluster-map-en.md",
+    "cluster": "`GENERAL: dota - длинный хвост` -> Dota 2 Boost / Account Sharing Alternative",
+    "main_query": "Dota 2 Boosting vs Using a Cheat Tool: Account Risk, Cost and Control",
+    "score": 137.0,
+    "volume_words": "2,000-2,600 words.",
+    "outline_json": "[\"Why players buy Dota 2 boost\", \"Main risks: account sharing, behavior score, smurf flags, trust\", \"Cost comparison: one-time boost vs monthly tool\", \"Why self-play with assistance keeps control in your hands\", \"Melonity angle: Auto Combo, Map awareness, Stream Proof for boosters, Spoofer for account-risk users\", \"Who should still avoid tools\", \"CTA: free trial before paying for a boost\"]",
+    "ad_integration": "прямая. Это коммерческий мост: \"не отдавай аккаунт бустеру, играй сам с Melonity\".",
+    "evidence_json": "[\"`GENERAL: dota - длинный хвост` -> Dota 2 Boost / Account Sharing Alternative\", \"по `dota 2 boost` много коммерции, но angle \\\"boosting vs tool\\\" менее прямой и хорошо цепляет buyer-intent.\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-06-22 14:58:31"
+  },
+  "evidence": [
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "12. `GENERAL: dota - длинный хвост` -> Dota 2 Boost / Account Sharing Alternative",
+      "excerpt": "### 12. `GENERAL: dota - длинный хвост` -> Dota 2 Boost / Account Sharing Alternative\n\n**Почему кластер:** KD 3 в long-tail: `boost dota 2`, `dota boost`, плюс пересечение с `MMR boost` и `account risk`.\n\n**EN article title:** `Dota 2 Boosting vs Using a Cheat Tool: Account Risk, Cost and Control`\n\n**Объем:** 2,000-2,600 words.\n\n**Почему можно ранжироваться:** по `dota 2 boost` много коммерции, но angle \"boosting vs tool\" менее прямой и хорошо цепляет buyer-intent.\n\n**Оглавление:**\n\n- Why players buy Dota 2 boost\n- Main risks: account sharing, behavior score, smurf flags, trust\n- Cost comparison: one-time boost vs monthly tool\n- Why self-play with assistance keeps control in your hands\n- Melonity angle: Auto Combo, Map awareness, Stream Proof for boosters, Spoofer for account-risk users\n- Who should still avoid tools\n- CTA: free trial before paying for a boost\n\n**Рекламная интеграция:** прямая. Это коммерческий мост: \"не отдавай аккаунт бустеру, играй сам с Melonity\".\n\n---"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "3B.5. How to avoid a smurf ban in Dota 2 (24.01.2026)",
+      "excerpt": "### 3B.5. How to avoid a smurf ban in Dota 2 (24.01.2026)\n\n**Главная идея:** часть банов игроки путают с VAC, хотя в Dota есть разные типы блокировок: low integrity / behavior, patrol verdict, smurf system, cheat-detection/VAC wave.\n\n**Факты и тезисы из статьи:**\n- Различать `game ban` и `VAC ban` нужно по Steam-профилю, а не по ощущениям внутри клиента Dota.\n- В статье перечислены smurf-risk сигналы: новый аккаунт, связки IP/данных, win streak, aggressive play на сложных героях, email/phone overlap, account linkage, маленькое число матчей, registration window 2022-2024.\n- Рекомендации из статьи для lower-risk аккаунта: 1000+ matches in main pool, behavior/decency 9000+, account created before 2020, 0 hours last two weeks, last transaction older than 1-2 years.\n- Контентный угол: аудитория ищет не только cheat, но и «почему дали game ban», «чем VAC ban отличается от smurf ban», «как выбрать аккаунт для ranked», «что значит порядочность/behavior score».\n\n**Важно:** в публичных SEO-статьях подавать это как risk-awareness/account-buying checklist, а не как гарантированный обход Valve. Не обещать «не забанят»."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "9.5.4. Типовые article briefs",
+      "excerpt": "#### 9.5.4. Типовые article briefs **Brief A — Core commercial:** - H1: `Best Dota 2 Cheat in 2026: Scripts, MapHack and Safety Explained` - Primary keywords: `dota 2 cheat`, `dota 2 hack`, `dota 2 scripts`, `melonity cheat` - Sections: what cheats do, scripts vs cheat, MapHack/Camera/VBE, safety caveat, Melonity review, FAQ. **Brief B — Native MMR:** - H1: `How to Climb MMR in Dota 2 Patch 7.41d` - Primary keywords: `как поднять ммр дота 2`, `dota 2 mmr climb`, `мета дота 2` - Sections: roles, current meta heroes, replay discipline, draft, vision, advanced tools, Melonity soft mention. **Brief C — Hero script:** - H1: `Invoker Auto Cast in Dota 2: How Combo Scripts Work` - Primary keywords: `invoker script`, `auto cast dota 2`, `чит на инвокера` - Sections: why Invoker is hard, normal combo logic, what automation changes, risks/caveat, Melonity as implementation. **Brief D — Smurf/account risk:** - H1: `Dota 2 Game Ban vs VAC Ban: How to Understand Smurf Risk` - Primary keywords: `smurf ban dota 2`, `game ban dota 2`, `vac ban dota 2` - Sections: ban types,..."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "9.0.2. Кластеры с максимальной частотностью и что с ними делать",
+      "excerpt": "#### 9.0.2. Кластеры с максимальной частотностью и что с ними делать | Кластер | Точная частотность | Вывод для SEO | | --- | ---: | --- | | `GENERAL: dota - длинный хвост` | 2 159 215 | Огромный top-funnel; брать только темы, которые можно связать с MMR, patch/meta, heroes, FPS/console, behavior | | `GENERAL: киберспорт команды` | 131 923 | Хорошо для newsjacking, но не прямой buyer intent | | `GENERAL: турниры / TI / Major` | 125 512 | Прогрев через турниры, meta picks, pro builds; прямой promo минимальный | | `GENERAL: MMR / рейтинг (инфо)` | 110 645 | Высокий потенциал: MMR table, ranks, calibration, climb; мягкая интеграция Melonity как tool for grinders | | `GENERAL: маркет/трейд` | 109 176 | В основном Steam/skin traffic; использовать осторожно, связывать со Skinchanger/Low Poly только если релевантно | | `CORE: читы dota 2` | 67 399 | Главный commercial кластер: купить, скачать, команды, лобби, anti-cheat error, `чит дота 2` | | `NATIVE: гайды/обучение` | 38 645 | Лучший web2.0-вход: полезные гайды с нативным упоминанием Melonity | | `NATIVE: мета..."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "9.5.2. Где встраивать melonity.gg",
+      "excerpt": "#### 9.5.2. Где встраивать melonity.gg\n\n| Тип статьи | Где упоминать Melonity | CTA |\n| --- | --- | --- |\n| Explainer (`how MapHack works`) | После объяснения механики, как пример реализации | `Try MapHack and scripts in Melonity` |\n| Review / comparison | В таблице критериев + вывод | `Compare plans on melonity.gg` |\n| Hero guide | После legit-гайда, как advanced automation layer | `Test hero scripts in Melonity` |\n| MMR / behavior / smurf | После risk checklist, как tool for grinders/boosters | `Use responsibly, start with trial` |\n| Patch/meta article | В блоке «что это значит для Melonity users» | `Check update status on melonity.gg` |\n| Troubleshooting (`console`, `FPS`, `anti-cheat error`) | Только если связь естественная | `More Dota tools at melonity.gg` |"
+    },
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "8. `GENERAL: настройки/конфиг/производительность` -> FPS / Autoexec / Config",
+      "excerpt": "### 8. `GENERAL: настройки/конфиг/производительность` -> FPS / Autoexec / Config\n\n**Почему кластер:** KD 5, EN-запросы: `max fps dota 2`, `boost fps dota 2`, `autoexec dota 2`, `dota 2 cfg`.\n\n**EN article title:** `Best Dota 2 Autoexec.cfg and FPS Settings: Max FPS, Ping, Config Transfer and Stable Gameplay`\n\n**Объем:** 1,800-2,300 words.\n\n**Почему можно ранжироваться:** SERP состоит из Reddit, GitHub gists, старых Steam-гайдов и отдельных свежих статей. Можно выиграть структурой и актуализацией.\n\n**Оглавление:**\n\n- What autoexec.cfg does in Dota 2\n- Max FPS, ping and frame-time basics\n- Launch options worth checking\n- How to transfer config to another account\n- Why FPS stability matters for combo heroes\n- Melonity angle: stable performance requirements, Windows 7-11 support, settings checklist before using scripts\n- FAQ: where cfg is stored, why commands reset, what to avoid\n\n**Рекламная интеграция:** нативная. Это top-funnel тема, поэтому реклама должна быть soft: \"after stabilizing the client, advanced players add Melonity for scripts/visuals.\"\n\n---"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "Технические (для глубоких explainer-ов)",
+      "excerpt": "### Технические (для глубоких explainer-ов)\n\n- [VAC external tool detection — UnknownCheats Wiki](https://www.unknowncheats.me/wiki/Valve_Anti-Cheat:VAC_external_tool_detection_(and_more)) — реверс-инжиниринг VAC modules (Dota 2 specific)\n- [Dota 2 cheat development — UnknownCheats Wiki](https://www.unknowncheats.me/wiki/Dota_2) — как пишутся читы для Source 2\n- [Dota 2 GSI library (GitHub)](https://github.com/antonpup/Dota2GSI) — официальный Game State Integration Valve\n- [Dota2Patcher (GitHub)](https://github.com/Wolf49406/Dota2Patcher) — open-source примеры camera hack, fog disable\n- [How VAC Detection Works in CS2 — CSWatch Blog](https://cswatch.gg/blog/how-vac-detection-works-in-cs2) — глубокое объяснение signature match, ban waves, VAC limitations"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "10.2. EN-сленг Dota 2",
+      "excerpt": "### 10.2. EN-сленг Dota 2 | Term | Definition | Usage | | --- | --- | --- | | MMR | Match Making Rating | Universal | | Climb / climbing | improving MMR | SEO content | | Boost / boosting | external help with MMR | targeting boosters | | Smurf / smurfing | playing low-rank account | SEO «anti-smurf» | | Smurf pool | matchmaking penalty for smurfs | NICHE SEO | | LP / Low Priority | punishment queue | content kluster | | Behavior Score | поведенческий рейтинг | NICHE SEO ⭐ | | Conduct Summary | Valve's behavior report | technical SEO | | Throw / throwing | griefing / sabotaging | Behavior Score content | | Feed / feeding | dying excessively | Behavior Score content | | Tilt / tilting | emotional spiral | mental game content | | Carry / hard carry | role + role | hero guides | | Mid / offlane / safe lane | positions | hero guides | | Pos 1–5 | role positions |..."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "9.0.3. Главные SEO-интенты из ядра",
+      "excerpt": "#### 9.0.3. Главные SEO-интенты из ядра\n\n1. **Commercial cheat intent:** `читы дота 2`, `чит дота 2`, `скачать читы дота 2`, `читы дота 2 купить`, `мапхак дота 2`, `скрипты дота 2`.\n2. **Troubleshooting / official-cheat confusion:** `читы дота 2 в лобби`, `команды в лобби`, `как включить консоль`, `как включить фпс`, `античит valve не может подтвердить надежность вашего устройства`.\n3. **MMR/rank anxiety:** `таблица ммр`, `ранги`, `калибровка`, `буст ммр`, `как поднять рейтинг`, `скрытый пул`, `behavior score`.\n4. **Account/smurf risk:** `купить аккаунт дота 2`, `аккаунт с рейтингом`, `100 часов`, `рекалибровка`, `смурф бан`.\n5. **Hero mechanics:** Invoker, Pudge, Meepo, Tinker, Arc Warden, Zeus, Juggernaut, Sniper, Lina, Spectre, Rubick, Axe, Luna, Anti-Mage.\n6. **Patch/meta/news:** `мета дота 2`, `мета героев`, `новый патч`, `последний патч`, `мета керри/мид`.\n7. **Native utility:** counterpick, MetaPicker, builds, Dota Plus comparison, trackers, Dotabuff/Stratz/ProTracker explainers."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "Образовательные / технические (Medium @mrkhertz)",
+      "excerpt": "### Образовательные / технические (Medium @mrkhertz)\n\n- [Dota 2 Cheats & Scripts Explained (2025)](https://medium.com/@mrkhertz/dota-2-cheats-scripts-explained-2025-all-about-dota-hacks-82ff479af22d) — full cheat overview, hero scripts, visual functions\n- [Why cheaters in Dota 2 are not banned](https://medium.com/@mrkhertz/why-cheaters-in-dota-2-are-not-banned-a-detailed-explanation-of-why-cheats-are-safe-3f28752a7f98) — VAC, VAC-Live, VACnet, Humanizer\n- [MapHack for Dota 2: Everything You Need to Know](https://medium.com/@mrkhertz/maphack-for-dota-2-everything-you-need-to-know-how-to-download-it-a5126f8bc05f) — Full → Partial MapHack эволюция\n- [Top hacks for Dota 2 / Best cheats](https://medium.com/@mrkhertz/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6) — competitive comparison: Melonity, Umbrella, Divine, Octarine, Hake\n- [How to avoid a smurf ban in Dota 2](https://medium.com/@mrkhertz/how-to-avoid-a-smurf-ban-in-dota-2-guide-to-choosing-an-account-for-dota-f2e7434083ca) — game ban vs VAC ban, smurf-risk factors, account selection checklist\n- [How hacks work in Dota 2](https://medium.com/@mrkhertz/how-hacks-work-in-dota-2-4a2d06d5969e) — client/server bypass, Humanizer"
+    }
+  ],
+  "strict_rules": [
+    "Use only facts supported by local sources or mark uncertainty explicitly.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "topic": {
+    "id": 1,
+    "game": "dota2",
+    "language": "en",
+    "title": "How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery",
+    "source_kind": "cluster_map",
+    "source_ref": "melonity-seo-cluster-map-en.md",
+    "cluster": "`GENERAL: dota - длинный хвост` -> Behavior Score / Communication Score",
+    "main_query": "How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery",
+    "score": 137.0,
+    "volume_words": "1,800-2,400 words.",
+    "outline_json": "[\"What Behavior Score and Communication Score mean in Dota 2\", \"How to check your current score\", \"What actually lowers your score: abandons, reports, griefing, chat abuse\", \"How often Behavior Score updates\", \"Fast recovery plan: Turbo, mute, support picks, commends, no chat fights\", \"Why low Behavior Score feels like a hidden pool\", \"Where Melonity fits: fewer mechanical mistakes, better awareness, less tilt, cleaner execution\", \"Soft CTA: try Melonity free for 7 days before grinding ranked again\"]",
+    "ad_integration": "нативная. Не обещать, что Melonity \"поднимает порядочность\". Формула: Melonity помогает играть стабильнее, меньше фидить из-за мискликов, видеть больше информации и не срывать важные файты.",
+    "evidence_json": "[\"`GENERAL: dota - длинный хвост` -> Behavior Score / Communication Score\", \"EN SERP смешанная: Reddit, небольшие гайды, бустинг-сайты, не только крупные Dota-медиа. В выдаче есть свежие, но в основном однотипные советы.\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-06-22 14:33:52"
+  },
+  "evidence": [
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "1. `GENERAL: dota - длинный хвост` -> Behavior Score / Communication Score",
+      "excerpt": "### 1. `GENERAL: dota - длинный хвост` -> Behavior Score / Communication Score **Почему кластер:** в CSV много НЧ с KD 3: `как поднять порядочность в dota 2`, `как быстро поднять порядочность`, `behavior score dota 2`, `dota behavior score`, `behavior abuse dota 2`. **EN article title:** `How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery` **Объем:** 1,800-2,400 words. **Почему можно ранжироваться:** EN SERP смешанная: Reddit, небольшие гайды, бустинг-сайты, не только крупные Dota-медиа. В выдаче есть свежие, но в основном однотипные советы. **Оглавление:** - What Behavior Score and Communication Score mean in Dota 2 - How to check your current score - What actually lowers your score: abandons, reports, griefing, chat abuse - How often Behavior Score updates - Fast recovery plan: Turbo, mute, support picks, commends, no chat fights - Why low Behavior Score feels like a hidden pool - Where Melonity fits: fewer mechanical mistakes, better awareness, less tilt, cleaner execution - Soft CTA: try Melonity free for 7 days before grinding ranked again **Рекламная интеграция:** нативная. Не обещать, что Melonity \"поднимает порядочность\". Формула:..."
+    },
+    {
+      "source": "README.md",
+      "heading": "Память публикаций",
+      "excerpt": "## Память публикаций\n\nПосле публикации добавляй материал, чтобы topic engine не выбирал его снова:\n\n```powershell\npython -m article_factory published add --title \"How to Raise Behavior Score in Dota 2: Communication Score, Reports and Fast Recovery\" --slug behavior-score-dota-2 --game dota2 --language en --url \"https://example.com/article\"\npython -m article_factory ingest\n```\n\nМожно также вручную редактировать `published/articles.csv`."
+    },
+    {
+      "source": "melonity-seo-cluster-map-en.md",
+      "heading": "9. `GENERAL: репорт/поведение` -> Reports / Report Abuse",
+      "excerpt": "### 9. `GENERAL: репорт/поведение` -> Reports / Report Abuse\n\n**Почему кластер:** KD 5: `как посмотреть репорты в доте`, `how to see reports`, `behavior abuse dota 2`, `репорты на себя`.\n\n**EN article title:** `How to See Reports in Dota 2 and Why Report Abuse Feels Like Hidden Pool`\n\n**Объем:** 1,600-2,200 words.\n\n**Почему можно ранжироваться:** EN выдача фрагментирована между Reddit/Steam и короткими объяснениями. Тема хорошо цепляется к боли аудитории.\n\n**Оглавление:**\n\n- Can you see who reported you in Dota 2?\n- What Player Behavior Summary shows\n- Why report abuse feels real\n- Reports, Behavior Score and matchmaking quality\n- How to reduce reports without playing passively\n- Melonity angle: avoid obvious throw-like mistakes, better awareness, cleaner combos\n- CTA: Melonity as an edge, not a magic report shield\n\n**Рекламная интеграция:** нативная. Не обещать \"защиту от репортов\". Упор на аккуратнее выглядящий gameplay и меньше поводов для rage-reports.\n\n---"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "Игровые механики (легитимные источники для гайдов)",
+      "excerpt": "### Игровые механики (легитимные источники для гайдов)\n\n- [GuidesGame — скрытый рейтинг и скрытый пул](https://guidesgame.ru/guides/rukovodstva/kak-posmotret-skrytyy-reyting-dota-2-i-razobratsya-so-skrytym-pulom/)\n- [Stavka.tv — Behavior Score гайд](https://stavka.tv/bettingschool/cybersport/raise-behavior-score-dota2)\n- [TeamSmurf — Low Priority гайд](https://teamsmurf.com/low-priority-removal/)\n- [TeamSmurf — MMR Hell гайд](https://teamsmurf.com/mmr-hell-guide/)\n- [Liquipedia Dota 2 Statistics 2025](https://liquipedia.net/dota2/Portal:Statistics/2025) — призовые, турниры\n- [Stratz](https://stratz.com) — статистика рангов и аккаунтов"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "EN",
+      "excerpt": "#### EN\n1. **«Stuck in low priority»** — emotional content\n2. **«Toxic teammates»** — universal\n3. **«Behavior score reset»** — техническое + эмоциональное\n4. **«Why is my matchmaking so bad?»** — endless discussion\n5. **«Hero balance complaints»** — patch reactions\n6. **«How to play [hero] in 2026»** — high SEO + viral\n7. **«Pro tips from [pro player]»** — authority content\n8. **«Ranked vs Turbo mode»** — debate-fueling\n9. **«Smurf detection by Valve»** — technical interest"
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "10.2. EN-сленг Dota 2",
+      "excerpt": "### 10.2. EN-сленг Dota 2 | Term | Definition | Usage | | --- | --- | --- | | MMR | Match Making Rating | Universal | | Climb / climbing | improving MMR | SEO content | | Boost / boosting | external help with MMR | targeting boosters | | Smurf / smurfing | playing low-rank account | SEO «anti-smurf» | | Smurf pool | matchmaking penalty for smurfs | NICHE SEO | | LP / Low Priority | punishment queue | content kluster | | Behavior Score | поведенческий рейтинг | NICHE SEO ⭐ | | Conduct Summary | Valve's behavior report | technical SEO | | Throw / throwing | griefing / sabotaging | Behavior Score content | | Feed / feeding | dying excessively | Behavior Score content | | Tilt / tilting | emotional spiral | mental game content | | Carry / hard carry | role + role | hero guides | | Mid / offlane / safe lane | positions | hero guides | | Pos 1–5 | role positions |..."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "10.1. RU-сленг Dota 2 (используем в постах и SEO для аудитории)",
+      "excerpt": "### 10.1. RU-сленг Dota 2 (используем в постах и SEO для аудитории) | Слово | Значение | Когда использовать | | --- | --- | --- | | MMR | Match Making Rating | Везде | | ММР | то же на кириллице | альтернативное нап��сание для SEO | | Бустить / буст | поднимать рейтинг (себе или другому) | целевая аудитория «бустеры» | | Смурф / смурфинг | играть на новом аккаунте с занижением | контент про «защиту от смурф-бана» | | Скрытый пул | shadow ban / matchmaking penalty | НЧ-золото для SEO | | Behavior score / порядочность / порядок | поведенческий рейтинг | гайды | | Ливать / лив | покинуть матч до конца | гайды по Behavior Score | | Руинить / руинер | намеренно п��оигрыват�� | контекст Behavior Score | | Фидить | умирать слишком много | негативное поведение | | Тилт | эмоциональный спад после поражений | контекст «как не сливать MMR» | | Тащить / тащит | вести команду к победе | celebratory tone | | Олды / олдфаги | пользователи с..."
+    },
+    {
+      "source": "melonity-knowledge-base.md",
+      "heading": "4. TONE OF VOICE (TOV)",
+      "excerpt": "## 4. TONE OF VOICE (TOV)"
+    },
+    {
+      "source": "PRODUCT_REQUIREMENTS.md",
+      "heading": "Non-negotiable goal",
+      "excerpt": "## Non-negotiable goal\n\nThis project must become a universal, fully working, thoughtfully designed content-intelligence system, not a one-off script or a narrow first MVP.\n\nThe current Dota 2 / CS2 / Melonity use case is the first domain. The architecture must stay reusable for other games, products, languages, markets, and SEO datasets."
+    },
+    {
+      "source": "README.md",
+      "heading": "Быстрый старт",
+      "excerpt": "## Быстрый старт ```powershell python -m article_factory init python -m article_factory ingest --rebuild python -m article_factory doctor python -m article_factory topics --count 10 --game dota2 --language en python -m article_factory draft --spec \"Сгенерируй 10 SEO статей объемом 1800-2400 words, в экспертном стиле, с нативной интеграцией Melonity\" --count 10 --game dota2 --language en --llm none python -m article_factory draft --spec \"Сгенерируй 10 SEO статей объемом 1800-2400 words, в экспертном стиле, с нативной интеграцией Melonity\" --count 10 --game dota2 --language en --llm template python -m article_factory review output\\runs\\<timestamp>.json python -m article_factory ai-memory export ``` Режим `--llm none` не тратит деньги: он создаёт `output/briefs/...` и `output/prompts/...`. Режим `--llm template` тоже не тратит деньги: он создаёт полноценные markdown-файлы в `output/articles/...` на основе evidence pack. Это fallback для автономного цикла; для максимально живого стиля лучше подключить Ollama/OpenAI. Когда будет локальная модель: ```powershell python -m article_factory draft --spec \"Сгенерируй 3 SEO статьи на русском, 9000 знаков, живым экспертным стилем\" --game cs2 --language ru --llm ollama --model llama3.1:8b ``` С OpenAI: ```powershell $env:OPENAI_API_KEY=\"sk-...\" python -m article_factory draft --spec \"Generate 5 English SEO articles, 1800 words, native Melonity..."
+    }
+  ],
+  "strict_rules": [
+    "Use only facts supported by local sources or mark uncertainty explicitly.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions."
+  ]
+}

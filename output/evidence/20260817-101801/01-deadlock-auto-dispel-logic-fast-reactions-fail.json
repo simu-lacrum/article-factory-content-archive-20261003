@@ -1,0 +1,31 @@
+{
+  "topic": {
+    "id": "T2-01",
+    "game": "deadlock",
+    "language": "en",
+    "title": "Deadlock Auto-Dispel Logic: Why Fast Reactions Still Fail",
+    "risk_level": "restricted"
+  },
+  "evidence": [
+    {
+      "source": "pasted-text-1.txt",
+      "heading": "T2-01 — Defensive item logic in Deadlock",
+      "excerpt": "Editorial thesis, exact structure, safety boundary, fictional scenarios, buyer checklist and backlink placement supplied by the user."
+    },
+    {
+      "source": "https://melonity.gg/en/deadlock",
+      "heading": "Melonity for Deadlock",
+      "excerpt": "First-party feature positioning for auto-counterspell, auto-dispel and save-item options; labels and availability require publication-day verification."
+    },
+    {
+      "source": "SEO_ARTICLE_RULES.md",
+      "heading": "Safety and claim rules",
+      "excerpt": "No implementation, detection-evasion, current patch claims, absolute account promises or invented product status."
+    }
+  ],
+  "strict_rules": [
+    "Decision logic and evaluation only.",
+    "Exactly one commercial backlink.",
+    "No implementation or evasion guidance."
+  ]
+}

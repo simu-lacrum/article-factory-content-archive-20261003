@@ -1,0 +1,27 @@
+{
+  "topic": "Before Installing a Dota 2 Cheat: A Practical Checklist",
+  "game": "dota2",
+  "language": "en",
+  "evidence": [
+    {
+      "path": "knowledge/agent_memory/sources/links/how-to-install-cheats-scripts-hacks-for-dota-2-free-27478fc2625f.md",
+      "heading": "Official-Flow Context",
+      "text": "The source uses Melonity as the Dota 2 example and begins from the official product account. Unsafe operational directions in the source are excluded from this checklist."
+    },
+    {
+      "path": "knowledge/agent_memory/products/product-map.md",
+      "heading": "Product Mapping",
+      "text": "Dota 2 articles integrate Melonity."
+    },
+    {
+      "path": "SEO_ARTICLE_RULES.md",
+      "heading": "Safety Limits",
+      "text": "Pre-install content may discuss official sourcing and user preparation, but must not provide low-level setup, protection-disabling, or anti-cheat guidance."
+    },
+    {
+      "path": "published/avoid_topics.txt",
+      "heading": "Adjacent Intent",
+      "text": "The new piece is a pre-download verification checklist, not a duplicate installation walkthrough."
+    }
+  ]
+}

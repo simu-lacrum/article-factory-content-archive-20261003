@@ -1,0 +1,79 @@
+{
+  "topic": {
+    "id": 17,
+    "game": "deadlock",
+    "language": "en",
+    "title": "Deadlock ESP Explained: Boxes, Glow and Hero Info",
+    "source_kind": "curated_topic_seed",
+    "source_ref": "knowledge/topic_seeds/deadlock-cs2-cluster-center.json",
+    "cluster": "Deadlock cluster.center: ESP and visual awareness",
+    "main_query": "deadlock esp",
+    "score": 94.0,
+    "volume_words": "1,600-2,300 words",
+    "outline_json": "[\"What Deadlock ESP means\", \"Box, name, hero icon, health, healthBar, and glow layers\", \"Thickness and readability settings\", \"Orbs gear and match awareness\", \"Where cluster.center fits\", \"FAQ\"]",
+    "ad_integration": "Native cluster.center integration after visual-awareness explainer",
+    "evidence_json": "[\"knowledge/agent_memory/products/deadlock-cluster-center-internal.md\", \"ESP elements: box, player name, hero name, hero icon, health, healthBar, glow, thickness, orbs gear\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-06-23 09:02:47"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "ESP",
+      "excerpt": "## ESP\n\nFeature category: visual awareness.\n\nAvailable ESP elements:\n\n- Box.\n- Player name.\n- Hero name.\n- Hero icon.\n- Health.\n- HealthBar.\n- Glow.\n- Thickness.\n- Orbs gear."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "ESP",
+      "excerpt": "### ESP\n\nCategory: visual awareness.\n\nElements:\n\n- box\n- player name\n- hero name\n- hero icon\n- health\n- healthBar\n- glow\n- thickness\n- orbs gear"
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- Use these features as factual local product memory for Deadlock articles.\n- Prefer high-level descriptions such as \"aim-assistance modes\", \"ESP visual layers\", \"FOV and world-color customization\", \"auto dash jump\", and \"auto parry\".\n- Do not write installation steps, bypass steps, anti-cheat evasion steps, or low-level technical implementation.\n- Suggested adjacent article angles:\n  - Deadlock ESP explained.\n  - Deadlock aimbot settings explained at a high level.\n  - Deadlock FOV and visibility features.\n  - Deadlock auto parry and movement assistance.\n  - Deadlock cheat feature glossary."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Published Topic Memory",
+      "excerpt": "## Published Topic Memory\n\nThe direct ranking/listicle topic is already published:\n\n- `Top Cheats for Deadlock. The Best Deadlock Hack`.\n\nDo not repeat direct angles such as:\n\n- top cheats for Deadlock\n- best Deadlock hack\n- Deadlock hack ranking\n\nAllowed adjacent angles:\n\n- Deadlock aimbot settings explained.\n- Deadlock ESP explained.\n- Deadlock FOV changer and visibility features.\n- Deadlock auto parry and movement assistance.\n- Deadlock cheat feature glossary.\n- Deadlock cluster.center feature overview."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "cluster.center Positioning From Medium",
+      "excerpt": "## cluster.center Positioning From Medium\n\nThe imported Medium source frames cluster.center as:\n\n- A Deadlock cheat product from Cluster.\n- Affordable compared with competitors.\n- Monthly subscription claim in source: `$4`.\n- Seven-day free trial claim in source: access to Deadlock and CS2 cheats.\n- Feature claims: aimbot, silent aim, automatic finishing moves, visuals, skins, ESP.\n- Competitors mentioned: Umbrella, Octarine, Predator.\n\nWriting caution:\n\n- Treat price and trial claims as source-specific and date-sensitive.\n- Do not make absolute safety or VAC-protection guarantees.\n- Do not repeat the direct \"top cheats\" ranking article."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e.md",
+      "heading": "1. cluster.center",
+      "excerpt": "## 1. cluster.center I chose the Deadlock cheat from Cluster for a reason. I like their price and VAC protection; a monthly subscription costs just $4. Cluster is a brand of affordable, high-quality cheats with all the necessary features from reliable developers. Their Deadlock product features a good aimbot, silent aim, automatic finishing moves, cool visuals, and other helpful features — only the most important ones, nothing extra. All new users get a seven-day free trial that grants access to cheats for Deadlock and CS2. > **_You can try the Deadlock cheat by following this link:_**[**_*click*_**](https://cluster.center/en/deadlock) Press enter or click to view image in full size ![Image 2: Cluster Cheat Menu for Deadlock](https://miro.medium.com/v2/resize:fit:700/0*WR5X2SDFYs8dW6Sg.jpg) Cluster Cheat Menu for Deadlock For the sake of clarity, let me list the main advantages: 1. Price — $4 is the lowest price among all cheats with comparable functionality 2. Interface — user-friendly interfaces are always a plus 3. VAC protection — take my word for it and trust my years of experience; this protection guarantees your safety 4. Aimbot — As I mentioned earlier, the..."
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "Product",
+      "excerpt": "## Product\n\n- Product / brand for Deadlock articles: `cluster.center`.\n- Game: Deadlock.\n- Product angle: feature-rich Deadlock game-assistance product."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e.md",
+      "heading": "Top Cheats for Deadlock. The Best Deadlock Hack",
+      "excerpt": "# Top Cheats for Deadlock. The Best Deadlock Hack\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://medium.com/@mrkhertz/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e\n\nTitle: Top Cheats for Deadlock. The Best Deadlock Hack\n\nURL Source: https://medium.com/@mrkhertz/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e\n\nPublished Time: 2026-06-10T14:50:56Z\n\nMarkdown Content:\n[![Image 1: Mark Hertz](https://miro.medium.com/v2/resize:fill:32:32/1*ZTVrjdF_JDZZTRH4s6DywQ.jpeg)](https://medium.com/@mrkhertz?source=post_page---byline--672f1111840e---------------------------------------)\n\n3 min read\n\nJun 10, 2026\n\n--\n\n--\n\nHello everyone again. In my previous articles, I discussed the most popular cheats for Counter-Strike 2, with a particular focus on Dota cheats; in this article, I’ll cover the most popular hacks for Deadlock.\n\nThis will allow me to publish future articles with more detailed information about these games and the specifics of their anti-cheat systems."
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "cluster.center Positioning",
+      "excerpt": "## cluster.center Positioning\n\nUse `cluster.center` as the product/brand target for Deadlock and CS2 SEO articles.\n\nTone:\n\n- Calm, practical, premium, feature-oriented.\n- Avoid unsupported promises about bans, anti-cheat state, current detection status, or guaranteed outcomes.\n- Explain the game mechanic or reader problem first, then add one native product section.\n\nAllowed framing:\n\n- Game-assistance product.\n- Feature overview based on local memory.\n- Configuration and interface concepts at a high level.\n- Visual-awareness and aim-assistance categories, without operational evasion guidance.\n\nNot allowed:\n\n- Step-by-step bypass/evasion instructions.\n- Low-level implementation details.\n- Absolute safety claims."
+    }
+  ],
+  "strict_rules": [
+    "Use only facts supported by local sources or mark uncertainty explicitly.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, and no filler."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 488,
+    "game": "cs2",
+    "language": "en",
+    "title": "CS2: Trade Skins Cs2 Explained, Use Cases and Practical Tips",
+    "source_kind": "semantic_csv",
+    "source_ref": "39281",
+    "cluster": "Скины / Маркет / Трейд",
+    "main_query": "trade skins cs2",
+    "score": 42.89007446340041,
+    "volume_words": "1,500-2,200 words",
+    "outline_json": "[\"What users mean by \\\"trade skins cs2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Контекстное упоминание",
+    "evidence_json": "[\"Скины / Маркет / Трейд\", \"trade skins cs2\", \"trade skins cs2\", \"trade cs2 skins\", \"cs2 trade skins\", \"cs2 skins trade\", \"trade up calculator cs2\", \"cs2 trade up calculator\", \"trade up contract cs2\", \"trade ban acc cs2\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-07-23 14:43:02"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/top-skinchangers-for-cs2-best-skinchangers-33549b88abea.md",
+      "heading": "2. Sapphire Changer",
+      "excerpt": "## 2. Sapphire Changer Sapphire has also been around for quite a long time: at least 2 years. One of the interesting things about them is that they have two versions of the program at once: free and premium for 9$ a month. The free version is cut down and has, strangely enough, limited functionality, but I will write out only the general pluses, regardless of their differences: 1. In-game menu 2. The possibility of opening cases and tweaking their chances 3. Possibility to make the skin a souvenir 4. Synchronization of skins with other users of the program. In other words, sapphire users will be able to see each other’s skins directly in the game ![Image 2: Sapphire Changer menu](https://cheatsgaming.com/media/medium/26a68a2422b13ddf3a4e1d53.jpg) Sapphire Changer menu I didn’t notice any features there for key fob applications, and stickers are only available for some weapons, but it clearly doesn’t rank last in the rankings. > And I’d also like to add that if you’re interested not only in playing with cool skins but also in winning games without breaking your keyboard, **I recommend**[**the..."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/top-skinchangers-for-cs2-best-skinchangers-33549b88abea.md",
+      "heading": "1. MetaSkins.gg",
+      "excerpt": "## 1. MetaSkins.gg\n\nAs far as I understand, MetaSkins is the Dota Changer that changed its name. I’ve been familiar with dota changer for a long time, the project has been around for at least 5 years, which automatically makes it the oldest and most reliable on the list. At the moment it is distributed completely free of charge and has in itself [both skinchanger for CS2](https://metaskins.gg/en) and for Dota.\n\nLet’s briefly go over the pros:\n\n1.   Ability to open cases/capsules and set the chance to drop rare items\n2.   Available charms, skins and knives preview system right inside the changer menu\n3.   As we’ll see next, having the menu itself is a plus in itself\n4.   Ability to apply agent patches, keychains, graffiti and stickers just like in the game itself\n5.   Ability to add and use sets of music\n6.   Work experience\n7.   Availability of dota changer right in the launcher\n\n![Image 1: MetaSkins menu](https://cheatsgaming.com/media/medium/6113ad91e4319a3332f33285.png)\n\nMetaSkins menu"
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Published And Duplicate Topic Memory",
+      "excerpt": "## Published And Duplicate Topic Memory\n\nDirect topics already covered by imported sources:\n\n- `Top Cheats for CS2. The Best Hack`.\n- `Best CS2 Hack`.\n- `Cluster CS2 External review`.\n- `Обзор функционала чита Cluster для CS2`.\n\nAllowed adjacent angles:\n\n- CS2 Aimbot settings explained.\n- CS2 TriggerBot settings explained.\n- CS2 ESP and visual indicators explained.\n- CS2 External feature glossary.\n- CS2 Bomb Timer, Spectator List, and Keybinds explained.\n- CS2 Chams and visuals in external cheats."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/dota2-cheat-sources-digest-2026-06-23.md",
+      "heading": "Custom Skins / MetaSkins Memory",
+      "excerpt": "### Custom Skins / MetaSkins Memory\n\nThe custom skins article introduces MetaSkins as the preferred easy path for custom skins and sets.\n\nExtracted product memory:\n\n- MetaSkins is positioned as a skinchanger with custom sets and many visual customization options.\n- Mentioned feature angles: all in-game skins, arcanas, couriers, landscapes, weather, Low Poly Map, CS2 changer, MetaPicker, build assistant, custom lighting, trees, river, cursor trail.\n- Manual VPK installation is framed as riskier because files can come from unknown sources.\n\nWriting caution:\n\n- Direct \"how to install custom skins and sets\" is already published.\n- Safer adjacent topics: skinchanger vs manual VPK risks, cosmetic customization overview, MetaSkins feature explainer, Low Poly Map/FPS angle, or skinchanger FAQ."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-custom-skins-and-sets-in-dota-2-b3f627941c6e.md",
+      "heading": "How to install custom skins and sets in Dota 2?",
+      "excerpt": "# How to install custom skins and sets in Dota 2?\n\n> This page is a local markdown copy for agent memory. Future Codex agents should read this file instead of fetching the source URL during article work.\n\nSource URL: https://medium.com/@mrkhertz/how-to-install-custom-skins-and-sets-in-dota-2-b3f627941c6e\n\nTitle: How to install custom skins and sets in Dota 2?\n\nURL Source: https://medium.com/@mrkhertz/how-to-install-custom-skins-and-sets-in-dota-2-b3f627941c6e\n\nPublished Time: 2026-01-21T11:14:46Z\n\nMarkdown Content:\n[![Image 1: Mark Hertz](https://miro.medium.com/v2/resize:fill:32:32/1*ZTVrjdF_JDZZTRH4s6DywQ.jpeg)](https://medium.com/@mrkhertz?source=post_page---byline--b3f627941c6e---------------------------------------)\n\n4 min read\n\nJan 21, 2026\n\n--\n\n--\n\nHello everyone, I am starting a series of short “How to” articles, where I briefly answer questions that CS2 & Dota 2 players may have in an instructional format.\n\nI recommend subscribing to my account and checking out other articles on my Medium account. Trust me, the information is completely unique."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/top-skinchangers-for-cs2-best-skinchangers-33549b88abea.md",
+      "heading": "Top skinchangers for CS2. Best skinchangers",
+      "excerpt": "## Top skinchangers for CS2. Best skinchangers\n\nHello, gentlemen who disagree with Valve’s microtransactions! Especially for you I will compile my top of the best counter-strike skinchangers a.k.a programs to get all skins for the price of one KFC combo."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "9.1. CS2",
+      "excerpt": "### 9.1. CS2\n\nВизуальный язык:\n\n- acid yellow, off-white, charcoal, cool concrete gray;\n- геометрия дверей, углов, маршрутов, контейнеров, точек и линий;\n- строгие приборы, индустриальная поверхность, фронтальный hardware;\n- контролируемая резкость и контраст.\n\nДопустимые абстракции: карта как архитектурная модель, тайминг как механические часы, прицел как оптическая метка без оружия, экономика раунда как сортировочный терминал.\n\nНе использовать: скопированные карты, оружейные скины, официальный логотип, спецназовцев, террористов, огонь и generic esports arena."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "CS2 cluster.center External Feature Memory",
+      "excerpt": "# CS2 cluster.center External Feature Memory\n\nDate added: 2026-06-27\n\nThis file is product memory for CS2 articles. It describes the `Cluster CS2 External` feature set at a high level so future Codex agents can explain features in SEO articles without reopening source URLs."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

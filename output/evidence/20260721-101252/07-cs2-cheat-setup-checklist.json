@@ -1,0 +1,27 @@
+{
+  "topic": "CS2 Cheat Setup Checklist: What to Verify Before Launch",
+  "game": "cs2",
+  "language": "en",
+  "evidence": [
+    {
+      "path": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "CS2 Product Map",
+      "text": "cluster.center is the mapped CS2 External example, organized around Aimbot, TriggerBot, ESP, and Hub."
+    },
+    {
+      "path": "knowledge/graph_facts/cs2-cluster-center-external-facts-2026-06-27.json",
+      "heading": "Feature Group Relations",
+      "text": "The graph records the four main modules plus weapon profiles, ESP layers, bomb timer, spectator list, and keybind utilities."
+    },
+    {
+      "path": "SEO_ARTICLE_RULES.md",
+      "heading": "Safe Pre-launch Scope",
+      "text": "Discuss source verification, access, interface expectations, and support at a high level only; exclude low-level setup or protection-avoidance directions."
+    },
+    {
+      "path": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Source Caution",
+      "text": "Do not repeat marketing claims about detection or safety as facts."
+    }
+  ]
+}

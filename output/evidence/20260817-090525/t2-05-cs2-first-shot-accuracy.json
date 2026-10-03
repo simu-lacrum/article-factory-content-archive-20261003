@@ -1,0 +1,9 @@
+{
+  "topic": {"title": "CS2 First-Shot Accuracy vs Recoil Control", "game": "cs2", "language": "en", "main_query": "CS2 first-shot accuracy", "risk_level": "restricted"},
+  "evidence": [
+    {"source": "pasted-text-1.txt", "heading": "T2-05 editorial contract", "excerpt": "Explain why first-shot accuracy and recoil control solve different problems and how state and timing affect both."},
+    {"source": "knowledge/agent_memory/products/cs2-cluster-center-external.md", "heading": "Product mapping", "excerpt": "CS2 content maps to cluster.center; the article must use native, qualified product integration."},
+    {"source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md", "heading": "Evidence limits", "excerpt": "Avoid claims about current product status, detection, or compatibility unless freshly verified."}
+  ],
+  "strict_rules": ["No absolute safety claims", "No evasion guidance", "Exactly one assigned commercial backlink"]
+}

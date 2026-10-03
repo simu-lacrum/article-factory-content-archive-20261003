@@ -1,0 +1,9 @@
+{
+  "topic": {"title": "Deadlock Projectile Aim: Travel Time, Lead and Cover", "game": "deadlock", "language": "en", "main_query": "Deadlock projectile aim", "risk_level": "restricted"},
+  "evidence": [
+    {"source": "pasted-text-1.txt", "heading": "T2-01 editorial contract", "excerpt": "Explain projectile travel time, lead, cover, validation, false confidence, and practical risk without operational anti-cheat guidance."},
+    {"source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md", "heading": "Product mapping", "excerpt": "Deadlock content maps to cluster.center and product claims must remain grounded and qualified."},
+    {"source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md", "heading": "Deadlock evidence digest", "excerpt": "Use durable gameplay concepts and avoid unsupported claims about present status, compatibility, or detection."}
+  ],
+  "strict_rules": ["No absolute safety claims", "No bypass instructions", "Exactly one assigned commercial backlink"]
+}

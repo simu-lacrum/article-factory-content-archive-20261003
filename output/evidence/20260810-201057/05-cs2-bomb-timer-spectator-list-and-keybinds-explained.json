@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 24,
+    "game": "cs2",
+    "language": "en",
+    "title": "CS2 Bomb Timer, Spectator List and Keybinds Explained",
+    "source_kind": "curated_topic_seed",
+    "source_ref": "knowledge/topic_seeds/deadlock-cs2-cluster-center.json",
+    "cluster": "CS2 cluster.center: Hub utilities",
+    "main_query": "cs2 bomb timer spectator list keybinds",
+    "score": 88.0,
+    "volume_words": "1,400-2,000 words",
+    "outline_json": "[\"What Hub utilities mean in CS2\", \"Bomb timer and round decisions\", \"Spectator List as observer awareness\", \"Keybinds and feature control\", \"Where cluster.center fits\", \"FAQ\"]",
+    "ad_integration": "Native cluster.center integration after utility explainer",
+    "evidence_json": "[\"knowledge/agent_memory/products/cs2-cluster-center-external.md\", \"knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md\", \"Hub elements: Bomb timer, Spectator List, Keybinds\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-07-23 14:43:02"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Published And Duplicate Topic Memory",
+      "excerpt": "## Published And Duplicate Topic Memory\n\nDirect topics already covered by imported sources:\n\n- `Top Cheats for CS2. The Best Hack`.\n- `Best CS2 Hack`.\n- `Cluster CS2 External review`.\n- `Обзор функционала чита Cluster для CS2`.\n\nAllowed adjacent angles:\n\n- CS2 Aimbot settings explained.\n- CS2 TriggerBot settings explained.\n- CS2 ESP and visual indicators explained.\n- CS2 External feature glossary.\n- CS2 Bomb Timer, Spectator List, and Keybinds explained.\n- CS2 Chams and visuals in external cheats."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Hub",
+      "excerpt": "## Hub\n\nCategory: utility / misc.\n\nElements:\n\n- Bomb timer: time remaining for bomb explosion.\n- Spectator List: shows observers / viewers.\n- Keybinds: list of configured hotkeys and active binds."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "Misc",
+      "excerpt": "### Misc\n\nThe misc utilities are small, but useful.\n\ncluster.center memory lists:\n\n*   Bomb timer for the time left before explosion;\n*   Spectator List for observer awareness;\n*   Keybinds for tracking active hotkeys.\n\nThese are not flashy features, but they make a CS2 hack easier to control during real rounds."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "Hub",
+      "excerpt": "## Hub\n\nCategory: utility / misc.\n\nSource-confirmed elements:\n\n- `Bomb timer`: shows remaining time until bomb explosion. The Medium overview frames it as a utility for deciding whether there is time to defuse, escape, or commit to a play.\n- `Spectator List`: shows who is currently watching the player. In article language, explain it as awareness about observers, not as an instruction for evasion.\n- `Keybinds`: shows assigned hotkeys and active binds for quick control of features."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/cs2-cluster-sources/обзор-функционала-чита-cluster-для-cs2-детальныи-разбор-лучшего-external-решения-f97205b8aa90.md",
+      "heading": "4. Hub (Миск и полезности)",
+      "excerpt": "## 4. Hub (Миск и полезности)\n\nВкладка Hub (Misc) собирает в себе важнейшие утилитарные функции:\n\n*   **Bomb timer:** Точный до миллисекунды таймер взрыва бомбы. Больше никаких гаданий — успеете вы разминировать/убежать или нет.\n*   **Spectator List:** Показывает, кто из мертвых игроков или зрителей наблюдает за вами прямо сейчас. Если за вами смотрятвы можете немного сбавить обороты и отыграть максимально “легитно”.\n*   **Keybinds:** Удобный список всех назначенных горячих клавиш для быстрого переключения функций на лету."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-aimbot-wallhack-for-free-d88e11b39100.md",
+      "heading": "ESP or wallhack",
+      "excerpt": "### ESP or wallhack\n\nIt basically renders enemies through walls, but it also has a ton of other uses, such as displaying HP, weapons, whether a player has a bomb or a defuse kit, how much time is left until the bomb defuses, what items they’ve purchased, and so on.\n\nCluster also offers a sound-ESP — it’s like a wh, if you want to play completely legit. It displays footsteps, which lets you justify how you knew the enemy’s location, even if you didn’t actually hear their footsteps.\n\n**Miscellaneous**\n\nJust the features that don’t fit into other categories. There are tons of useful little things here, such as\n\n1.   Displaying your keybinds so you can keep an eye on them\n2.   Showing your spectators (who are watching you)\n3.   A bomb timer\n\nAnd much more — there are plenty of useful features."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2, use `cluster.center` in one native product block after the educational explanation.\n- Use feature taxonomy, examples, FAQs, and image placement notes.\n- Do not use tables; use lists.\n- Good image slots: Aimbot FOV circle diagram, hitbox-zone diagram, ESP label screenshot/concept, TriggerBot settings close-up, Bomb timer / keybind overlay."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "ESP",
+      "excerpt": "## ESP Category: visual awareness. Source-confirmed framing: - The Medium overview frames ESP as the visual-information module. - Source-confirmed elements include Box, Name, Skeleton, Chams, HealthBar, AmmoBar, Blind, Zoom, Reload, Weapon, Weapon icon, Bomb, Defuse, and Sound ESP / World ESP concepts. Elements: - `Box`: draws a box around a player model to make position easier to read. - `Name`: shows the player's name. - `Health`: shows a numeric or textual health value. - `HealthBar`: shows health as a bar for faster scanning. - `AmmoBar`: shows remaining ammo as a bar. - `Weapon`: shows the weapon name. - `Weapon icon`: shows the weapon as an icon instead of or alongside text. - `Blind`: indicates that a player is flashed/blinded. - `Zoom`: indicates that a player is scoped with a sniper rifle or other zoomed weapon. - `Reload`: indicates that a player is reloading. - `Bomb`: shows bomb-related information, such as dropped bomb or bomb location where supported. - `Defuse`: shows defuse-related state, such as an active defuse attempt where supported. - `Ping`: likely displays player/network ping or latency information. This..."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "ESP",
+      "excerpt": "### ESP\n\nESP is the visual-awareness part of a hack for CS2. The local feature list includes Box, Name, HealthBar, AmmoBar, Weapon, Chams, Skeleton, Bomb, and Defuse indicators.\n\nGood ESP is readable. Bad ESP turns the screen into noise.\n\nStart with only what you can actually use:\n\n*   Box or Skeleton for player position;\n*   HealthBar for quick fights;\n*   Weapon if you care about peeking decisions;\n*   Bomb and Defuse information for round decisions."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

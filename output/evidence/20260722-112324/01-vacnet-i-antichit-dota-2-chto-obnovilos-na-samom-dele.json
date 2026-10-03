@@ -1,0 +1,61 @@
+{
+  "topic": {
+    "game": "dota2",
+    "language": "ru",
+    "title": "VACNET и античит Dota 2: что обновилось на самом деле",
+    "cluster": "античит Dota 2 / VACNET фактчекинг",
+    "main_query": "античит Dota 2",
+    "risk_level": "elevated",
+    "volume_words": "800-1000 слов"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/sources/vac-live-vacnet-verified-2026-07-22.md",
+      "heading": "Confirmed Dota 2 anti-cheat and enforcement facts",
+      "excerpt": "No primary Valve source in the verified set says that the CS2-branded VAC Live/VACNET pipeline is deployed in Dota 2."
+    },
+    {
+      "source": "https://steamcommunity.com/ogg/570/announcements/detail/3677788723152833274",
+      "heading": "Cheaters Will Never Be Welcome in Dota, 21 February 2023",
+      "excerpt": "Valve permanently banned more than 40,000 accounts and described a honeypot: client data normal play never read but the exploit did."
+    },
+    {
+      "source": "https://steamcommunity.com/games/dota2/announcements/detail/3659774959178253451",
+      "heading": "Gameplay Update, 28 February 2023",
+      "excerpt": "Valve disabled the record command, many console commands that exposed client state, and pregame access to player profiles in matchmaking. This corrects the March 2024 date in the initial brief."
+    },
+    {
+      "source": "https://steamcommunity.com/ogg/570/announcements/detail/3692442542242977037",
+      "heading": "Smurfing is Not Welcome in Dota, 1 September 2023",
+      "excerpt": "Valve permanently banned 90,000 smurf accounts, traced them to main accounts, and described possible penalties from behavior-score adjustments to permanent bans."
+    },
+    {
+      "source": "https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74",
+      "heading": "Valve Anti-Cheat (VAC)",
+      "excerpt": "Steam Support provides the broad VAC definition; this does not establish the CS2 VAC Live/VACNET pipeline in Dota 2."
+    },
+    {
+      "source": "knowledge/graph_facts/dota2-source-facts-2026-06-23.json",
+      "heading": "VAC and server-check concept links",
+      "excerpt": "The graph supports only a high-level client/server/behavioral model and explicitly forbids operational evasion guidance."
+    },
+    {
+      "source": "https://www.pcgamer.com/vacnet-csgo/",
+      "heading": "Historical CS:GO VacNet compute figures",
+      "excerpt": "The approximately 600,000 matches, four CPU-minutes per match, and 1,700 CPU figures are from 2018 CS:GO reporting, not Dota 2 and not 2026."
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "Product mapping",
+      "excerpt": "Dota 2 articles use Melonity; claims must remain high-level, sourced, and free of safety guarantees or evasion details."
+    }
+  ],
+  "strict_rules": [
+    "State plainly that VAC Live/VACNET is not publicly confirmed for Dota 2.",
+    "Do not attribute the 40,000 bans or 90,000 smurf detections to VACNET or a neural network.",
+    "Present server-signal categories only as expert hypotheses, not Valve's published checklist.",
+    "Do not provide operational anti-cheat evasion or cheat-implementation instructions.",
+    "Do not use Markdown tables."
+  ]
+}
+

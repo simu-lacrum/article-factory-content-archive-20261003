@@ -1,0 +1,27 @@
+{
+  "topic": "Внешний или внутренний чит для CS2: как выбрать правильно",
+  "game": "cs2",
+  "language": "ru",
+  "evidence": [
+    {
+      "path": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "CS2 External Positioning",
+      "text": "cluster.center описан как CS2 External с группами Aimbot, TriggerBot, ESP и Hub. Формат продукта не является гарантией безопасности."
+    },
+    {
+      "path": "knowledge/graph_facts/cs2-cluster-center-external-facts-2026-06-27.json",
+      "heading": "Граф функций CS2",
+      "text": "Граф связывает cluster.center с CS2, основными модулями, настройками читаемости и utility-функциями."
+    },
+    {
+      "path": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Редакционные ограничения",
+      "text": "Нельзя повторять готовый рейтинг или обзор продукта и нельзя давать абсолютные обещания о безопасности."
+    },
+    {
+      "path": "knowledge/agent_memory/products/product-map.md",
+      "heading": "Продуктовая карта",
+      "text": "Для CS2 используется cluster.center."
+    }
+  ]
+}

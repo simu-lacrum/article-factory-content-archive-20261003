@@ -1,0 +1,27 @@
+{
+  "topic": "Какие функции чита для Deadlock действительно важны игроку",
+  "game": "deadlock",
+  "language": "ru",
+  "evidence": [
+    {
+      "path": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "Deadlock Feature Memory",
+      "text": "Подтверждены high-level группы aim assistance, ESP и misc, включая FOV, Smooth, Target Lock, Box, Hero Icon, HealthBar, Glow, FOV changer, Auto Dash Jump и Auto Parry."
+    },
+    {
+      "path": "knowledge/graph_facts/deadlock-cs2-cluster-center-facts-2026-06-23.json",
+      "heading": "Граф Deadlock",
+      "text": "Граф связывает cluster.center с Deadlock, а aim и ESP — с подтверждёнными параметрами и слоями."
+    },
+    {
+      "path": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Память темы и безопасности",
+      "text": "Прямой рейтинг Deadlock уже опубликован; допустим соседний разбор функций без технической реализации и гарантий."
+    },
+    {
+      "path": "knowledge/agent_memory/products/product-map.md",
+      "heading": "Продуктовая карта",
+      "text": "Для Deadlock используется cluster.center."
+    }
+  ]
+}

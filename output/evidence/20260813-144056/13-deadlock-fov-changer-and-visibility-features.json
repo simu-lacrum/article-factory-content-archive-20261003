@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 18,
+    "game": "deadlock",
+    "language": "en",
+    "title": "Deadlock FOV Changer and Visibility Features",
+    "source_kind": "curated_topic_seed",
+    "source_ref": "knowledge/topic_seeds/deadlock-cs2-cluster-center.json",
+    "cluster": "Deadlock cluster.center: visibility and world customization",
+    "main_query": "deadlock fov changer",
+    "score": 88.0,
+    "volume_words": "1,400-2,000 words",
+    "outline_json": "[\"Why players search for a Deadlock FOV changer\", \"FOV, world color, skybox, and skybox color\", \"Visual comfort versus competitive awareness\", \"Image placement ideas for visibility comparisons\", \"Where cluster.center fits\", \"FAQ\"]",
+    "ad_integration": "Native cluster.center integration after visibility explainer",
+    "evidence_json": "[\"knowledge/agent_memory/products/deadlock-cluster-center-internal.md\", \"Misc: FOV changer, world color, disable skybox, skybox color\"]",
+    "risk_level": "elevated",
+    "status": "new",
+    "created_at": "2026-07-23 14:43:02"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Published Topic Memory",
+      "excerpt": "## Published Topic Memory\n\nThe direct ranking/listicle topic is already published:\n\n- `Top Cheats for Deadlock. The Best Deadlock Hack`.\n\nDo not repeat direct angles such as:\n\n- top cheats for Deadlock\n- best Deadlock hack\n- Deadlock hack ranking\n\nAllowed adjacent angles:\n\n- Deadlock aimbot settings explained.\n- Deadlock ESP explained.\n- Deadlock FOV changer and visibility features.\n- Deadlock auto parry and movement assistance.\n- Deadlock cheat feature glossary.\n- Deadlock cluster.center feature overview."
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- Use these features as factual local product memory for Deadlock articles.\n- Prefer high-level descriptions such as \"aim-assistance modes\", \"ESP visual layers\", \"FOV and world-color customization\", \"auto dash jump\", and \"auto parry\".\n- Do not write installation steps, bypass steps, anti-cheat evasion steps, or low-level technical implementation.\n- Suggested adjacent article angles:\n  - Deadlock ESP explained.\n  - Deadlock aimbot settings explained at a high level.\n  - Deadlock FOV and visibility features.\n  - Deadlock auto parry and movement assistance.\n  - Deadlock cheat feature glossary."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/top-4-cheats-for-deadlock-comparison-of-features-prices-and-the-best-software-choice-0f737d360121.md",
+      "heading": "**Features:**",
+      "excerpt": "### **Features:** * **Smart Aimbot:** Calculates projectile lead and flight delay. It works not only on **enemy heroes** but also automatically assists with **creeps (last-hitting)** and flying **Soul orbs**, providing a massive advantage in lane farming. Press enter or click to view image in full size ![Image 3](https://miro.medium.com/v2/resize:fit:700/0*d8i3pJA_ZcstNyGb.gif) Silent Aimbot in cluster.center Deadlock cheat * **Advanced WH (ESP):** Full information about opponents through walls (hitboxes, health, ability and item cooldowns). Press enter or click to view image in full size ![Image 4](https://miro.medium.com/v2/resize:fit:700/0*yxPorc9Vqf2GSI3N.gif) WH Operation in cluster.center: Deadlock * **World Color:** The ability to customize the color palette of the map for better visibility and to highlight dark areas. Press enter or click to view image in full size ![Image 5](https://miro.medium.com/v2/resize:fit:700/0*-ob3htHkZRZAwubN.jpeg) The “Misc” section in cluster.center Deadlock * **FOV Changer:** Field of view adjustment for better spatial awareness around your hero. ![Image 6](https://miro.medium.com/v2/resize:fit:400/0*U9GdQ-xV3LVJLVq6.gif) Fov Changer in cluster.center * **Auto Parry:** Automatic, instantaneous parrying of melee attacks, ensuring enemies are guaranteed to be stunned when they try to punch you. Press enter or click to view image in full size ![Image 7](https://miro.medium.com/v2/resize:fit:700/0*qBH7na2zGE-QmO9r.gif)..."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/tier2-target-links-2026-08-05/top-4-cheats-for-deadlock-comparison-of-features-prices-and-the-best-software-choice-0f737d360121.md",
+      "heading": "**Features:**",
+      "excerpt": "### **Features:** * **Smart Aimbot:** Calculates projectile lead and flight delay. It works not only on **enemy heroes** but also automatically assists with **creeps (last-hitting)** and flying **Soul orbs**, providing a massive advantage in lane farming. Press enter or click to view image in full size ![Image 3](https://miro.medium.com/v2/resize:fit:700/0*d8i3pJA_ZcstNyGb.gif) Silent Aimbot in cluster.center Deadlock cheat * **Advanced WH (ESP):** Full information about opponents through walls (hitboxes, health, ability and item cooldowns). Press enter or click to view image in full size ![Image 4](https://miro.medium.com/v2/resize:fit:700/0*yxPorc9Vqf2GSI3N.gif) WH Operation in cluster.center: Deadlock * **World Color:** The ability to customize the color palette of the map for better visibility and to highlight dark areas. Press enter or click to view image in full size ![Image 5](https://miro.medium.com/v2/resize:fit:700/0*-ob3htHkZRZAwubN.jpeg) The “Misc” section in cluster.center Deadlock * **FOV Changer:** Field of view adjustment for better spatial awareness around your hero. ![Image 6](https://miro.medium.com/v2/resize:fit:400/0*U9GdQ-xV3LVJLVq6.gif) Fov Changer in cluster.center * **Auto Parry:** Automatic, instantaneous parrying of melee attacks, ensuring enemies are guaranteed to be stunned when they try to punch you. Press enter or click to view image in full size ![Image 7](https://miro.medium.com/v2/resize:fit:700/0*qBH7na2zGE-QmO9r.gif)..."
+    },
+    {
+      "source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md",
+      "heading": "Misc",
+      "excerpt": "## Misc\n\nGeneral customization and automation features:\n\n- FOV changer.\n- World color.\n- Disable skybox.\n- Skybox color.\n- Auto dash jump.\n- Auto parry."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Misc",
+      "excerpt": "### Misc\n\nCustomization and automation:\n\n- FOV changer\n- world color\n- disable skybox\n- skybox color\n- auto dash jump\n- auto parry"
+    },
+    {
+      "source": "knowledge/agent_memory/sources/tier2-links-2026-08-05/топ-4-читов-для-deadlock-сравнение-функционала-цен-и-защиты-от-банов-8a3062388f8f.md",
+      "heading": "**Функционал:**",
+      "excerpt": "### **Функционал:**\n\n*   Включает полный базовый премиум-набор: **Aimbot на противников, крипов и сферы душ**, настраиваемый **WH**, изменение **World Color**, **FOV Changer** и реактивный **Auto Parry**.\n\nPress enter or click to view image in full size\n\n![Image 9](https://miro.medium.com/v2/resize:fit:2559/1*4eAnK5Yqb1Xq34u1bRpTwg.jpeg)\n\nPress enter or click to view image in full size\n\n![Image 10](https://miro.medium.com/v2/resize:fit:2559/1*Xc2RoVoi-JXKEVUlzwBQKA.jpeg)\n\nFov Changer Melonity Deadlock\n\n*   **Chams (Чамсы):** Специальные яркие текстурные заливки на модели врагов и объектов, позволяющие мгновенно считывать силуэты соперников даже в самых хаотичных замесах 6х6.\n\nPress enter or click to view image in full size\n\n![Image 11](https://miro.medium.com/v2/resize:fit:700/1*oT1mESbaOOCuwSv5UJhQQA.png)\n\nВкладка ESP Melonity Deadlock\n\n*   **Комбо на героев (Hero Combos):** Уникальная система автоматических скриптов, которая по нажатию одной клавиши выдает идеальные цепочки способностей и предметов с отменой анимаций (Animation Cancel) для сложных персонажей.\n\nPress enter or click to view image in full size\n\n![Image 12](https://miro.medium.com/v2/resize:fit:700/1*77grUgGopohr2JK8gmFw4g.png)\n\nВкладка Heroes Combo Melonity Deadlock\n\n*   **Защита от бана:** Использует продвинутый драйверный инжект с защитой от сигнатурных банов и функцию скрытия от записи экрана (OBS Bypass).\n*   **Цена:** Подписка обойдется примерно в 650**рублей за месяц**."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "Deadlock / CS2 cluster.center Digest 2026-06-23",
+      "excerpt": "# Deadlock / CS2 cluster.center Digest 2026-06-23\n\nThis digest is extracted from:\n\n- `knowledge/agent_memory/sources/mrkhertz-medium/top-cheats-for-deadlock-the-best-deadlock-hack-672f1111840e.md`\n- `knowledge/agent_memory/products/product-map.md`\n- `knowledge/agent_memory/products/deadlock-cluster-center-internal.md`\n- Materialized YouGame files in `knowledge/agent_memory/sources/external-forums/`"
+    },
+    {
+      "source": "knowledge/agent_memory/products/product-map.md",
+      "heading": "cluster.center Positioning",
+      "excerpt": "## cluster.center Positioning\n\nUse `cluster.center` as the product/brand target for Deadlock and CS2 SEO articles.\n\nDetailed local product memory:\n\n- Deadlock: `knowledge/agent_memory/products/deadlock-cluster-center-internal.md`\n- CS2: `knowledge/agent_memory/products/cs2-cluster-center-external.md`\n\nTone:\n\n- Calm, practical, premium, feature-oriented.\n- Avoid unsupported promises about bans, anti-cheat state, current detection status, or guaranteed outcomes.\n- Explain the game mechanic or reader problem first, then add one native product section.\n\nAllowed framing:\n\n- Game-assistance product.\n- Feature overview based on local memory.\n- Configuration and interface concepts at a high level.\n- Visual-awareness and aim-assistance categories, without operational evasion guidance.\n\nNot allowed:\n\n- Step-by-step bypass/evasion instructions.\n- Low-level implementation details.\n- Absolute safety claims."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}

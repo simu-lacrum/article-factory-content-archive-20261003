@@ -1,0 +1,8 @@
+{
+  "topic": {"title": "CS2 Cheat Download: Mirrors, Fake Launchers and Red Flags", "game": "cs2", "risk_level": "elevated"},
+  "evidence": [
+    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/how-to-install-cs2-aimbot-wallhack-for-free-d88e11b39100.md", "heading": "Before you start", "excerpt": "The target page emphasizes reaching the official website before its high-level setup flow."},
+    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/clustercheats-home-en.md", "heading": "Official navigation", "excerpt": "The homepage links its launcher, login, support, policy pages, and game-specific product pages."},
+    {"source": "SEO_ARTICLE_RULES.md", "heading": "Safety And Factual Limits", "excerpt": "Download guidance must remain cyber-hygiene focused and must not weaken or bypass security controls."}
+  ]
+}

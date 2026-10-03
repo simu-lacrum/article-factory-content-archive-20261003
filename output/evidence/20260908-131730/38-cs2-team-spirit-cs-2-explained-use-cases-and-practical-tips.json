@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "id": 344,
+    "game": "cs2",
+    "language": "en",
+    "title": "CS2: Team Spirit Cs 2 Explained, Use Cases and Practical Tips",
+    "source_kind": "semantic_csv",
+    "source_ref": "39199",
+    "cluster": "Про-игроки / Команды",
+    "main_query": "team spirit cs 2",
+    "score": 42.189667552153026,
+    "volume_words": "1,500-2,200 words",
+    "outline_json": "[\"What users mean by \\\"team spirit cs 2\\\"\", \"Current game context and common misconceptions\", \"Practical checklist and safe expectations\", \"Where cluster.center fits naturally without unsupported promises\", \"FAQ based on long-tail keywords\"]",
+    "ad_integration": "Контекстное упоминание",
+    "evidence_json": "[\"Про-игроки / Команды\", \"team spirit cs 2\", \"team spirit cs 2\", \"donk cs 2\", \"g2 cs 2\", \"faze cs 2\", \"состав team spirit cs 2\", \"team spirit cs 2 состав\", \"navi cs 2\", \"vitality cs 2\"]",
+    "risk_level": "normal",
+    "status": "new",
+    "created_at": "2026-07-23 14:43:02"
+  },
+  "evidence": [
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2 articles, use `cluster.center` as the mapped product.\n- Good article angles: CS2 External feature glossary, CS2 Aimbot settings explained, CS2 TriggerBot settings explained, CS2 ESP and visual indicators explained, CS2 Bomb Timer / Spectator List / Keybinds explained.\n- Avoid direct duplicate angles: \"Top Cheats for CS2\", \"Best CS2 Hack\", \"Obzor funktsionala chita Cluster dlya CS2\", and direct Cluster CS2 External review/listicle.\n- For image slots, prefer real product UI screenshots if provided. If generating conceptual images, do not fabricate exact cluster.center UI. Use clean CS2-inspired diagrams of FOV circle, ESP labels, hitbox zones, or bomb-timer UI concepts."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Published And Duplicate Topic Memory",
+      "excerpt": "## Published And Duplicate Topic Memory\n\nDirect topics already covered by imported sources:\n\n- `Top Cheats for CS2. The Best Hack`.\n- `Best CS2 Hack`.\n- `Cluster CS2 External review`.\n- `Обзор функционала чита Cluster для CS2`.\n\nAllowed adjacent angles:\n\n- CS2 Aimbot settings explained.\n- CS2 TriggerBot settings explained.\n- CS2 ESP and visual indicators explained.\n- CS2 External feature glossary.\n- CS2 Bomb Timer, Spectator List, and Keybinds explained.\n- CS2 Chams and visuals in external cheats."
+    },
+    {
+      "source": "knowledge/agent_memory/rules/article-visual-prompt-guide.md",
+      "heading": "Игровые клише",
+      "excerpt": "### Игровые клише\n\n- no esports arena;\n- no RGB gaming desk;\n- no hooded hacker;\n- no code rain;\n- no blue-red team split;\n- no weapon glamour shot;\n- no recognizable game character;\n- no official game logo;\n- no glowing holographic HUD clutter."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/mrkhertz-medium/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "TriggerBot",
+      "excerpt": "### TriggerBot\n\nTriggerBot is about shot timing. In cluster.center memory, the important settings include reaction time, delay between shots, minimum damage, hit chance, hitboxes, and visibility/team/flash checks.\n\nThis is the kind of feature players usually use for holding angles. Keep the idea simple: it should feel controlled, not random."
+    },
+    {
+      "source": "knowledge/agent_memory/sources/target-urls/how-to-install-cs2-cheats-hacks-for-free-9e187ffde710.md",
+      "heading": "TriggerBot",
+      "excerpt": "### TriggerBot\n\nTriggerBot is about shot timing. In cluster.center memory, the important settings include reaction time, delay between shots, minimum damage, hit chance, hitboxes, and visibility/team/flash checks.\n\nThis is the kind of feature players usually use for holding angles. Keep the idea simple: it should feel controlled, not random."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "Aimbot",
+      "excerpt": "## Aimbot\n\nCategory: aim assistance.\n\nKey functions:\n\n- Fov: aim-assist capture radius around the crosshair.\n- Smooth: controls how gradual aim movement feels.\n- Auto Pistol: repeated-fire comfort feature for semi-automatic pistols.\n- Fov Color: visual color of the FOV indicator.\n- Target priority: chooses targets by crosshair distance or hit chance.\n- Hitboxes: Head, Neck, Spine, Hips, Arms, Legs.\n- Checks: Visible, Team, Flash.\n- Weapons: separate settings/profiles by weapon type."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "TriggerBot",
+      "excerpt": "## TriggerBot\n\nCategory: shot timing assistance.\n\nKey functions:\n\n- Hitboxes: Head, Neck, Spine, Hips, Arms, Legs.\n- Checks: Visible, Team, Flash.\n- Multipoint scale: conceptual precision/forgiveness setting for accepted points inside hitboxes.\n- Reaction time: delay before assisted shot after a valid condition.\n- Between-shots delay: delay between assisted shots.\n- Minimum damage: damage threshold before triggering.\n- Hit chance: estimated chance-to-hit threshold.\n- Visualize multipoint hit: overlay showing valid target points."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/deadlock-cs2-cluster-center-digest-2026-06-23.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For Deadlock/CS2, use `cluster.center` in the native product block.\n- Keep article wording high-level and user-intent focused.\n- Use feature taxonomy, examples, and FAQ instead of low-level implementation.\n- Good image slots: product UI screenshot, ESP layer diagram, FOV comparison, Deadlock hero visibility example, settings menu close-up.\n- If generated images are used, prompts should be conceptual and should not fabricate exact cluster.center UI unless the user provides screenshots."
+    },
+    {
+      "source": "knowledge/agent_memory/products/cs2-cluster-center-external.md",
+      "heading": "CS2 cluster.center External Feature Memory",
+      "excerpt": "# CS2 cluster.center External Feature Memory\n\nDate added: 2026-06-27\n\nThis file is product memory for CS2 articles. It describes the `Cluster CS2 External` feature set at a high level so future Codex agents can explain features in SEO articles without reopening source URLs."
+    },
+    {
+      "source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md",
+      "heading": "SEO Usage Notes",
+      "excerpt": "## SEO Usage Notes\n\n- For CS2, use `cluster.center` in one native product block after the educational explanation.\n- Use feature taxonomy, examples, FAQs, and image placement notes.\n- Do not use tables; use lists.\n- Good image slots: Aimbot FOV circle diagram, hitbox-zone diagram, ESP label screenshot/concept, TriggerBot settings close-up, Bomb timer / keybind overlay."
+    }
+  ],
+  "strict_rules": [
+    "Use only supported facts or mark uncertainty explicitly.",
+    "Do not mention local sources, local evidence, evidence packs, or the knowledge base in the final article body; write from an expert editorial voice.",
+    "Do not invent current patch, price, ban-wave, anti-cheat, or product-status facts.",
+    "Do not provide operational anti-cheat evasion, exploit, or cheat-implementation instructions.",
+    "Do not use markdown tables; use lists instead.",
+    "Match the imported Medium style: direct, practical, conversational, lightly slangy, and no filler."
+  ]
+}
