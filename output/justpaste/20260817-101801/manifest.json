@@ -1,0 +1,118 @@
+{
+  "format": "justpaste-html-fragment",
+  "source_dir": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801",
+  "spec_path": "C:\\Users\\User\\.codex\\attachments\\026b06f4-7210-4cec-a156-06fb1a615e94\\pasted-text-1.txt",
+  "output_dir": "C:\\Users\\User\\Desktop\\articles\\output\\justpaste\\20260817-101801",
+  "article_count": 4,
+  "image_prompt_count": 8,
+  "articles": [
+    {
+      "title": "Deadlock Auto-Dispel Logic: Why Fast Reactions Still Fail",
+      "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801\\01-deadlock-auto-dispel-logic-fast-reactions-fail.md",
+      "html": "C:\\Users\\User\\Desktop\\articles\\output\\justpaste\\20260817-101801\\html\\01-deadlock-auto-dispel-logic-fast-reactions-fail.html",
+      "image_slots": [
+        {
+          "index": 1,
+          "role": "cover",
+          "placement": "сразу после front matter.",
+          "alt": "A precision glass selector chooses one defensive response while rejecting two premature triggers.",
+          "prompt": "Asset role: editorial cover for an English article about defensive item decision logic in Deadlock. Global generated index: 01. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: B3 symbolic object. Thesis: reaction speed has no value without threat context and response priority. Metaphor: a single transparent optical selector with three physical channels; one channel opens cleanly while two premature pink glass pulses stop at frosted gates before reaching it. Single hero: the optical decision selector, no game item replicas and no character. Aspect ratio: 16:9. Composition: selector occupies the lower-right 44% of the frame; broad headline field in the upper-left; preserve the directional dissolve and single-symbol clarity of reference-08 without copying its literal scene. Palette: Melonity pink #FF1469 is the dominant luminous field across about 58% of the frame and fully replaces all yellow or amber; secondary colors are cool white, graphite and faint blue-grey reflections. Materials: optical glass, satin aluminum, glazed ceramic, frosted polycarbonate. Camera: premium 70 mm studio product photograph, slight high angle, realistic lens behavior. Lighting: one large diffused key from upper left, controlled pink bounce, crisp contact shadow, no glowing fantasy fog. Typography mode: exact headline `REACTION NEEDS CONTEXT`, uppercase neutral neo-grotesk, three lines maximum, dark graphite, optically aligned; no other text. Reference 1: attach `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-08.png`; composition role only — single geometric hero, directional transition and generous text field. Reference 2: attach `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-07.png`; render/palette/typography role — macro device crop, bold headline scale, polished material lighting; replace its yellow/amber field with #FF1469. B fidelity target: 4/5 or better. Constraints: no copied source text, logos, people, animals, game UI, fake HUD, cartoon, cyberpunk, code, weapon glamour, extra labels or clutter. Priority: readable thesis and headline first, physically plausible selector second, decoration last. Model: Nano Banana Pro / gemini-3-pro-image. Output: 3840×2160 PNG. Preflight score: 94/100.",
+          "filename": "image-01-deadlock-auto-dispel-logic-fast-reactions-fail-cover.png",
+          "prompt_file": "image-01-deadlock-auto-dispel-logic-fast-reactions-fail-cover-prompt.txt",
+          "url_token": "IMAGE_01_URL"
+        },
+        {
+          "index": 2,
+          "role": "inline",
+          "placement": "после H2 `False positives spend resources before the real danger`.",
+          "alt": "Two glass pulses are stopped while one valid signal reaches a ceramic gate.",
+          "prompt": "Asset role: inline explanatory editorial image for false positives in defensive automation. Global generated index: 02. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: rejecting a harmless trigger preserves the response for a meaningful threat. Metaphor: a compact machined rail carries three glass pulses toward one ceramic latch; two pulses rest safely behind frosted blockers while the third aligns with the latch. Single hero: the three-channel rejection rail. Aspect ratio: 3:2. Composition: diagonal macro assembly across the lower two thirds, clean negative space above, outcome readable without arrows or captions. Palette: cool white, graphite, brushed aluminum and smoked glass; Melonity pink #FF1469 appears only inside the valid pulse and one narrow calibration seam, about 5% of the frame. Materials: machined aluminum, optical glass, frosted polycarbonate, glazed ceramic. Camera: 100 mm macro product photography, controlled shallow depth of field with all three gates legible. Lighting: soft raking key, low-contrast fill, precise edge highlights and credible contact shadows. Typography mode: no text. References: none, branch A. Constraints: no UI, digits, arrows, code, logos, people, animals, cartoon, neon background, weapons or busy machinery. Priority: immediate false-positive metaphor, premium physical realism, quiet composition. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.",
+          "filename": "image-02-deadlock-auto-dispel-logic-fast-reactions-fail-inline.png",
+          "prompt_file": "image-02-deadlock-auto-dispel-logic-fast-reactions-fail-inline-prompt.txt",
+          "url_token": "IMAGE_02_URL"
+        }
+      ]
+    },
+    {
+      "title": "Dota 2 Courier Information: The Delivery That Reveals the Next Fight",
+      "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801\\02-dota-2-courier-information-next-fight.md",
+      "html": "C:\\Users\\User\\Desktop\\articles\\output\\justpaste\\20260817-101801\\html\\02-dota-2-courier-information-next-fight.html",
+      "image_slots": [
+        {
+          "index": 3,
+          "role": "cover",
+          "placement": "сразу после front matter.",
+          "alt": "A glass delivery capsule crosses a precision rail toward a waiting item socket.",
+          "prompt": "Asset role: editorial cover for an English article about the decision value of courier information in Dota 2. Global generated index: 03. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: B3 symbolic object. Thesis: a delivery can reveal an upcoming power window before the fight begins. Metaphor: one sealed optical-glass delivery capsule travels along a curved satin-aluminum rail toward a vacant ceramic socket, with the return rail fading into a fine pattern behind it. Single hero: the delivery capsule and its receiving socket, no creature or literal game courier. Aspect ratio: 16:9. Composition: centered-low hero with a wide calm headline field above; borrow reference-04’s focused central transformation and negative space without copying its character or setting. Palette: Melonity pink #FF1469 fills about 60% of the frame and fully replaces yellow or amber; secondary colors are cool white, graphite and smoke-grey glass. Materials: optical glass, satin aluminum, glazed ceramic, frosted polycarbonate. Camera: premium 65 mm product photograph at rail height, subtle perspective compression. Lighting: large diffused source, controlled pink bounce, a narrow white rim on the moving capsule and credible contact shadows. Typography mode: exact headline `THE COURIER TELLS FIRST`, uppercase neutral neo-grotesk, three lines maximum, dark graphite, no subtitle or microcopy. Reference 1: attach `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-04.png`; composition role — centered hero, one semantic transformation and generous upper text field. Reference 2: attach `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-05.png`; render/palette/typography role — bold headline hierarchy, soft architectural depth and rounded material lighting; replace all yellow/amber with #FF1469 and do not copy the house. B fidelity target: 4/5 or better. Constraints: no source text, logos, people, animals, literal flying courier, game UI, fake map, cartoon, cyberpunk, code, coins or clutter. Priority: readable delivery-before-fight thesis, clear headline, physical plausibility. Model: Nano Banana Pro / gemini-3-pro-image. Output: 3840×2160 PNG. Preflight score: 93/100.",
+          "filename": "image-03-dota-2-courier-information-next-fight-cover.png",
+          "prompt_file": "image-03-dota-2-courier-information-next-fight-cover-prompt.txt",
+          "url_token": "IMAGE_03_URL"
+        },
+        {
+          "index": 4,
+          "role": "inline",
+          "placement": "после H2 `Observation is not certainty`.",
+          "alt": "One delivery capsule approaches two possible sockets without selecting either.",
+          "prompt": "Asset role: inline explanatory editorial image for uncertainty in courier-route inference. Global generated index: 04. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: a visible route can narrow possibilities without proving one destination. Metaphor: a glass capsule pauses at a precision Y-junction whose two ceramic sockets remain equally open; a small physical index mark shows the last confirmed position but no arrow chooses the branch. Single hero: the Y-junction delivery mechanism. Aspect ratio: 3:2. Composition: junction spans the lower two thirds, two branches balanced but not perfectly symmetrical, quiet negative space above. Palette: cool white, brushed aluminum, graphite and smoked glass; Melonity pink #FF1469 appears only on the last-confirmed index and a slim gasket, about 4% of the frame. Materials: optical glass, machined aluminum, glazed ceramic. Camera: 95 mm macro product photography, both sockets and capsule sharp, background gently soft. Lighting: broad side key, controlled reflections, true contact shadows. Typography mode: no text. References: none, branch A. Constraints: no labels, arrows, map, UI, code, logos, people, animals, cartoon, neon or decorative cargo. Priority: unresolved choice legible at a glance, tactile finish, visual restraint. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 91/100.",
+          "filename": "image-04-dota-2-courier-information-next-fight-inline.png",
+          "prompt_file": "image-04-dota-2-courier-information-next-fight-inline-prompt.txt",
+          "url_token": "IMAGE_04_URL"
+        }
+      ]
+    },
+    {
+      "title": "Телепорт в Dota 2: как одно перемещение меняет три линии",
+      "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801\\03-teleport-v-dota-2-kak-menyaetsya-karta.md",
+      "html": "C:\\Users\\User\\Desktop\\articles\\output\\justpaste\\20260817-101801\\html\\03-teleport-v-dota-2-kak-menyaetsya-karta.html",
+      "image_slots": [
+        {
+          "index": 5,
+          "role": "cover",
+          "placement": "сразу после front matter.",
+          "alt": "Стеклянный модуль перемещения одновременно меняет давление в трёх керамических каналах.",
+          "prompt": "Asset role: editorial cover for a Russian article about how one teleport changes several areas of the Dota 2 map. Global generated index: 05. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: B3 symbolic object. Thesis: one relocation strengthens one lane, abandons another and opens a third opportunity. Metaphor: a single transparent transfer capsule has just moved between three connected ceramic channels; the arrival socket compresses, the departure socket opens and a third side channel gains a clear path. Single hero: the three-channel transfer instrument, no literal map and no character. Aspect ratio: 16:9. Composition: hero object sits in the lower-left-to-center band with a large headline field on the right; use reference-06 for the modular flow and clean editorial rhythm without copying its objects. Palette: Melonity pink #FF1469 is the dominant field covering about 56% of the frame and fully replaces yellow or amber; secondary colors are cool white, graphite and pale smoke-blue. Materials: optical glass, satin aluminum, glazed ceramic, frosted polycarbonate. Camera: premium 75 mm product photograph, slight overhead angle that keeps the three channels readable. Lighting: one broad softbox, controlled pink bounce, precise white edge highlights and realistic contact shadows. Typography mode: exact headline `ТЕЛЕПОРТ МЕНЯЕТ КАРТУ`, uppercase neutral neo-grotesk, three lines maximum, dark graphite, no subtitle. Reference 1: attach `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-06.png`; composition role — modular route, directional flow and disciplined negative space. Reference 2: attach `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-07.png`; render/palette/typography role — premium macro crop, large headline hierarchy and polished material light; replace every yellow/amber region with #FF1469. B fidelity target: 4/5 or better. Constraints: no copied source text, logos, people, animals, game UI, fake minimap, arrows with labels, cartoon, cyberpunk, code, weapons or clutter. Priority: three consequences from one transfer, perfectly readable Russian headline, physical realism. Model: Nano Banana Pro / gemini-3-pro-image. Output: 3840×2160 PNG. Preflight score: 94/100.",
+          "filename": "image-05-teleport-v-dota-2-kak-menyaetsya-karta-cover.png",
+          "prompt_file": "image-05-teleport-v-dota-2-kak-menyaetsya-karta-cover-prompt.txt",
+          "url_token": "IMAGE_05_URL"
+        },
+        {
+          "index": 6,
+          "role": "inline",
+          "placement": "после H2 `Начатый телепорт не равен завершённому`.",
+          "alt": "Капсула остановилась между точкой отправления и приёмным гнездом.",
+          "prompt": "Asset role: inline explanatory editorial image for an interrupted or unresolved teleport. Global generated index: 06. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: a started transfer is not proof of arrival. Metaphor: one optical-glass capsule is suspended halfway between an open departure ring and an unoccupied receiving socket; a physical brake fin has engaged before contact. Single hero: the interrupted transfer mechanism. Aspect ratio: 3:2. Composition: horizontal mechanism across the lower two thirds, visible gap before the destination, calm empty background above. Palette: cool white, graphite, brushed aluminum and smoked glass; Melonity pink #FF1469 appears only on the brake fin and one narrow status seam, about 5% of the frame. Materials: optical glass, machined aluminum, glazed ceramic. Camera: 100 mm macro, both rings and the suspended capsule sharp. Lighting: soft raking key, restrained fill, clean edge reflections, credible contact shadows on the base. Typography mode: no text. References: none, branch A. Constraints: no UI, numbers, captions, arrows, logos, people, animals, cartoon, neon, code or map iconography. Priority: unfinished transfer instantly legible, tactile precision, quiet frame. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.",
+          "filename": "image-06-teleport-v-dota-2-kak-menyaetsya-karta-inline.png",
+          "prompt_file": "image-06-teleport-v-dota-2-kak-menyaetsya-karta-inline-prompt.txt",
+          "url_token": "IMAGE_06_URL"
+        }
+      ]
+    },
+    {
+      "title": "Души в Deadlock: как проигрывают линию между добиванием и подтверждением",
+      "source": "C:\\Users\\User\\Desktop\\articles\\output\\articles\\20260817-101801\\04-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya.md",
+      "html": "C:\\Users\\User\\Desktop\\articles\\output\\justpaste\\20260817-101801\\html\\04-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya.html",
+      "image_slots": [
+        {
+          "index": 7,
+          "role": "cover",
+          "placement": "сразу после front matter.",
+          "alt": "Две стеклянные сферы претендуют на одно узкое окно подтверждения.",
+          "prompt": "Asset role: editorial cover for a Russian article about the lane-economy cycle of securing and denying souls in Deadlock. Global generated index: 07. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: B3 symbolic object. Thesis: winning the lane requires choosing between confirmation, denial and safe positioning within one short attention window. Metaphor: two optical-glass spheres approach one narrow ceramic confirmation gate from different channels while a protective frosted shield limits the available angle. Single hero: the dual-sphere confirmation gate, no character and no literal game orb screenshot. Aspect ratio: 16:9. Composition: hero occupies the lower-right 46%; wide headline field upper-left; follow reference-08’s directional material transition and single decision point without copying its literal object. Palette: Melonity pink #FF1469 dominates about 59% of the frame and completely replaces yellow or amber; secondary colors are cool white, graphite and muted blue-grey glass. Materials: optical glass, glazed ceramic, satin aluminum, frosted polycarbonate. Camera: premium 70 mm studio product photograph, shallow high angle that keeps both spheres and gate sharp. Lighting: large soft source from upper left, controlled pink bounce, narrow white edge highlights and real contact shadows. Typography mode: exact headline `ДУШИ РЕШАЮТ ЛИНИЮ`, uppercase neutral neo-grotesk, three lines maximum, dark graphite, no other text. Reference 1: attach `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-08.png`; composition role — directional dissolve, single symbolic conflict and generous text area. Reference 2: attach `knowledge/agent_memory/references/article-editorial-warm-story-v1/reference-04.png`; render/palette/typography role — centered semantic accent, calm depth and clear headline hierarchy; replace yellow/amber with #FF1469 and do not copy its figure. B fidelity target: 4/5 or better. Constraints: no copied source text, logos, people, animals, game UI, fake HUD, cartoon, cyberpunk, code, weapons, coins or clutter. Priority: two competing spheres and one decision window first, readable Russian headline second, premium physical plausibility third. Model: Nano Banana Pro / gemini-3-pro-image. Output: 3840×2160 PNG. Preflight score: 95/100.",
+          "filename": "image-07-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya-cover.png",
+          "prompt_file": "image-07-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya-cover-prompt.txt",
+          "url_token": "IMAGE_07_URL"
+        },
+        {
+          "index": 8,
+          "role": "inline",
+          "placement": "после H2 `Подтверждение, отрицание и позиция спорят за одну секунду внимания`.",
+          "alt": "Три механических окна внимания конкурируют за одну стеклянную сферу.",
+          "prompt": "Asset role: inline explanatory editorial image for competing attention during a Deadlock lane soul cycle. Global generated index: 08. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: one brief attention window must balance confirmation, denial and safe position. Metaphor: one glass sphere sits on a precision turntable facing three distinct ceramic apertures; only one aperture can align at a time, while a frosted guard makes the unsafe angle visibly narrower. Single hero: the three-aperture attention turntable. Aspect ratio: 3:2. Composition: macro mechanism fills the lower two thirds, apertures readable by shape rather than labels, clean negative space above. Palette: cool white, graphite, brushed aluminum and smoked glass; Melonity pink #FF1469 appears only on the active alignment notch and a small gasket, about 4% of the frame. Materials: optical glass, machined aluminum, glazed ceramic, frosted polycarbonate. Camera: 100 mm macro product photograph, all three apertures and sphere sharp. Lighting: soft side key, low-contrast fill, precise reflections and credible contact shadows. Typography mode: no text. References: none, branch A. Constraints: no UI, numbers, arrows, captions, logos, people, animals, cartoon, neon, code, fake game objects or busy machinery. Priority: three-way competition readable without annotation, tactile realism, quiet editorial frame. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.",
+          "filename": "image-08-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya-inline.png",
+          "prompt_file": "image-08-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya-inline-prompt.txt",
+          "url_token": "IMAGE_08_URL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Image ID: 10
+Article: 05-cs2-first-shot-accuracy-vs-recoil-control.md
+Role: inline
+Placement: после H2 Recovery decides when the next accurate attempt begins.
+Alt: Aperture reopening beside a compressed spring on one instrument base.
+Suggested output filename: image-10-cs2-first-shot-accuracy-vs-recoil-control-inline.png
+
+Prompt:
+Asset role: inline explanatory image for shot recovery versus recoil sequence. Global generated index: 10. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: recovery resets the chance for a clean next attempt; recoil governs the continuing sequence. Metaphor: a ceramic aperture is half reopened on one side of a machined base while a compact metal spring remains compressed on the other. Single hero: the dual-state precision instrument. Aspect ratio: 3:2. Composition: macro horizontal arrangement with a calm empty top third; no visual divider and no text. Palette: cool white, graphite, smoked glass and satin aluminum; Cluster violet #635FD5 appears only on the aperture index pin and one spring collar, about 4% of the frame. Materials: ceramic iris, machined aluminum, optical glass. Camera: 90 mm macro, shallow depth of field but both mechanisms sharp. Lighting: soft raking key and subtle reflected fill, real contact shadows. Typography mode: no text. References: none, branch A. Constraints: no guns, bullets, HUD, arrows, numbers, code, people, cartoon or neon. Priority: two readable states, premium restraint, tactile credibility. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.

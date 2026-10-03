@@ -1,0 +1,9 @@
+Image ID: 14
+Article: 07-after-cs2-update-check-status-before-relaunching.md
+Role: inline
+Placement: после H2 Read the status label and its timestamp together.
+Alt: Precision version token aligned with a separate freshness marker.
+Suggested output filename: image-14-after-cs2-update-check-status-before-relaunching-inline.png
+
+Prompt:
+Asset role: inline explanatory image for version and freshness checks. Global generated index: 14. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: compatibility needs both the correct version and a current status signal. Metaphor: a clear glass key token fits a machined slot while a separate small ceramic freshness marker aligns with a second notch; one without the other leaves the mechanism open. Single hero: the dual-check mechanism. Aspect ratio: 3:2. Composition: macro top-down three-quarter view, the two alignment points separated by clean negative space. Palette: pearl white, graphite, transparent glass and satin aluminum; Cluster violet #635FD5 appears only on the two matching notches, about 4% of the frame. Materials: optical glass, glazed ceramic, brushed aluminum. Camera: 95 mm macro, high detail with both notches sharp. Lighting: soft overhead diffusion, controlled reflections and real contact shadows. Typography mode: no text. References: none, branch A. Constraints: no digits, dates, UI, code, logos, padlocks, shields, people, cartoon or neon. Priority: two-condition logic, tactile clarity, minimal composition. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.

@@ -1,0 +1,9 @@
+Image ID: 18
+Article: 09-judge-cheat-software-support-before-buying.md
+Role: inline
+Placement: после H2 A useful status page needs scope, time and version context.
+Alt: Precision lifecycle ring aligned with status, version and freshness markers.
+Suggested output filename: image-18-judge-cheat-software-support-before-buying-inline.png
+
+Prompt:
+Asset role: inline explanatory image for support status quality. Global generated index: 18. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: a useful status needs product scope, version context and freshness at the same time. Metaphor: a precision lifecycle ring has three physical alignment points—a glass product token, a ceramic version key and a small freshness marker—and the mechanism closes only when all three align. Single hero: the three-check lifecycle ring. Aspect ratio: 3:2. Composition: macro top-down three-quarter view, ring in the lower-right with spacious empty upper-left field; alignment shown by geometry only. Palette: pearl white, graphite, clear glass and satin aluminum; Cluster violet #635FD5 appears only in three small alignment insets, about 5% of the frame. Materials: machined aluminum, optical glass, glazed ceramic. Camera: 95 mm macro with the three contact points sharp. Lighting: soft overhead diffusion, narrow edge highlights and real contact shadow. Typography mode: no text. References: none, branch A. Constraints: no UI, words, digits, clock face, chat bubbles, logos, people, cartoon, neon, shield or padlock. Priority: three simultaneous conditions, tactile realism, calm editorial negative space. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 93/100.

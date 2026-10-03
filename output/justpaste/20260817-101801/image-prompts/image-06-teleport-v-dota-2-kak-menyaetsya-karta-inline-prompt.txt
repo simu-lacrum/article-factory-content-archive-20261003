@@ -1,0 +1,9 @@
+Image ID: 06
+Article: 03-teleport-v-dota-2-kak-menyaetsya-karta.md
+Role: inline
+Placement: после H2 `Начатый телепорт не равен завершённому`.
+Alt: Капсула остановилась между точкой отправления и приёмным гнездом.
+Suggested output filename: image-06-teleport-v-dota-2-kak-menyaetsya-karta-inline.png
+
+Prompt:
+Asset role: inline explanatory editorial image for an interrupted or unresolved teleport. Global generated index: 06. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: a started transfer is not proof of arrival. Metaphor: one optical-glass capsule is suspended halfway between an open departure ring and an unoccupied receiving socket; a physical brake fin has engaged before contact. Single hero: the interrupted transfer mechanism. Aspect ratio: 3:2. Composition: horizontal mechanism across the lower two thirds, visible gap before the destination, calm empty background above. Palette: cool white, graphite, brushed aluminum and smoked glass; Melonity pink #FF1469 appears only on the brake fin and one narrow status seam, about 5% of the frame. Materials: optical glass, machined aluminum, glazed ceramic. Camera: 100 mm macro, both rings and the suspended capsule sharp. Lighting: soft raking key, restrained fill, clean edge reflections, credible contact shadows on the base. Typography mode: no text. References: none, branch A. Constraints: no UI, numbers, captions, arrows, logos, people, animals, cartoon, neon, code or map iconography. Priority: unfinished transfer instantly legible, tactile precision, quiet frame. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.

@@ -1,0 +1,9 @@
+Image ID: 06
+Article: 03-why-cs2-shots-miss-recoil-spread-timing-state.md
+Role: inline
+Placement: после H2 Recoil and spread are different kinds of uncertainty.
+Alt: Mechanical spring and scattered glass beads demonstrate recoil and spread.
+Suggested output filename: image-06-why-cs2-shots-miss-recoil-spread-timing-state-inline.png
+
+Prompt:
+Asset role: inline explanatory image contrasting recoil and spread. Global generated index: 06. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: recoil creates an ordered directional sequence while spread creates variation around a state. Metaphor: a single satin-metal spring guides three aligned ceramic beads upward, beside a shallow frosted-glass dish holding several irregularly spaced beads. Single hero: the paired physical comparison on one base. Aspect ratio: 3:2. Composition: split by negative space rather than a divider, spring left and dish right, both equally legible. Palette: cool white, graphite, smoked glass and brushed aluminum; Cluster violet #635FD5 is limited to one spring collar and three tiny bead cores, about 5% of the frame. Materials: machined aluminum, ceramic, frosted glass. Camera: 85 mm macro, near-orthographic three-quarter view. Lighting: large overhead diffusion, narrow specular accents, soft contact shadows. Typography mode: no text. References: none, branch A. Constraints: no weapon, target, HUD, arrows, numbers, labels, code, people, cartoon or neon. Priority: clean two-mechanism contrast, tactile plausibility, quiet background. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 93/100.

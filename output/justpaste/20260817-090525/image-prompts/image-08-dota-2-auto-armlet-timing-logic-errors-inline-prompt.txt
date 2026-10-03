@@ -1,0 +1,9 @@
+Image ID: 08
+Article: 04-dota-2-auto-armlet-timing-logic-errors.md
+Role: inline
+Placement: после H2 Burst, damage-over-time and delayed hits behave differently.
+Alt: Mechanical ring receiving one impact, a dotted stream and a delayed second pulse.
+Suggested output filename: image-08-dota-2-auto-armlet-timing-logic-errors-inline.png
+
+Prompt:
+Asset role: inline explanatory editorial image for three damage timing classes. Global generated index: 08. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: one current value cannot represent burst, repeated damage and delayed impact. Metaphor: a ceramic ring on a clean test bench receives three physical signals—a single glass puck, a spaced chain of tiny beads and one larger bead held farther back on a transparent track. Single hero: the ring-and-track apparatus. Aspect ratio: 3:2. Composition: macro three-quarter view, ring in the left-center, three signals entering from the right with ample separation and no labels. Palette: graphite, pearl white, smoked glass and brushed aluminum; Melonity pink #FF1469 appears only inside the three signal cores, about 5% of the frame. Materials: ceramic, optical glass, satin aluminum. Camera: 100 mm macro, controlled depth of field keeping all three signal types readable. Lighting: diffused top light, precise edge highlight, soft grounded shadows. Typography mode: no text. References: none, branch A. Constraints: no arrows, numbers, charts, game UI, item replica, code, people, cartoon, neon background or clutter. Priority: three distinct timing patterns, physical credibility, quiet premium finish. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 93/100.

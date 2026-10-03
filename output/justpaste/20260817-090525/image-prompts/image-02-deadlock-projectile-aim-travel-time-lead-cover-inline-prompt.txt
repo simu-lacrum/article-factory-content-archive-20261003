@@ -1,0 +1,9 @@
+Image ID: 02
+Article: 01-deadlock-projectile-aim-travel-time-lead-cover.md
+Role: inline
+Placement: сразу после H2 Travel time turns distance into a moving problem.
+Alt: Macro optical instrument comparing a straight path with a lead path.
+Suggested output filename: image-02-deadlock-projectile-aim-travel-time-lead-cover-inline.png
+
+Prompt:
+Asset role: inline explanatory editorial image for projectile travel time. Global generated index: 02. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: distance converts a static aim point into a timing problem. Metaphor: a precision optical rail holds two glass beads at different distances; a thin violet calibration line reaches the near bead while the far bead is visibly offset on a curved guide. Single hero: optical rail assembly. Aspect ratio: 3:2. Composition: diagonal rail from lower left to upper right, clean empty upper-left field, no infographic labels. Palette: cool white, graphite, brushed aluminum and smoked glass; Cluster violet #635FD5 appears only on the calibration line and one tiny gasket, about 5% of the frame. Materials: machined aluminum, optical glass, frosted polycarbonate. Camera: 100 mm macro product photography, shallow but controlled depth of field keeping both beads legible. Lighting: soft raking key, low-contrast fill, precise edge highlights and real contact shadows. Typography mode: no text. References: none, branch A. Constraints: no UI, arrows, numbers, code, logos, people, cartoon, gaming room, neon background, weapon or busy machinery. Priority: one legible comparison, premium physical realism, quiet negative space. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.

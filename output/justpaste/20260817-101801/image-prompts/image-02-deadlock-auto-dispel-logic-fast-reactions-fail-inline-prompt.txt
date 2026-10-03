@@ -1,0 +1,9 @@
+Image ID: 02
+Article: 01-deadlock-auto-dispel-logic-fast-reactions-fail.md
+Role: inline
+Placement: после H2 `False positives spend resources before the real danger`.
+Alt: Two glass pulses are stopped while one valid signal reaches a ceramic gate.
+Suggested output filename: image-02-deadlock-auto-dispel-logic-fast-reactions-fail-inline.png
+
+Prompt:
+Asset role: inline explanatory editorial image for false positives in defensive automation. Global generated index: 02. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: rejecting a harmless trigger preserves the response for a meaningful threat. Metaphor: a compact machined rail carries three glass pulses toward one ceramic latch; two pulses rest safely behind frosted blockers while the third aligns with the latch. Single hero: the three-channel rejection rail. Aspect ratio: 3:2. Composition: diagonal macro assembly across the lower two thirds, clean negative space above, outcome readable without arrows or captions. Palette: cool white, graphite, brushed aluminum and smoked glass; Melonity pink #FF1469 appears only inside the valid pulse and one narrow calibration seam, about 5% of the frame. Materials: machined aluminum, optical glass, frosted polycarbonate, glazed ceramic. Camera: 100 mm macro product photography, controlled shallow depth of field with all three gates legible. Lighting: soft raking key, low-contrast fill, precise edge highlights and credible contact shadows. Typography mode: no text. References: none, branch A. Constraints: no UI, digits, arrows, code, logos, people, animals, cartoon, neon background, weapons or busy machinery. Priority: immediate false-positive metaphor, premium physical realism, quiet composition. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.

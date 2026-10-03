@@ -1,0 +1,9 @@
+Image ID: 08
+Article: 04-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya.md
+Role: inline
+Placement: после H2 `Подтверждение, отрицание и позиция спорят за одну секунду внимания`.
+Alt: Три механических окна внимания конкурируют за одну стеклянную сферу.
+Suggested output filename: image-08-dushi-v-deadlock-dobivanie-podtverzhdenie-liniya-inline.png
+
+Prompt:
+Asset role: inline explanatory editorial image for competing attention during a Deadlock lane soul cycle. Global generated index: 08. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: one brief attention window must balance confirmation, denial and safe position. Metaphor: one glass sphere sits on a precision turntable facing three distinct ceramic apertures; only one aperture can align at a time, while a frosted guard makes the unsafe angle visibly narrower. Single hero: the three-aperture attention turntable. Aspect ratio: 3:2. Composition: macro mechanism fills the lower two thirds, apertures readable by shape rather than labels, clean negative space above. Palette: cool white, graphite, brushed aluminum and smoked glass; Melonity pink #FF1469 appears only on the active alignment notch and a small gasket, about 4% of the frame. Materials: optical glass, machined aluminum, glazed ceramic, frosted polycarbonate. Camera: 100 mm macro product photograph, all three apertures and sphere sharp. Lighting: soft side key, low-contrast fill, precise reflections and credible contact shadows. Typography mode: no text. References: none, branch A. Constraints: no UI, numbers, arrows, captions, logos, people, animals, cartoon, neon, code, fake game objects or busy machinery. Priority: three-way competition readable without annotation, tactile realism, quiet editorial frame. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 92/100.

@@ -1,0 +1,9 @@
+Image ID: 12
+Article: 06-cs2-overlay-performance-fps-frame-time-input-feel.md
+Role: inline
+Placement: после H2 Frame pacing, input feel and network delay are not synonyms.
+Alt: Precision oscillator feeding evenly spaced glass frames with one delayed segment.
+Suggested output filename: image-12-cs2-overlay-performance-fps-frame-time-input-feel-inline.png
+
+Prompt:
+Asset role: inline explanatory image for frame pacing. Global generated index: 12. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: smooth pacing depends on even delivery, not only total frame count. Metaphor: a compact precision oscillator releases identical thin glass plates along a satin rail at even spacing, with one plate visibly delayed behind a narrow gap. Single hero: oscillator-and-rail assembly. Aspect ratio: 3:2. Composition: diagonal macro crop with the delay gap near the visual center and a quiet upper field. Palette: brushed aluminum, cool white, graphite and transparent glass; Cluster violet #635FD5 appears only on the oscillator core and the delayed plate edge, about 5% of the frame. Materials: machined aluminum, optical glass, frosted polycarbonate. Camera: 100 mm macro, controlled depth of field across the central sequence. Lighting: raking soft key, crisp edges, subtle contact shadows. Typography mode: no text. References: none, branch A. Constraints: no UI, graph axes, numbers, cables, screens, code, logos, people, cartoon or neon. Priority: even-spacing metaphor with one clear delay, tactile plausibility, quiet editorial finish. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 93/100.

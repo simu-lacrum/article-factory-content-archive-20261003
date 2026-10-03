@@ -1,0 +1,9 @@
+Image ID: 04
+Article: 02-deadlock-kuldauny-kakie-dannye-menyayut-reshenie.md
+Role: inline
+Placement: после H2 Устаревший таймер опаснее отсутствующего.
+Alt: Два точных кольца, одно из которых отстаёт от контрольной метки.
+Suggested output filename: image-04-deadlock-kuldauny-kakie-dannye-menyayut-reshenie-inline.png
+
+Prompt:
+Asset role: inline explanatory editorial image for stale cooldown information. Global generated index: 04. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: a precise-looking timer can still be stale. Metaphor: two coupled ceramic timing rings share one axle; the front ring aligns with a physical notch while the rear ring lags by a visible gap and casts a doubled reflection. Single hero: the paired ring mechanism. Aspect ratio: 3:2. Composition: macro crop across the lower two thirds with quiet negative space above; mismatch visible without labels or arrows. Palette: cool white, smoked glass, graphite and brushed aluminum; Cluster violet #635FD5 appears only in the alignment notch and a thin reflection, about 4% of the frame. Materials: ceramic, optical glass, machined aluminum. Camera: 90 mm macro, shallow depth of field with both notches sharp. Lighting: soft side key, controlled reflections, subtle shadow separation. Typography mode: no text. References: none, branch A. Constraints: no digits, fake dashboard, game UI, code, logos, people, cartoon, neon or excessive parts. Priority: instantly readable lag metaphor, tactile finish, calm composition. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 91/100.

@@ -1,0 +1,9 @@
+Image ID: 16
+Article: 08-dota-2-script-conflicts-automation-fights-itself.md
+Role: inline
+Placement: после H2 Symptoms: canceled actions, oscillation and late follow-ups.
+Alt: Interlocking control cams stopped by one shared ceramic pin.
+Suggested output filename: image-16-dota-2-script-conflicts-automation-fights-itself-inline.png
+
+Prompt:
+Asset role: inline explanatory image for automation ownership conflicts. Global generated index: 16. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: two valid mechanisms can jam when they claim the same input at once. Metaphor: three small precision cams meet at one ceramic pin; two cams align while the third blocks the motion by a few millimeters. Single hero: the interlocking cam assembly. Aspect ratio: 3:2. Composition: tight macro in the lower-right two thirds with calm negative space upper-left; misalignment visible through geometry, not arrows. Palette: graphite, pearl white, transparent glass and brushed aluminum; Melonity pink #FF1469 appears only on the shared pin and one thin cam edge, about 5% of the frame. Materials: machined aluminum, ceramic, optical glass. Camera: 100 mm macro, shallow controlled depth with the conflict point sharp. Lighting: soft raking key, clean material separation and realistic contact shadow. Typography mode: no text. References: none, branch A. Constraints: no code, UI, labels, keyboard keys, people, cartoon, neon, cables or complex machine room. Priority: obvious single-point jam, tactile precision, restrained composition. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 93/100.

@@ -1,0 +1,9 @@
+Image ID: 04
+Article: 02-dota-2-courier-information-next-fight.md
+Role: inline
+Placement: после H2 `Observation is not certainty`.
+Alt: One delivery capsule approaches two possible sockets without selecting either.
+Suggested output filename: image-04-dota-2-courier-information-next-fight-inline.png
+
+Prompt:
+Asset role: inline explanatory editorial image for uncertainty in courier-route inference. Global generated index: 04. Style system: article-editorial-poster-v1, Precision Glass Editorial v1. Branch: A tactile industrial macro. Thesis: a visible route can narrow possibilities without proving one destination. Metaphor: a glass capsule pauses at a precision Y-junction whose two ceramic sockets remain equally open; a small physical index mark shows the last confirmed position but no arrow chooses the branch. Single hero: the Y-junction delivery mechanism. Aspect ratio: 3:2. Composition: junction spans the lower two thirds, two branches balanced but not perfectly symmetrical, quiet negative space above. Palette: cool white, brushed aluminum, graphite and smoked glass; Melonity pink #FF1469 appears only on the last-confirmed index and a slim gasket, about 4% of the frame. Materials: optical glass, machined aluminum, glazed ceramic. Camera: 95 mm macro product photography, both sockets and capsule sharp, background gently soft. Lighting: broad side key, controlled reflections, true contact shadows. Typography mode: no text. References: none, branch A. Constraints: no labels, arrows, map, UI, code, logos, people, animals, cartoon, neon or decorative cargo. Priority: unresolved choice legible at a glance, tactile finish, visual restraint. Model: Nano Banana Pro / gemini-3-pro-image. Output: 2048×1365 PNG. Preflight score: 91/100.
