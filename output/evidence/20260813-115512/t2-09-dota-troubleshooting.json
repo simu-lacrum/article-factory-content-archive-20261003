@@ -1,8 +1,0 @@
-{
-  "topic": {"title": "Dota 2 Cheat Not Working After an Update? Start Here", "game": "dota2", "risk_level": "elevated"},
-  "evidence": [
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/how-to-install-dota-2-cheats-hacks-for-free-de9e42a6b202.md", "heading": "Installation Process", "excerpt": "The target page provides the original high-level setup sequence used only as troubleshooting context."},
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/en.md", "heading": "Support", "excerpt": "The current Melonity page lists official support routes and platform requirements that require live rechecking."},
-    {"source": "SEO_ARTICLE_RULES.md", "heading": "Safety And Factual Limits", "excerpt": "Do not invent compatibility or detection status and do not provide operational bypass instructions."}
-  ]
-}

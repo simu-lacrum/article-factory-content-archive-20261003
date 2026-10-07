@@ -1,1 +1,0 @@
-Write a unique, risk-aware Tier-2 article for https://deadlockhacks.com/guides/deadlock-aimbot-fov-vs-camera-fov-explained with the title Deadlock Aimbot FOV vs Camera FOV Explained.

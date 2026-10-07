@@ -1,8 +1,0 @@
-{
-  "topic": {"title": "Dota 2 AHK Scripts vs Hero Macros: Where They Break", "game": "dota2", "risk_level": "restricted"},
-  "evidence": [
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/en.md", "heading": "Hero scripts", "excerpt": "The Melonity page positions hero scripts as a core category and names Invoker, Meepo, and Arc Warden."},
-    {"source": "knowledge/agent_memory/sources/tier2-links-2026-08-05/how-to-write-your-own-script-for-dota-2-on-any-hero-72043d903e1e.md", "heading": "Scripts", "excerpt": "Imported source material provides context for fixed sequences and broader hero-script concepts."},
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6.md", "heading": "Product comparison", "excerpt": "The target comparison packages hero scripts with visual and utility features; ranking and safety claims remain editorial opinion."}
-  ]
-}

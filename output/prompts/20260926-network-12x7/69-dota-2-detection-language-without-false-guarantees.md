@@ -1,1 +1,0 @@
-Write a unique, risk-aware Tier-2 article for https://dota2cheat.com/guides/dota-2-cheat-detection with the title Dota 2 Detection Language Without False Guarantees.

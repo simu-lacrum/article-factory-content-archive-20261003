@@ -1,3 +1,0 @@
-# CM-008 writing prompt
-
-Write `Deadlock Cheat Providers Compared by Patch Evidence` at 2,100–2,700 words. Preserve the supplied SEO metadata and eight H2s. Compare Cluster, Octarine, Umbrella, Melonity, and Predator only by current public product pages, dated updates, documentation, support routes, visible limits, and unresolved questions. This is a public-evidence comparison, not a detection test. Use five unequal evidence cards, a reusable patch-evidence ledger, a real changelog screenshot collage, and a hand-built timeline; no generated art and no markdown table. Place the exact Cluster link inside its card. Credit concrete dated notes, do not award raw feature count, and end with one current finding, one unresolved issue, and a September 15, 2026 recheck date.

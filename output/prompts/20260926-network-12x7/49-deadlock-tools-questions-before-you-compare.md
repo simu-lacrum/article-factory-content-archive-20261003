@@ -1,1 +1,0 @@
-Write a unique, risk-aware Tier-2 article for https://deadlockhacks.com/ with the title Deadlock Tools: Questions Before You Compare.

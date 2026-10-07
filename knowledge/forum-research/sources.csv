@@ -1,0 +1,59 @@
+url,title,author,date,forum,game,status_read
+https://vac-ban.com/wiki/vacnet,"VACnet: the machine-learning half of VAC",vacban wiki,n/a,vac-ban.com,CS2/CSGO,snippet
+https://vac-ban.com/wiki/vac-live,"VAC Live: real-time enforcement layer",vacban wiki,n/a,vac-ban.com,CS2,snippet
+https://www.unknowncheats.me/forum/counter-strike-2-a/708645-cheat-doing-fine-500-hours-vac-live-detects-rounds.html,"My cheat was fine 500h, now VAC Live detects within rounds",Hexxi,2025,unknowncheats.me,CS2,snippet
+https://www.unknowncheats.me/forum/counter-strike-2-a/750674-vac-live-detections.html,"VAC Live Detections (trust vector, input rate, viewangles)",shakro/Menalix/molly1710,2025,unknowncheats.me,CS2,snippet
+https://en.wikipedia.org/wiki/Valve_Anti-Cheat,"Valve Anti-Cheat history (2002->VAC2->VACnet->VAC Live)",Wikipedia,n/a,wikipedia,CS2/CSGO,snippet
+https://archie-osu.github.io/2025/04/11/vanguard-research.html,"Inside Riot Vanguard's dispatch table hooks",Archie,2025-04-11,blog,Valorant,snippet
+https://gist.github.com/gmh5225/2b430b6025c8888196dd95c8557bfc6f,"Vanguard vgk.sys analysis: IAT hook of MmCopyVirtualMemory",gmh5225,n/a,github gist,Valorant,snippet
+https://github.com/0avx/0avx.github.io/blob/main/article-5.md,"Vanguard page-fault hook detects manually mapped drivers",0avx,n/a,github/blog,Valorant,snippet
+https://github.com/armvirus/VanguardTrace,"VanguardTrace: decrypt/intercept vgk.sys encrypted imports",armvirus,2024-02-13,github,Valorant,snippet
+https://reversing.info/posts/guardedregions/,"Valorant Guarded Regions: shadow PML4 page-table switch",Xyrem,n/a,blog,Valorant,snippet
+https://github.com/goldzik1/eac-eos-driver-analysis,"EAC/EOS driver callbacks & checks analysis",goldzik1,n/a,github,multi,snippet
+https://life45.github.io/blog/dynamic-analysis-with-revhv/,"Dynamically analyzing EAC driver external call paths with revhv",life45,n/a,blog,multi,snippet
+https://www.unknowncheats.me/forum/anti-cheat-bypass/749306-easyanticheat_eos-sys-startup.html,"What EasyAntiCheat_EOS.sys really does during startup",UC member,2025,unknowncheats.me,multi,snippet
+https://github.com/adrianyy/EACReversing,"EAC driver reversing (public source)",adrianyy,n/a,github,multi,snippet
+https://secret.club/2019/02/10/battleye-anticheat.html,"BattlEye anti-cheat: analysis and mitigation",secret.club,2019-02-10,blog,multi,snippet
+https://secret.club/2020/06/19/battleye-packet-encryption.html,"Cracking BattlEye packet encryption",secret.club,2020-06-19,blog,multi,snippet
+https://secret.club/2020/01/12/battleye-hypervisor-detection.html,"BattlEye hypervisor detection",secret.club,2020-01-12,blog,multi,snippet
+https://www.unknowncheats.me/forum/anti-cheat-bypass/736294-battleye-beclient_x64-dll-analysis-eft.html,"BattlEye BEClient_x64.dll analysis (AES-128, 60s cycle, LCG PRNG)",UC member,n/a,unknowncheats.me,EFT,snippet
+https://arxiv.org/html/2408.00500v1,"If It Looks Like a Rootkit: critical exam of kernel anti-cheats",academic,2024,arxiv,multi,snippet
+https://www.unknowncheats.me/forum/anti-cheat-bypass/258402-faceit-ac-hardware-logging.html,"FACEIT AC hardware logging (disk serial + NIC MAC)",UC member,n/a,unknowncheats.me,CS2,snippet
+https://www.unknowncheats.me/forum/anti-cheat-bypass/196539-faceit-client.html,"FACEIT Client discussion",UC members,n/a,unknowncheats.me,CS2,snippet
+https://tulach.cc/detecting-manually-mapped-drivers/,"Detecting manually mapped drivers",Samuel Tulach,n/a,blog,multi,snippet
+https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/,"How kernel anti-cheats work: deep dive",s4dbrd,n/a,blog,multi,snippet
+https://www.unknowncheats.me/forum/deadlock/729952-deadlocks-built-anticheat-diagnostics-system.html,"Deadlock built-in anticheat: citadel.signatures integrity, detours on NtOpenFile/LoadLibraryExW/PeekMessageW",UC member (credits W1lliam1337),2024,unknowncheats.me,Deadlock,full
+https://www.unknowncheats.me/forum/deadlock/745313-anti-cheat-systems-deadlock.html,"Anti-cheat systems on Deadlock (VAC modules disabled, DLL/vtable checks remain)",UC member,2025,unknowncheats.me,Deadlock,snippet
+https://github.com/ianveig29/how-vac-works,"how-vac-works notes (CUserMessage_DllStatus etc.)",ianveig29,n/a,github,Deadlock/CS2,snippet
+https://blog.counter-strike.net/the-trust-factor/,"The Trust Factor (official)",Valve,n/a,official blog,CS2/CSGO,snippet
+https://dotesports.com/counter-strike/news/hope-springs-eternal-new-cs2-vac-ban-wave-has-community-hyped,"CS2 VAC ban wave Apr 27 2024 (~130 VAC/64 game bans)",Dot Esports,2024-04,news,CS2,snippet
+https://vac-ban.com/ban-history,"CS2 VAC ban tracker / ban-wave history",vacban,n/a,vac-ban.com,CS2,snippet
+https://github.com/Aspasia1337/cs2-vac-internals,"cs2-vac-internals",Aspasia1337,n/a,github,CS2,snippet
+https://github.com/valveresourceformat/dumpsource2/,"DumpSource2: offline schema/convar/command dump",VRF,n/a,github,Source2,snippet
+https://github.com/GAMMACASE/Source2SchemaDumper,"Source2SchemaDumper (Metamod, JSON/KV3)",GAMMACASE,n/a,github,Source2,snippet
+https://github.com/scros22/cs2-universal-offsets,"cs2-universal-offsets: live schema/offsets/vtables/netvars",scros22,n/a,github,CS2,snippet
+https://github.com/neverlosecc/source2gen,"Source2Gen: SDK generator (CS2/Dota2/Deadlock)",neverlosecc,n/a,github,Source2,snippet
+https://www.unknowncheats.me/forum/counter-strike-2-a/609275-cs2-entity-list.html,"CS2 entity list traversal",UC members,n/a,unknowncheats.me,CS2,snippet
+https://www.unknowncheats.me/forum/counter-strike-2-a/734730-help-cs2-external-esp-entitylist-traversal-issue.html,"CS2 external ESP entity-list traversal + current offsets",UC members,2026-01,unknowncheats.me,CS2,snippet
+https://github.com/MitilcC/CS2-Internal-Cheat,"CS2 internal cheat source (Entity.cpp, offsets)",MitilcC,n/a,github,CS2,snippet
+https://www.unknowncheats.me/forum/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html,"CS2 External Skin Changer + source",UC member,n/a,unknowncheats.me,CS2,snippet
+https://github.com/madiskoivopuu/cs2skinchangermenu,"CS2 skinchanger menu (EconItemView SetAttributeValueByName)",madiskoivopuu,n/a,github,CS2,snippet
+https://github.com/chao-shushu/CS2-DMA,"CS2-DMA radar (batched reads, snapshots, websocket)",chao-shushu,n/a,github,CS2,snippet
+https://www.unknowncheats.me/forum/counter-strike-2-a/692217-cs2-dma-board-radar.html,"CS2 DMA board radar help",UC members,n/a,unknowncheats.me,CS2,snippet
+https://www.unknowncheats.me/forum/counterstrike-global-offensive/373232-bezier-curves-mouse_events-aimbot.html,"Bezier curves with mouse_events aimbot (humanization)",UC members,n/a,unknowncheats.me,CSGO/CS2,snippet
+https://intellisec.de/research/aimbots/2020-eurosec.pdf,"Aim Low Shoot High: evading aimbot detectors by mimicking users",academic,2020,academic,multi,snippet
+https://github.com/killerbigpoint/cs2-anticheat/issues/45,"Triggerbot/auto-revolver detection (reaction-time)",killerbigpoint,n/a,github,CS2,snippet
+https://www.unknowncheats.me/forum/deadlock/739608-autoparry-issues.html,"Deadlock auto-parry (GE_SosStartSoundEvent hook, engine2.dll)",UC members,n/a,unknowncheats.me,Deadlock,snippet
+https://github.com/gmh5225/dota-cheat,"Dota 2 cheat (native C++, dynamic schema, overlay hook)",gmh5225,n/a,github,Dota2,snippet
+https://github.com/LWSS/McDota,"McDota (Linux, Panorama UI, protobuf, ESP)",LWSS,n/a,github,Dota2,snippet
+https://www.unknowncheats.me/wiki/Dota_2,"UC Dota 2 game-hacking wiki",UC wiki,n/a,unknowncheats.me,Dota2,snippet
+https://yougame.biz/tags/colby57/,"colby57 topic index (all RE articles)",colby57,2021-2025,yougame.biz,multi,full
+https://yougame.biz/members/314097/,"colby57 member profile (513 posts)",colby57,2020-03-18,yougame.biz,multi,snippet
+https://boosty.to/colby57,"colby57 (Denis) Boosty blog: Milfuscator/SpirtHack dev",colby57,n/a,boosty.to,multi,snippet
+https://www.unknowncheats.me/forum/anti-cheat-bypass/510652-scp-sl-anti-cheat-reverse-engineering.html,"SCP:SL Anti-Cheat Reverse-Engineering (19p PDF)",colby57,2022-08,unknowncheats.me,SCP:SL,full
+https://yougame.biz/threads/309741/,"Denuvo Anti-Tamper (KUSER_SHARED_DATA/PEB hashing, Steam DRM)",colby57,2023-12-29,yougame.biz,multi,snippet
+https://yougame.biz/threads/351391/,"How Legendware V5 was cracked (~60 mapped regions, PEB/hypervisor checks)",colby57,2025-05-15,yougame.biz,CS2,snippet
+https://github.com/colby57/vid,"vid / VMP-Imports-Deobfuscator (VMProtect IAT rebuild)",colby57,2025,github,n/a,snippet
+https://github.com/colby57/sec_no_syscalls,"sec_no_syscalls (direct syscalls, SEC_NO_CHANGE)",colby57,2024,github,n/a,snippet
+https://github.com/colby57/windows_instrumentation_callback,"windows instrumentation callback PoC (intercept syscalls/APC/exceptions)",colby57,2025,github,n/a,snippet
+https://github.com/colby57/Overwatch-Research,"Overwatch 2 init meme tricks research",colby57,2024,github,Overwatch2,snippet

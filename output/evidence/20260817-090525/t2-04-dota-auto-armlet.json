@@ -1,9 +1,0 @@
-{
-  "topic": {"title": "Dota 2 Auto Armlet: What Timing Logic Can Get Wrong", "game": "dota2", "language": "en", "main_query": "Dota 2 auto armlet", "risk_level": "restricted"},
-  "evidence": [
-    {"source": "pasted-text-1.txt", "heading": "T2-04 editorial contract", "excerpt": "Analyze state, latency, damage timing, conflicting inputs, and failure modes without providing implementation logic."},
-    {"source": "knowledge/agent_memory/products/product-map.md", "heading": "Product mapping", "excerpt": "Dota 2 content maps to Melonity."},
-    {"source": "knowledge/agent_memory/digests/dota2-cheat-sources-digest-2026-06-23.md", "heading": "Dota 2 evidence digest", "excerpt": "Product and risk claims must remain bounded by available evidence and should not imply guaranteed outcomes."}
-  ],
-  "strict_rules": ["No implementation steps", "No absolute safety claims", "Exactly one assigned commercial backlink"]
-}

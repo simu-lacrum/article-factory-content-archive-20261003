@@ -1,1 +1,0 @@
-Write a unique, risk-aware Tier-2 article for https://deadlockhacks.com/guides/deadlock-auto-parry-cheat-what-it-automates with the title How to Evaluate an Auto-Parry Explainer.

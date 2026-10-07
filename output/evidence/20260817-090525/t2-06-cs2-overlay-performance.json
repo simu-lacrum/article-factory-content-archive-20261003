@@ -1,9 +1,0 @@
-{
-  "topic": {"title": "CS2 Overlay Performance: FPS, Frame Time and Input Feel", "game": "cs2", "language": "en", "main_query": "CS2 overlay performance", "risk_level": "restricted"},
-  "evidence": [
-    {"source": "pasted-text-1.txt", "heading": "T2-06 editorial contract", "excerpt": "Distinguish average FPS, frame-time consistency, input feel, capture conflicts, and troubleshooting boundaries."},
-    {"source": "knowledge/agent_memory/products/cs2-cluster-center-external.md", "heading": "Product mapping", "excerpt": "CS2 content maps to cluster.center and product behavior should not be generalized beyond evidence."},
-    {"source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md", "heading": "CS2 evidence digest", "excerpt": "Use stable performance concepts while qualifying update-sensitive details."}
-  ],
-  "strict_rules": ["No bypass instructions", "No unsupported compatibility claims", "Exactly one assigned commercial backlink"]
-}

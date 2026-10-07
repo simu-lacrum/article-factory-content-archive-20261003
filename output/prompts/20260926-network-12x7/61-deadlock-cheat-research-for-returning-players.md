@@ -1,1 +1,0 @@
-Write a unique, risk-aware Tier-2 article for https://deadlockhacks.com/ with the title Deadlock Cheat Research for Returning Players.

@@ -1,9 +1,0 @@
-{
-  "checked_at": "2026-09-08",
-  "evidence": [
-    {"publisher":"Cluster","url":"https://cluster.center/en/deadlock","access":"HTTP 200; normal-browser verified; self-canonical","observed":["Product categories, requirements, duration choices, trial wording and Telegram support are public"],"limits":["Vendor protection language is not independent evidence"]},
-    {"publisher":"Predator Systems","url":"https://predator.systems/products/deadlock/","access":"Automated HTTP request returned 403; normal browser loaded the page","observed":["Official page names a small set of product categories","A subscription selector and purchase control are rendered"],"limits":["No checkout was completed","The unselected control showed a zero value, so no price is quoted","Access asymmetry does not establish quality, activity or safety"]},
-    {"publisher":"Predator Systems","url":"https://predator.systems/forums/updates.3/","access":"Automated HTTP request returned 403; normal browser loaded the public forum","observed":["Deadlock subforum showed 37 threads","Latest visible Deadlock entry was Patch note (21/07/26)"]},
-    {"publisher":"Predator Systems","url":"https://predator.systems/threads/patch-note-21-07-26.2669/","access":"Normal-browser verified without login","observed":["Official admin post dated July 21, 2026 says the product was updated for the latest game version","It also describes subscription-time handling during updates"],"limits":["The note gives little user-visible feature detail","It does not prove present compatibility on September 8"]}
-  ]
-}

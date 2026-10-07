@@ -1,8 +1,0 @@
-{
-  "topic": {"title": "Deadlock Cheat Features: Aimbot, ESP, FOV and Movement Tools", "game": "deadlock", "risk_level": "restricted"},
-  "evidence": [
-    {"source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md", "heading": "Aimbot", "excerpt": "The memory lists player, creep, and XP-orb target categories plus high-level aim controls."},
-    {"source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md", "heading": "ESP", "excerpt": "The memory lists boxes, player and hero identity, health, Glow, thickness, and Orbs gear."},
-    {"source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md", "heading": "Misc", "excerpt": "The memory lists FOV/world customization, auto dash jump, and auto parry categories."}
-  ]
-}

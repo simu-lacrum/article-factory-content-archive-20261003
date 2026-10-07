@@ -1,8 +1,0 @@
-{
-  "topic": {"title": "Foxhole Logistics Tools: Minimap, Alerts and Artillery", "game": "foxhole", "risk_level": "elevated"},
-  "evidence": [
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/foxhole.md", "heading": "Stay informed", "excerpt": "The page lists ESP, local sound notifications, a minimap, and quality-of-life categories."},
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/foxhole.md", "heading": "Features", "excerpt": "The page describes player, vehicle, item, resource, inventory, and structure information."},
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/foxhole.md", "heading": "Artillery", "excerpt": "The vendor describes an artillery calculator; its accuracy language must remain attributed rather than guaranteed."}
-  ]
-}

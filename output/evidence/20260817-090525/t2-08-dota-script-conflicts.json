@@ -1,9 +1,0 @@
-{
-  "topic": {"title": "Dota 2 Script Conflicts: When Automation Fights Itself", "game": "dota2", "language": "en", "main_query": "Dota 2 script conflicts", "risk_level": "restricted"},
-  "evidence": [
-    {"source": "pasted-text-1.txt", "heading": "T2-08 editorial contract", "excerpt": "Explain conflicting triggers, shared resources, priority, stale state, and diagnosis at a safe conceptual level."},
-    {"source": "knowledge/agent_memory/products/product-map.md", "heading": "Product mapping", "excerpt": "Dota 2 content maps to Melonity."},
-    {"source": "knowledge/agent_memory/digests/dota2-cheat-sources-digest-2026-06-23.md", "heading": "Evidence limits", "excerpt": "Do not imply a product eliminates all conflicts or risk, and avoid implementation-level automation instructions."}
-  ],
-  "strict_rules": ["No implementation details", "No absolute claims", "Exactly one assigned commercial backlink"]
-}

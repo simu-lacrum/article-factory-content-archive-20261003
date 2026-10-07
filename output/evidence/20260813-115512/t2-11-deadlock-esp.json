@@ -1,8 +1,0 @@
-{
-  "topic": {"title": "Deadlock ESP: Boxes, Glow and Hero Information", "game": "deadlock", "risk_level": "elevated"},
-  "evidence": [
-    {"source": "knowledge/agent_memory/products/deadlock-cluster-center-internal.md", "heading": "ESP", "excerpt": "The product memory lists Box, Player name, Hero name, Hero icon, Health, HealthBar, Glow, Thickness, and Orbs gear."},
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/deadlock.md", "heading": "Internal cheat for Deadlock", "excerpt": "The current product page confirms broad Aimbot and ESP categories and includes risk-related vendor language."},
-    {"source": "knowledge/agent_memory/sources/t2-targets-2026-08-13/top-4-cheats-for-deadlock-comparison-of-features-prices-and-the-best-software-choice-0f737d360121.md", "heading": "Feature comparison", "excerpt": "The target comparison supplies broader commercial context; ranking, prices, and protection claims require rechecking or attribution."}
-  ]
-}

@@ -1,3 +1,0 @@
-# CM-005 writing prompt
-
-Write `Cluster vs Octarine for Deadlock: Which Model Fits?` at 1,900–2,400 words. Preserve the supplied SEO metadata and seven H2s. Compare a compact game-specific product page with a broader documented platform. Include the exact weighted public-evidence scorecard from the brief, score evidence visibility only, credit both vendors fairly, explain documentation maintenance burden, place the exact Cluster link around the midpoint, add two real-product screenshots plus a hand-built score graphic, and answer all five supplied FAQ questions. Reconcile conflicting Octarine access language without quoting uncertain prices. Do not include operational settings or low-level guidance.

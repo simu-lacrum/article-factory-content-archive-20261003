@@ -1,9 +1,0 @@
-{
-  "topic": {"title": "Why CS2 Shots Miss: Recoil, Spread, Timing and State", "game": "cs2", "language": "en", "main_query": "why CS2 shots miss", "risk_level": "restricted"},
-  "evidence": [
-    {"source": "pasted-text-1.txt", "heading": "T2-03 editorial contract", "excerpt": "Separate recoil, spread, movement state, timing, and feedback without claiming a tool can erase uncertainty."},
-    {"source": "knowledge/agent_memory/products/cs2-cluster-center-external.md", "heading": "Product mapping", "excerpt": "CS2 content maps to cluster.center and must avoid unsupported operational or safety claims."},
-    {"source": "knowledge/agent_memory/digests/cs2-cluster-center-digest-2026-06-27.md", "heading": "CS2 evidence digest", "excerpt": "Prefer stable concepts and qualify any claim that could change after a game or software update."}
-  ],
-  "strict_rules": ["No absolute safety claims", "No bypass instructions", "Exactly one assigned commercial backlink"]
-}

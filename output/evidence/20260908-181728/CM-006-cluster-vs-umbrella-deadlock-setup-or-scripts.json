@@ -1,9 +1,0 @@
-{
-  "checked_at": "2026-09-08",
-  "evidence": [
-    {"publisher":"Cluster","url":"https://cluster.center/en/deadlock","access":"HTTP 200; normal-browser verified; self-canonical","observed":["Compact named category list","Windows 10/11 support","7, 30, 90 and 180 day choices","Three-day trial statement","Direct Telegram support link"]},
-    {"publisher":"Umbrella","url":"https://uc.zone/en/deadlock","access":"HTTP 200; normal-browser verified","observed":["Seven-day trial wording","Cloud storage and config sharing are vendor claims","Extensible API and custom scripts are vendor claims","Aim, visual, combo, FOV and world categories are named","A live-chat widget is visible"],"limits":["Cloud sync was not tested","The docs button did not open a separate route in the browser check","The price area first rendered Infinity values before later changing, so no amount should be quoted"]},
-    {"publisher":"Umbrella","url":"https://uc.zone/en","access":"HTTP 200 in current web index","observed":["Home page presents Dota 2 and Deadlock as current products","Deadlock carries free-trial language"],"limits":["No dated public Deadlock changelog was found during the check"]},
-    {"publisher":"Umbrella","url":"https://uc.zone/en/deadlock#purchase","access":"Rendered section on the product page","observed":["Trial, support and frequent-update labels are visible"],"limits":["Support availability and update frequency are vendor claims, not tested service levels"]}
-  ]
-}
